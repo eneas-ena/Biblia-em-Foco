@@ -7806,3 +7806,308 @@ Object.assign(globalThis.appData.lexicon, {
     ]
   }
 });
+
+Object.assign(globalThis.appData.lexicon, {
+  "G652": {
+    "lemma": "apostolos",
+    "original": "ἀπόστολος",
+    "translit": "apostolos",
+    "grammar": "substantivo masculino",
+    "gloss": "apóstolo, enviado, representante autorizado",
+    "exegetic": "Apóstolo indica alguém enviado com autoridade para testemunhar e estabelecer a mensagem de Cristo.",
+    "culture": "No mundo antigo, enviados oficiais representavam quem os comissionava; no NT o termo marca a missão fundada na ressurreição.",
+    "parallels": [
+      "Atos 1:2",
+      "Romanos 1:1",
+      "1 Coríntios 15:9"
+    ]
+  },
+  "G1680": {
+    "lemma": "elpis",
+    "original": "ἐλπίς",
+    "translit": "elpis",
+    "grammar": "substantivo feminino",
+    "gloss": "esperança, expectativa confiante",
+    "exegetic": "Esperança aponta para a confiança futura baseada na ação de Deus em Cristo.",
+    "culture": "Nas cartas, esperança não é otimismo vago, mas expectativa firmada na promessa divina.",
+    "parallels": [
+      "Romanos 5:2-5",
+      "Colossenses 1:5",
+      "Hebreus 6:19"
+    ]
+  },
+  "G4991": {
+    "lemma": "soteria",
+    "original": "σωτηρία",
+    "translit": "soteria",
+    "grammar": "substantivo feminino",
+    "gloss": "salvação, livramento, restauração",
+    "exegetic": "Salvação reúne livramento do pecado, reconciliação com Deus e esperança final.",
+    "culture": "O vocabulário de salvação podia falar de resgate e proteção; no NT ganha centro em Cristo.",
+    "parallels": [
+      "Atos 4:12",
+      "Romanos 1:16",
+      "Hebreus 2:3"
+    ]
+  },
+  "G4678": {
+    "lemma": "sophia",
+    "original": "σοφία",
+    "translit": "sophia",
+    "grammar": "substantivo feminino",
+    "gloss": "sabedoria",
+    "exegetic": "Sabedoria pode contrastar a lógica humana com a revelação de Deus em Cristo.",
+    "culture": "Em contexto greco-romano, sabedoria era valor filosófico; Paulo a reorienta pela cruz.",
+    "parallels": [
+      "1 Coríntios 1:24",
+      "1 Coríntios 2:7",
+      "Tiago 1:5"
+    ]
+  },
+  "G5281": {
+    "lemma": "hypomone",
+    "original": "ὑπομονή",
+    "translit": "hypomone",
+    "grammar": "substantivo feminino",
+    "gloss": "perseverança, constância, resistência fiel",
+    "exegetic": "Perseverança descreve fidelidade sob pressão, sofrimento ou espera.",
+    "culture": "Nas comunidades cristãs, perseverar era permanecer fiel diante de oposição social e perseguição.",
+    "parallels": [
+      "Romanos 5:3-4",
+      "Hebreus 12:1",
+      "Apocalipse 1:9"
+    ]
+  },
+  "G2409": {
+    "lemma": "hiereus",
+    "original": "ἱερεύς",
+    "translit": "hiereus",
+    "grammar": "substantivo masculino",
+    "gloss": "sacerdote",
+    "exegetic": "Sacerdote aparece especialmente em Hebreus para explicar mediação, sacrifício e acesso a Deus.",
+    "culture": "O sacerdócio judaico organizava culto, sacrifício e pureza ritual no templo.",
+    "parallels": [
+      "Hebreus 5:6",
+      "Hebreus 7:17",
+      "Apocalipse 1:6"
+    ]
+  },
+  "G2362": {
+    "lemma": "thronos",
+    "original": "θρόνος",
+    "translit": "thronos",
+    "grammar": "substantivo masculino",
+    "gloss": "trono, assento de governo",
+    "exegetic": "Trono aponta para autoridade, governo e juízo, especialmente em Apocalipse.",
+    "culture": "Tronos simbolizavam soberania real; no Apocalipse concentram a visão do governo de Deus.",
+    "parallels": [
+      "Hebreus 4:16",
+      "Apocalipse 4:2",
+      "Apocalipse 22:1"
+    ]
+  },
+  "G721": {
+    "lemma": "arnion",
+    "original": "ἀρνίον",
+    "translit": "arnion",
+    "grammar": "substantivo neutro",
+    "gloss": "cordeiro",
+    "exegetic": "Cordeiro em Apocalipse identifica Cristo como vencedor sacrificial.",
+    "culture": "A imagem une sacrifício pascal, inocência e vitória paradoxal.",
+    "parallels": [
+      "João 1:29",
+      "Apocalipse 5:6",
+      "Apocalipse 7:17"
+    ]
+  },
+  "G2342": {
+    "lemma": "therion",
+    "original": "θηρίον",
+    "translit": "therion",
+    "grammar": "substantivo neutro",
+    "gloss": "besta, fera",
+    "exegetic": "Besta em Apocalipse representa poderes hostis a Deus e ao testemunho de Jesus.",
+    "culture": "A linguagem apocalíptica usa animais simbólicos para impérios, violência e idolatria.",
+    "parallels": [
+      "Apocalipse 13:1",
+      "Apocalipse 17:3",
+      "Daniel 7"
+    ]
+  },
+  "G1404": {
+    "lemma": "drakon",
+    "original": "δράκων",
+    "translit": "drakon",
+    "grammar": "substantivo masculino",
+    "gloss": "dragão",
+    "exegetic": "Dragão em Apocalipse simboliza Satanás como adversário de Deus e do seu povo.",
+    "culture": "Imagens monstruosas antigas expressavam caos, opressão e oposição cósmica.",
+    "parallels": [
+      "Apocalipse 12:3-9",
+      "Apocalipse 20:2"
+    ]
+  },
+  "G5486": {
+    "lemma": "charisma",
+    "original": "χάρισμα",
+    "translit": "charisma",
+    "grammar": "substantivo neutro",
+    "gloss": "dom, dádiva da graça",
+    "exegetic": "Dom ressalta que capacidades e dádivas espirituais procedem da graça de Deus.",
+    "culture": "Nas comunidades paulinas, dons eram para serviço comum, não para prestígio pessoal.",
+    "parallels": [
+      "Romanos 12:6",
+      "1 Coríntios 12:4",
+      "1 Pedro 4:10"
+    ]
+  },
+  "G4394": {
+    "lemma": "propheteia",
+    "original": "προφητεία",
+    "translit": "propheteia",
+    "grammar": "substantivo feminino",
+    "gloss": "profecia",
+    "exegetic": "Profecia envolve testemunho inspirado, exortação e revelação subordinada a Deus.",
+    "culture": "No NT, profecia edifica a comunidade e aponta para fidelidade à palavra de Deus.",
+    "parallels": [
+      "Romanos 12:6",
+      "1 Coríntios 14:3",
+      "Apocalipse 19:10"
+    ]
+  },
+  "G3972": {
+    "lemma": "Paulos",
+    "original": "Παῦλος",
+    "translit": "Paulos",
+    "grammar": "nome próprio masculino",
+    "gloss": "Paulo",
+    "exegetic": "Paulo é apóstolo e missionário central em Atos e nas cartas.",
+    "culture": "Seu ministério liga comunidades judaicas e gentílicas no Mediterrâneo romano.",
+    "parallels": [
+      "Atos 13:9",
+      "Romanos 1:1",
+      "2 Timóteo 4:7"
+    ]
+  },
+  "G4569": {
+    "lemma": "Saulos",
+    "original": "Σαῦλος",
+    "translit": "Saulos",
+    "grammar": "nome próprio masculino",
+    "gloss": "Saulo",
+    "exegetic": "Saulo é o nome associado à origem judaica de Paulo e à narrativa de sua conversão.",
+    "culture": "Atos usa Saulo/Paulo para mostrar transformação vocacional e missão aos gentios.",
+    "parallels": [
+      "Atos 8:1",
+      "Atos 9:1-19",
+      "Atos 13:9"
+    ]
+  },
+  "G921": {
+    "lemma": "Barnabas",
+    "original": "Βαρνάβας",
+    "translit": "Barnabas",
+    "grammar": "nome próprio masculino",
+    "gloss": "Barnabé",
+    "exegetic": "Barnabé aparece como encorajador, mediador e cooperador missionário.",
+    "culture": "Seu papel em Atos mostra redes de confiança entre Jerusalém, Antioquia e a missão gentílica.",
+    "parallels": [
+      "Atos 4:36",
+      "Atos 9:27",
+      "Atos 13:2"
+    ]
+  },
+  "G4736": {
+    "lemma": "Stephanos",
+    "original": "Στέφανος",
+    "translit": "Stephanos",
+    "grammar": "nome próprio masculino",
+    "gloss": "Estêvão",
+    "exegetic": "Estêvão é testemunha fiel cuja morte marca expansão da missão em Atos.",
+    "culture": "Seu discurso relê a história de Israel e sua morte ecoa o sofrimento de Jesus.",
+    "parallels": [
+      "Atos 6:5",
+      "Atos 7:55-60"
+    ]
+  },
+  "G5095": {
+    "lemma": "Timotheos",
+    "original": "Τιμόθεος",
+    "translit": "Timotheos",
+    "grammar": "nome próprio masculino",
+    "gloss": "Timóteo",
+    "exegetic": "Timóteo é cooperador de Paulo e destinatário das cartas pastorais.",
+    "culture": "Seu ministério mostra transmissão, cuidado pastoral e liderança jovem na igreja.",
+    "parallels": [
+      "Atos 16:1",
+      "1 Timóteo 1:2",
+      "2 Timóteo 1:5"
+    ]
+  },
+  "G5103": {
+    "lemma": "Titos",
+    "original": "Τίτος",
+    "translit": "Titos",
+    "grammar": "nome próprio masculino",
+    "gloss": "Tito",
+    "exegetic": "Tito é cooperador apostólico ligado à organização e saúde das igrejas.",
+    "culture": "Em Tito, liderança e boas obras são tratadas como testemunho público da fé.",
+    "parallels": [
+      "2 Coríntios 8:23",
+      "Tito 1:4"
+    ]
+  },
+  "G5371": {
+    "lemma": "Philemon",
+    "original": "Φιλήμων",
+    "translit": "Philemon",
+    "grammar": "nome próprio masculino",
+    "gloss": "Filemom",
+    "exegetic": "Filemom é destinatário de uma carta sobre reconciliação, comunhão e acolhimento.",
+    "culture": "A carta toca relações domésticas e sociais do mundo romano à luz do evangelho.",
+    "parallels": [
+      "Filemom 1:1",
+      "Filemom 1:17"
+    ]
+  },
+  "G3682": {
+    "lemma": "Onesimos",
+    "original": "Ὀνήσιμος",
+    "translit": "Onesimos",
+    "grammar": "nome próprio masculino",
+    "gloss": "Onésimo",
+    "exegetic": "Onésimo é apresentado por Paulo como irmão amado, não apenas como servo.",
+    "culture": "A carta a Filemom tensiona relações sociais antigas com a nova fraternidade em Cristo.",
+    "parallels": [
+      "Filemom 1:10-16",
+      "Colossenses 4:9"
+    ]
+  },
+  "G2181": {
+    "lemma": "Ephesos",
+    "original": "Ἔφεσος",
+    "translit": "Ephesos",
+    "grammar": "nome próprio feminino",
+    "gloss": "Éfeso",
+    "exegetic": "Éfeso é centro urbano importante para a missão paulina e para cartas do NT.",
+    "culture": "Cidade relevante da Ásia Menor, associada ao comércio, culto de Ártemis e redes missionárias.",
+    "parallels": [
+      "Atos 19:1",
+      "Efésios 1:1",
+      "Apocalipse 2:1"
+    ]
+  },
+  "G4516": {
+    "lemma": "Rhome",
+    "original": "Ῥώμη",
+    "translit": "Rhome",
+    "grammar": "nome próprio feminino",
+    "gloss": "Roma",
+    "exegetic": "Roma aparece como destino missionário e símbolo do alcance imperial do evangelho.",
+    "culture": "Capital do império, Roma concentrava poder político e diversidade social.",
+    "parallels": [
+      "Atos 28:14",
+      "Romanos 1:7"
+    ]
+  }
+});
