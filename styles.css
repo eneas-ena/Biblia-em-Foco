@@ -83,11 +83,10 @@
       border-radius: 8px;
       display: grid;
       place-items: center;
-      background: var(--brand);
-      color: #fffdf8;
-      font-size: 24px;
-      font-weight: 800;
-      letter-spacing: .02em;
+      background: url("./assets/icon-192.png") center / cover no-repeat;
+      color: transparent;
+      font-size: 0;
+      box-shadow: 0 10px 24px rgba(8, 42, 92, .24);
     }
 
     .home-content h1 {
@@ -141,12 +140,12 @@
       width: 40px;
       height: 40px;
       border-radius: 8px;
-      background: var(--brand);
-      color: #fffdf8;
+      background: url("./assets/icon-192.png") center / cover no-repeat;
+      color: transparent;
       display: grid;
       place-items: center;
-      font-weight: 800;
-      letter-spacing: .02em;
+      font-size: 0;
+      box-shadow: 0 8px 18px rgba(8, 42, 92, .18);
     }
 
     .brand h1 {
