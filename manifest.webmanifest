@@ -1,0 +1,24 @@
+{
+  "name": "Bíblia em Foco",
+  "short_name": "Bíblia em Foco",
+  "description": "Novo Testamento com leitura, Strong, notas e análise com IA.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f4ec",
+  "theme_color": "#1f6268",
+  "icons": [
+    {
+      "src": "./assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/BF.png",
+      "sizes": "1024x1536",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

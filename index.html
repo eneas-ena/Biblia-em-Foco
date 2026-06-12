@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#1f6268">
+  <title>Bíblia em Foco</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="stylesheet" href="./styles.css?v=20260612-nt-completo">
+</head>
+<body>
+<section id="homeScreen" class="home-screen" aria-label="Tela inicial">
+  <div class="home-media" aria-hidden="true"></div>
+  <div class="home-content">
+    <div class="home-logo">BF</div>
+    <h1>Bíblia em Foco</h1>
+    <p>A Palavra com clareza. A fé com profundidade.</p>
+    <div class="home-actions">
+      <button id="enterStudy" class="primary" type="button">Entrar no estudo</button>
+      <button id="skipHome" class="secondary" type="button">Continuar leitura</button>
+    </div>
+  </div>
+</section>
+
+<div class="app-shell">
+    <header class="topbar">
+      <div class="topbar-inner">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">BF</div>
+          <div>
+            <h1>Bíblia em Foco</h1>
+            <p>Novo Testamento, palavras marcadas, Strong, notas e análise com IA.</p>
+          </div>
+        </div>
+
+        <div class="controls" aria-label="Controles do leitor">
+          <select id="bookSelect" aria-label="Livro"></select>
+          <select id="chapterSelect" aria-label="Capítulo"></select>
+          <div class="search-box">
+            <input id="searchInput" type="search" placeholder="Romanos 8:1, G3056 ou palavra">
+            <button id="searchButton" class="secondary" type="button">Buscar</button>
+            <button id="clearSearch" class="secondary" type="button">Limpar</button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section id="searchResults" class="search-results" aria-label="Resultados de pesquisa"></section>
+
+    <main>
+      <section class="reader" aria-label="Texto bíblico">
+        <div class="reader-head">
+          <div>
+            <h2 id="chapterTitle">João 1</h2>
+            <p class="reader-meta" id="sourceNote"></p>
+          </div>
+          <div class="chapter-actions">
+            <button id="prevChapter" class="icon-button" type="button" title="Capítulo anterior" aria-label="Capítulo anterior">‹</button>
+            <button id="nextChapter" class="icon-button" type="button" title="Próximo capítulo" aria-label="Próximo capítulo">›</button>
+          </div>
+        </div>
+
+        <div id="verses"></div>
+      </section>
+
+      <aside class="side" aria-label="Painel de estudo">
+        <section id="studyCard" class="study-card">
+          <div class="empty-state">
+            <div>
+              <strong>Escolha uma palavra marcada.</strong>
+              <p>Clique em termos como Verbo, luz, vida ou graça para abrir o card de estudo.</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="notes-panel" aria-label="Notas pessoais">
+          <h3>Notas pessoais</h3>
+          <p class="hint" id="noteHint">Selecione uma palavra ou versículo para escrever uma nota.</p>
+          <textarea id="noteText" placeholder="Suas observações ficam salvas neste navegador."></textarea>
+          <div class="note-actions">
+            <button id="saveNote" class="primary" type="button">Salvar nota</button>
+            <button id="clearNote" class="secondary" type="button">Limpar</button>
+            <span id="noteStatus" class="status" role="status"></span>
+          </div>
+        </section>
+
+        <section class="favorites-panel" aria-label="Favoritos">
+          <h3>Favoritos</h3>
+          <p class="hint">Marque versículos com a estrela ao lado do número.</p>
+          <div id="favoritesList" class="favorites-list"></div>
+        </section>
+
+        <section class="my-study-panel" aria-label="Meu estudo">
+          <div class="panel-title-row">
+            <h3>Meu estudo</h3>
+            <div class="panel-actions">
+              <button id="downloadMyStudy" class="primary" type="button">Salvar Estudo</button>
+              <button id="clearMyStudy" class="secondary" type="button">Limpar</button>
+            </div>
+          </div>
+          <p class="hint">Notas, análises, favoritos e palavras estudadas reunidos em um só lugar.</p>
+          <div id="studySummary" class="study-summary"></div>
+          <div id="myStudyList" class="my-study-list"></div>
+        </section>
+
+        <section class="custom-marks-panel" aria-label="Minhas marcações">
+          <h3>Minhas marcações</h3>
+          <p class="hint">Palavras que você acrescentou com a marcação assistida.</p>
+          <div id="customMarksList" class="custom-marks-list"></div>
+        </section>
+
+        <section class="history-panel" aria-label="Histórico recente">
+          <div class="panel-title-row">
+            <h3>Histórico</h3>
+            <button id="clearHistory" class="secondary" type="button">Limpar</button>
+          </div>
+          <p class="hint">Últimos 8 termos e versículos abertos.</p>
+          <div id="historyList" class="history-list"></div>
+        </section>
+
+        <section class="themes-panel" aria-label="Estudo por tema">
+          <h3>Temas</h3>
+          <p class="hint">Atalhos editáveis para estudos recorrentes nos livros disponíveis.</p>
+          <div id="themeList" class="theme-list"></div>
+          <div class="theme-editor">
+            <input id="themeName" type="text" placeholder="Tema">
+            <input id="themeQuery" type="text" placeholder="G3056, logos ou palavra">
+            <button id="addTheme" class="secondary" type="button">Adicionar</button>
+          </div>
+        </section>
+
+        <section class="settings-panel" aria-label="Configuração da IA">
+          <details>
+            <summary>Configurar IA</summary>
+            <div class="settings-grid">
+              <p class="hint">Use uma API compatível com chat. A chave fica salva apenas neste navegador.</p>
+              <div class="field">
+                <label for="aiEndpoint">Endpoint</label>
+                <input id="aiEndpoint" type="url" placeholder="https://api.openai.com/v1/chat/completions">
+              </div>
+              <div class="field">
+                <label for="aiModel">Modelo</label>
+                <input id="aiModel" type="text" placeholder="gpt-4.1-mini">
+              </div>
+              <div class="field">
+                <label for="aiKey">Chave</label>
+                <input id="aiKey" type="password" placeholder="cole sua chave aqui">
+              </div>
+              <button id="saveAiSettings" class="primary" type="button">Salvar IA</button>
+            </div>
+          </details>
+        </section>
+      </aside>
+    </main>
+  </div>
+
+  <div id="toast" class="toast" role="status"></div>
+  <script src="./data/app-data.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/matthew.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/mark.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/luke.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/john.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/acts.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/romans.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/1corinthians.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/2corinthians.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/galatians.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/ephesians.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/philippians.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/colossians.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/1thessalonians.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/2thessalonians.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/1timothy.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/2timothy.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/titus.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/philemon.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/hebrews.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/james.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/1peter.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/2peter.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/1john.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/2john.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/3john.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/jude.js?v=20260612-nt-completo"></script>
+  <script src="./data/books/revelation.js?v=20260612-nt-completo"></script>
+  <script src="./data/lexicon.js?v=20260612-nt-completo"></script>
+  <script src="./app.js?v=20260612-nt-completo"></script>
+</body>
+</html>
