@@ -1,11 +1,13 @@
-const CACHE_NAME = "biblia-em-foco-nt-completo-v1";
+const CACHE_NAME = "biblia-em-foco-ajustes-celular-v1";
 const ASSETS = [
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
   "./manifest.webmanifest",
-  "./assets/icon.svg",
+  "./assets/icon.png",
+  "./assets/icon-192.png",
+  "./assets/icon-512.png",
   "./assets/BF.png",
   "./data/app-data.js",
   "./data/lexicon.js",
