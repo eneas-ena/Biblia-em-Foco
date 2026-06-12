@@ -1,7 +1,7 @@
 const appData = globalThis.appData;
 
 const state = {
-      bookId: "john",
+      bookId: "matthew",
       chapter: 1,
       selected: null,
       selectedVerseNote: null,
@@ -1882,7 +1882,7 @@ const defaultStudyThemes = [
     els.clearNote.addEventListener("click", clearCurrentNote);
     els.saveAiSettings.addEventListener("click", saveAiSettings);
     els.enterStudy.addEventListener("click", enterStudy);
-    els.skipHome.addEventListener("click", enterStudy);
+    els.skipHome?.addEventListener("click", enterStudy);
     els.searchButton.addEventListener("click", runSearch);
     els.clearSearch.addEventListener("click", clearSearch);
     els.clearHistory.addEventListener("click", clearHistory);
