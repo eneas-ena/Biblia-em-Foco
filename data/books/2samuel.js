@@ -1,0 +1,16237 @@
+globalThis.appData.books.push({
+  "id": "2samuel",
+  "name": "2 Samuel",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E sucedeu que, depois da morte de Saul, voltando Davi da derrota dos amalequitas, ficou dois dias em Ziclague;",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Ao terceiro dia um homem veio do arraial de Saul, com as vestes rotas e com terra sobre a cabeça; e, chegando ele a Davi, se lançou no chão, e se inclinou.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E Davi lhe disse: Donde vens? E ele lhe disse: Escapei do arraial de Israel.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E disse-lhe Davi: Como foi lá isso? peço-te, dize-mo. E ele lhe respondeu: O povo fugiu da batalha, e muitos do povo caíram, e morreram; assim como também Saul e Jônatas, seu filho, foram mortos.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "mortos",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E disse Davi ao moço que lhe trazia as novas: Como sabes tu que Saul e Jônatas, seu filho, foram mortos?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "mortos",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Então disse o moço que lhe dava a notícia: Cheguei por acaso à montanha de Gilboa, e eis que Saul estava encostado sobre a sua lança, e eis que os carros e a cavalaria apertavam-no.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "montanha",
+              "strong": "H2022"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E, olhando ele para trás de si, viu-me, e chamou-me; e eu disse: Eis-me aqui.",
+          "tokens": [
+            {
+              "word": "viu",
+              "strong": "H7200"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E ele me disse: Quem és tu? E eu lhe disse: Sou amalequita.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então ele me disse: Peço-te, arremessa-te sobre mim, e mata-me, porque angústias me têm cercado, pois toda a minha vida está ainda em mim.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Arremessei-me, pois, sobre ele, e o matei, porque bem sabia eu que não viveria depois da sua queda, e tomei a coroa que tinha na cabeça, e o bracelete que trazia no braço, e os trouxe aqui a meu senhor.",
+          "tokens": [
+            {
+              "word": "sabia",
+              "strong": "H2451"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Então apanhou Davi as suas vestes, e as rasgou; assim fizeram todos os homens que estavam com ele.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E prantearam, e choraram, e jejuaram até à tarde por Saul, e por Jônatas, seu filho, e pelo povo do Senhor, e pela casa de Israel, porque tinham caído à espada.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Disse então Davi ao moço que lhe trouxera a nova: Donde és tu? E disse ele: Sou filho de um estrangeiro, amalequita.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E Davi lhe disse: Como não temeste tu estender a mão para matares ao ungido do Senhor?",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "ungido",
+              "strong": "H4899"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Então chamou Davi a um dos moços, e disse: Chega, e lança-te sobre ele. E ele o feriu, e morreu.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Pois Davi lhe dissera: O teu sangue seja sobre a tua cabeça, porque a tua própria boca testificou contra ti, dizendo: Eu matei o ungido do Senhor.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "ungido",
+              "strong": "H4899"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E lamentou Davi a Saul e a Jônatas, seu filho, com esta lamentação",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "(Dizendo ele que ensinassem aos filhos de Judá o uso do arco. Eis que está escrito no livro de Jasher):",
+          "tokens": [
+            {
+              "word": "Dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Ah, ornamento de Israel! Nos teus altos foi ferido, como caíram os poderosos!",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Não o noticieis em Gate, não o publiqueis nas ruas de Ascalom, para que não se alegrem as filhas dos filisteus, para que não saltem de contentamento as filhas dos incircuncisos.",
+          "tokens": []
+        },
+        {
+          "n": 21,
+          "text": "Vós, montes de Gilboa, nem orvalho, nem chuva caia sobre vós, nem haja campos de ofertas alçadas, pois aí desprezivelmente foi arrojado o escudo dos poderosos, o escudo de Saul, como se não fora ungido com óleo.",
+          "tokens": [
+            {
+              "word": "montes",
+              "strong": "H2022"
+            },
+            {
+              "word": "ofertas",
+              "strong": "H4503"
+            },
+            {
+              "word": "ungido",
+              "strong": "H4899"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Do sangue dos feridos, da gordura dos valentes, nunca se retirou para trás o arco de Jônatas, nem voltou vazia a espada de Saul.",
+          "tokens": [
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Saul e Jônatas, tão amados e queridos na sua vida, também na sua morte não se separaram; eram mais ligeiros do que as águias, mais fortes do que os leões.",
+          "tokens": [
+            {
+              "word": "amados",
+              "strong": "H1730"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Vós, filhas de Israel, chorai por Saul, que vos vestia de escarlata em delícias, que vos fazia trazer ornamentos de ouro sobre as vossas vestes.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Como caíram os poderosos, no meio da peleja! Jônatas nos teus altos foi morto.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "morto",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Angustiado estou por ti, meu irmão Jônatas; quão amabilíssimo me eras! Mais maravilhoso me era o teu amor do que o amor das mulheres.",
+          "tokens": [
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "amor",
+              "strong": "H160"
+            },
+            {
+              "word": "amor",
+              "strong": "H160"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Como caíram os poderosos, e pereceram as armas de guerra!",
+          "tokens": []
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E sucedeu depois disto que Davi consultou ao SENHOR, dizendo: Subirei a alguma das cidades de Judá? E disse-lhe o SENHOR: Sobe. E falou Davi: Para onde subirei? E disse: Para Hebrom.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E subiu Davi para lá, e também as suas duas mulheres, Ainoã, a jizreelita, e Abigail, a mulher de Nabal, o carmelita.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Fez também Davi subir os homens que estavam com ele, cada um com a sua família; e habitaram nas cidades de Hebrom.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Então vieram os homens de Judá, e ungiram ali a Davi rei sobre a casa de Judá. E deram avisos a Davi, dizendo: Os homens de Jabes-Gileade foram os que sepultaram a Saul.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Então enviou Davi mensageiros aos homens de Jabes-Gileade, para dizer-lhes: Benditos sejais vós do SENHOR, que fizestes tal beneficência a vosso senhor, a Saul, e o sepultastes!",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Agora, pois, o Senhor use convosco de beneficência e fidelidade; e também eu vos farei este bem, porquanto fizestes isto.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "fidelidade",
+              "strong": "H571"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Esforcem-se, pois, agora as vossas mãos, e sede homens valentes, pois Saul, vosso senhor, é morto, mas também os da casa de Judá já me ungiram a mim por seu rei.",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "morto",
+              "strong": "H4191"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Porém Abner, filho de Ner, capitão do exército de Saul, tomou a Is-Bosete, filho de Saul, e o fez passar a Maanaim,",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E o constituiu rei sobre Gileade, e sobre os assuritas, e sobre Jizreel, e sobre Efraim, e sobre Benjamim, e sobre todo o Israel.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Da idade de quarenta anos era Is-Bosete, filho de Saul, quando começou a reinar sobre Israel, e reinou dois anos; mas os da casa de Judá seguiam a Davi.",
+          "tokens": [
+            {
+              "word": "Da",
+              "strong": "H5414"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E foi o número dos dias que Davi reinou em Hebrom, sobre a casa de Judá, sete anos e seis meses.",
+          "tokens": [
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então saiu Abner, filho de Ner, com os servos de Is-Bosete, filho de Saul, de Maanaim a Gibeom.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Saíram também Joabe, filho de Zeruia, e os servos de Davi, e se encontraram uns com os outros perto do tanque de Gibeom; e pararam estes deste lado do tanque, e os outros do outro lado do tanque.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E disse Abner a Joabe: Deixa levantar os moços, e joguem diante de nós. E disse Joabe: Levantem-se.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Então se levantaram, e passaram, em número de doze de Benjamim, da parte de Is-Bosete, filho de Saul, e doze dos servos de Davi.",
+          "tokens": [
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E cada um lançou mão da cabeça do outro, cravou-lhe a espada no lado, e caíram juntos, por isso se chamou àquele lugar Helcate-Hazurim, que está junto a Gibeom.",
+          "tokens": [
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E seguiu-se naquele dia uma crua peleja; porém Abner e os homens de Israel foram feridos diante dos servos de Davi.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E estavam ali os três filhos de Zeruia, Joabe, Abisai, e Asael; e Asael era ligeiro de pés, como as gazelas do campo.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E Asael perseguiu a Abner; e não se desviou de detrás de Abner, nem para a direita nem para a esquerda.",
+          "tokens": []
+        },
+        {
+          "n": 20,
+          "text": "E Abner, olhando para trás, perguntou: És tu Asael? E ele falou: Eu sou.",
+          "tokens": []
+        },
+        {
+          "n": 21,
+          "text": "Então lhe disse Abner: Desvia-te para a direita, ou para a esquerda, e lança mão de um dos moços, e toma os seus despojos. Porém Asael não quis desviar-se de detrás dele.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Então Abner tornou a dizer a Asael: Desvia-te de detrás de mim; por que hei de eu ferir-te e dar contigo em terra? E como levantaria eu o meu rosto diante de Joabe, teu irmão?",
+          "tokens": [
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "dar",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Porém, não querendo ele se desviar, Abner o feriu com a ponta da lança pela quinta costela, e a lança lhe saiu por detrás, e caiu ali, e morreu naquele mesmo lugar; e sucedeu que, todos os que chegavam ao lugar onde Asael caiu e morreu, paravam.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Porém Joabe e Abisai perseguiram a Abner; e pôs-se o sol, chegando eles ao outeiro de Amá, que está diante de Gia, junto ao caminho do deserto de Gibeão.",
+          "tokens": [
+            {
+              "word": "Amá",
+              "strong": "H157"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E os filhos de Benjamim se ajuntaram atrás de Abner, e fizeram um batalhão, e puseram-se no cume de um outeiro.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Então Abner gritou a Joabe, e disse: Consumirá a espada para sempre? Não sabes tu que por fim haverá amargura? E até quando não hás de dizer ao povo que deixe de perseguir a seus irmãos?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E disse Joabe: Vive Deus, que, se não tivesses falado, só pela manhã o povo teria cessado, cada um, de perseguir a seu irmão.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Então Joabe tocou a buzina, e todo o povo parou, e não perseguiram mais a Israel; e tampouco pelejaram mais.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "E caminharam Abner e os seus homens toda aquela noite pela planície; e, passando o Jordão, caminharam por todo o Bitrom, e chegaram a Maanaim.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Também Joabe voltou de perseguir a Abner, e ajuntou todo o povo; e dos servos de Davi faltaram dezenove homens, e Asael.",
+          "tokens": [
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Porém os servos de Davi feriram dentre os de Benjamim, e dentre os homens de Abner, a trezentos e sessenta homens, que ali ficaram mortos.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "mortos",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E levantaram a Asael, e sepultaram-no na sepultura de seu pai, que estava em Belém; e Joabe e seus homens caminharam toda aquela noite, e amanheceu-lhes o dia em Hebrom.",
+          "tokens": [
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E houve uma longa guerra entre a casa de Saul e a casa de Davi; porém Davi ia se fortalecendo, mas os da casa de Saul se iam enfraquecendo.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E a Davi nasceram filhos em Hebrom; e foi o seu primogênito Amnom, de Ainoã a jizreelita;",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "nasceram",
+              "strong": "H3205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E seu segundo, Quileabe, de Abigail, mulher de Nabal, o carmelita; e o terceiro Absalão, filho de Maaca, filha de Talmai, rei de Gesur;",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E o quarto, Adonias, filho de Hagite; e o quinto, Sefatias, filho de Abital;",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E o sexto, Itreão, de Eglá, também mulher de Davi; estes nasceram a Davi em Hebrom.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "nasceram",
+              "strong": "H3205"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E, havendo guerra entre a casa de Saul e a casa de Davi, sucedeu que Abner se fez poderoso na casa de Saul.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E tinha tido Saul uma concubina, cujo nome era Rispa, filha de Aiá; e disse Is-Bosete a Abner: Por que possuíste a concubina de meu pai?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Então se irou muito Abner pelas palavras de Is-Bosete, e disse: Sou eu cabeça de cão, que pertença a Judá? Ainda hoje faço beneficência à casa de Saul, teu pai, a seus irmãos, e a seus amigos, e não te entreguei nas mãos de Davi, e tu hoje buscas motivo para me argüires por causa da maldade de uma mulher.",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Assim faça Deus a Abner, e outro tanto, se, como o Senhor jurou a Davi, assim eu não lhe fizer,",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Transferindo o reino da casa de Saul, e confirmando o trono de Davi sobre Israel, e sobre Judá, desde Dã até Berseba.",
+          "tokens": [
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Dã",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E nenhuma palavra podia ele responder a Abner, porque o temia.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então enviou Abner da sua parte mensageiros a Davi, dizendo: De quem é a terra? E disse mais: Comigo faze o teu acordo, e eis que a minha mão será contigo, para tornar a ti todo o Israel.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E disse Davi: Bem, eu farei contigo acordo, porém uma coisa te peço: não verás a minha face, se primeiro não me trouxeres a Mical, filha de Saul, quando vieres ver a minha face.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "ver",
+              "strong": "H7200"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Também enviou Davi mensageiros a Is-Bosete, filho de Saul, dizendo: Dá-me minha mulher Mical, que eu desposei por cem prepúcios de filisteus.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Dá",
+              "strong": "H5414"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E enviou Is-Bosete, e tirou-a de seu marido, a Paltiel, filho de Laís.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E ia com ela seu marido, caminhando, e chorando atrás dela, até Baurim. Então lhe disse Abner: Vai-te, agora volta. E ele voltou.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E falou Abner com os anciãos de Israel, dizendo: Já há muito tempo que procuráveis que Davi reinasse sobre vós.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Fazei-o, pois, agora, porque o Senhor falou a Davi, dizendo: Pela mão de Davi meu servo livrarei o meu povo das mãos dos filisteus e das mãos de todos os seus inimigos.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E falou também Abner aos de Benjamim; e foi também Abner dizer aos de Davi, em Hebrom, tudo o que era bom aos olhos de Israel e aos olhos de toda a casa de Benjamim.",
+          "tokens": [
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "bom",
+              "strong": "H2896"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E foi Abner a Davi, em Hebrom, e vinte homens com ele; e Davi fez um banquete a Abner e aos homens que com ele estavam.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Então disse Abner a Davi: Eu me levantarei, e irei, e ajuntarei ao rei meu senhor todo o Israel, para fazer acordo contigo; e tu reinarás sobre tudo o que desejar a tua alma. Assim despediu Davi a Abner, e ele foi em paz.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "alma",
+              "strong": "H5315"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E eis que os servos de Davi e Joabe vieram de uma batalha, e traziam consigo grande despojo; e já Abner não estava com Davi em Hebrom, porque o tinha despedido, e se tinha ido em paz.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Chegando, pois, Joabe, e todo o exército que vinha com ele, deram aviso a Joabe, dizendo: Abner, filho de Ner, veio ao rei, e o despediu, e foi em paz.",
+          "tokens": [
+            {
+              "word": "vinha",
+              "strong": "H3754"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Então Joabe foi ao rei, e disse: Que fizeste? Eis que Abner veio ter contigo; por que pois o despediste, de maneira que se fosse assim livremente?",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Bem conheces a Abner, filho de Ner, que te veio enganar, e saber a tua saída e a tua entrada, e entender tudo quanto fazes.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "entender",
+              "strong": "H998"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E Joabe, retirando-se de Davi, enviou mensageiros atrás de Abner, e o fizeram voltar desde o poço de Sirá, sem que Davi o soubesse.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "voltar",
+              "strong": "H7725"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Voltando, pois, Abner a Hebrom, Joabe o levou à parte, à entrada da porta, para lhe falar em segredo; e feriu-o ali pela quinta costela, e morreu, por causa do sangue de Asael seu irmão.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "O que Davi depois ouvindo, disse: Inocente sou eu, e o meu reino, para com o Senhor, para sempre, do sangue de Abner, filho de Ner.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Caia sobre a cabeça de Joabe e sobre toda a casa de seu pai, e nunca na casa de Joabe falte quem tenha fluxo, ou quem seja leproso, ou quem se atenha a bordão, ou quem caia à espada, ou quem necessite de pão.",
+          "tokens": [
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Joabe, pois, e Abisai, seu irmão, mataram a Abner, por ter morto a Asael, seu irmão, na peleja em Gibeão.",
+          "tokens": [
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "morto",
+              "strong": "H4191"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Disse, pois, Davi a Joabe, e a todo o povo que com ele estava: Rasgai as vossas vestes; e cingi-vos de sacos e ide pranteando diante de Abner. E o rei Davi ia seguindo o féretro.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E, sepultando a Abner em Hebrom, o rei levantou a sua voz, e chorou junto da sepultura de Abner; e chorou todo o povo.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "E o rei, pranteando Abner, disse: Havia de morrer Abner como morre o vilão?",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "morrer",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "As tuas mãos não estavam atadas, nem os teus pés carregados de grilhões, mas caíste como os que caem diante dos filhos da maldade! Então todo o povo chorou muito mais por ele.",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Depois todo o povo veio fazer com que Davi comesse pão, sendo ainda dia; porém Davi jurou, dizendo: Assim Deus me faça, e outro tanto, se, antes que o sol se ponha, eu provar pão ou alguma coisa.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "O que todo o povo entendendo, pareceu bem aos seus olhos; assim como tudo quanto o rei fez pareceu bem aos olhos de todo o povo.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "E todo o povo e todo o Israel entenderam naquele mesmo dia que não procedera do rei que matasse a Abner, filho de Ner.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Então disse o rei aos seus servos: Não sabeis que hoje caiu em Israel um príncipe e um grande?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "Que eu hoje estou fraco, ainda que ungido rei; estes homens, filhos de Zeruia, são mais duros do que eu; o Senhor pagará ao malfeitor, conforme a sua maldade.",
+          "tokens": [
+            {
+              "word": "ungido",
+              "strong": "H4899"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Ouvindo, pois, o filho de Saul, que Abner morrera em Hebrom, as mãos se lhe afrouxaram; e todo o Israel pasmou.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E tinha o filho de Saul dois homens capitães de tropas; e era o nome de um Baaná, e o nome do outro Recabe, filhos de Rimom, o beerotita, dos filhos de Benjamim, porque também Beerote se reputava de Benjamim.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E tinham fugido os beerotitas para Gitaim, e ali têm peregrinado até ao dia de hoje.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E Jônatas, filho de Saul, tinha um filho aleijado de ambos os pés; era da idade de cinco anos quando as novas de Saul e Jônatas vieram de Jizreel, e sua ama o tomou, e fugiu; e sucedeu que, apressando-se ela a fugir, ele caiu, e ficou coxo; e o seu nome era Mefibosete.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "ama",
+              "strong": "H157"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E foram os filhos de Rimom, o beerotita, Recabe e Baaná, e entraram em casa de Is-Bosete no maior calor do dia, estando ele deitado a dormir, ao meio-dia.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E ali entraram até ao meio da casa, como que vindo buscar trigo, e o feriram na quinta costela; e Recabe e Baaná, seu irmão, escaparam.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Porque entraram na sua casa, estando ele na cama deitado, no seu quarto, e o feriram, e o mataram, e lhe cortaram a cabeça; e, tomando a sua cabeça, andaram toda a noite caminhando pela planície.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E trouxeram a cabeça de Is-Bosete a Davi, a Hebrom, e disseram ao rei: Eis aqui a cabeça de Is-Bosete, filho de Saul, teu inimigo, que procurava a tua morte; assim o SENHOR vingou hoje ao rei meu senhor, de Saul e da sua descendência.",
+          "tokens": [
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "descendência",
+              "strong": "H2233"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Porém Davi, respondendo a Recabe e a Baaná, seu irmão, filhos de Rimom, o beerotita, disse-lhes: Vive o Senhor, que remiu a minha alma de toda a angústia,",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "alma",
+              "strong": "H5315"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Se aquele que me trouxe novas, dizendo: Eis que Saul é morto, parecendo-lhe, porém, aos olhos que era como quem trazia boas novas, eu logo lancei mão dele, e o matei em Ziclague, cuidando ele que eu por isso lhe desse recompensa.",
+          "tokens": [
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "morto",
+              "strong": "H4191"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Quanto mais a ímpios homens, que mataram um homem justo em sua casa, sobre a sua cama; agora, pois, não requereria eu o seu sangue de vossas mãos, e não vos exterminaria da terra?",
+          "tokens": [
+            {
+              "word": "ímpios",
+              "strong": "H7563"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "justo",
+              "strong": "H6666"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E deu Davi ordem aos seus moços que os matassem; e cortaram-lhes os pés e as mãos, e os penduraram sobre o tanque de Hebrom; tomaram, porém, a cabeça de Is-Bosete, e a sepultaram na sepultura de Abner, em Hebrom.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Então todas as tribos de Israel vieram a Davi, em Hebrom, e falaram, dizendo: Eis-nos aqui, somos teus ossos e tua carne.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "carne",
+              "strong": "H1320"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E também outrora, sendo Saul ainda rei sobre nós, eras tu o que saías e entravas com Israel; e também o Senhor te disse: Tu apascentarás o meu povo de Israel, e tu serás príncipe sobre Israel.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Assim, pois, todos os anciãos de Israel vieram ao rei, em Hebrom; e o rei Davi fez com eles acordo em Hebrom, perante o Senhor; e ungiram a Davi rei sobre Israel.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Da idade de trinta anos era Davi quando começou a reinar; quarenta anos reinou.",
+          "tokens": [
+            {
+              "word": "Da",
+              "strong": "H5414"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Em Hebrom reinou sobre Judá sete anos e seis meses, e em Jerusalém reinou trinta e três anos sobre todo o Israel e Judá.",
+          "tokens": [
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E partiu o rei com os seus homens a Jerusalém, contra os jebuseus que habitavam naquela terra; e falaram a Davi, dizendo: Não entrarás aqui, pois os cegos e os coxos te repelirão, querendo dizer: Não entrará Davi aqui.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Porém Davi tomou a fortaleza de Sião; esta é a cidade de Davi.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Porque Davi disse naquele dia: Qualquer que ferir aos jebuseus, suba ao canal e fira aos coxos e aos cegos, a quem a alma de Davi odeia. Por isso se diz: Nem cego nem coxo entrará nesta casa.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "alma",
+              "strong": "H5315"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Assim habitou Davi na fortaleza, e a chamou a cidade de Davi; e Davi foi edificando em redor, desde Milo para dentro.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E Davi ia, cada vez mais, aumentando e crescendo, porque o Senhor Deus dos Exércitos era com ele.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E Hirão, rei de Tiro, enviou mensageiros a Davi, e madeira de cedro, e carpinteiros, e pedreiros que edificaram a Davi uma casa.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "madeira",
+              "strong": "H6086"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E entendeu Davi que o Senhor o confirmara rei sobre Israel, e que exaltara o seu reino por amor do seu povo.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "amor",
+              "strong": "H160"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E tomou Davi mais concubinas e mulheres de Jerusalém, depois que viera de Hebrom; e nasceram a Davi mais filhos e filhas.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "nasceram",
+              "strong": "H3205"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E estes são os nomes dos que lhe nasceram em Jerusalém: Samua, e Sobabe, e Natã, e Salomão,",
+          "tokens": [
+            {
+              "word": "nasceram",
+              "strong": "H3205"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E Ibar, e Elisua, e Nefegue, e Jafia,",
+          "tokens": []
+        },
+        {
+          "n": 16,
+          "text": "E Elisama, e Eliada, e Elifelete.",
+          "tokens": []
+        },
+        {
+          "n": 17,
+          "text": "Ouvindo, pois, os filisteus que haviam ungido a Davi rei sobre Israel, todos os filisteus subiram em busca de Davi; o que ouvindo Davi, desceu à fortaleza.",
+          "tokens": [
+            {
+              "word": "ungido",
+              "strong": "H4899"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E os filisteus vieram, e se estenderam pelo vale de Refaim.",
+          "tokens": []
+        },
+        {
+          "n": 19,
+          "text": "E Davi consultou ao Senhor, dizendo: Subirei contra os filisteus? Entregar-mos-ás nas minhas mãos? E disse o Senhor a Davi: Sobe, porque certamente entregarei os filisteus nas tuas mãos.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Então foi Davi a Baal-Perazim; e feriu-os ali Davi, e disse: Rompeu o Senhor a meus inimigos diante de mim, como quem rompe águas. Por isso chamou o nome daquele lugar Baal-Perazim.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E deixaram ali os seus ídolos; e Davi e os seus homens os tomaram.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E os filisteus tornaram a subir, e se estenderam pelo vale de Refaim.",
+          "tokens": []
+        },
+        {
+          "n": 23,
+          "text": "E Davi consultou ao Senhor, o qual disse: Não subirás; mas rodeia por detrás deles, e virás a eles por defronte das amoreiras.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E há de ser que, ouvindo tu um estrondo de marcha pelas copas das amoreiras, então te apressarás; porque o Senhor saiu então diante de ti, a ferir o arraial dos filisteus.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E fez Davi assim como o Senhor lhe tinha ordenado; e feriu os filisteus desde Geba, até chegar a Gezer.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E tornou Davi a ajuntar todos os escolhidos de Israel, em número de trinta mil.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E levantou-se Davi, e partiu, com todo o povo que tinha consigo, para Baalim de Judá, para levarem dali para cima a arca de Deus, sobre a qual se invoca o nome, o nome do Senhor dos Exércitos, que se assenta entre os querubins.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E puseram a arca de Deus em um carro novo, e a levaram da casa de Abinadabe, que está em Gibeá; e Uzá e Aiô, filhos de Abinadabe, guiavam o carro novo.",
+          "tokens": [
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E levando-o da casa de Abinadabe, que está em Gibeá, com a arca de Deus, Aiô ia adiante da arca.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E Davi, e toda a casa de Israel, festejavam perante o Senhor, com toda a sorte de instrumentos de pau de faia, como também com harpas, e com saltérios, e com tamboris, e com pandeiros, e com címbalos.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E, chegando à eira de Nacom, estendeu Uzá a mão à arca de Deus, e pegou nela; porque os bois a deixavam pender.",
+          "tokens": [
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Então a ira do Senhor se acendeu contra Uzá, e Deus o feriu ali por esta imprudência; e morreu ali junto à arca de Deus.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E Davi se contristou, porque o Senhor abrira rotura em Uzá; e chamou àquele lugar Perez-Uzá, até ao dia de hoje.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E temeu Davi ao Senhor naquele dia; e disse: Como virá a mim a arca do Senhor?",
+          "tokens": [
+            {
+              "word": "temeu",
+              "strong": "H3372"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E não quis Davi retirar para junto de si a arca do Senhor, à cidade de Davi; mas Davi a fez levar à casa de Obede-Edom, o giteu.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E ficou a arca do Senhor em casa de Obede-Edom, o giteu, três meses; e abençoou o Senhor a Obede-Edom, e a toda a sua casa.",
+          "tokens": [
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "abençoou",
+              "strong": "H1288"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então avisaram a Davi, dizendo: Abençoou o Senhor a casa de Obede-Edom, e tudo quanto tem, por causa da arca de Deus; foi pois Davi, e trouxe a arca de Deus para cima, da casa de Obede-Edom, à cidade de Davi, com alegria.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Abençoou",
+              "strong": "H1288"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E sucedeu que, quando os que levavam a arca do Senhor tinham dado seis passos, sacrificava bois e carneiros cevados.",
+          "tokens": [
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E Davi saltava com todas as suas forças diante do Senhor; e estava Davi cingido de um éfode de linho.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Assim subindo, levavam Davi e todo o Israel a arca do Senhor, com júbilo, e ao som das trombetas.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E sucedeu que, entrando a arca do Senhor na cidade de Davi, Mical, a filha de Saul, estava olhando pela janela; e, vendo ao rei Davi, que ia bailando e saltando diante do Senhor, o desprezou no seu coração.",
+          "tokens": [
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E introduzindo a arca do Senhor, a puseram no seu lugar, na tenda que Davi lhe armara; e ofereceu Davi holocaustos e ofertas pacíficas perante o Senhor.",
+          "tokens": [
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "ofertas",
+              "strong": "H4503"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E acabando Davi de oferecer os holocaustos e ofertas pacíficas, abençoou o povo em nome do Senhor dos Exércitos.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "ofertas",
+              "strong": "H4503"
+            },
+            {
+              "word": "abençoou",
+              "strong": "H1288"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E repartiu a todo o povo, e a toda a multidão de Israel, desde os homens até às mulheres, a cada um, um bolo de pão, e um bom pedaço de carne, e um frasco de vinho; então retirou-se todo o povo, cada um para sua casa,",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            },
+            {
+              "word": "bom",
+              "strong": "H2896"
+            },
+            {
+              "word": "carne",
+              "strong": "H1320"
+            },
+            {
+              "word": "vinho",
+              "strong": "H3196"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E, voltando Davi para abençoar a sua casa, Mical, a filha de Saul, saiu a encontrar-se com Davi, e disse: Quão honrado foi o rei de Israel, descobrindo-se hoje aos olhos das servas de seus servos, como sem pejo se descobre qualquer dos vadios.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "abençoar",
+              "strong": "H1288"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Disse, porém, Davi a Mical: Perante o Senhor, que me escolheu preferindo-me a teu pai, e a toda a sua casa, mandando-me que fosse soberano sobre o povo do Senhor, sobre Israel, perante o Senhor tenho me alegrado.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E ainda mais do que isto me envilecerei, e me humilharei aos meus olhos; mas das servas, de quem falaste, delas serei honrado.",
+          "tokens": [
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E Mical, a filha de Saul, não teve filhos, até o dia da sua morte.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E sucedeu que, estando o rei Davi em sua casa, e tendo o SENHOR lhe dado descanso de todos os seus inimigos em redor,",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Disse o rei ao profeta Natã: Eis que eu moro em casa de cedro, e a arca de Deus mora dentro de cortinas.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "profeta",
+              "strong": "H5030"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E disse Natã ao rei: Vai, e faze tudo quanto está no teu coração; porque o Senhor é contigo.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Porém sucedeu naquela mesma noite, que a palavra do Senhor veio a Natã, dizendo:",
+          "tokens": [
+            {
+              "word": "noite",
+              "strong": "H3915"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Vai, e dize a meu servo Davi: Assim diz o Senhor: Edificar-me-ás tu uma casa para minha habitação?",
+          "tokens": [
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "habitação",
+              "strong": "H4908"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Porque em casa nenhuma habitei desde o dia em que fiz subir os filhos de Israel do Egito até ao dia de hoje; mas andei em tenda e em tabernáculo.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "tabernáculo",
+              "strong": "H4908"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E em todo o lugar em que andei com todos os filhos de Israel, falei porventura alguma palavra a alguma das tribos de Israel, a quem mandei apascentar o meu povo de Israel, dizendo: Por que não me edificais uma casa de cedro?",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Agora, pois, assim dirás ao meu servo Davi: Assim diz o Senhor dos Exércitos: Eu te tomei da malhada, de detrás das ovelhas, para que fosses o soberano sobre o meu povo, sobre Israel.",
+          "tokens": [
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E fui contigo, por onde quer que foste, e destruí a teus inimigos diante de ti; e fiz grande o teu nome, como o nome dos grandes que há na terra.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E prepararei lugar para o meu povo, para Israel, e o plantarei, para que habite no seu lugar, e não mais seja removido, e nunca mais os filhos da perversidade o aflijam, como dantes,",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E desde o dia em que mandei que houvesse juízes sobre o meu povo Israel; a ti, porém, te dei descanso de todos os teus inimigos; também o Senhor te faz saber que te fará casa.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Quando teus dias forem completos, e vieres a dormir com teus pais, então farei levantar depois de ti um dentre a tua descendência, o qual sairá das tuas entranhas, e estabelecerei o seu reino.",
+          "tokens": [
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "descendência",
+              "strong": "H2233"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Este edificará uma casa ao meu nome, e confirmarei o trono do seu reino para sempre.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Eu lhe serei por pai, e ele me será por filho; e, se vier a transgredir, castigá-lo-ei com vara de homens, e com açoites de filhos de homens.",
+          "tokens": [
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Mas a minha benignidade não se apartará dele; como a tirei de Saul, a quem tirei de diante de ti.",
+          "tokens": [
+            {
+              "word": "benignidade",
+              "strong": "H2617"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Porém a tua casa e o teu reino serão firmados para sempre diante de ti; teu trono será firme para sempre.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Conforme a todas estas palavras, e conforme a toda esta visão, assim falou Natã a Davi.",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Então entrou o rei Davi, e ficou perante o SENHOR, e disse: Quem sou eu, Senhor DEUS, e qual é a minha casa, para que me tenhas trazido até aqui?",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "DEUS",
+              "strong": "H430"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E ainda foi isto pouco aos teus olhos, Senhor DEUS, senão que também falaste da casa de teu servo para tempos distantes; é este o procedimento dos homens, ó Senhor DEUS?",
+          "tokens": [
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "DEUS",
+              "strong": "H430"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "DEUS",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E que mais te pode dizer ainda Davi? Pois tu conheces bem a teu servo, ó Senhor DEUS.",
+          "tokens": [
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "DEUS",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Por causa da tua palavra, e segundo o teu coração, fizeste toda esta grandeza; fazendo-a saber a teu servo.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Portanto, grandioso és, ó Senhor Deus, porque não há semelhante a ti, e não há outro Deus senão tu só, segundo tudo o que temos ouvido com os nossos ouvidos.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "ouvido",
+              "strong": "H8085"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E quem há como o teu povo, como Israel, gente única na terra, a quem Deus foi resgatar para seu povo, para fazer-te nome, e para fazer-vos estas grandes e terríveis coisas à tua terra, diante do teu povo, que tu resgataste do Egito, desterrando as nações e a seus deuses?",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "nações",
+              "strong": "H1471"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E confirmaste a teu povo Israel por teu povo para sempre, e tu, Senhor, te fizeste o seu Deus.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Agora, pois, ó Senhor Deus, esta palavra que falaste acerca de teu servo e acerca da sua casa, confirma-a para sempre, e faze como tens falado.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E engrandeça-se o teu nome para sempre, para que se diga: O Senhor dos Exércitos é Deus sobre Israel; e a casa de teu servo será confirmada diante de ti.",
+          "tokens": [
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Pois tu, Senhor dos Exércitos, Deus de Israel, revelaste aos ouvidos de teu servo, dizendo: Edificar-te-ei uma casa. Portanto o teu servo se animou para fazer-te esta oração.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Agora, pois, Senhor DEUS, tu és o mesmo Deus, e as tuas palavras são verdade, e tens falado a teu servo este bem.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "DEUS",
+              "strong": "H430"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "verdade",
+              "strong": "H571"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Sê, pois, agora servido de abençoar a casa de teu servo, para permanecer para sempre diante de ti, pois tu, ó Senhor DEUS, o disseste; e com a tua bênção será para sempre bendita a casa de teu servo.",
+          "tokens": [
+            {
+              "word": "abençoar",
+              "strong": "H1288"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "DEUS",
+              "strong": "H430"
+            },
+            {
+              "word": "bênção",
+              "strong": "H1288"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E sucedeu depois disto que Davi feriu os filisteus, e os sujeitou; e Davi tomou a Metegue-Ama das mãos dos filisteus.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Ama",
+              "strong": "H157"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Também derrotou os moabitas, e os mediu com cordel, fazendo-os deitar por terra; e os mediu com dois cordéis para os matar, e com um cordel inteiro para os deixar com vida. Ficaram assim os moabitas por servos de Davi, pagando-lhe tributos.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Feriu também Davi a Hadadezer, filho de Reobe, rei de Zobá, quando ele ia recuperar o seu domínio sobre o rio Eufrates.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E tomou-lhe Davi mil carros e setecentos cavaleiros e vinte mil homens de pé; e Davi jarretou a todos os cavalos dos carros, e reservou deles cem carros.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E vieram os sírios de Damasco a socorrer a Hadadezer, rei de Zobá; porém Davi feriu dos sírios vinte e dois mil homens.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E Davi pôs guarnições na Síria de Damasco, e os sírios ficaram por servos de Davi, pagando-lhe tributos; e o Senhor guardou a Davi por onde quer que ia.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "guardou",
+              "strong": "H8104"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E Davi tomou os escudos de ouro que havia com os servos de Hadadezer, e os trouxe a Jerusalém.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Tomou mais o rei Davi uma quantidade muito grande de bronze de Betá e de Berotai, cidades de Hadadezer.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então ouvindo Toí, rei de Hamate, que Davi ferira a todo o exército de Hadadezer,",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Mandou Toí, seu filho Jorão, ao rei Davi, para lhe perguntar como estava, e para lhe dar os parabéns por haver pelejado contra Hadadezer, e por o haver ferido (porque Hadadezer de contínuo fazia guerra a Toí); e na sua mão trazia vasos de prata, e vasos de ouro, e vasos de bronze,",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dar",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Os quais também o rei Davi consagrou ao Senhor, juntamente com a prata e ouro que já havia consagrado de todas as nações que sujeitara.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "nações",
+              "strong": "H1471"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Da Síria, e de Moabe, e dos filhos de Amom, e dos filisteus, e de Amaleque, e dos despojos de Hadadezer, filho de Reobe, rei de Zobá.",
+          "tokens": [
+            {
+              "word": "Da",
+              "strong": "H5414"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Também Davi ganhou nome, voltando ele de ferir os sírios no vale do Sal, a saber, a dezoito mil.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E pôs guarnições, em Edom, em todo o Edom pôs guarnições, e todos os edomeus ficaram por servos de Davi; e o Senhor ajudava a Davi por onde quer que ia.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Reinou, pois, Davi sobre todo o Israel; e Davi fazia direito e justiça a todo o seu povo.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "direito",
+              "strong": "H4941"
+            },
+            {
+              "word": "justiça",
+              "strong": "H6666"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E Joabe, filho de Zeruia, era sobre o exército; e Jeosafá, filho de Ailude, era cronista.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E Zadoque, filho de Aitube, e Aimeleque, filho de Abiatar, eram sacerdotes, e Seraías escrivão.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Também Benaia, filho de Jeoiada, estava sobre os quereteus e peleteus; porém os filhos de Davi eram ministros.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E disse Davi: Há ainda alguém que tenha ficado da casa de Saul, para que lhe faça benevolência por amor de Jônatas?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "amor",
+              "strong": "H160"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E havia um servo na casa de Saul cujo nome era Ziba; e o chamaram à presença de Davi. Disse-lhe o rei: És tu Ziba? E ele disse: Servo teu.",
+          "tokens": [
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E disse o rei: Não há ainda alguém da casa de Saul para que eu use com ele da benevolência de Deus? Então disse Ziba ao rei: Ainda há um filho de Jônatas, aleijado de ambos os pés.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E disse-lhe o rei: Onde está? E disse Ziba ao rei: Eis que está em casa de Maquir, filho de Amiel, em Lo-Debar.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Então mandou o rei Davi, e o tomou da casa de Maquir, filho de Amiel, de Lo-Debar.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E Mefibosete, filho de Jônatas, o filho de Saul, veio a Davi, e se prostrou com o rosto por terra e inclinou-se; e disse Davi: Mefibosete! E ele disse: Eis aqui teu servo.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "prostrou",
+              "strong": "H7812"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E disse-lhe Davi: Não temas, porque decerto usarei contigo de benevolência por amor de Jônatas, teu pai, e te restituirei todas as terras de Saul, teu pai, e tu sempre comerás pão à minha mesa.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "amor",
+              "strong": "H160"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Então se inclinou, e disse: Quem é teu servo, para teres olhado para um cão morto tal como eu?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "morto",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então chamou Davi a Ziba, moço de Saul, e disse-lhe: Tudo o que pertencia a Saul, e a toda a sua casa, tenho dado ao filho de teu senhor.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Trabalhar-lhe-ás, pois, a terra, tu e teus filhos, e teus servos, e recolherás os frutos, para que o filho de teu senhor tenha pão para comer; mas Mefibosete, filho de teu senhor, sempre comerá pão à minha mesa. E tinha Ziba quinze filhos e vinte servos.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "frutos",
+              "strong": "H6529"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E disse Ziba ao rei: Conforme a tudo quanto meu senhor, o rei, manda a seu servo, assim fará teu servo. Quanto a Mefibosete, disse o rei, comerá à minha mesa como um dos filhos do rei.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E tinha Mefibosete um filho pequeno, cujo nome era Mica; e todos quantos moravam em casa de Ziba eram servos de Mefibosete.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Morava, pois, Mefibosete em Jerusalém, porquanto sempre comia à mesa do rei, e era coxo de ambos os pés.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E aconteceu depois disto que morreu o rei dos filhos de Amom, e seu filho Hanum reinou em seu lugar.",
+          "tokens": [
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Então disse Davi: Usarei de benevolência com Hanum, filho de Naás, como seu pai usou de benevolência comigo. E enviou Davi os seus servos para consolá-lo acerca de seu pai; e foram os servos de Davi à terra dos filhos de Amom.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Então disseram os príncipes dos filhos de Amom a seu senhor, Hanum: Porventura honra Davi a teu pai aos teus olhos, porque te enviou consoladores? Não te enviou antes Davi os seus servos para reconhecerem esta cidade, e para espiá-la, e para transtorná-la?",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "honra",
+              "strong": "H3519"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Então tomou Hanum os servos de Davi, e lhes raspou metade da barba, e lhes cortou metade das vestes, até às nádegas, e os despediu.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Quando isso foi informado a Davi, enviou ele mensageiros a encontrá-los, porque estavam aqueles homens sobremaneira envergonhados. Mandou o rei dizer-lhes: Deixai-vos estar em Jericó, até que vos torne a crescer a barba, e então voltai.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Vendo, pois, os filhos de Amom que se tinham feito abomináveis para com Davi, enviaram os filhos de Amom, e alugaram dos sírios de Bete-Reobe e dos sírios de Zobá vinte mil homens de pé, e do rei de Maaca mil homens e dos homens de Tobe doze mil homens.",
+          "tokens": [
+            {
+              "word": "Vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E ouvindo Davi, enviou a Joabe e a todo o exército dos valentes.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E saíram os filhos de Amom, e ordenaram a batalha à entrada da porta; mas os sírios de Zobá e Reobe, e os homens de Tobe e Maaca estavam à parte no campo.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Vendo, pois, Joabe que a batalha estava preparada contra ele pela frente e pela retaguarda, escolheu dentre todos os homens de Israel, e formou-os em linha contra os sírios.",
+          "tokens": [
+            {
+              "word": "Vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E o restante do povo entregou na mão de Abisai seu irmão, o qual formou em linha contra os filhos de Amom.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E disse: Se os sírios forem mais fortes do que eu, tu me virás em socorro; e, se os filhos de Amom forem mais fortes do que tu, irei a socorrer-te.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Esforça-te, pois, e esforcemo-nos pelo nosso povo, e pelas cidades de nosso Deus; e faça o Senhor o que bem parecer aos seus olhos.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Então se achegou Joabe, e o povo que estava com ele, à peleja contra os sírios; e fugiram de diante dele.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E, vendo os filhos de Amom que os sírios fugiam, também eles fugiram de diante de Abisai, e entraram na cidade; e voltou Joabe dos filhos de Amom, e veio para Jerusalém.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Vendo, pois, os sírios que foram feridos diante de Israel, tornaram a refazer-se.",
+          "tokens": [
+            {
+              "word": "Vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E mandou Hadadezer, e fez sair os sírios que estavam do outro lado do rio, e vieram a Helã; e Sobaque, capitão do exército de Hadadezer, marchava diante deles.",
+          "tokens": [
+            {
+              "word": "rio",
+              "strong": "H5104"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Do que informado Davi, ajuntou a todo o Israel, e passou o Jordão, e foi a Helã; e os sírios se puseram em ordem contra Davi, e pelejaram com ele.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Porém os sírios fugiram de diante de Israel, e Davi feriu dentre os sírios aos homens de setecentos carros, e quarenta mil homens de cavalaria; feriu também a Sobaque, capitão do exército, que morreu ali.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Vendo, pois, todos os reis, servos de Hadadezer, que foram feridos diante de Israel, fizeram paz com Israel, e o serviram; e temeram os sírios de socorrer aos filhos de Amom.",
+          "tokens": [
+            {
+              "word": "Vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E aconteceu que, tendo decorrido um ano, no tempo em que os reis saem à guerra, enviou Davi a Joabe, e com ele os seus servos, e a todo o Israel; e eles destruíram os filhos de Amom, e cercaram a Rabá; porém Davi ficou em Jerusalém.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E aconteceu que numa tarde Davi se levantou do seu leito, e andava passeando no terraço da casa real, e viu do terraço a uma mulher que se estava lavando; e era esta mulher mui formosa à vista.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "viu",
+              "strong": "H7200"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E mandou Davi indagar quem era aquela mulher; e disseram: Porventura não é esta Bate-Seba, filha de Eliã, mulher de Urias, o heteu?",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Então enviou Davi mensageiros, e mandou trazê-la; e ela veio, e ele se deitou com ela (pois já estava purificada da sua imundícia); então voltou ela para sua casa.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E a mulher concebeu; e mandou dizer a Davi: Estou grávida.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Então Davi mandou dizer a Joabe: Envia-me Urias, o heteu. E Joabe enviou Urias a Davi.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Vindo, pois, Urias a ele, perguntou Davi como passava Joabe, e como estava o povo, e como ia a guerra.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Depois disse Davi a Urias: Desce à tua casa, e lava os teus pés. E, saindo Urias da casa real, logo lhe foi mandado um presente da mesa do rei.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "presente",
+              "strong": "H4503"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Porém Urias se deitou à porta da casa real, com todos os servos do seu senhor; e não desceu à sua casa.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E fizeram saber isto a Davi, dizendo: Urias não desceu a sua casa. Então disse Davi à Urias: Não vens tu duma jornada? Por que não desceste à tua casa?",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E disse Urias a Davi: A arca, e Israel, e Judá ficaram em tendas; e Joabe, meu senhor, e os servos de meu senhor estão acampados no campo; e hei de eu entrar na minha casa, para comer e beber, e para me deitar com minha mulher? Pela tua vida, e pela vida da tua alma, não farei tal coisa.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "alma",
+              "strong": "H5315"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então disse Davi a Urias: Demora-te aqui ainda hoje, e amanhã te despedirei. Urias, pois, ficou em Jerusalém aquele dia e o seguinte.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E Davi o convidou, e comeu e bebeu diante dele, e o embebedou; e à tarde saiu a deitar-se na sua cama com os servos de seu senhor; porém não desceu à sua casa.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E sucedeu que pela manhã Davi escreveu uma carta a Joabe; e mandou-lha por mão de Urias.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Escreveu na carta, dizendo: Ponde a Urias na frente da maior força da peleja; e retirai-vos de detrás dele, para que seja ferido e morra.",
+          "tokens": [
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Aconteceu, pois, que, tendo Joabe observado bem a cidade, pôs a Urias no lugar onde sabia que havia homens valentes.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "sabia",
+              "strong": "H2451"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E, saindo os homens da cidade, e pelejando com Joabe, caíram alguns do povo, dos servos de Davi; e morreu também Urias, o heteu.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Então enviou Joabe, e fez saber a Davi todo o sucesso daquela peleja.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E deu ordem ao mensageiro, dizendo: Acabando tu de contar ao rei todo o sucesso desta peleja,",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E sucedendo que o rei se encolerize, e te diga: Por que vos chegastes tão perto da cidade a pelejar? Não sabíeis vós que haviam de atirar do muro?",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Quem feriu a Abimeleque, filho de Jerubesete? Não lançou uma mulher sobre ele do muro um pedaço de uma mó corredora, de que morreu em Tebes? Por que vos chegastes ao muro? Então dirás: Também morreu teu servo Urias, o heteu.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E foi o mensageiro, e entrou, e fez saber a Davi tudo o que Joabe o enviara a dizer.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E disse o mensageiro a Davi: Na verdade que mais poderosos foram aqueles homens do que nós, e saíram a nós ao campo; porém nós fomos contra eles, até à entrada da porta.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "verdade",
+              "strong": "H571"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Então os flecheiros atiraram contra os teus servos desde o alto do muro, e morreram alguns dos servos do rei; e também morreu o teu servo Urias, o heteu.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E disse Davi ao mensageiro: Assim dirás a Joabe: Não te pareça isto mal aos teus olhos; pois a espada tanto consome este como aquele; esforça a tua peleja contra a cidade, e a derrota; esforça-o tu assim.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Ouvindo, pois, a mulher de Urias que seu marido era morto, lamentou a seu senhor.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "morto",
+              "strong": "H4191"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E, passado o luto, enviou Davi, e a recolheu em sua casa, e lhe foi por mulher, e deu-lhe à luz um filho. Porém esta coisa que Davi fez pareceu mal aos olhos do Senhor.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "luz",
+              "strong": "H216"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E o SENHOR enviou Natã a Davi; e, apresentando-se ele a Davi, disse-lhe: Havia numa cidade dois homens, um rico e outro pobre.",
+          "tokens": [
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "O rico possuía muitíssimas ovelhas e vacas.",
+          "tokens": []
+        },
+        {
+          "n": 3,
+          "text": "Mas o pobre não tinha coisa nenhuma, senão uma pequena cordeira que comprara e criara; e ela tinha crescido com ele e com seus filhos; do seu bocado comia, e do seu copo bebia, e dormia em seu regaço, e a tinha como filha.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E, vindo um viajante ao homem rico, deixou este de tomar das suas ovelhas e das suas vacas para assar para o viajante que viera a ele; e tomou a cordeira do homem pobre, e a preparou para o homem que viera a ele.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Então o furor de Davi se acendeu em grande maneira contra aquele homem, e disse a Natã: Vive o Senhor, que digno de morte é o homem que fez isso.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E pela cordeira tornará a dar o quadruplicado, porque fez tal coisa, e porque não se compadeceu.",
+          "tokens": [
+            {
+              "word": "dar",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Então disse Natã a Davi: Tu és este homem. Assim diz o Senhor Deus de Israel: Eu te ungi rei sobre Israel, e eu te livrei das mãos de Saul;",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E te dei a casa de teu senhor, e as mulheres de teu senhor em teu seio, e também te dei a casa de Israel e de Judá, e, se isto é pouco, mais te acrescentaria tais e tais coisas.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Por que, pois, desprezaste a palavra do Senhor, fazendo o mal diante de seus olhos? A Urias, o heteu, feriste à espada, e a sua mulher tomaste por tua mulher; e a ele mataste com a espada dos filhos de Amom.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Agora, pois, não se apartará a espada jamais da tua casa, porquanto me desprezaste, e tomaste a mulher de Urias, o heteu, para ser tua mulher.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Assim diz o Senhor: Eis que suscitarei da tua própria casa o mal sobre ti, e tomarei tuas mulheres perante os teus olhos, e as darei a teu próximo, o qual se deitará com tuas mulheres perante este sol.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Porque tu o fizeste em oculto, mas eu farei este negócio perante todo o Israel e perante o sol.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Então disse Davi a Natã: Pequei contra o Senhor. E disse Natã a Davi: Também o Senhor perdoou o teu pecado; não morrerás.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "pecado",
+              "strong": "H2403"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Todavia, porquanto com este feito deste lugar sobremaneira a que os inimigos do Senhor blasfemem, também o filho que te nasceu certamente morrerá.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "nasceu",
+              "strong": "H3205"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Então Natã foi para sua casa; e o Senhor feriu a criança que a mulher de Urias dera a Davi, e adoeceu gravemente.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E buscou Davi a Deus pela criança; e jejuou Davi, e entrou, e passou a noite prostrado sobre a terra.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Então os anciãos da sua casa se levantaram e foram a ele, para o levantar da terra; porém ele não quis, e não comeu pão com eles.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E sucedeu que ao sétimo dia morreu a criança; e temiam os servos de Davi dizer-lhe que a criança estava morta, porque diziam: Eis que, sendo a criança ainda viva, lhe falávamos, porém não dava ouvidos à nossa voz; como, pois, lhe diremos que a criança está morta? Porque mais lhe afligiria.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Viu, porém, Davi que seus servos falavam baixo, e entendeu Davi que a criança estava morta, pelo que disse Davi a seus servos: Está morta a criança? E eles disseram: Está morta.",
+          "tokens": [
+            {
+              "word": "Viu",
+              "strong": "H7200"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Então Davi se levantou da terra, e se lavou, e se ungiu, e mudou de roupas, e entrou na casa do Senhor, e adorou. Então foi à sua casa, e pediu pão; e lhe puseram pão, e comeu.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "adorou",
+              "strong": "H7812"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E disseram-lhe seus servos: Que é isto que fizeste? Pela criança viva jejuaste e choraste; porém depois que morreu a criança te levantaste e comeste pão.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E disse ele: Vivendo ainda a criança, jejuei e chorei, porque dizia: Quem sabe se DEUS se compadecerá de mim, e viverá a criança?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "DEUS",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Porém, agora que está morta, por que jejuaria eu? Poderei eu fazê-la voltar? Eu irei a ela, porém ela não voltará para mim.",
+          "tokens": [
+            {
+              "word": "voltar",
+              "strong": "H7725"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Então consolou Davi a Bate-Seba, sua mulher, e entrou a ela, e se deitou com ela, e ela deu à luz um filho, e deu-lhe o nome de Salomão; e o Senhor o amou.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "luz",
+              "strong": "H216"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "amou",
+              "strong": "H157"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E enviou pela mão do profeta Natã, dando-lhe o nome de Jedidias, por amor ao Senhor.",
+          "tokens": [
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "profeta",
+              "strong": "H5030"
+            },
+            {
+              "word": "amor",
+              "strong": "H160"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Ora pelejou Joabe contra Rabá, dos filhos de Amom, e tomou a cidade real.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Então mandou Joabe mensageiros a Davi, e disse: Pelejei contra Rabá, e também tomei a cidade das águas.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Ajunta, pois, agora o restante do povo, e cerca a cidade, e toma-a, para que tomando eu a cidade, não se aclame sobre ela o meu nome.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Então ajuntou Davi a todo o povo, e marchou para Rabá, e pelejou contra ela, e a tomou.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E tirou a coroa da cabeça do seu rei, cujo peso era de um talento de ouro, e havia nela pedras preciosas, e foi posta sobre a cabeça de Davi; e da cidade levou mui grande despojo.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "E, trazendo o povo que havia nela, o pôs às serras, e às talhadeiras de ferro, e aos machados de ferro, e os fez passar por forno de tijolos; e assim fez a todas as cidades dos filhos de Amom; e voltou Davi e todo o povo para Jerusalém.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E aconteceu depois disto que, tendo Absalão, filho de Davi, uma irmã formosa, cujo nome era Tamar, Amnom, filho de Davi, amou-a.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "amou",
+              "strong": "H157"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E angustiou-se Amnom, até adoecer, por Tamar, sua irmã, porque era virgem; e parecia aos olhos de Amnom dificultoso fazer-lhe coisa alguma.",
+          "tokens": [
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Tinha, porém, Amnom um amigo, cujo nome era Jonadabe, filho de Siméia, irmão de Davi; e era Jonadabe homem mui sagaz.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "O qual lhe disse: Por que tu de dia em dia tanto emagreces, sendo filho do rei? Não mo farás saber a mim? Então lhe disse Amnom: Amo a Tamar, irmã de Absalão, meu irmão.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E Jonadabe lhe disse: Deita-te na tua cama, e finge-te doente; e, quando teu pai te vier visitar, dize-lhe: Peço-te que minha irmã Tamar venha, e me dê de comer pão, e prepare a comida diante dos meus olhos, para que eu a veja e coma da sua mão.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Deitou-se, pois, Amnom, e fingiu-se doente; e, vindo o rei visitá-lo, disse Amnom, ao rei: Peço-te que minha irmã Tamar venha, e prepare dois bolos diante dos meus olhos, para que eu coma de sua mão.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Mandou então Davi à casa, a Tamar, dizendo: Vai à casa de Amnom, teu irmão, e faze-lhe alguma comida.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E foi Tamar à casa de Amnom, seu irmão (ele porém estava deitado), e tomou massa, e a amassou, e fez bolos diante dos seus olhos, e cozeu os bolos.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E tomou a frigideira, e os tirou diante dele; porém ele recusou comer. E disse Amnom: Fazei retirar a todos da minha presença. E todos se retiraram dele.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Então disse Amnom a Tamar: Traze a comida ao quarto, e comerei da tua mão. E tomou Tamar os bolos que fizera, e levou-os a Amnom, seu irmão, no quarto.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E chegando-lhos, para que comesse, pegou dela, e disse-lhe: Vem, deita-te comigo, minha irmã.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Porém ela lhe disse: Não, meu irmão, não me forces, porque não se faz assim em Israel; não faças tal loucura.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Porque, aonde iria eu com a minha vergonha? E tu serias como um dos loucos de Israel. Agora, pois, peço-te que fales ao rei, porque não me negará a ti.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Porém ele não quis dar ouvidos à sua voz; antes, sendo mais forte do que ela, a forçou, e se deitou com ela.",
+          "tokens": [
+            {
+              "word": "dar",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Depois Amnom sentiu grande aversão por ela, pois maior era o ódio que sentiu por ela do que o amor com que a amara. E disse-lhe Amnom: Levanta-te, e vai-te.",
+          "tokens": [
+            {
+              "word": "amor",
+              "strong": "H160"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Então ela lhe disse: Não há razão de me despedires assim; maior seria este mal do que o outro que já me tens feito. Porém não lhe quis dar ouvidos.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "dar",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E chamou a seu moço que o servia, e disse: Ponha fora a esta, e fecha a porta após ela.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E trazia ela uma roupa de muitas cores (porque assim se vestiam as filhas virgens dos reis); e seu servo a pôs para fora, e fechou a porta após ela.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Então Tamar tomou cinza sobre a sua cabeça, e a roupa de muitas cores que trazia rasgou; e pôs as mãos sobre a cabeça, e foi andando e clamando.",
+          "tokens": [
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E Absalão, seu irmão, lhe disse: Esteve Amnom, teu irmão, contigo? Ora, pois, minha irmã, cala-te; é teu irmão. Não se angustie o teu coração por isto. Assim ficou Tamar, e esteve solitária em casa de Absalão seu irmão.",
+          "tokens": [
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E, ouvindo o rei Davi todas estas coisas, muito se lhe acendeu a ira.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Porém Absalão não falou com Amnom, nem mal nem bem; porque Absalão odiava a Amnom, por ter forçado a Tamar sua irmã.",
+          "tokens": []
+        },
+        {
+          "n": 23,
+          "text": "E aconteceu que, passados dois anos inteiros, Absalão tinha tosquiadores em Baal-Hazor, que está junto a Efraim; e convidou Absalão a todos os filhos do rei.",
+          "tokens": [
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E foi Absalão ao rei, e disse: Eis que teu servo tem tosquiadores; peço que o rei e os seus servos venham com o teu servo.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "O rei, porém, disse a Absalão: Não, filho meu, não vamos todos juntos, para não te sermos pesados. E instou com ele; porém não quis ir, mas o abençoou.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "abençoou",
+              "strong": "H1288"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Então disse Absalão: Quando não, deixa ir conosco Amnom, meu irmão. Porém o rei disse: Para que iria contigo?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E, instando Absalão com ele, deixou ir com ele a Amnom, e a todos os filhos do rei.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "E Absalão deu ordem aos seus servos, dizendo: Tomai sentido; quando o coração de Amnom estiver alegre do vinho, e eu vos disser: Feri a Amnom, então o matareis; não temais: porque porventura não sou eu quem vo-lo ordenei? Esforçai-vos, e sede valentes.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "vinho",
+              "strong": "H3196"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "E os servos de Absalão fizeram a Amnom como Absalão lho havia ordenado. Então todos os filhos do rei se levantaram, e montaram cada um no seu mulo, e fugiram.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E aconteceu que, estando eles ainda no caminho, chegou a nova a Davi, dizendo-se: Absalão feriu a todos os filhos do rei, e nenhum deles ficou.",
+          "tokens": [
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Então o rei se levantou, e rasgou as suas vestes, e se lançou por terra; da mesma maneira todos os seus servos estavam com vestes rotas.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Mas Jonadabe, filho de Siméia, irmão de Davi, respondeu, e disse: Não diga o meu senhor que mataram a todos os moços filhos do rei, porque só morreu Amnom; porque assim tinha resolvido fazer Absalão, desde o dia em que forçou a Tamar sua irmã.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Não se lhe ponha, pois, agora no coração do rei meu senhor tal coisa, dizendo: Morreram todos os filhos do rei; porque só morreu Amnom.",
+          "tokens": [
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "E Absalão fugiu; e o moço que estava de guarda, levantou os seus olhos, e olhou; e eis que muito povo vinha pelo caminho por detrás dele, pelo lado do monte.",
+          "tokens": [
+            {
+              "word": "guarda",
+              "strong": "H8104"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "vinha",
+              "strong": "H3754"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Então disse Jonadabe ao rei: Eis aqui vêm os filhos do rei; conforme à palavra de teu servo, assim sucedeu.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "E aconteceu que, como acabou de falar, os filhos do rei vieram, e levantaram a sua voz, e choraram; e também o rei e todos os seus servos choraram amargamente.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Assim Absalão fugiu, e foi a Talmai, filho de Amiur, rei de Gesur. E Davi pranteava por seu filho todos aqueles dias.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Assim Absalão fugiu, e foi para Gesur; esteve ali três anos.",
+          "tokens": []
+        },
+        {
+          "n": 39,
+          "text": "Então tinha o rei Davi saudades de Absalão; porque já se tinha consolado acerca da morte de Amnom.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Conhecendo, pois, Joabe, filho de Zeruia, que o coração do rei estava inclinado para Absalão,",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Enviou Joabe a Tecoa, e tomou de lá uma mulher e disse-lhe: Ora, finge que estás de luto; veste roupas de luto, e não te unjas com óleo, e sê como uma mulher que há já muitos dias está de luto por algum morto.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "morto",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E vai ao rei, e fala-lhe conforme a esta palavra. E Joabe lhe pôs as palavras na boca.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E a mulher tecoíta falou ao rei, e, deitando-se com o rosto em terra, se prostrou e disse: Salva-me, ó rei.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "prostrou",
+              "strong": "H7812"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Salva",
+              "strong": "H3467"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E disse-lhe o rei: Que tens? E disse ela: Na verdade sou mulher viúva; morreu meu marido.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "verdade",
+              "strong": "H571"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Tinha, pois, a tua serva dois filhos, e estes brigaram entre si no campo, e não houve quem os apartasse; assim um feriu ao outro, e o matou.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E eis que toda a linhagem se levantou contra a tua serva, e disseram: Dá-nos aquele que feriu a seu irmão, para que o matemos, por causa da vida de seu irmão, a quem matou, e para que destruamos também ao herdeiro. Assim apagarão a brasa que me ficou, de sorte que não deixam a meu marido nome, nem remanescente sobre a terra.",
+          "tokens": [
+            {
+              "word": "Dá",
+              "strong": "H5414"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E disse o rei à mulher: Vai para tua casa; e eu mandarei ordem acerca de ti.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E disse a mulher tecoíta ao rei: A injustiça, rei meu senhor, venha sobre mim e sobre a casa de meu pai; e o rei e o seu trono fique inculpável.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E disse o rei: Quem falar contra ti, traze-mo a mim; e nunca mais te tocará.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E disse ela: Ora, lembre-se o rei do Senhor seu Deus, para que os vingadores do sangue não prossigam na destruição, e não exterminem a meu filho. Então disse ele: Vive o Senhor, que não há de cair no chão nem um dos cabelos de teu filho.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então disse a mulher: Peço-te que a tua serva fale uma palavra ao rei meu senhor. E disse ele: Fala.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E disse a mulher: Por que, pois, pensaste tu uma tal coisa contra o povo de Deus? Porque, falando o rei tal palavra, fica como culpado; visto que o rei não torna a trazer o seu desterrado.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Porque certamente morreremos, e seremos como águas derramadas na terra que não se ajuntam mais; Deus, pois, lhe não tirará a vida, mas cogita meios, para que não fique banido dele o seu desterrado.",
+          "tokens": [
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E se eu agora vim falar esta palavra ao rei, meu senhor, é porque o povo me atemorizou; dizia, pois, a tua serva: Falarei, pois, ao rei; porventura fará o rei segundo a palavra da sua serva.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Porque o rei ouvirá, para livrar a sua serva da mão do homem que intenta destruir juntamente a mim e a meu filho da herança de Deus.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Dizia mais a tua serva: Seja agora a palavra do rei meu senhor para descanso; porque como um anjo de Deus, assim é o rei, meu senhor, para ouvir o bem e o mal; e o SENHOR teu Deus será contigo.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "ouvir",
+              "strong": "H8085"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Então respondeu o rei, e disse à mulher: Peço-te que não me encubras o que eu te perguntar. E disse a mulher: Ora fale o rei, meu senhor.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E disse o rei: Não é verdade que a mão de Joabe anda contigo em tudo isto? E respondeu a mulher, e disse: Vive a tua alma, ó rei meu senhor, que ninguém se poderá desviar, nem para a direita nem para a esquerda, de tudo quanto o rei, meu senhor, tem falado: Porque Joabe, teu servo, é quem me deu ordem, e foi ele que pôs na boca da tua serva todas estas palavras:",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "verdade",
+              "strong": "H571"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "anda",
+              "strong": "H1980"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "alma",
+              "strong": "H5315"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Para mudar o aspecto deste caso foi que o teu servo Joabe fez isto; porém sábio é meu senhor, conforme à sabedoria de um anjo de Deus, para entender tudo o que há na terra.",
+          "tokens": [
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "sábio",
+              "strong": "H2451"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "sabedoria",
+              "strong": "H2451"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "entender",
+              "strong": "H998"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Então o rei disse a Joabe: Eis que fiz isto; vai, pois, e torna a trazer o jovem Absalão.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Então Joabe se prostrou sobre o seu rosto em terra, e se inclinou, e agradeceu ao rei; e disse Joabe: Hoje conhece o teu servo que achei graça aos teus olhos, ó rei meu senhor, porque o rei fez segundo a palavra do teu servo.",
+          "tokens": [
+            {
+              "word": "prostrou",
+              "strong": "H7812"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Levantou-se, pois, Joabe, e foi a Gesur, e trouxe Absalão a Jerusalém.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E disse o rei: Torne para a sua casa, e não veja a minha face. Tornou, pois, Absalão para sua casa, e não viu a face do rei.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "viu",
+              "strong": "H7200"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Não havia, porém, em todo o Israel homem tão belo e tão aprazível como Absalão; desde a planta do pé até à cabeça não havia nele defeito algum.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E, quando tosquiava a sua cabeça (e sucedia que no fim de cada ano a tosquiava, porquanto muito lhe pesava, e por isso a tosquiava), pesava o cabelo da sua cabeça duzentos siclos, segundo o peso real.",
+          "tokens": [
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Também nasceram a Absalão três filhos e uma filha, cujo nome era Tamar; e esta era mulher formosa à vista.",
+          "tokens": [
+            {
+              "word": "nasceram",
+              "strong": "H3205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Assim ficou Absalão dois anos inteiros em Jerusalém, e não viu a face do rei.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "viu",
+              "strong": "H7200"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Mandou, pois, Absalão chamar a Joabe, para o enviar ao rei; porém não quis vir a ele; e enviou ainda segunda vez e, contudo, não quis vir.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Então disse aos seus servos: Vedes ali o pedaço de campo de Joabe pegado ao meu, e tem cevada nele; ide, e ponde-lhe fogo. E os servos de Absalão puseram fogo ao pedaço de campo.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Então Joabe se levantou, e veio a Absalão, em casa, e disse-lhe: Por que puseram os teus servos fogo ao pedaço de campo que é meu?",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E disse Absalão a Joabe: Eis que enviei a ti, dizendo: Vem cá, para que te envie ao rei, a dizer-lhe: Para que vim de Gesur? Melhor me fora estar ainda lá. Agora, pois, veja eu a face do rei; e, se há ainda em mim alguma culpa, que me mate.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Então foi Joabe ao rei, e assim lho disse. Então chamou a Absalão, e ele se apresentou ao rei, e se inclinou sobre o seu rosto em terra diante do rei; e o rei beijou a Absalão.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E aconteceu depois disto que Absalão fez aparelhar carros e cavalos, e cinqüenta homens que corressem adiante dele.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Também Absalão se levantou pela manhã, e parava a um lado do caminho da porta. E sucedia que a todo o homem que tinha alguma demanda para vir ao rei a juízo, o chamava Absalão a si, e lhe dizia: De que cidade és tu? E, dizendo ele: De uma das tribos de Israel é teu servo;",
+          "tokens": [
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "juízo",
+              "strong": "H4941"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Então Absalão lhe dizia: Olha, os teus negócios são bons e retos, porém não tens quem te ouça da parte do rei.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Dizia mais Absalão: Ah, quem me dera ser juiz na terra, para que viesse a mim todo o homem que tivesse demanda ou questão, para que lhe fizesse justiça!",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "justiça",
+              "strong": "H6666"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Sucedia também que, quando alguém se chegava a ele para se inclinar diante dele, ele estendia a sua mão, e pegava dele, e o beijava.",
+          "tokens": [
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E desta maneira fazia Absalão a todo o Israel que vinha ao rei para juízo; assim furtava Absalão o coração dos homens de Israel.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "vinha",
+              "strong": "H3754"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "juízo",
+              "strong": "H4941"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Aconteceu, pois, ao cabo de quarenta anos, que Absalão disse ao rei: Deixa-me ir pagar em Hebrom o meu voto que fiz ao Senhor.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Porque, morando eu em Gesur, na Síria, fez o teu servo um voto, dizendo: Se o Senhor outra vez me fizer tornar a Jerusalém, servirei ao Senhor.",
+          "tokens": [
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então lhe disse o rei: Vai em paz. Levantou-se, pois, e foi para Hebrom.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E enviou Absalão espias por todas as tribos de Israel, dizendo: Quando ouvirdes o som das trombetas, direis: Absalão reina em Hebrom.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E de Jerusalém foram com Absalão duzentos homens convidados, porém iam na sua simplicidade, porque nada sabiam daquele negócio.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Também Absalão mandou vir Aitofel, o gilonita, do conselho de Davi, à sua cidade de Giló, estando ele oferecendo os seus sacrifícios; e a conjuração se fortificava, e vinha o povo, e ia crescendo com Absalão.",
+          "tokens": [
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "sacrifícios",
+              "strong": "H2077"
+            },
+            {
+              "word": "vinha",
+              "strong": "H3754"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Então veio um mensageiro a Davi, dizendo: O coração de cada um em Israel segue a Absalão.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Disse, pois, Davi a todos os seus servos que estavam com ele em Jerusalém: Levantai-vos, e fujamos, porque não poderíamos escapar diante de Absalão. Dai-vos pressa a caminhar, para que porventura não se apresse ele, e nos alcance, e lance sobre nós algum mal, e fira a cidade a fio de espada.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Então os servos do rei disseram ao rei: Eis aqui os teus servos, para tudo quanto determinar o rei, nosso senhor.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E saiu o rei, com toda a sua casa, a pé; deixou, porém, o rei dez mulheres concubinas, para guardarem a casa.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Tendo, pois, saído o rei com todo o povo a pé, pararam num lugar distante.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E todos os seus servos iam a seu lado, como também todos os quereteus e todos os peleteus; e todos os giteus, seiscentos homens que vieram de Gate a pé, caminhavam diante do rei.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Disse, pois, o rei a Itai, o giteu: Por que irias tu também conosco? Volta-te, e fica-te com o rei, porque és estrangeiro, e também desterrado de teu lugar.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Ontem vieste, e te levaria eu hoje conosco a caminhar? Pois eu vou para onde puder ir; volta, pois, e torna a levar teus irmãos contigo, com beneficência e fidelidade.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "fidelidade",
+              "strong": "H571"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Respondeu, porém, Itai ao rei, e disse: Vive o SENHOR, e vive o rei meu senhor, que no lugar em que estiver o rei meu senhor, seja para morte seja para vida, aí certamente estará também o teu servidor.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Então Davi disse a Itai: Vem, pois, e passa adiante. Assim passou Itai, o giteu, e todos os seus homens, e todas as crianças que havia com ele.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E toda a terra chorava a grandes vozes, passando todo o povo; também o rei passou o ribeiro de Cedrom, e passou todo o povo na direção do caminho do deserto.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Eis que também Zadoque ali estava, e com ele todos os levitas que levavam a arca da aliança de Deus; e puseram ali a arca de Deus, e subiu Abiatar, até que todo o povo acabou de passar da cidade.",
+          "tokens": [
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Então disse o rei a Zadoque: Torna a levar a arca de Deus à cidade; que, se achar graça nos olhos do Senhor, ele me tornará a trazer para lá e me deixará ver a ela e a sua habitação.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "ver",
+              "strong": "H7200"
+            },
+            {
+              "word": "habitação",
+              "strong": "H4908"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Se, porém, disser assim: Não tenho prazer em ti; eis-me aqui, faça de mim como parecer bem aos seus olhos.",
+          "tokens": [
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Disse mais o rei a Zadoque, o sacerdote: Não és tu porventura vidente? Torna, pois, em paz para a cidade, e convosco também vossos dois filhos, Aimaás, teu filho, e Jônatas, filho de Abiatar.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Olhai que me demorarei nas campinas do deserto até que tenha notícias vossas.",
+          "tokens": [
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Zadoque, pois, e Abiatar, tornaram a levar para Jerusalém a arca de Deus; e ficaram ali.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "arca",
+              "strong": "H727"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E seguiu Davi pela encosta do monte das Oliveiras, subindo e chorando, e com a cabeça coberta; e caminhava com os pés descalços; e todo o povo que ia com ele cobria cada um a sua cabeça, e subiam chorando sem cessar.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Então fizeram saber a Davi, dizendo: Também Aitofel está entre os que se conjuraram com Absalão. Pelo que disse Davi: Ó Senhor, peço-te que torne em loucura o conselho de Aitofel.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E aconteceu que, chegando Davi ao cume, para adorar ali a Deus, eis que Husai, o arquita, veio encontrar-se com ele com a roupa rasgada e terra sobre a cabeça.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "adorar",
+              "strong": "H7812"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "E disse-lhe Davi: Se passares comigo, ser-me-ás pesado.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Porém se voltares para a cidade, e disseres a Absalão: Eu serei, ó rei, teu servo; bem fui antes servo de teu pai, mas agora serei teu servo; dissipar-me-ás então o conselho de Aitofel.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "E não estão ali contigo Zadoque e Abiatar, sacerdotes? E será que todas as coisas que ouvires da casa do rei, farás saber a Zadoque, e a Abiatar, sacerdotes.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Eis que estão também ali com eles seus dois filhos, Aimaás filho de Zadoque, e Jônatas filho de Abiatar; pela mão deles aviso me mandareis, de todas as coisas que ouvirdes.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Husai, pois, amigo de Davi, veio para a cidade; e Absalão entrou em Jerusalém.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E passando Davi um pouco mais adiante do cume, eis que Ziba, o servo de Mefibosete, veio encontrar-se com ele, com um par de jumentos albardados, e sobre eles duzentos pães, com cem cachos de passas, e cem de frutas de verão e um odre de vinho.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "vinho",
+              "strong": "H3196"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E disse o rei a Ziba: Que pretendes com isto? E disse Ziba: Os jumentos são para a casa do rei, para se montarem neles; e o pão e as frutas de verão para comerem os moços; e o vinho para beberem os cansados no deserto.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            },
+            {
+              "word": "vinho",
+              "strong": "H3196"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Então disse o rei: Ora, onde está o filho de teu senhor? E disse Ziba ao rei: Eis que ficou em Jerusalém; porque disse: Hoje me restituirá a casa de Israel o reino de meu pai.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Então disse o rei a Ziba: Eis que teu é tudo quanto tem Mefibosete. E disse Ziba: Eu me inclino, que eu ache graça em teus olhos, ó rei meu senhor.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E, chegando o rei Davi a Baurim, eis que dali saiu um homem da linhagem da casa de Saul, cujo nome era Simei, filho de Gera, e, saindo, ia amaldiçoando.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E atirava pedras contra Davi, e contra todos os servos do rei Davi; ainda que todo o povo e todos os valentes iam à sua direita e à sua esquerda.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E, amaldiçoando-o Simei, assim dizia: Sai, sai, homem de sangue, e homem de Belial.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "O Senhor te deu agora a paga de todo o sangue da casa de Saul, em cujo lugar tens reinado; já deu o Senhor o reino na mão de Absalão teu filho; e eis-te agora na tua desgraça, porque és um homem de sangue.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então disse Abisai, filho de Zeruia, ao rei: Por que amaldiçoaria este cão morto ao rei meu senhor? Deixa-me passar, e lhe tirarei a cabeça.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "morto",
+              "strong": "H4191"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Disse, porém, o rei: Que tenho eu convosco, filhos de Zeruia? Ora deixai-o amaldiçoar; pois o Senhor lhe disse: Amaldiçoa a Davi; quem pois diria: Por que assim fizeste?",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Disse mais Davi a Abisai, e a todos os seus servos: Eis que meu filho, que saiu das minhas entranhas, procura a minha morte; quanto mais ainda este benjamita? Deixai-o, que amaldiçoe; porque o Senhor lho disse.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Porventura o Senhor olhará para a minha miséria; e o Senhor me pagará com bem a sua maldição deste dia.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Prosseguiram, pois, o seu caminho, Davi e os seus homens; e também Simei ia ao longo do monte, defronte dele, caminhando e amaldiçoando, e atirava pedras contra ele, e levantava poeira.",
+          "tokens": [
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E o rei e todo o povo que ia com ele chegaram cansados, e refrescaram-se ali.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Absalão, pois, e todo o povo, os homens de Israel, vieram a Jerusalém; e Aitofel com ele.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E sucedeu que, chegando Husai, o arquita, amigo de Davi, a Absalão, disse Husai a Absalão: Viva o rei, viva o rei!",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Porém Absalão disse a Husai: É esta a tua beneficência para com o teu amigo? Por que não foste com o teu amigo?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E disse Husai a Absalão: Não, porém daquele que eleger o Senhor, e todo este povo, e todos os homens de Israel, dele serei e com ele ficarei.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E, demais disto, a quem serviria eu? Porventura não seria diante de seu filho? Como servi diante de teu pai, assim serei diante de ti.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Então disse Absalão a Aitofel: Dai conselho entre vós sobre o que devemos fazer.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E disse Aitofel a Absalão: Possue as concubinas de teu pai, que deixou para guardarem a casa; e assim todo o Israel ouvirá que te fizeste aborrecível para com teu pai; e se fortalecerão as mãos de todos os que estão contigo.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Estenderam, pois, para Absalão uma tenda no terraço; e Absalão possuiu as concubinas de seu pai, perante os olhos de todo o Israel.",
+          "tokens": [
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E era o conselho de Aitofel, que aconselhava naqueles dias, como se a palavra de Deus se consultara; tal era todo o conselho de Aitofel, assim para com Davi como para com Absalão.",
+          "tokens": [
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Disse mais Aitofel a Absalão: Deixa-me escolher doze mil homens, e me levantarei, e perseguirei a Davi esta noite.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E irei sobre ele, pois está cansado e frouxo de mãos; e o espantarei, e fugirá todo o povo que está com ele; e então ferirei somente o rei.",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E farei tornar a ti todo o povo; pois o homem a quem tu buscas é como se tornassem todos; assim todo o povo estará em paz.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E esta palavra pareceu boa aos olhos de Absalão, e aos olhos de todos os anciãos de Israel.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "boa",
+              "strong": "H2896"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Disse, porém, Absalão: Chamai agora também a Husai o arquita; e ouçamos também o que ele dirá.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E, chegando Husai a Absalão, lhe falou Absalão, dizendo: Desta maneira falou Aitofel; faremos conforme à sua palavra? Se não, fala tu.",
+          "tokens": [
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Então disse Husai a Absalão: O conselho que Aitofel deu desta vez não é bom.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "bom",
+              "strong": "H2896"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Disse mais Husai: Bem conheces tu a teu pai, e a seus homens, que são valorosos, e que estão com o espírito amargurado, como a ursa no campo, roubada dos cachorros; e também teu pai é homem de guerra, e não passará a noite com o povo.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "espírito",
+              "strong": "H7307"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Eis que agora estará escondido nalguma cova, ou em qualquer outro lugar; e será que, caindo no princípio alguns dentre eles, cada um que o ouvir então dirá: Houve derrota no povo que segue a Absalão.",
+          "tokens": [
+            {
+              "word": "princípio",
+              "strong": "H7225"
+            },
+            {
+              "word": "ouvir",
+              "strong": "H8085"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Então até o homem valente, cujo coração é como coração de leão, sem dúvida desmaiará; porque todo o Israel sabe que teu pai é valoroso, e homens valentes os que estão com ele.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Eu, porém, aconselho que com toda a pressa se ajunte a ti todo o Israel desde Dã até Berseba, em multidão como a areia do mar; e tu em pessoa vás com eles à peleja.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Dã",
+              "strong": "H5414"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então iremos a ele, em qualquer lugar que se achar, facilmente cairemos sobre ele, como o orvalho cai sobre a terra; e não ficará dele e de todos os homens que estão com ele nem ainda um só.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E, se ele se retirar para alguma cidade, todo o Israel levará cordas àquela cidade; e arrastá-la-emos até ao ribeiro, até que não se ache ali nem uma só pedrinha.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Então disse Absalão e todos os homens de Israel: Melhor é o conselho de Husai, o arquita, do que o conselho de Aitofel (porém assim o Senhor o ordenara, para aniquilar o bom conselho de Aitofel, para que o Senhor trouxesse o mal sobre Absalão).",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "bom",
+              "strong": "H2896"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E disse Husai a Zadoque e a Abiatar, sacerdotes: assim e assim aconselhou Aitofel a Absalão e aos anciãos de Israel; porém assim e assim aconselhei eu.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Agora, pois, enviai apressadamente, e avisai a Davi, dizendo: Não passes esta noite nas campinas do deserto; logo também passa ao outro lado, para que o rei e todo o povo que com ele está não seja devorado.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Estavam, pois, Jônatas e Aimaás junto à fonte de Rogel; e foi uma criada, e lho disse, e eles foram e o disseram ao rei Davi, porque não podiam ser vistos entrar na cidade.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Mas viu-os todavia um moço, e avisou a Absalão; porém ambos logo partiram apressadamente, e entraram em casa de um homem, em Baurim, o qual tinha um poço no seu pátio, e ali dentro desceram.",
+          "tokens": [
+            {
+              "word": "viu",
+              "strong": "H7200"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E tomou a mulher a tampa, e a estendeu sobre a boca do poço, e espalhou grão descascado sobre ela; assim nada se soube.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Chegando, pois, os servos de Absalão à mulher, àquela casa, disseram: Onde estão Aimaás e Jônatas? E a mulher lhes disse: Já passaram o vau das águas. E havendo-os buscado, e não os achando, voltaram para Jerusalém.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E sucedeu que, depois que se retiraram, Aimaás e Jônatas saíram do poço, e foram, e anunciaram a Davi; e disseram a Davi: Levantai-vos, e passai depressa as águas, porque assim aconselhou contra vós Aitofel.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Então Davi e todo o povo que com ele estava se levantou, e passaram o Jordão; e já pela luz da manhã nem ainda faltava um só que não tivesse passado o Jordão.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "luz",
+              "strong": "H216"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Vendo, pois, Aitofel que se não tinha seguido o seu conselho, albardou o jumento, e levantou-se, e foi para sua casa e para a sua cidade, e deu ordem à sua casa, e se enforcou e morreu, e foi sepultado na sepultura de seu pai.",
+          "tokens": [
+            {
+              "word": "Vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E Davi foi a Maanaim; e Absalão passou o Jordão, ele e todo o homem de Israel com ele.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E Absalão constituiu a Amasa em lugar de Joabe sobre o arraial; e era Amasa filho de um homem cujo nome era Itra, o israelita, o qual possuíra a Abigail, filha de Naás, irmã de Zeruia, mãe de Joabe.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "mãe",
+              "strong": "H517"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Israel, pois, e Absalão acamparam na terra de Gileade.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E sucedeu que, chegando Davi a Maanaim, Sobi, filho de Naás, de Rabá, dos filhos de Amom, e Maquir, filho de Amiel, de Lo-Debar, e Barzilai, o gileadita, de Rogelim,",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Tomaram camas e bacias, e vasilhas de barro, e trigo, e cevada, e farinha, e grão torrado, e favas, e lentilhas, também torradas,",
+          "tokens": []
+        },
+        {
+          "n": 29,
+          "text": "E mel, e manteiga, e ovelhas, e queijos de vacas, e os trouxeram a Davi e ao povo que com ele estava, para comerem, porque disseram: Este povo no deserto está faminto, cansado e sedento.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E Davi contou o povo que tinha consigo, e pôs sobre eles capitães de mil e capitães de cem.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E Davi enviou o povo, um terço sob o mando de Joabe, e outro terço sob o mando de Abisai, filho de Zeruia, irmão de Joabe, e outro terço sob o mando de Itai, o giteu; e disse o rei ao povo: Eu também sairei convosco.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Porém o povo disse: Não sairás, porque, se formos obrigados a fugir, não se importarão conosco; e, ainda que metade de nós morra, não farão caso de nós, porque ainda, tais como nós somos, ajuntarás dez mil; melhor será, pois, que da cidade nos sirvas de socorro.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "farão",
+              "strong": "H6547"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Então disse-lhe Davi: O que bem parecer aos vossos olhos, farei. E o rei se pôs do lado da porta, e todo o povo saiu em centenas e em milhares.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E o rei deu ordem a Joabe, e a Abisai, e a Itai, dizendo: Brandamente tratai, por amor de mim, ao jovem Absalão. E todo o povo ouviu quando o rei deu ordem a todos os capitães acerca de Absalão.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "amor",
+              "strong": "H160"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "ouviu",
+              "strong": "H8085"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Saiu, pois, o povo ao campo, a encontrar-se com Israel, e deu-se a batalha no bosque de Efraim.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E ali foi ferido o povo de Israel, diante dos servos de Davi; e naquele mesmo dia houve ali uma grande derrota de vinte mil.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Porque ali se derramou a batalha sobre a face de toda aquela terra; e foram mais os do povo que o bosque consumiu do que os que a espada consumiu naquele dia.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E Absalão se encontrou com os servos de Davi; e Absalão ia montado num mulo; e, entrando o mulo debaixo dos espessos ramos de um grande carvalho, pegou-se-lhe a cabeça no carvalho, e ficou pendurado entre o céu e a terra; e o mulo, que estava debaixo dele, passou adiante.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "céu",
+              "strong": "H8064"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "O que vendo um homem, fez saber a Joabe, e disse: Eis que vi a Absalão pendurado num carvalho.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Então disse Joabe ao homem que lho fizera saber: Pois que o viste, por que o não feriste logo ali em terra? E forçoso seria o eu dar-te dez moedas de prata e um cinto.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "dar",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Disse, porém, aquele homem a Joabe: Ainda que eu pudesse pesar nas minhas mãos mil moedas de prata, não estenderia a minha mão contra o filho do rei, pois bem ouvimos que o rei te deu ordem a ti, e a Abisai, e a Itai, dizendo: Guardai-vos, cada um de vós, de tocar no jovem Absalão.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Guardai",
+              "strong": "H8104"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Ainda que cometesse mentira a risco da minha vida, nem por isso coisa nenhuma se esconderia ao rei; e tu mesmo te oporias.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Então disse Joabe: Não me demorarei assim contigo aqui. E tomou três dardos, e traspassou com eles o coração de Absalão, estando ele ainda vivo no meio do carvalho.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "vivo",
+              "strong": "H2416"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E o cercavam dez moços, que levaram as armas de Joabe. E feriram a Absalão, e o mataram.",
+          "tokens": []
+        },
+        {
+          "n": 16,
+          "text": "Então tocou Joabe a buzina, e voltou o povo de perseguir a Israel, porque Joabe deteve o povo.",
+          "tokens": [
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E tomaram a Absalão, e o lançaram no bosque, numa grande cova, e levantaram sobre ele um mui grande montão de pedras; e todo o Israel fugiu, cada um para a sua tenda.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Ora, Absalão, quando ainda vivia, tinha tomado e levantado para si uma coluna, que está no vale do rei, porque dizia: Filho nenhum tenho para conservar a memória do meu nome. E chamou aquela coluna pelo seu próprio nome; por isso até ao dia de hoje se chama o Pilar de Absalão.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Então disse Aimaás, filho de Zadoque: Deixa-me correr, e denunciarei ao rei que já o Senhor o vingou da mão de seus inimigos.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Mas Joabe lhe disse: Tu não serás hoje o portador de novas, porém outro dia as levarás; mas hoje não darás a nova, porque é morto o filho do rei.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "morto",
+              "strong": "H4191"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E disse Joabe a Cusi: Vai tu, e dize ao rei o que viste. E Cusi se inclinou a Joabe, e correu.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E prosseguiu Aimaás, filho de Zadoque, e disse a Joabe: Seja o que for deixa-me também correr após Cusi. E disse Joabe: Para que agora correrias tu, meu filho, pois não tens mensagem conveniente?",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Seja o que for, disse Aimaás, correrei. E Joabe lhe disse: Corre. E Aimaás correu pelo caminho da planície, e passou a Cusi.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E Davi estava assentado entre as duas portas; e a sentinela subiu ao terraço da porta junto ao muro; e levantou os olhos, e olhou, e eis que um homem corria só.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Gritou, pois, a sentinela, e o disse ao rei: Se vem só, há novas em sua boca. E vinha andando e chegando.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            },
+            {
+              "word": "vinha",
+              "strong": "H3754"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Então viu a sentinela outro homem que corria, e a sentinela gritou ao porteiro, e disse: Eis que lá vem outro homem correndo só. Então disse o rei: Também traz este novas.",
+          "tokens": [
+            {
+              "word": "viu",
+              "strong": "H7200"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Disse mais a sentinela: Vejo o correr do primeiro, que parece ser o correr de Aimaás, filho de Zadoque. Então disse o rei: Este é homem de bem, e virá com boas novas.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Gritou, pois, Aimaás, e disse ao rei: Paz. E inclinou-se ao rei com o rosto em terra, e disse: Bendito seja o SENHOR, que entregou os homens que levantaram a mão contra o rei meu senhor.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Então disse o rei: Vai bem com o jovem, com Absalão? E disse Aimaás: Vi um grande alvoroço, quando Joabe mandou o servo do rei, e a mim teu servo; porém não sei o que era.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E disse o rei: Vira-te, e põe-te aqui. E virou-se, e parou.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "E eis que vinha Cusi; e disse Cusi: Anunciar-se-á ao rei meu senhor que hoje o SENHOR te vingou da mão de todos os que se levantaram contra ti.",
+          "tokens": [
+            {
+              "word": "vinha",
+              "strong": "H3754"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Então disse o rei a Cusi: Vai bem com o jovem, com Absalão? E disse Cusi: Sejam como aquele jovem os inimigos do rei meu senhor, e todos os que se levantam contra ti para mal.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Então o rei se perturbou, e subiu à sala que estava por cima da porta, e chorou; e andando, dizia assim: Meu filho Absalão, meu filho, meu filho, Absalão! Quem me dera que eu morrera por ti, Absalão, meu filho, meu filho!",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E disseram a Joabe: Eis que o rei anda chorando, e lastima-se por Absalão.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "anda",
+              "strong": "H1980"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Então a vitória se tornou naquele mesmo dia em tristeza por todo o povo; porque naquele mesmo dia o povo ouvira dizer: Mui triste está o rei por causa de seu filho.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E naquele mesmo dia o povo entrou às furtadelas na cidade, como o faz quando, envergonhado, foge da peleja.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Estava, pois, o rei com o rosto coberto; e o rei gritava a alta voz: Meu filho Absalão, Absalão meu filho, meu filho!",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Então entrou Joabe na casa do rei, e disse: Hoje envergonhaste o rosto de todos os teus servos, que livraram hoje a tua vida, e a vida de teus filhos, e de tuas filhas, e a vida de tuas mulheres, e a vida de tuas concubinas;",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Amando tu aos teus inimigos, e odiando aos teus amigos. Porque hoje dás a entender que nada valem para contigo príncipes e servos; porque entendo hoje que se Absalão vivesse, e todos nós hoje fôssemos mortos, estarias bem contente.",
+          "tokens": [
+            {
+              "word": "entender",
+              "strong": "H998"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "mortos",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Levanta-te, pois, agora; sai, e fala conforme ao coração de teus servos; porque pelo Senhor te juro que, se não saíres, nem um só homem ficará contigo esta noite; e maior mal te será isto do que todo o mal que tem vindo sobre ti desde a tua mocidade até agora.",
+          "tokens": [
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Então o rei se levantou, e se assentou à porta; e fizeram saber a todo o povo dizendo: Eis que o rei está assentado à porta. Então todo o povo veio apresentar-se diante do rei; porém Israel havia fugido cada um para a sua tenda.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E todo o povo, em todas as tribos de Israel, andava porfiando entre si, dizendo: O rei nos tirou das mãos de nossos inimigos, e ele nos livrou das mãos dos filisteus; e agora fugiu da terra por causa de Absalão.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E Absalão, a quem ungimos sobre nós, já morreu na peleja; agora, pois, por que vos calais, e não fazeis voltar o rei?",
+          "tokens": [
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "voltar",
+              "strong": "H7725"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Então o rei Davi mandou dizer a Zadoque e a Abiatar, sacerdotes: Falai aos anciãos de Judá, dizendo: Por que seríeis vós os últimos em tornar a trazer o rei para a sua casa? Porque as palavras de todo o Israel chegaram ao rei, até à sua casa.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Vós sois meus irmãos, meus ossos e minha carne sois vós; por que, pois, seríeis os últimos em tornar a trazer o rei?",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "carne",
+              "strong": "H1320"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E a Amasa direis: Porventura não és tu meu osso e minha carne? Assim me faça Deus, e outro tanto, se não fores capitão do arraial diante de mim para sempre, em lugar de Joabe.",
+          "tokens": [
+            {
+              "word": "carne",
+              "strong": "H1320"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Assim moveu ele o coração de todos os homens de Judá, como o de um só homem; e enviaram ao rei, dizendo: Volta tu com todos os teus servos.",
+          "tokens": [
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Então o rei voltou, e chegou até ao Jordão; e Judá veio a Gilgal, para ir encontrar-se com o rei, ao outro lado do Jordão.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E apressou-se Simei, filho de Gera, benjamita, que era de Baurim; e desceu com os homens de Judá a encontrar-se com o rei Davi.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E com ele mil homens de Benjamim, como também Ziba, servo da casa de Saul, e seus quinze filhos, e seus vinte servos com ele; e prontamente passaram o Jordão adiante do rei.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E, atravessando a barca, para fazer passar a casa do rei e para fazer o que bem parecesse aos seus olhos, então Simei, filho de Gera, se prostrou diante do rei, quando ele passava o Jordão.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "prostrou",
+              "strong": "H7812"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E disse ao rei: Não me impute meu senhor a minha culpa, e não te lembres do que tão perversamente fez teu servo, no dia em que o rei meu senhor saiu de Jerusalém; não conserve o rei isso no coração.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Porque teu servo deveras confessa que pecou; porém eis que eu sou o primeiro que de toda a casa de José desci a encontrar-me com o rei meu senhor.",
+          "tokens": [
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "José",
+              "strong": "H3124"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Então respondeu Abisai, filho de Zeruia, e disse: Não morreria, pois, Simei por isto, havendo amaldiçoado ao ungido do Senhor?",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "ungido",
+              "strong": "H4899"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Porém Davi disse: Que tenho eu convosco, filhos de Zeruia, para que hoje me sejais adversários? Morreria alguém hoje em Israel? Pois porventura não sei que hoje fui feito rei sobre Israel?",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E disse o rei a Simei: Não morrerás. E o rei lho jurou.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Também Mefibosete, filho de Saul, desceu a encontrar-se com o rei, e não tinha lavado os pés, nem tinha feito a barba, nem tinha lavado as suas vestes desde o dia em que o rei tinha saído até ao dia em que voltou em paz.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E sucedeu que, vindo ele a Jerusalém a encontrar-se com o rei, disse-lhe o rei: Por que não foste comigo, Mefibosete?",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E disse ele: Ó rei meu senhor, o meu servo me enganou; porque o teu servo dizia: Albardarei um jumento, e nele montarei, e irei com o rei; pois o teu servo é coxo.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Demais disto, falsamente acusou a teu servo diante do rei meu senhor; porém o rei meu senhor é como um anjo de Deus; faze, pois, o que parecer bem aos teus olhos.",
+          "tokens": [
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Porque toda a casa de meu pai não era senão de homens dignos de morte diante do rei meu senhor; e contudo puseste a teu servo entre os que comem à tua mesa; e que mais direito tenho eu de clamar ao rei?",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "direito",
+              "strong": "H4941"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "E disse-lhe o rei: Por que ainda mais falas de teus negócios? Já disse eu: Tu e Ziba reparti as terras.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E disse Mefibosete ao rei: Tome ele também tudo; pois já veio o rei meu senhor em paz à sua casa.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Também Barzilai, o gileadita, desceu de Rogelim, e passou com o rei o Jordão, para o acompanhar ao outro lado do Jordão.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E era Barzilai muito velho, da idade de oitenta anos; e ele tinha sustentado o rei, quando tinha a sua morada em Maanaim, porque era grande homem.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "E disse o rei a Barzilai: Passa tu comigo, e sustentar-te-ei comigo em Jerusalém.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Porém Barzilai disse ao rei: Quantos serão os dias dos anos da minha vida, para que suba com o rei a Jerusalém?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Da idade de oitenta anos sou eu hoje; poderia eu discernir entre o bom e o mau? Poderia o teu servo ter gosto no que comer e beber? Poderia eu mais ouvir a voz dos cantores e cantoras? E por que será o teu servo ainda pesado ao rei meu senhor?",
+          "tokens": [
+            {
+              "word": "Da",
+              "strong": "H5414"
+            },
+            {
+              "word": "bom",
+              "strong": "H2896"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "ouvir",
+              "strong": "H8085"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Com o rei passará teu servo ainda um pouco mais além do Jordão; e por que me recompensará o rei com tal recompensa?",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Deixa voltar o teu servo, e morrerei na minha cidade, junto à sepultura de meu pai e de minha mãe; mas eis aí está o teu servo Quimã; passe ele com o rei meu senhor, e faze-lhe o que bem parecer aos teus olhos.",
+          "tokens": [
+            {
+              "word": "voltar",
+              "strong": "H7725"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "mãe",
+              "strong": "H517"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Então disse o rei: Quimã passará comigo, e eu lhe farei como bem parecer aos teus olhos, e tudo quanto me pedires te farei.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "Havendo, pois, todo o povo passado o Jordão, e passando também o rei, beijou o rei a Barzilai, e o abençoou; e ele voltou para o seu lugar.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "abençoou",
+              "strong": "H1288"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "E dali passou o rei a Gilgal, e Quimã passou com ele; e todo o povo de Judá conduziu o rei, como também a metade do povo de Israel.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "E eis que todos os homens de Israel vieram ao rei, e disseram ao rei: Por que te furtaram nossos irmãos, os homens de Judá, e conduziram o rei e a sua casa dalém do Jordão, e todos os homens de Davi com eles?",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "Então responderam todos os homens de Judá aos homens de Israel: Porquanto o rei é nosso parente; e por que vos irais por isso? Porventura comemos às custas do rei, ou nos deu algum presente?",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "presente",
+              "strong": "H4503"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "E responderam os homens de Israel aos homens de Judá, e disseram: Dez partes temos no rei, e até em Davi mais temos nós do que vós; por que, pois, não fizestes conta de nós, para que a nossa palavra não fosse a primeira, para tornar a trazer o nosso rei? Porém a palavra dos homens de Judá foi mais forte do que a palavra dos homens de Israel.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Então se achou ali por acaso um homem de Belial, cujo nome era Seba, filho de Bicri, homem de Benjamim, o qual tocou a buzina, e disse: Não temos parte em Davi, nem herança no filho de Jessé; cada um às suas tendas, ó Israel.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Então todos os homens de Israel se separaram de Davi, e seguiram Seba, filho de Bicri; porém os homens de Judá se uniram ao seu rei desde o Jordão até Jerusalém.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Vindo, pois, Davi para sua casa, em Jerusalém, tomou o rei as dez mulheres, suas concubinas, que deixara para guardarem a casa, e as pôs numa casa sob guarda, e as sustentava; porém não as possuiu; e estiveram encerradas até ao dia da sua morte, vivendo como viúvas.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "guarda",
+              "strong": "H8104"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Disse mais o rei a Amasa: Convoca-me os homens de Judá para o terceiro dia; e tu então apresenta-te aqui.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E foi Amasa para convocar a Judá; porém demorou-se além do tempo que lhe tinha sido designado.",
+          "tokens": [
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Então disse Davi a Abisai: Mais mal agora nos fará Seba, o filho de Bicri, do que Absalão; por isso toma tu os servos de teu senhor, e persegue-o, para que não ache para si cidades fortes, e escape dos nossos olhos.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Então saíram atrás dele os homens de Joabe, e os quereteus, e os peleteus, e todos os valentes; estes saíram de Jerusalém para irem atrás de Seba, filho de Bicri.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Chegando eles, pois, à pedra grande, que está junto a Gibeom, Amasa veio diante deles; e estava Joabe cingido da sua roupa que vestira, e sobre ela um cinto, ao qual estava presa a espada a seus lombos, na sua bainha; e, adiantando-se ele, lhe caiu a espada.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E disse Joabe a Amasa: Vai bem, meu irmão? E Joabe, com a mão direita, pegou da barba de Amasa, para o beijar.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E Amasa não se resguardou da espada que estava na mão de Joabe, de sorte que este o feriu com ela na quinta costela, e lhe derramou por terra as entranhas, e não o feriu segunda vez, e morreu; então Joabe e Abisai, seu irmão, foram atrás de Seba, filho de Bicri.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Mas um dentre os homens de Joabe parou junto a ele, e disse: Quem há que queira bem a Joabe, e quem seja por Davi, siga Joabe.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E Amasa estava envolto no seu sangue no meio do caminho; e, vendo aquele homem, que todo o povo parava, removeu a Amasa do caminho para o campo, e lançou sobre ele um manto; porque via que todo aquele que chegava a ele parava.",
+          "tokens": [
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E, como estava removido do caminho, todos os homens seguiram a Joabe, para perseguirem a Seba, filho de Bicri.",
+          "tokens": [
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E ele passou por todas as tribos de Israel até Abel, e Bete-Maaca e a todos os beritas; e ajuntaram-se, e também o seguiram.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E vieram, e o cercaram em Abel de Bete-Maaca, e levantaram uma barragem contra a cidade, e isto colocado na trincheira; e todo o povo que estava com Joabe batia no muro, para derrubá-lo.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Então uma mulher sábia gritou de dentro da cidade: Ouvi, ouvi, peço-vos que digais a Joabe: Chega-te aqui, para que eu te fale.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "sábia",
+              "strong": "H2451"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Ouvi",
+              "strong": "H8085"
+            },
+            {
+              "word": "ouvi",
+              "strong": "H8085"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Chegando-se a ela, a mulher lhe disse: Tu és Joabe? E disse ele: Eu sou. E ela lhe disse: Ouve as palavras da tua serva. E disse ele: Ouço.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Ouve",
+              "strong": "H8085"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Então falou ela, dizendo: Antigamente costumava-se dizer: Certamente pediram conselho a Abel; e assim resolveram.",
+          "tokens": [
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Sou eu uma das pacíficas e das fiéis em Israel; e tu procuras matar uma cidade que é mãe em Israel; por que, pois, devorarias a herança do Senhor?",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "mãe",
+              "strong": "H517"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Então respondeu Joabe, e disse: Longe, longe de mim que eu tal faça, que eu devore ou arruíne!",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "A coisa não é assim; porém um só homem do monte de Efraim, cujo nome é Seba, filho de Bicri, levantou a mão contra o rei, contra Davi; entregai-me só este, e retirar-me-ei da cidade. Então disse a mulher a Joabe: Eis que te será lançada a sua cabeça pelo muro.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E a mulher, na sua sabedoria, foi a todo o povo, e cortaram a cabeça de Seba, filho de Bicri, e a lançaram a Joabe; então este tocou a buzina, e se retiraram da cidade, cada um para a sua tenda, e Joabe voltou a Jerusalém, ao rei.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "sabedoria",
+              "strong": "H2451"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E Joabe estava sobre todo o exército de Israel; e Benaia, filho de Joiada, sobre os quereteus e sobre os peleteus;",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E Adorão sobre os tributos; e Jeosafá, filho de Ailude, era o cronista;",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E Seva, o escrivão; e Zadoque e Abiatar, os sacerdotes;",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E também Ira, o jairita, era o oficial-mor de Davi.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E houve nos dias de Davi uma fome de três anos consecutivos; e Davi consultou ao SENHOR, e o SENHOR lhe disse: É por causa de Saul e da sua casa sanguinária, porque matou os gibeonitas.",
+          "tokens": [
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Então chamou o rei aos gibeonitas, e lhes falou (ora os gibeonitas não eram dos filhos de Israel, mas do restante dos amorreus, e os filhos de Israel lhes tinham jurado, porém Saul, no seu zelo à causa dos filhos de Israel e de Judá, procurou feri-los).",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Disse, pois, Davi aos gibeonitas: Que quereis que eu vos faça? E que satisfação vos darei, para que abençoeis a herança do Senhor?",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Então os gibeonitas lhe disseram: Não é por prata nem ouro que temos questão com Saul e com sua casa; nem tampouco pretendemos matar pessoa alguma em Israel. E disse ele: Que é, pois, que quereis que vos faça?",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E disseram ao rei: O homem que nos destruiu, e intentou contra nós de modo que fôssemos assolados, sem que pudéssemos subsistir em termo algum de Israel,",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "De seus filhos se nos dêem sete homens, para que os enforquemos ao Senhor em Gibeá de Saul, o eleito do Senhor. E disse o rei: Eu os darei.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Porém o rei poupou a Mefibosete, filho de Jônatas, filho de Saul, por causa do juramento do Senhor, que entre eles houvera, entre Davi e Jônatas, filho de Saul.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Mas tomou o rei os dois filhos de Rispa, filha da Aiá, que tinha tido de Saul, a Armoni e a Mefibosete; como também os cinco filhos da irmã de Mical, filha de Saul, que tivera de Adriel, filho de Barzilai, meolatita,",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E os entregou na mão dos gibeonitas, os quais os enforcaram no monte, perante o Senhor; e caíram estes sete juntamente; e foram mortos nos dias da sega, nos dias primeiros, no princípio da sega das cevadas.",
+          "tokens": [
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "mortos",
+              "strong": "H4191"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "princípio",
+              "strong": "H7225"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Então Rispa, filha de Aiá, tomou um pano de cilício, e estendeu-lho sobre uma penha, desde o princípio da sega até que a água do céu caiu sobre eles; e não deixou as aves do céu pousar sobre eles de dia, nem os animais do campo de noite.",
+          "tokens": [
+            {
+              "word": "princípio",
+              "strong": "H7225"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "água",
+              "strong": "H4325"
+            },
+            {
+              "word": "céu",
+              "strong": "H8064"
+            },
+            {
+              "word": "céu",
+              "strong": "H8064"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E foi contado a Davi o que fizera Rispa, filha de Aiá, concubina de Saul.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então foi Davi, e tomou os ossos de Saul, e os ossos de Jônatas seu filho, dos moradores de Jabes-Gileade, os quais os furtaram da rua de Bete-Sã, onde os filisteus os tinham pendurado, quando feriram a Saul em Gilboa.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E fez subir dali os ossos de Saul, e os ossos de Jônatas seu filho; e ajuntaram também os ossos dos enforcados.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Enterraram os ossos de Saul, e de Jônatas seu filho na terra de Benjamim, em Zela, na sepultura de seu pai Quis, e fizeram tudo o que o rei ordenara; e depois disto Deus se aplacou com a terra.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Tiveram mais os filisteus uma peleja contra Israel; e desceu Davi, e com ele os seus servos; e tanto pelejaram contra os filisteus, que Davi se cansou.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E Isbi-Benobe, que era dos filhos do gigante, cuja lança pesava trezentos siclos de cobre, e que cingia uma espada nova, intentou ferir a Davi.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Porém, Abisai, filho de Zeruia, o socorreu, e feriu o filisteu, e o matou. Então os homens de Davi lhe juraram, dizendo: Nunca mais sairás conosco à peleja, para que não apagues a lâmpada de Israel.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E aconteceu depois disto que houve em Gobe ainda outra peleja contra os filisteus; então Sibecai, o husatita, feriu a Safe, que era dos filhos do gigante.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Houve mais outra peleja contra os filisteus em Gobe; e El-Hanã, filho de Jaaré-Oregim, o belemita, feriu Golias, o giteu, de cuja lança era a haste como órgão de tecelão.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Houve ainda também outra peleja em Gate, onde estava um homem de alta estatura, que tinha em cada mão seis dedos, e em cada pé outros seis, vinte e quatro ao todo, e também este nascera do gigante.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E injuriava a Israel; porém Jônatas, filho de Simei, irmão de Davi, o feriu.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Estes quatro nasceram ao gigante em Gate; e caíram pela mão de Davi e pela mão de seus servos.",
+          "tokens": [
+            {
+              "word": "nasceram",
+              "strong": "H3205"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E Falou Davi ao SENHOR as palavras deste cântico, no dia em que o SENHOR o livrou das mãos de todos os seus inimigos e das mãos de Saul.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Disse pois: O Senhor é o meu rochedo, e o meu lugar forte, e o meu libertador.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Deus é o meu rochedo, nele confiarei; o meu escudo, e a força da minha salvação, o meu alto retiro, e o meu refúgio. Ó meu Salvador, da violência me salvas.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "salvação",
+              "strong": "H3444"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "O Senhor, digno de louvor, invocarei, e de meus inimigos ficarei livre,",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "louvor",
+              "strong": "H1984"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Porque me cercaram as ondas de morte; as torrentes dos homens ímpios me assombraram.",
+          "tokens": [
+            {
+              "word": "morte",
+              "strong": "H4191"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "ímpios",
+              "strong": "H7563"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Cordas do inferno me cingiram; encontraram-me laços de morte.",
+          "tokens": [
+            {
+              "word": "morte",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Estando em angústia, invoquei ao Senhor, e a meu Deus clamei; do seu templo ouviu ele a minha voz, e o meu clamor chegou aos seus ouvidos.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "ouviu",
+              "strong": "H8085"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Então se abalou e tremeu a terra, os fundamentos dos céus se moveram e abalaram, porque ele se irou.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "céus",
+              "strong": "H8064"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Subiu fumaça de suas narinas, e da sua boca um fogo devorador; carvões se incenderam dele.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E abaixou os céus, e desceu; e uma escuridão havia debaixo de seus pés.",
+          "tokens": [
+            {
+              "word": "céus",
+              "strong": "H8064"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E subiu sobre um querubim, e voou; e foi visto sobre as asas do vento.",
+          "tokens": [
+            {
+              "word": "vento",
+              "strong": "H7307"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E por tendas pôs as trevas ao redor de si; ajuntamento de águas, nuvens dos céus.",
+          "tokens": [
+            {
+              "word": "trevas",
+              "strong": "H2822"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "céus",
+              "strong": "H8064"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Pelo resplendor da sua presença brasas de fogo se acenderam.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Trovejou desde os céus o Senhor; e o Altíssimo fez soar a sua voz.",
+          "tokens": [
+            {
+              "word": "céus",
+              "strong": "H8064"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E disparou flechas, e os dissipou; raios, e os perturbou.",
+          "tokens": []
+        },
+        {
+          "n": 16,
+          "text": "E apareceram as profundezas do mar, e os fundamentos do mundo se descobriram; pela repreensão do Senhor, pelo sopro do vento das suas narinas.",
+          "tokens": [
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "sopro",
+              "strong": "H7307"
+            },
+            {
+              "word": "vento",
+              "strong": "H7307"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Desde o alto enviou, e me tomou; tirou-me das muitas águas.",
+          "tokens": [
+            {
+              "word": "águas",
+              "strong": "H4325"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Livrou-me do meu poderoso inimigo, e daqueles que me tinham ódio, porque eram mais fortes do que eu.",
+          "tokens": []
+        },
+        {
+          "n": 19,
+          "text": "Encontraram-me no dia da minha calamidade; porém o Senhor se fez o meu amparo.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E tirou-me para um lugar espaçoso, e livrou-me, porque tinha prazer em mim.",
+          "tokens": []
+        },
+        {
+          "n": 21,
+          "text": "Recompensou-me o Senhor conforme a minha justiça; conforme a pureza de minhas mãos me retribuiu.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "justiça",
+              "strong": "H6666"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Porque guardei os caminhos do Senhor; e não me apartei impiamente do meu Deus.",
+          "tokens": [
+            {
+              "word": "caminhos",
+              "strong": "H1870"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Porque todos os seus juízos estavam diante de mim; e de seus estatutos não me desviei.",
+          "tokens": [
+            {
+              "word": "juízos",
+              "strong": "H4941"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Porém fui sincero perante ele; e guardei-me da minha iniqüidade.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E me retribuiu o Senhor conforme a minha justiça, conforme a minha pureza diante dos seus olhos.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "justiça",
+              "strong": "H6666"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Com o benigno te mostras benigno; com o homem íntegro te mostras perfeito.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Com o puro te mostras puro; mas com o perverso te mostras rígido.",
+          "tokens": [
+            {
+              "word": "perverso",
+              "strong": "H7563"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "E o povo aflito livras; mas teus olhos são contra os altivos, e tu os abaterás.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Porque tu, Senhor, és a minha lâmpada; e o Senhor ilumina as minhas trevas.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "trevas",
+              "strong": "H2822"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Porque contigo passo pelo meio de um esquadrão; pelo meu Deus salto um muro.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "O caminho de Deus é perfeito, e a palavra do Senhor refinada; e é o escudo de todos os que nele confiam.",
+          "tokens": [
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Por que, quem é Deus, senão o Senhor? E quem é rochedo, senão o nosso Deus?",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Deus é a minha fortaleza e a minha força, e ele perfeitamente desembaraça o meu caminho.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Faz ele os meus pés como os das cervas, e me põe sobre as minhas alturas.",
+          "tokens": []
+        },
+        {
+          "n": 35,
+          "text": "Instrui as minhas mãos para a peleja, de maneira que um arco de cobre se quebra pelos meus braços.",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Também me deste o escudo da tua salvação, e pela tua brandura me vieste a engrandecer.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "salvação",
+              "strong": "H3444"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Alargaste os meus passos debaixo de mim, e não vacilaram os meus artelhos.",
+          "tokens": []
+        },
+        {
+          "n": 38,
+          "text": "Persegui os meus inimigos, e os derrotei, e nunca me tornei até que os consumisse.",
+          "tokens": []
+        },
+        {
+          "n": 39,
+          "text": "E os consumi, e os atravessei, de modo que nunca mais se levantaram, mas caíram debaixo dos meus pés.",
+          "tokens": []
+        },
+        {
+          "n": 40,
+          "text": "Porque me cingiste de força para a peleja; fizeste abater-se debaixo de mim os que se levantaram contra mim,",
+          "tokens": []
+        },
+        {
+          "n": 41,
+          "text": "E deste-me o pescoço de meus inimigos, daqueles que me tinham ódio, e os destruí.",
+          "tokens": []
+        },
+        {
+          "n": 42,
+          "text": "Olharam, porém não houve libertador; sim, para o Senhor, porém não lhes respondeu.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "Então os moí como o pó da terra; como a lama das ruas os trilhei e dissipei.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 44,
+          "text": "Também me livraste das contendas do meu povo; guardaste-me para cabeça das nações; o povo que não conhecia me servirá.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "nações",
+              "strong": "H1471"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 45,
+          "text": "Os filhos de estranhos se me sujeitaram; ouvindo a minha voz, me obedeceram.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 46,
+          "text": "Os filhos de estranhos desfaleceram; e, cingindo-se, saíram dos seus esconderijos.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 47,
+          "text": "Vive o Senhor, e bendito seja o meu rochedo; e exaltado seja Deus, a rocha da minha salvação,",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "salvação",
+              "strong": "H3444"
+            }
+          ]
+        },
+        {
+          "n": 48,
+          "text": "O Deus que me dá inteira vingança, e sujeita os povos debaixo de mim.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "dá",
+              "strong": "H5414"
+            },
+            {
+              "word": "povos",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 49,
+          "text": "E o que me tira dentre os meus inimigos; e tu me exaltas sobre os que contra mim se levantam; do homem violento me livras.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 50,
+          "text": "Por isso, ó Senhor, te louvarei entre os gentios, e entoarei louvores ao teu nome.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "louvarei",
+              "strong": "H3034"
+            },
+            {
+              "word": "gentios",
+              "strong": "H1471"
+            },
+            {
+              "word": "louvores",
+              "strong": "H1984"
+            }
+          ]
+        },
+        {
+          "n": 51,
+          "text": "Ele é a torre das salvações do seu rei, e usa de benignidade com o seu ungido, com Davi, e com a sua descendência para sempre.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "benignidade",
+              "strong": "H2617"
+            },
+            {
+              "word": "ungido",
+              "strong": "H4899"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "descendência",
+              "strong": "H2233"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E estas são as últimas palavras de Davi: Diz Davi, filho de Jessé, e diz o homem que foi levantado em altura, o ungido do Deus de Jacó, e o suave em salmos de Israel.",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "ungido",
+              "strong": "H4899"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jacó",
+              "strong": "H3290"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "O Espírito do Senhor falou por mim, e a sua palavra está na minha boca.",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "H7307"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Disse o Deus de Israel, a Rocha de Israel a mim me falou: Haverá um justo que domine sobre os homens, que domine no temor de Deus.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "justo",
+              "strong": "H6666"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "temor",
+              "strong": "H3374"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E será como a luz da manhã, quando sai o sol, da manhã sem nuvens, quando pelo seu resplendor e pela chuva a erva brota da terra.",
+          "tokens": [
+            {
+              "word": "luz",
+              "strong": "H216"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Ainda que a minha casa não seja tal para com Deus, contudo estabeleceu comigo uma aliança eterna, que em tudo será bem ordenado e guardado, pois toda a minha salvação e todo o meu prazer está nele, apesar de que ainda não o faz brotar.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "eterna",
+              "strong": "H5769"
+            },
+            {
+              "word": "salvação",
+              "strong": "H3444"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Porém os filhos de Belial todos serão como os espinhos que se lançam fora, porque não podem ser tocados com a mão.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Mas qualquer que os tocar se armará de ferro e da haste de uma lança; e a fogo serão totalmente queimados no mesmo lugar.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Estes são os nomes dos poderosos que Davi teve: Josebe-Bassebete, filho de Taquemoni, o principal dos capitães; este era Adino, o eznita, que se opusera a oitocentos, e os feriu de uma vez.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E depois dele Eleazar, filho de Dodó, filho de Aoí, entre os três valentes que estavam com Davi quando provocaram os filisteus que ali se ajuntaram à peleja, e quando se retiraram os homens de Israel.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Este se levantou, e feriu os filisteus, até lhe cansar a mão e ficar a mão pegada à espada; e naquele dia o Senhor efetuou um grande livramento; e o povo voltou junto dele, somente a tomar o despojo.",
+          "tokens": [
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E depois dele Samá, filho de Agé, o hararita, quando os filisteus se ajuntaram numa multidão, onde havia um pedaço de terra cheio de lentilhas, e o povo fugira de diante dos filisteus.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Este, pois, se pôs no meio daquele pedaço de terra, e o defendeu, e feriu os filisteus; e o Senhor efetuou um grande livramento.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Também três dos trinta chefes desceram, e no tempo da sega foram a Davi, à caverna de Adulão; e a multidão dos filisteus acampara no vale de Refaim.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Davi estava então num lugar forte, e a guarnição dos filisteus em Belém.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E teve Davi desejo, e disse: Quem me dera beber da água da cisterna de Belém, que está junto à porta!",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "água",
+              "strong": "H4325"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Então aqueles três poderosos romperam pelo arraial dos filisteus, e tiraram água da cisterna de Belém, que está junto à porta, e a tomaram, e a trouxeram a Davi; porém ele não a quis beber, mas derramou-a perante o Senhor.",
+          "tokens": [
+            {
+              "word": "água",
+              "strong": "H4325"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E disse: Guarda-me, ó Senhor, de que tal faça; beberia eu o sangue dos homens que foram com risco da sua vida? De maneira que não a quis beber; isto fizeram aqueles três poderosos.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Guarda",
+              "strong": "H8104"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Também Abisai, irmão de Joabe, filho de Zeruia, era chefe de três; e este alçou a sua lança contra trezentos e os feriu; e tinha nome entre os três.",
+          "tokens": [
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "chefe",
+              "strong": "H7218"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Porventura este não era o mais nobre dentre estes três? Pois era o primeiro deles; porém aos primeiros três não chegou.",
+          "tokens": []
+        },
+        {
+          "n": 20,
+          "text": "Também Benaia, filho de Joiada, filho de um homem valoroso de Cabzeel, grande em obras, este feriu dois fortes heróis de Moabe; e desceu ele, e feriu um leão no meio duma cova, no tempo da neve.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Também este feriu um egípcio, homem de respeito; e na mão do egípcio havia uma lança, porém ele desceu a ele com um cajado, e arrancou a lança da mão do egípcio, e com ela o matou.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Estas coisas fez Benaia, filho de Joiada, pelo que teve nome entre três poderosos.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Dentre os trinta ele era o mais nobre, porém aos três primeiros não chegou; e Davi o pôs sobre os seus guardas.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Asael, irmão de Joabe, estava entre os trinta; El-Hanã, filho de Dodó, de Belém;",
+          "tokens": [
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Samá, harodita; Elica, harodita;",
+          "tokens": []
+        },
+        {
+          "n": 26,
+          "text": "Helez, paltita; Ira, filho de Iques, tecoíta;",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Abiezer, anatotita; Mebunai, husatita;",
+          "tokens": []
+        },
+        {
+          "n": 28,
+          "text": "Zalmom, aoíta; Maarai, netofatita;",
+          "tokens": []
+        },
+        {
+          "n": 29,
+          "text": "Elebe, filho de Baaná, netofatita; Itai, filho de Ribai, de Gibeá dos filhos de Benjamim;",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Benaia, piratonita; Hidai, do ribeiro de Gaás;",
+          "tokens": []
+        },
+        {
+          "n": 31,
+          "text": "Abi-Albom, arbatita; Azmavete, barumita;",
+          "tokens": []
+        },
+        {
+          "n": 32,
+          "text": "Eliaba, saalbonita; os filhos de Jásen e Jônatas;",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Samá, hararita, Aião, filho de Sarar, ararita;",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Elifelete, filho de Aasbai, filho de um maacatita; Eliã, filho de Aitofel, gilonita;",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Hesrai, carmelita; Paarai, arbita;",
+          "tokens": []
+        },
+        {
+          "n": 36,
+          "text": "Igal, filho de Natã, de Zobá; Bani, gadita;",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Zeleque, amonita; Naarai, beerotita, o que trazia as armas de Joabe, filho de Zeruia;",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Ira, itrita; Garebe, itrita;",
+          "tokens": []
+        },
+        {
+          "n": 39,
+          "text": "Urias, heteu; trinta e sete ao todo.",
+          "tokens": []
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E a ira do SENHOR se tornou a acender contra Israel; e incitou a Davi contra eles, dizendo: Vai, numera a Israel e a Judá.",
+          "tokens": [
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Disse, pois, o rei a Joabe, capitão do exército, o qual tinha consigo: Agora percorre todas as tribos de Israel, desde Dã até Berseba, e numera o povo, para que eu saiba o número do povo.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Dã",
+              "strong": "H5414"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Então disse Joabe ao rei: Ora, multiplique o SENHOR teu Deus a este povo cem vezes tanto quanto agora é, e os olhos do rei meu senhor o vejam; mas, por que deseja o rei meu senhor este negócio?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Porém a palavra do rei prevaleceu contra Joabe, e contra os capitães do exército; Joabe, pois, saiu com os capitães do exército da presença do rei, para numerar o povo de Israel.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E passaram o Jordão; e acamparam-se em Aroer, à direita da cidade que está no meio do ribeiro de Gade, junto a Jazer.",
+          "tokens": [
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E foram a Gileade, e à terra baixa de Hodsi; também foram até Dã-Jaã, e ao redor de Sidom.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Dã",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E foram à fortaleza de Tiro, e a todas as cidades dos heveus e dos cananeus; e saíram para o lado do sul de Judá, a Berseba.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Assim percorreram toda a terra; e ao cabo de nove meses e vinte dias voltaram a Jerusalém.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E Joabe deu ao rei a soma do número do povo contado; e havia em Israel oitocentos mil homens de guerra, que arrancavam da espada; e os homens de Judá eram quinhentos mil homens.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "da",
+              "strong": "H5414"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E pesou o coração de Davi, depois de haver numerado o povo; e disse Davi ao Senhor: Muito pequei no que fiz; porém agora ó Senhor, peço-te que perdoes a iniqüidade do teu servo; porque tenho procedido mui loucamente.",
+          "tokens": [
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Levantando-se, pois, Davi pela manhã, veio a palavra do Senhor ao profeta Gade, vidente de Davi, dizendo:",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "profeta",
+              "strong": "H5030"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Vai, e dize a Davi: Assim diz o Senhor: Três coisas te ofereço; escolhe uma delas, para que ta faça.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Foi, pois, Gade a Davi, e fez-lho saber; e disse-lhe: Queres que sete anos de fome te venham à tua terra; ou que por três meses fujas de teus inimigos, e eles te persigam; ou que por três dias haja peste na tua terra? Delibera agora, e vê que resposta hei de dar ao que me enviou.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "dar",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Então disse Davi a Gade: Estou em grande angústia; porém caiamos nas mãos do Senhor, porque muitas são as suas misericórdias; mas nas mãos dos homens não caia eu.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Então enviou o Senhor a peste a Israel, desde a manhã até ao tempo determinado; e desde Dã até Berseba, morreram setenta mil homens do povo.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Dã",
+              "strong": "H5414"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Estendendo, pois, o anjo a sua mão sobre Jerusalém, para a destruir, o Senhor se arrependeu daquele mal; e disse ao anjo que fazia a destruição entre o povo: Basta, agora retira a tua mão. E o anjo do Senhor estava junto à eira de Araúna, o jebuseu.",
+          "tokens": [
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E, vendo Davi ao anjo que feria o povo, falou ao Senhor, dizendo: Eis que eu sou o que pequei, e eu que iniquamente procedi; porém estas ovelhas que fizeram? Seja, pois, a tua mão contra mim, e contra a casa de meu pai.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E Gade veio naquele mesmo dia a Davi, e disse-lhe: Sobe, levanta ao Senhor um altar na eira de Araúna, o jebuseu.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Davi subiu conforme à palavra de Gade, como o Senhor lhe tinha ordenado.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E olhou Araúna, e viu que vinham para ele o rei e os seus servos; saiu, pois, Araúna e inclinou-se diante do rei com o rosto em terra.",
+          "tokens": [
+            {
+              "word": "viu",
+              "strong": "H7200"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E disse Araúna: Por que vem o rei meu Senhor ao seu servo? E disse Davi: Para comprar de ti esta eira, a fim de edificar nela um altar ao Senhor, para que este castigo cesse de sobre o povo.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Então disse Araúna a Davi: Tome, e ofereça o rei meu senhor o que bem parecer aos seus olhos; eis aí bois para o holocausto, e os trilhos, e o aparelho dos bois para a lenha.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "holocausto",
+              "strong": "H5930"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Tudo isto deu Araúna ao rei; disse mais Araúna ao rei: O Senhor teu Deus tome prazer em ti.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Porém o rei disse a Araúna: Não, mas por preço justo to comprarei, porque não oferecerei ao Senhor meu Deus holocaustos que não me custem nada. Assim Davi comprou a eira e os bois por cinqüenta siclos de prata.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "justo",
+              "strong": "H6666"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E edificou ali Davi ao Senhor um altar, e ofereceu holocaustos, e ofertas pacíficas. Assim o Senhor se aplacou para com a terra e cessou aquele castigo de sobre Israel.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "ofertas",
+              "strong": "H4503"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+});
