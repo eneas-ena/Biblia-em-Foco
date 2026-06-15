@@ -36,7 +36,7 @@ const state = {
       prevChapter: document.getElementById("prevChapter"),
       nextChapter: document.getElementById("nextChapter"),
       themeToggle: document.getElementById("themeToggle"),
-      fontSizeButtons: Array.from(document.querySelectorAll("[data-font-size]")),
+      fontSizeToggle: document.getElementById("fontSizeToggle"),
       searchInput: document.getElementById("searchInput"),
       searchButton: document.getElementById("searchButton"),
       clearSearch: document.getElementById("clearSearch"),
@@ -104,14 +104,32 @@ const defaultStudyThemes = [
     function applyReaderFontSize(size = state.readerFontSize) {
       const allowedSizes = new Set(["s", "m", "l", "xl"]);
       const nextSize = allowedSizes.has(size) ? size : "m";
+      const labels = {
+        s: "A-",
+        m: "A",
+        l: "A+",
+        xl: "A++"
+      };
+      const names = {
+        s: "Texto pequeno",
+        m: "Texto normal",
+        l: "Texto grande",
+        xl: "Texto maior"
+      };
       state.readerFontSize = nextSize;
       document.documentElement.dataset.readerFont = nextSize;
-      els.fontSizeButtons.forEach(button => {
-        const active = button.dataset.fontSize === nextSize;
-        button.classList.toggle("active", active);
-        button.setAttribute("aria-pressed", String(active));
-      });
+      if (els.fontSizeToggle) {
+        els.fontSizeToggle.textContent = labels[nextSize];
+        els.fontSizeToggle.title = `${names[nextSize]}. Toque para mudar.`;
+        els.fontSizeToggle.setAttribute("aria-label", els.fontSizeToggle.title);
+      }
       saveUiPreference("reader-font-size:v1", nextSize);
+    }
+
+    function cycleReaderFontSize() {
+      const sizes = ["s", "m", "l", "xl"];
+      const currentIndex = sizes.indexOf(state.readerFontSize);
+      applyReaderFontSize(sizes[(currentIndex + 1) % sizes.length]);
     }
 
     function getChapter() {
@@ -1935,9 +1953,7 @@ const defaultStudyThemes = [
     els.themeToggle?.addEventListener("click", () => {
       applyReaderTheme(state.readerTheme === "dark" ? "light" : "dark");
     });
-    els.fontSizeButtons.forEach(button => {
-      button.addEventListener("click", () => applyReaderFontSize(button.dataset.fontSize));
-    });
+    els.fontSizeToggle?.addEventListener("click", cycleReaderFontSize);
     els.addTheme.addEventListener("click", addTheme);
     [els.themeName, els.themeQuery].forEach(input => {
       input.addEventListener("keydown", event => {
@@ -1963,5 +1979,7 @@ const defaultStudyThemes = [
     loadNote();
 
     if ("serviceWorker" in navigator && window.location.protocol.startsWith("http")) {
-      navigator.serviceWorker.register("./sw.js").catch(() => {});
+      navigator.serviceWorker.register("./sw.js").then(registration => {
+        registration.update().catch(() => {});
+      }).catch(() => {});
     }

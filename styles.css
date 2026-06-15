@@ -163,21 +163,21 @@
       margin: 0 auto;
       padding: 14px 18px;
       display: grid;
-      grid-template-columns: 1fr auto;
+      grid-template-columns: minmax(250px, 1fr) auto;
       gap: 14px;
       align-items: center;
     }
 
     .brand {
       display: flex;
-      gap: 12px;
+      gap: 10px;
       align-items: center;
       min-width: 0;
     }
 
     .brand-mark {
-      width: 40px;
-      height: 40px;
+      width: 36px;
+      height: 36px;
       border-radius: 8px;
       background: url("./assets/icon-192.png") center / cover no-repeat;
       color: transparent;
@@ -197,6 +197,7 @@
       margin: 3px 0 0;
       color: var(--muted);
       font-size: 13px;
+      max-width: 330px;
     }
 
     .controls {
@@ -233,35 +234,12 @@
       white-space: nowrap;
     }
 
-    .font-size-control {
-      display: grid;
-      grid-template-columns: repeat(4, 36px);
-      border: 1px solid var(--line);
-      border-radius: var(--radius);
-      overflow: hidden;
-      background: var(--paper);
-    }
-
-    .font-size-button {
-      min-width: 0;
-      width: 36px;
-      height: 36px;
-      min-height: 36px;
-      border: 0;
-      border-radius: 0;
-      background: transparent;
-      color: var(--muted);
-      font-size: 13px;
-      font-weight: 700;
-    }
-
-    .font-size-button + .font-size-button {
-      border-left: 1px solid var(--line);
-    }
-
-    .font-size-button.active {
-      background: var(--brand-soft);
+    .font-size-toggle {
+      width: 48px;
+      min-width: 48px;
+      padding: 0;
       color: var(--brand);
+      font-weight: 800;
     }
 
     .search-box input {
@@ -1096,6 +1074,10 @@
         grid-template-columns: 1fr;
       }
 
+      .brand p {
+        max-width: none;
+      }
+
       .controls {
         justify-content: start;
       }
@@ -1134,6 +1116,29 @@
         padding: 18px;
       }
 
+      .topbar-inner {
+        padding: 12px 14px;
+      }
+
+      .brand {
+        align-items: flex-start;
+      }
+
+      .brand-mark {
+        width: 34px;
+        height: 34px;
+        flex: 0 0 34px;
+      }
+
+      .brand h1 {
+        font-size: 17px;
+      }
+
+      .brand p {
+        font-size: 12px;
+        line-height: 1.28;
+      }
+
       .reader-head {
         display: grid;
       }
@@ -1167,13 +1172,8 @@
         width: 100%;
       }
 
-      .font-size-control {
-        flex: 1;
-        grid-template-columns: repeat(4, minmax(38px, 1fr));
-      }
-
-      .font-size-button {
-        width: auto;
+      .font-size-toggle {
+        min-width: 52px;
       }
 
       .theme-editor {

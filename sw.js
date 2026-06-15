@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-em-foco-leitura-visual-v1";
+const CACHE_NAME = "biblia-em-foco-mobile-visual-3";
 const ASSETS = [
   "./",
   "./index.html",
@@ -60,6 +60,31 @@ self.addEventListener("activate", event => {
 
 self.addEventListener("fetch", event => {
   if (event.request.method !== "GET") return;
+  const requestUrl = new URL(event.request.url);
+  const refreshableAsset = (
+    event.request.mode === "navigate" ||
+    event.request.destination === "document" ||
+    event.request.destination === "script" ||
+    event.request.destination === "style" ||
+    requestUrl.pathname.endsWith("/") ||
+    requestUrl.pathname.endsWith(".html") ||
+    requestUrl.pathname.endsWith(".js") ||
+    requestUrl.pathname.endsWith(".css")
+  );
+
+  if (refreshableAsset) {
+    event.respondWith(
+      fetch(event.request)
+        .then(response => {
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then(cache => cache.put(event.request, copy));
+          return response;
+        })
+        .catch(() => caches.match(event.request))
+    );
+    return;
+  }
+
   event.respondWith(
     caches.match(event.request).then(cached => (
       cached || fetch(event.request).then(response => {
