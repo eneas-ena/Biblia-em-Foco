@@ -6,6 +6,8 @@ const state = {
       selected: null,
       selectedVerseNote: null,
       tab: "original",
+      readerTheme: loadUiPreference("reader-theme:v1", "light"),
+      readerFontSize: loadUiPreference("reader-font-size:v1", "m"),
       ai: loadAiSettings()
     };
 
@@ -33,6 +35,8 @@ const state = {
       historyList: document.getElementById("historyList"),
       prevChapter: document.getElementById("prevChapter"),
       nextChapter: document.getElementById("nextChapter"),
+      themeToggle: document.getElementById("themeToggle"),
+      fontSizeButtons: Array.from(document.querySelectorAll("[data-font-size]")),
       searchInput: document.getElementById("searchInput"),
       searchButton: document.getElementById("searchButton"),
       clearSearch: document.getElementById("clearSearch"),
@@ -68,6 +72,46 @@ const defaultStudyThemes = [
     function enterStudy() {
       els.homeScreen.classList.add("hidden");
       localStorage.setItem("home-seen:v1", "true");
+    }
+
+    function loadUiPreference(key, fallback) {
+      try {
+        return localStorage.getItem(key) || fallback;
+      } catch (error) {
+        return fallback;
+      }
+    }
+
+    function saveUiPreference(key, value) {
+      try {
+        localStorage.setItem(key, value);
+      } catch (error) {}
+    }
+
+    function applyReaderTheme(theme = state.readerTheme) {
+      const nextTheme = theme === "dark" ? "dark" : "light";
+      state.readerTheme = nextTheme;
+      document.documentElement.dataset.theme = nextTheme;
+      document.querySelector('meta[name="theme-color"]')?.setAttribute("content", nextTheme === "dark" ? "#07110f" : "#082a5c");
+      if (els.themeToggle) {
+        els.themeToggle.textContent = nextTheme === "dark" ? "Claro" : "Escuro";
+        els.themeToggle.title = nextTheme === "dark" ? "Usar modo claro" : "Usar modo escuro";
+        els.themeToggle.setAttribute("aria-label", els.themeToggle.title);
+      }
+      saveUiPreference("reader-theme:v1", nextTheme);
+    }
+
+    function applyReaderFontSize(size = state.readerFontSize) {
+      const allowedSizes = new Set(["s", "m", "l", "xl"]);
+      const nextSize = allowedSizes.has(size) ? size : "m";
+      state.readerFontSize = nextSize;
+      document.documentElement.dataset.readerFont = nextSize;
+      els.fontSizeButtons.forEach(button => {
+        const active = button.dataset.fontSize === nextSize;
+        button.classList.toggle("active", active);
+        button.setAttribute("aria-pressed", String(active));
+      });
+      saveUiPreference("reader-font-size:v1", nextSize);
     }
 
     function getChapter() {
@@ -1888,6 +1932,12 @@ const defaultStudyThemes = [
     els.clearHistory.addEventListener("click", clearHistory);
     els.downloadMyStudy.addEventListener("click", downloadMyStudy);
     els.clearMyStudy.addEventListener("click", clearMyStudy);
+    els.themeToggle?.addEventListener("click", () => {
+      applyReaderTheme(state.readerTheme === "dark" ? "light" : "dark");
+    });
+    els.fontSizeButtons.forEach(button => {
+      button.addEventListener("click", () => applyReaderFontSize(button.dataset.fontSize));
+    });
     els.addTheme.addEventListener("click", addTheme);
     [els.themeName, els.themeQuery].forEach(input => {
       input.addEventListener("keydown", event => {
@@ -1898,6 +1948,8 @@ const defaultStudyThemes = [
       if (event.key === "Enter") runSearch();
     });
 
+    applyReaderTheme();
+    applyReaderFontSize();
     populateControls();
     initAiSettings();
     renderChapter();
