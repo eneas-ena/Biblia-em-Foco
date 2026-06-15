@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-em-foco-mobile-visual-3";
+const CACHE_NAME = "biblia-em-foco-mobile-verse-rail";
 const ASSETS = [
   "./",
   "./index.html",

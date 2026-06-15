@@ -1149,7 +1149,27 @@
 
       .verse {
         font-size: var(--verse-size);
-        padding-left: 92px;
+        padding-left: 42px;
+        min-height: 92px;
+        margin-bottom: 20px;
+      }
+
+      .verse-num,
+      .favorite-button,
+      .verse-note-button {
+        width: 25px;
+        min-width: 25px;
+        height: 25px;
+        min-height: 25px;
+        left: 0;
+      }
+
+      .favorite-button {
+        top: 32px;
+      }
+
+      .verse-note-button {
+        top: 64px;
       }
 
       .search-box, .search-box input, .controls select {
