@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Bíblia em Foco">
+  <rect width="512" height="512" rx="96" fill="#1f6268"/>
+  <path d="M150 128h109c48 0 82 29 82 72 0 29-16 52-42 64 36 11 59 38 59 75 0 48-37 81-91 81H150V128zm71 57v58h31c18 0 30-12 30-29s-12-29-30-29h-31zm0 111v67h42c21 0 34-13 34-33s-13-34-35-34h-41z" fill="#fffaf1"/>
+  <path d="M363 122h28v268h-28zM333 247h91v52h-91z" fill="#d7b46a"/>
+</svg>
