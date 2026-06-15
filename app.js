@@ -95,6 +95,7 @@ const defaultStudyThemes = [
       document.querySelector('meta[name="theme-color"]')?.setAttribute("content", nextTheme === "dark" ? "#07110f" : "#082a5c");
       if (els.themeToggle) {
         els.themeToggle.textContent = nextTheme === "dark" ? "Claro" : "Escuro";
+        els.themeToggle.dataset.icon = nextTheme === "dark" ? "☀" : "☾";
         els.themeToggle.title = nextTheme === "dark" ? "Usar modo claro" : "Usar modo escuro";
         els.themeToggle.setAttribute("aria-label", els.themeToggle.title);
       }
