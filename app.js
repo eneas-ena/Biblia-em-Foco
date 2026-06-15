@@ -412,10 +412,10 @@ const defaultStudyThemes = [
         "",
         `Texto do versículo: ${verse.text}`,
         "",
-        "Identifique qual palavra grega provavelmente está por trás dessa tradução e sugira o número Strong mais provável.",
+        "Identifique qual palavra hebraica ou grega provavelmente está por trás dessa tradução e sugira o número Strong mais provável.",
         "Responda em português, com:",
         "1. Strong sugerido.",
-        "2. Palavra grega, transliteração e sentido básico.",
+        "2. Palavra original, transliteração e sentido básico.",
         "3. Motivo contextual.",
         "4. Grau de confiança: alto, médio ou baixo.",
         "5. Se houver ambiguidade, diga claramente.",
@@ -511,18 +511,25 @@ const defaultStudyThemes = [
 
     function extractStrongCodes(text) {
       const matches = [
+        ...(text.match(/H\s*[-:]?\s*\d+/gi) || []),
         ...(text.match(/G\s*[-:]?\s*\d+/gi) || []),
         ...(text.match(/Strong\s*[-:]?\s*(\d+)/gi) || [])
       ];
 
       return [...new Set(matches.map(item => {
         const number = item.match(/\d+/)?.[0];
-        return number ? `G${number}` : "";
+        if (!number) return "";
+        const explicitPrefix = item.match(/[HG]/i)?.[0]?.toUpperCase();
+        if (explicitPrefix) return `${explicitPrefix}${number}`;
+        const currentBookHasHebrew = getBook()?.chapters?.some(chapter => (
+          chapter.verses.some(verse => (verse.tokens || []).some(token => /^H\d+$/i.test(token.strong)))
+        ));
+        return `${currentBookHasHebrew ? "H" : "G"}${number}`;
       }).filter(Boolean))];
     }
 
     function addCustomStrongMark(verseNumber, word, strong) {
-      if (!/^G\d+$/i.test(strong || "")) {
+      if (!/^[HG]\d+$/i.test(strong || "")) {
         showToast("A sugestão precisa ter um Strong válido.");
         return;
       }

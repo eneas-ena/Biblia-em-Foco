@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-em-foco-topo-mobile-only-v1";
+const CACHE_NAME = "biblia-em-foco-contraste-escuro-v1";
 const ASSETS = [
   "./",
   "./index.html",
