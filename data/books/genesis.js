@@ -44,6 +44,10 @@ globalThis.appData.books.push({
               "strong": "H2822"
             },
             {
+              "word": "abismo",
+              "strong": "H8415"
+            },
+            {
               "word": "Espírito",
               "strong": "H7307"
             },
@@ -156,6 +160,10 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "expansão",
+              "strong": "H7549"
+            },
+            {
               "word": "águas",
               "strong": "H4325"
             },
@@ -178,16 +186,24 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
-              "word": "águas",
-              "strong": "H4325"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
+              "word": "expansão",
+              "strong": "H7549"
             },
             {
               "word": "águas",
               "strong": "H4325"
+            },
+            {
+              "word": "expansão",
+              "strong": "H7549"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "expansão",
+              "strong": "H7549"
             }
           ]
         },
@@ -198,6 +214,10 @@ globalThis.appData.books.push({
             {
               "word": "Deus",
               "strong": "H430"
+            },
+            {
+              "word": "expansão",
+              "strong": "H7549"
             },
             {
               "word": "Céus",
@@ -360,6 +380,14 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "luminares",
+              "strong": "H3974"
+            },
+            {
+              "word": "expansão",
+              "strong": "H7549"
+            },
+            {
               "word": "céus",
               "strong": "H8064"
             },
@@ -382,6 +410,14 @@ globalThis.appData.books.push({
           "text": "E sejam para luminares na expansão dos céus, para iluminar a terra; e assim foi.",
           "tokens": [
             {
+              "word": "luminares",
+              "strong": "H3974"
+            },
+            {
+              "word": "expansão",
+              "strong": "H7549"
+            },
+            {
               "word": "céus",
               "strong": "H8064"
             },
@@ -400,12 +436,28 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "luminares",
+              "strong": "H3974"
+            },
+            {
+              "word": "luminar",
+              "strong": "H3974"
+            },
+            {
               "word": "dia",
               "strong": "H3117"
             },
             {
+              "word": "luminar",
+              "strong": "H3974"
+            },
+            {
               "word": "noite",
               "strong": "H3915"
+            },
+            {
+              "word": "estrelas",
+              "strong": "H3556"
             }
           ]
         },
@@ -416,6 +468,10 @@ globalThis.appData.books.push({
             {
               "word": "Deus",
               "strong": "H430"
+            },
+            {
+              "word": "expansão",
+              "strong": "H7549"
             },
             {
               "word": "céus",
@@ -496,8 +552,8 @@ globalThis.appData.books.push({
               "strong": "H2416"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "expansão",
+              "strong": "H7549"
             },
             {
               "word": "céus",
@@ -560,6 +616,14 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Frutificai",
+              "strong": "H6509"
+            },
+            {
+              "word": "multiplicai",
+              "strong": "H7235"
+            },
+            {
               "word": "águas",
               "strong": "H4325"
             },
@@ -608,10 +672,6 @@ globalThis.appData.books.push({
               "strong": "H2416"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             }
@@ -626,16 +686,8 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -672,6 +724,14 @@ globalThis.appData.books.push({
               "strong": "H120"
             },
             {
+              "word": "imagem",
+              "strong": "H6754"
+            },
+            {
+              "word": "semelhança",
+              "strong": "H1823"
+            },
+            {
               "word": "mar",
               "strong": "H3220"
             },
@@ -704,6 +764,14 @@ globalThis.appData.books.push({
             {
               "word": "homem",
               "strong": "H120"
+            },
+            {
+              "word": "imagem",
+              "strong": "H6754"
+            },
+            {
+              "word": "imagem",
+              "strong": "H6754"
             },
             {
               "word": "Deus",
@@ -746,6 +814,14 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Frutificai",
+              "strong": "H6509"
+            },
+            {
+              "word": "multiplicai",
+              "strong": "H7235"
             },
             {
               "word": "terra",
@@ -808,20 +884,12 @@ globalThis.appData.books.push({
           "text": "E a todo o animal da terra, e a toda a ave dos céus, e a todo o réptil da terra, em que há alma vivente, toda a erva verde será para mantimento; e assim foi.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
             {
               "word": "céus",
               "strong": "H8064"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -927,10 +995,6 @@ globalThis.appData.books.push({
               "strong": "H8064"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
@@ -991,16 +1055,8 @@ globalThis.appData.books.push({
           "text": "Um vapor, porém, subia da terra, e regava toda a face da terra.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -1025,16 +1081,8 @@ globalThis.appData.books.push({
               "strong": "H120"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "vida",
@@ -1071,6 +1119,10 @@ globalThis.appData.books.push({
               "strong": "H1588"
             },
             {
+              "word": "Éden",
+              "strong": "H5731"
+            },
+            {
               "word": "homem",
               "strong": "H120"
             }
@@ -1089,10 +1141,6 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
@@ -1107,10 +1155,6 @@ globalThis.appData.books.push({
             {
               "word": "árvore",
               "strong": "H6086"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "vida",
@@ -1137,6 +1181,10 @@ globalThis.appData.books.push({
             {
               "word": "rio",
               "strong": "H5104"
+            },
+            {
+              "word": "Éden",
+              "strong": "H5731"
             },
             {
               "word": "jardim",
@@ -1191,10 +1239,6 @@ globalThis.appData.books.push({
               "strong": "H5104"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "rio",
               "strong": "H5104"
             }
@@ -1219,6 +1263,10 @@ globalThis.appData.books.push({
             {
               "word": "jardim",
               "strong": "H1588"
+            },
+            {
+              "word": "Éden",
+              "strong": "H5731"
             },
             {
               "word": "guardar",
@@ -1260,10 +1308,6 @@ globalThis.appData.books.push({
           "n": 17,
           "text": "Mas da árvore do conhecimento do bem e do mal, dela não comerás; porque no dia em que dela comeres, certamente morrerás.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "árvore",
               "strong": "H6086"
@@ -1315,10 +1359,6 @@ globalThis.appData.books.push({
             {
               "word": "Deus",
               "strong": "H430"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -1395,10 +1435,6 @@ globalThis.appData.books.push({
           "text": "E da costela que o Senhor Deus tomou do homem, formou uma mulher, e trouxe-a a Adão.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "Senhor",
               "strong": "H3068"
             },
@@ -1435,10 +1471,6 @@ globalThis.appData.books.push({
             {
               "word": "carne",
               "strong": "H1320"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "carne",
@@ -1504,6 +1536,14 @@ globalThis.appData.books.push({
           "text": "Ora, a serpente era mais astuta que todas as alimárias do campo que o SENHOR Deus tinha feito. E esta disse à mulher: É assim que Deus disse: Não comereis de toda a árvore do jardim?",
           "tokens": [
             {
+              "word": "serpente",
+              "strong": "H5175"
+            },
+            {
+              "word": "astuta",
+              "strong": "H6175"
+            },
+            {
               "word": "SENHOR",
               "strong": "H3068"
             },
@@ -1550,6 +1590,10 @@ globalThis.appData.books.push({
               "strong": "H802"
             },
             {
+              "word": "serpente",
+              "strong": "H5175"
+            },
+            {
               "word": "fruto",
               "strong": "H6529"
             },
@@ -1570,10 +1614,6 @@ globalThis.appData.books.push({
             {
               "word": "fruto",
               "strong": "H6529"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "árvore",
@@ -1597,6 +1637,10 @@ globalThis.appData.books.push({
           "n": 4,
           "text": "Então a serpente disse à mulher: Certamente não morrereis.",
           "tokens": [
+            {
+              "word": "serpente",
+              "strong": "H5175"
+            },
             {
               "word": "disse",
               "strong": "H559"
@@ -1714,10 +1758,6 @@ globalThis.appData.books.push({
               "strong": "H802"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "Senhor",
               "strong": "H3068"
             },
@@ -1788,10 +1828,6 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "árvore",
               "strong": "H6086"
             }
@@ -1815,10 +1851,6 @@ globalThis.appData.books.push({
             },
             {
               "word": "deu",
-              "strong": "H5414"
-            },
-            {
-              "word": "da",
               "strong": "H5414"
             },
             {
@@ -1854,6 +1886,10 @@ globalThis.appData.books.push({
             {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "serpente",
+              "strong": "H5175"
             }
           ]
         },
@@ -1874,12 +1910,16 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
-              "word": "dias",
-              "strong": "H3117"
+              "word": "serpente",
+              "strong": "H5175"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "maldita",
+              "strong": "H779"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
             },
             {
               "word": "vida",
@@ -1922,6 +1962,10 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Multiplicarei",
+              "strong": "H7235"
+            },
+            {
               "word": "luz",
               "strong": "H216"
             },
@@ -1948,10 +1992,6 @@ globalThis.appData.books.push({
               "strong": "H802"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "árvore",
               "strong": "H6086"
             },
@@ -1960,16 +2000,16 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "maldita",
+              "strong": "H779"
+            },
+            {
               "word": "terra",
               "strong": "H776"
             },
             {
               "word": "dias",
               "strong": "H3117"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "vida",
@@ -2065,16 +2105,8 @@ globalThis.appData.books.push({
               "strong": "H3027"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "árvore",
               "strong": "H6086"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "vida",
@@ -2099,6 +2131,10 @@ globalThis.appData.books.push({
               "strong": "H1588"
             },
             {
+              "word": "Éden",
+              "strong": "H5731"
+            },
+            {
               "word": "terra",
               "strong": "H776"
             }
@@ -2117,6 +2153,10 @@ globalThis.appData.books.push({
               "strong": "H1588"
             },
             {
+              "word": "Éden",
+              "strong": "H5731"
+            },
+            {
               "word": "guardar",
               "strong": "H8104"
             },
@@ -2125,16 +2165,8 @@ globalThis.appData.books.push({
               "strong": "H1870"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "árvore",
               "strong": "H6086"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "vida",
@@ -2172,6 +2204,10 @@ globalThis.appData.books.push({
               "strong": "H216"
             },
             {
+              "word": "Caim",
+              "strong": "H7014"
+            },
+            {
               "word": "disse",
               "strong": "H559"
             },
@@ -2202,8 +2238,16 @@ globalThis.appData.books.push({
               "strong": "H251"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Abel",
+              "strong": "H1893"
+            },
+            {
+              "word": "Abel",
+              "strong": "H1893"
+            },
+            {
+              "word": "Caim",
+              "strong": "H7014"
             },
             {
               "word": "terra",
@@ -2220,12 +2264,12 @@ globalThis.appData.books.push({
               "strong": "H3117"
             },
             {
-              "word": "fruto",
-              "strong": "H6529"
+              "word": "Caim",
+              "strong": "H7014"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "fruto",
+              "strong": "H6529"
             },
             {
               "word": "terra",
@@ -2246,12 +2290,16 @@ globalThis.appData.books.push({
           "text": "E Abel também trouxe dos primogênitos das suas ovelhas, e da sua gordura; e atentou o Senhor para Abel e para a sua oferta.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Abel",
+              "strong": "H1893"
             },
             {
               "word": "Senhor",
               "strong": "H3068"
+            },
+            {
+              "word": "Abel",
+              "strong": "H1893"
             },
             {
               "word": "oferta",
@@ -2264,8 +2312,16 @@ globalThis.appData.books.push({
           "text": "Mas para Caim e para a sua oferta não atentou. E irou-se Caim fortemente, e descaiu-lhe o semblante.",
           "tokens": [
             {
+              "word": "Caim",
+              "strong": "H7014"
+            },
+            {
               "word": "oferta",
               "strong": "H4503"
+            },
+            {
+              "word": "Caim",
+              "strong": "H7014"
             }
           ]
         },
@@ -2280,6 +2336,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Caim",
+              "strong": "H7014"
             }
           ]
         },
@@ -2298,12 +2358,28 @@ globalThis.appData.books.push({
           "text": "E falou Caim com o seu irmão Abel; e sucedeu que, estando eles no campo, se levantou Caim contra o seu irmão Abel, e o matou.",
           "tokens": [
             {
-              "word": "irmão",
-              "strong": "H251"
+              "word": "Caim",
+              "strong": "H7014"
             },
             {
               "word": "irmão",
               "strong": "H251"
+            },
+            {
+              "word": "Abel",
+              "strong": "H1893"
+            },
+            {
+              "word": "Caim",
+              "strong": "H7014"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "Abel",
+              "strong": "H1893"
             }
           ]
         },
@@ -2318,6 +2394,14 @@ globalThis.appData.books.push({
             {
               "word": "Senhor",
               "strong": "H3068"
+            },
+            {
+              "word": "Caim",
+              "strong": "H7014"
+            },
+            {
+              "word": "Abel",
+              "strong": "H1893"
             },
             {
               "word": "irmão",
@@ -2364,16 +2448,16 @@ globalThis.appData.books.push({
           "text": "E agora maldito és tu desde a terra, que abriu a sua boca para receber da tua mão o sangue do teu irmão.",
           "tokens": [
             {
+              "word": "maldito",
+              "strong": "H779"
+            },
+            {
               "word": "terra",
               "strong": "H776"
             },
             {
               "word": "boca",
               "strong": "H6310"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "mão",
@@ -2412,6 +2496,10 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Caim",
+              "strong": "H7014"
+            },
+            {
               "word": "Senhor",
               "strong": "H3068"
             }
@@ -2422,20 +2510,8 @@ globalThis.appData.books.push({
           "text": "Eis que hoje me lanças da face da terra, e da tua face me esconderei; e serei fugitivo e vagabundo na terra, e será que todo aquele que me achar, me matará.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -2456,8 +2532,20 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Caim",
+              "strong": "H7014"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "Senhor",
               "strong": "H3068"
+            },
+            {
+              "word": "Caim",
+              "strong": "H7014"
             }
           ]
         },
@@ -2466,8 +2554,8 @@ globalThis.appData.books.push({
           "text": "E saiu Caim de diante da face do Senhor, e habitou na terra de Node, do lado oriental do Éden.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Caim",
+              "strong": "H7014"
             },
             {
               "word": "Senhor",
@@ -2476,6 +2564,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Éden",
+              "strong": "H5731"
             }
           ]
         },
@@ -2486,6 +2578,10 @@ globalThis.appData.books.push({
             {
               "word": "conheceu",
               "strong": "H1847"
+            },
+            {
+              "word": "Caim",
+              "strong": "H7014"
             },
             {
               "word": "mulher",
@@ -2500,12 +2596,12 @@ globalThis.appData.books.push({
               "strong": "H216"
             },
             {
-              "word": "cidade",
-              "strong": "H5892"
+              "word": "Enoque",
+              "strong": "H2585"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "cidade",
+              "strong": "H5892"
             },
             {
               "word": "cidade",
@@ -2514,6 +2610,10 @@ globalThis.appData.books.push({
             {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Enoque",
+              "strong": "H2585"
             }
           ]
         },
@@ -2521,6 +2621,10 @@ globalThis.appData.books.push({
           "n": 18,
           "text": "E a Enoque nasceu Irade, e Irade gerou a Meujael, e Meujael gerou a Metusael e Metusael gerou a Lameque.",
           "tokens": [
+            {
+              "word": "Enoque",
+              "strong": "H2585"
+            },
             {
               "word": "nasceu",
               "strong": "H3205"
@@ -2546,10 +2650,6 @@ globalThis.appData.books.push({
             {
               "word": "mulheres",
               "strong": "H802"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             }
           ]
         },
@@ -2632,7 +2732,20 @@ globalThis.appData.books.push({
         {
           "n": 24,
           "text": "Porque sete vezes Caim será castigado; mas Lameque setenta vezes sete.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "Caim",
+              "strong": "H7014"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            }
+          ]
         },
         {
           "n": 25,
@@ -2663,6 +2776,10 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Sete",
+              "strong": "H8352"
+            },
+            {
               "word": "disse",
               "strong": "H559"
             },
@@ -2677,6 +2794,14 @@ globalThis.appData.books.push({
             {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Abel",
+              "strong": "H1893"
+            },
+            {
+              "word": "Caim",
+              "strong": "H7014"
             }
           ]
         },
@@ -2685,12 +2810,20 @@ globalThis.appData.books.push({
           "text": "E a Sete também nasceu um filho; e chamou o seu nome Enos; então se começou a invocar o nome do Senhor.",
           "tokens": [
             {
+              "word": "Sete",
+              "strong": "H8352"
+            },
+            {
               "word": "nasceu",
               "strong": "H3205"
             },
             {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Enos",
+              "strong": "H583"
             },
             {
               "word": "Senhor",
@@ -2726,6 +2859,10 @@ globalThis.appData.books.push({
             {
               "word": "homem",
               "strong": "H120"
+            },
+            {
+              "word": "semelhança",
+              "strong": "H1823"
             },
             {
               "word": "Deus",
@@ -2778,6 +2915,18 @@ globalThis.appData.books.push({
             {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "semelhança",
+              "strong": "H1823"
+            },
+            {
+              "word": "imagem",
+              "strong": "H6754"
+            },
+            {
+              "word": "Sete",
+              "strong": "H8352"
             }
           ]
         },
@@ -2796,6 +2945,10 @@ globalThis.appData.books.push({
             {
               "word": "gerou",
               "strong": "H3205"
+            },
+            {
+              "word": "Sete",
+              "strong": "H8352"
             },
             {
               "word": "gerou",
@@ -2830,8 +2983,16 @@ globalThis.appData.books.push({
           "text": "E viveu Sete cento e cinco anos, e gerou a Enos.",
           "tokens": [
             {
+              "word": "Sete",
+              "strong": "H8352"
+            },
+            {
               "word": "gerou",
               "strong": "H3205"
+            },
+            {
+              "word": "Enos",
+              "strong": "H583"
             }
           ]
         },
@@ -2840,8 +3001,20 @@ globalThis.appData.books.push({
           "text": "E viveu Sete, depois que gerou a Enos, oitocentos e sete anos, e gerou filhos e filhas.",
           "tokens": [
             {
+              "word": "Sete",
+              "strong": "H8352"
+            },
+            {
               "word": "gerou",
               "strong": "H3205"
+            },
+            {
+              "word": "Enos",
+              "strong": "H583"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             },
             {
               "word": "gerou",
@@ -2862,6 +3035,10 @@ globalThis.appData.books.push({
               "strong": "H3117"
             },
             {
+              "word": "Sete",
+              "strong": "H8352"
+            },
+            {
               "word": "morreu",
               "strong": "H4191"
             }
@@ -2872,6 +3049,10 @@ globalThis.appData.books.push({
           "text": "E viveu Enos noventa anos, e gerou a Cainã.",
           "tokens": [
             {
+              "word": "Enos",
+              "strong": "H583"
+            },
+            {
               "word": "gerou",
               "strong": "H3205"
             }
@@ -2881,6 +3062,10 @@ globalThis.appData.books.push({
           "n": 10,
           "text": "E viveu Enos, depois que gerou a Cainã, oitocentos e quinze anos, e gerou filhos e filhas.",
           "tokens": [
+            {
+              "word": "Enos",
+              "strong": "H583"
+            },
             {
               "word": "gerou",
               "strong": "H3205"
@@ -2902,6 +3087,10 @@ globalThis.appData.books.push({
             {
               "word": "dias",
               "strong": "H3117"
+            },
+            {
+              "word": "Enos",
+              "strong": "H583"
             },
             {
               "word": "morreu",
@@ -3000,6 +3189,10 @@ globalThis.appData.books.push({
             {
               "word": "gerou",
               "strong": "H3205"
+            },
+            {
+              "word": "Enoque",
+              "strong": "H2585"
             }
           ]
         },
@@ -3010,6 +3203,10 @@ globalThis.appData.books.push({
             {
               "word": "gerou",
               "strong": "H3205"
+            },
+            {
+              "word": "Enoque",
+              "strong": "H2585"
             },
             {
               "word": "gerou",
@@ -3040,6 +3237,10 @@ globalThis.appData.books.push({
           "text": "E viveu Enoque sessenta e cinco anos, e gerou a Matusalém.",
           "tokens": [
             {
+              "word": "Enoque",
+              "strong": "H2585"
+            },
+            {
               "word": "gerou",
               "strong": "H3205"
             }
@@ -3052,6 +3253,10 @@ globalThis.appData.books.push({
             {
               "word": "andou",
               "strong": "H1980"
+            },
+            {
+              "word": "Enoque",
+              "strong": "H2585"
             },
             {
               "word": "Deus",
@@ -3078,6 +3283,10 @@ globalThis.appData.books.push({
             {
               "word": "dias",
               "strong": "H3117"
+            },
+            {
+              "word": "Enoque",
+              "strong": "H2585"
             }
           ]
         },
@@ -3088,6 +3297,10 @@ globalThis.appData.books.push({
             {
               "word": "andou",
               "strong": "H1980"
+            },
+            {
+              "word": "Enoque",
+              "strong": "H2585"
             },
             {
               "word": "Deus",
@@ -3103,6 +3316,10 @@ globalThis.appData.books.push({
           "n": 25,
           "text": "E viveu Matusalém cento e oitenta e sete anos, e gerou a Lameque.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "gerou",
               "strong": "H3205"
@@ -3160,16 +3377,16 @@ globalThis.appData.books.push({
           "text": "A quem chamou Noé, dizendo: Este nos consolará acerca de nossas obras e do trabalho de nossas mãos, por causa da terra que o Senhor amaldiçoou.",
           "tokens": [
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "dizendo",
               "strong": "H559"
             },
             {
               "word": "mãos",
               "strong": "H3027"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -3190,6 +3407,10 @@ globalThis.appData.books.push({
               "strong": "H3205"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "gerou",
               "strong": "H3205"
             },
@@ -3208,6 +3429,10 @@ globalThis.appData.books.push({
               "strong": "H3117"
             },
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "morreu",
               "strong": "H4191"
             }
@@ -3218,12 +3443,24 @@ globalThis.appData.books.push({
           "text": "E era Noé da idade de quinhentos anos, e gerou Noé a Sem, Cão e Jafé.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "gerou",
               "strong": "H3205"
+            },
+            {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
+              "word": "Cão",
+              "strong": "H2526"
+            },
+            {
+              "word": "Jafé",
+              "strong": "H3315"
             }
           ]
         }
@@ -3241,8 +3478,8 @@ globalThis.appData.books.push({
               "strong": "H120"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "multiplicar",
+              "strong": "H7235"
             },
             {
               "word": "terra",
@@ -3413,10 +3650,6 @@ globalThis.appData.books.push({
               "strong": "H120"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
@@ -3435,6 +3668,10 @@ globalThis.appData.books.push({
           "text": "Noé, porém, achou graça aos olhos do Senhor.",
           "tokens": [
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "olhos",
               "strong": "H5869"
             },
@@ -3449,12 +3686,24 @@ globalThis.appData.books.push({
           "text": "Estas são as gerações de Noé. Noé era homem justo e perfeito em suas gerações; Noé andava com Deus.",
           "tokens": [
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "homem",
               "strong": "H120"
             },
             {
               "word": "justo",
               "strong": "H6666"
+            },
+            {
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "Deus",
@@ -3471,8 +3720,20 @@ globalThis.appData.books.push({
               "strong": "H3205"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Cão",
+              "strong": "H2526"
+            },
+            {
+              "word": "Jafé",
+              "strong": "H3315"
             }
           ]
         },
@@ -3483,10 +3744,6 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "Deus",
@@ -3541,6 +3798,10 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "carne",
               "strong": "H1320"
             },
@@ -3560,11 +3821,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "arca",
-              "strong": "H727"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
+              "strong": "H8392"
             },
             {
               "word": "madeira",
@@ -3572,7 +3829,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             }
           ]
         },
@@ -3581,12 +3838,8 @@ globalThis.appData.books.push({
           "text": "E desta maneira a farás: De trezentos côvados o comprimento da arca, e de cinqüenta côvados a sua largura, e de trinta côvados a sua altura.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             }
           ]
         },
@@ -3596,15 +3849,11 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "arca",
-              "strong": "H727"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
+              "strong": "H8392"
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             }
           ]
         },
@@ -3652,7 +3901,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             },
             {
               "word": "filhos",
@@ -3682,7 +3931,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             },
             {
               "word": "vivos",
@@ -3694,10 +3943,6 @@ globalThis.appData.books.push({
           "n": 20,
           "text": "Das aves conforme a sua espécie, e dos animais conforme a sua espécie, de todo o réptil da terra conforme a sua espécie, dois de cada espécie virão a ti, para os conservar em vida.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "terra",
               "strong": "H776"
@@ -3717,6 +3962,10 @@ globalThis.appData.books.push({
           "n": 22,
           "text": "Assim fez Noé; conforme a tudo o que Deus lhe mandou, assim o fez.",
           "tokens": [
+            {
+              "word": "Noé",
+              "strong": "H5146"
+            },
             {
               "word": "Deus",
               "strong": "H430"
@@ -3741,12 +3990,16 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "casa",
               "strong": "H1004"
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             },
             {
               "word": "justo",
@@ -3757,7 +4010,16 @@ globalThis.appData.books.push({
         {
           "n": 2,
           "text": "De todos os animais limpos tomarás para ti sete e sete, o macho e sua fêmea; mas dos animais que não são limpos, dois, o macho e sua fêmea.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            }
+          ]
         },
         {
           "n": 3,
@@ -3766,6 +4028,14 @@ globalThis.appData.books.push({
             {
               "word": "céus",
               "strong": "H8064"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             },
             {
               "word": "vida",
@@ -3781,6 +4051,10 @@ globalThis.appData.books.push({
           "n": 4,
           "text": "Porque, passados ainda sete dias, farei chover sobre a terra quarenta dias e quarenta noites; e desfarei de sobre a face da terra toda a substância que fiz.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "dias",
               "strong": "H3117"
@@ -3798,10 +4072,6 @@ globalThis.appData.books.push({
               "strong": "H3915"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             }
@@ -3811,6 +4081,10 @@ globalThis.appData.books.push({
           "n": 5,
           "text": "E fez Noé conforme a tudo o que o Senhor lhe ordenara.",
           "tokens": [
+            {
+              "word": "Noé",
+              "strong": "H5146"
+            },
             {
               "word": "Senhor",
               "strong": "H3068"
@@ -3822,8 +4096,8 @@ globalThis.appData.books.push({
           "text": "E era Noé da idade de seiscentos anos, quando o dilúvio das águas veio sobre a terra.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "águas",
@@ -3840,8 +4114,12 @@ globalThis.appData.books.push({
           "text": "Noé entrou na arca, e com ele seus filhos, sua mulher e as mulheres de seus filhos, por causa das águas do dilúvio.",
           "tokens": [
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             },
             {
               "word": "filhos",
@@ -3880,12 +4158,20 @@ globalThis.appData.books.push({
           "text": "Entraram de dois em dois para junto de Noé na arca, macho e fêmea, como Deus ordenara a Noé.",
           "tokens": [
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             },
             {
               "word": "Deus",
               "strong": "H430"
+            },
+            {
+              "word": "Noé",
+              "strong": "H5146"
             }
           ]
         },
@@ -3893,6 +4179,10 @@ globalThis.appData.books.push({
           "n": 10,
           "text": "E aconteceu que passados sete dias, vieram sobre a terra as águas do dilúvio.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "dias",
               "strong": "H3117"
@@ -3912,12 +4202,12 @@ globalThis.appData.books.push({
           "text": "No ano seiscentos da vida de Noé, no mês segundo, aos dezessete dias do mês, naquele mesmo dia se romperam todas as fontes do grande abismo, e as janelas dos céus se abriram,",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "vida",
               "strong": "H2416"
+            },
+            {
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "dias",
@@ -3926,6 +4216,10 @@ globalThis.appData.books.push({
             {
               "word": "dia",
               "strong": "H3117"
+            },
+            {
+              "word": "abismo",
+              "strong": "H8415"
             },
             {
               "word": "céus",
@@ -3961,11 +4255,23 @@ globalThis.appData.books.push({
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
+            },
+            {
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Cão",
+              "strong": "H2526"
+            },
+            {
+              "word": "Jafé",
+              "strong": "H3315"
             },
             {
               "word": "mulher",
@@ -4008,8 +4314,12 @@ globalThis.appData.books.push({
               "strong": "H2416"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             }
           ]
         },
@@ -4049,7 +4359,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             },
             {
               "word": "terra",
@@ -4071,7 +4381,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             },
             {
               "word": "águas",
@@ -4168,10 +4478,6 @@ globalThis.appData.books.push({
               "strong": "H2416"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
@@ -4184,16 +4490,16 @@ globalThis.appData.books.push({
               "strong": "H8064"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             }
           ]
         },
@@ -4229,12 +4535,16 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "viventes",
               "strong": "H2416"
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             },
             {
               "word": "Deus",
@@ -4258,6 +4568,10 @@ globalThis.appData.books.push({
           "n": 2,
           "text": "Cerraram-se também as fontes do abismo e as janelas dos céus, e a chuva dos céus deteve-se.",
           "tokens": [
+            {
+              "word": "abismo",
+              "strong": "H8415"
+            },
             {
               "word": "céus",
               "strong": "H8064"
@@ -4292,7 +4606,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             },
             {
               "word": "dia",
@@ -4331,12 +4645,12 @@ globalThis.appData.books.push({
               "strong": "H3117"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             }
           ]
         },
@@ -4371,10 +4685,6 @@ globalThis.appData.books.push({
               "strong": "H4325"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             }
@@ -4394,7 +4704,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             },
             {
               "word": "águas",
@@ -4410,7 +4720,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             }
           ]
         },
@@ -4418,6 +4728,10 @@ globalThis.appData.books.push({
           "n": 10,
           "text": "E esperou ainda outros sete dias, e tornou a enviar a pomba fora da arca.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "dias",
               "strong": "H3117"
@@ -4427,12 +4741,8 @@ globalThis.appData.books.push({
               "strong": "H3123"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             }
           ]
         },
@@ -4453,6 +4763,10 @@ globalThis.appData.books.push({
               "strong": "H1847"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "águas",
               "strong": "H4325"
             },
@@ -4466,6 +4780,10 @@ globalThis.appData.books.push({
           "n": 12,
           "text": "Então esperou ainda outros sete dias, e enviou fora a pomba; mas não tornou mais a ele.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "dias",
               "strong": "H3117"
@@ -4493,16 +4811,12 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "arca",
-              "strong": "H727"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
+              "strong": "H8392"
             },
             {
               "word": "terra",
@@ -4514,6 +4828,10 @@ globalThis.appData.books.push({
           "n": 14,
           "text": "E no segundo mês, aos vinte e sete dias do mês, a terra estava seca.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "dias",
               "strong": "H3117"
@@ -4533,6 +4851,10 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "dizendo",
               "strong": "H559"
             }
@@ -4543,12 +4865,8 @@ globalThis.appData.books.push({
           "text": "Sai da arca, tu com tua mulher, e teus filhos e as mulheres de teus filhos.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             },
             {
               "word": "mulher",
@@ -4595,6 +4913,10 @@ globalThis.appData.books.push({
           "text": "Então saiu Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele.",
           "tokens": [
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
             },
@@ -4621,12 +4943,8 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
             }
           ]
         },
@@ -4634,6 +4952,10 @@ globalThis.appData.books.push({
           "n": 20,
           "text": "E edificou Noé um altar ao Senhor; e tomou de todo o animal limpo e de toda a ave limpa, e ofereceu holocausto sobre o altar.",
           "tokens": [
+            {
+              "word": "Noé",
+              "strong": "H5146"
+            },
             {
               "word": "altar",
               "strong": "H4196"
@@ -4730,12 +5052,24 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
             },
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Frutificai",
+              "strong": "H6509"
+            },
+            {
+              "word": "multiplicai",
+              "strong": "H7235"
             },
             {
               "word": "terra",
@@ -4750,10 +5084,6 @@ globalThis.appData.books.push({
             {
               "word": "temor",
               "strong": "H3374"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -4822,16 +5152,8 @@ globalThis.appData.books.push({
               "strong": "H1818"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "mão",
               "strong": "H3027"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "mão",
@@ -4840,10 +5162,6 @@ globalThis.appData.books.push({
             {
               "word": "homem",
               "strong": "H120"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "mão",
@@ -4890,6 +5208,10 @@ globalThis.appData.books.push({
             {
               "word": "homem",
               "strong": "H120"
+            },
+            {
+              "word": "imagem",
+              "strong": "H6754"
             }
           ]
         },
@@ -4898,8 +5220,20 @@ globalThis.appData.books.push({
           "text": "Mas vós frutificai e multiplicai-vos; povoai abundantemente a terra, e multiplicai-vos nela.",
           "tokens": [
             {
+              "word": "frutificai",
+              "strong": "H6509"
+            },
+            {
+              "word": "multiplicai",
+              "strong": "H7235"
+            },
+            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "multiplicai",
+              "strong": "H7235"
             }
           ]
         },
@@ -4910,6 +5244,10 @@ globalThis.appData.books.push({
             {
               "word": "Deus",
               "strong": "H430"
+            },
+            {
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "filhos",
@@ -4948,24 +5286,12 @@ globalThis.appData.books.push({
               "strong": "H2416"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "arca",
-              "strong": "H727"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
+              "strong": "H8392"
             },
             {
               "word": "terra",
@@ -5008,10 +5334,6 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "aliança",
               "strong": "H1285"
             },
@@ -5029,10 +5351,6 @@ globalThis.appData.books.push({
           "n": 13,
           "text": "O meu arco tenho posto nas nuvens; este será por sinal da aliança entre mim e a terra.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "aliança",
               "strong": "H1285"
@@ -5057,10 +5375,6 @@ globalThis.appData.books.push({
           "n": 15,
           "text": "Então me lembrarei da minha aliança, que está entre mim e vós, e entre toda a alma vivente de toda a carne; e as águas não se tornarão mais em dilúvio para destruir toda a carne.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "aliança",
               "strong": "H1285"
@@ -5091,10 +5405,6 @@ globalThis.appData.books.push({
           "n": 16,
           "text": "E estará o arco nas nuvens, e eu o verei, para me lembrar da aliança eterna entre Deus e toda a alma vivente de toda a carne, que está sobre a terra.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "aliança",
               "strong": "H1285"
@@ -5138,8 +5448,8 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "aliança",
@@ -5164,16 +5474,32 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "arca",
-              "strong": "H727"
+              "strong": "H8392"
+            },
+            {
+              "word": "Cão",
+              "strong": "H2526"
+            },
+            {
+              "word": "Jafé",
+              "strong": "H3315"
+            },
+            {
+              "word": "Cão",
+              "strong": "H2526"
             },
             {
               "word": "pai",
               "strong": "H1"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -5186,6 +5512,10 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "terra",
               "strong": "H776"
             }
@@ -5196,8 +5526,8 @@ globalThis.appData.books.push({
           "text": "E começou Noé a ser lavrador da terra, e plantou uma vinha.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "terra",
@@ -5228,8 +5558,16 @@ globalThis.appData.books.push({
               "strong": "H7200"
             },
             {
+              "word": "Cão",
+              "strong": "H2526"
+            },
+            {
               "word": "pai",
               "strong": "H1"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             },
             {
               "word": "pai",
@@ -5246,6 +5584,10 @@ globalThis.appData.books.push({
           "text": "Então tomaram Sem e Jafé uma capa, e puseram-na sobre ambos os seus ombros, e indo virados para trás, cobriram a nudez do seu pai, e os seus rostos estavam virados, de maneira que não viram a nudez do seu pai.",
           "tokens": [
             {
+              "word": "Jafé",
+              "strong": "H3315"
+            },
+            {
               "word": "pai",
               "strong": "H1"
             },
@@ -5259,6 +5601,10 @@ globalThis.appData.books.push({
           "n": 24,
           "text": "E despertou Noé do seu vinho, e soube o que seu filho menor lhe fizera.",
           "tokens": [
+            {
+              "word": "Noé",
+              "strong": "H5146"
+            },
             {
               "word": "vinho",
               "strong": "H3196"
@@ -5276,6 +5622,14 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Maldito",
+              "strong": "H779"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             },
             {
               "word": "servo",
@@ -5308,6 +5662,10 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "servo",
               "strong": "H5650"
             }
@@ -5322,6 +5680,14 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "Jafé",
+              "strong": "H3315"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "servo",
               "strong": "H5650"
             }
@@ -5330,7 +5696,12 @@ globalThis.appData.books.push({
         {
           "n": 28,
           "text": "E viveu Noé, depois do dilúvio, trezentos e cinqüenta anos.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Noé",
+              "strong": "H5146"
+            }
+          ]
         },
         {
           "n": 29,
@@ -5339,6 +5710,10 @@ globalThis.appData.books.push({
             {
               "word": "dias",
               "strong": "H3117"
+            },
+            {
+              "word": "Noé",
+              "strong": "H5146"
             },
             {
               "word": "morreu",
@@ -5360,6 +5735,18 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
+              "word": "Cão",
+              "strong": "H2526"
+            },
+            {
+              "word": "Jafé",
+              "strong": "H3315"
+            },
+            {
               "word": "nasceram",
               "strong": "H3205"
             },
@@ -5376,6 +5763,10 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Jafé",
+              "strong": "H3315"
             }
           ]
         },
@@ -5420,6 +5811,14 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Cão",
+              "strong": "H2526"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -5456,10 +5855,6 @@ globalThis.appData.books.push({
           "text": "E este foi poderoso caçador diante da face do Senhor; por isso se diz: Como Ninrode, poderoso caçador diante do Senhor.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "Senhor",
               "strong": "H3068"
             },
@@ -5482,8 +5877,16 @@ globalThis.appData.books.push({
               "strong": "H4467"
             },
             {
+              "word": "Babel",
+              "strong": "H894"
+            },
+            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Sinar",
+              "strong": "H8152"
             }
           ]
         },
@@ -5527,6 +5930,10 @@ globalThis.appData.books.push({
           "text": "E Canaã gerou a Sidom, seu primogênito, e a Hete;",
           "tokens": [
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "gerou",
               "strong": "H3205"
             }
@@ -5553,7 +5960,15 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "Gerar",
-              "strong": "H3205"
+              "strong": "H1642"
+            },
+            {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
+              "word": "Gomorra",
+              "strong": "H6017"
             }
           ]
         },
@@ -5564,6 +5979,10 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Cão",
+              "strong": "H2526"
             },
             {
               "word": "nações",
@@ -5594,6 +6013,10 @@ globalThis.appData.books.push({
             {
               "word": "irmão",
               "strong": "H251"
+            },
+            {
+              "word": "Jafé",
+              "strong": "H3315"
             }
           ]
         },
@@ -5724,6 +6147,10 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Noé",
+              "strong": "H5146"
+            },
+            {
               "word": "nações",
               "strong": "H1471"
             },
@@ -5759,6 +6186,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Sinar",
+              "strong": "H8152"
             }
           ]
         },
@@ -5857,6 +6288,10 @@ globalThis.appData.books.push({
           "text": "Por isso se chamou o seu nome Babel, porquanto ali confundiu o Senhor a língua de toda a terra, e dali os espalhou o Senhor sobre a face de toda a terra.",
           "tokens": [
             {
+              "word": "Babel",
+              "strong": "H894"
+            },
+            {
               "word": "Senhor",
               "strong": "H3068"
             },
@@ -5878,10 +6313,6 @@ globalThis.appData.books.push({
           "n": 10,
           "text": "Estas são as gerações de Sem: Sem era da idade de cem anos e gerou a Arfaxade, dois anos depois do dilúvio.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "gerou",
               "strong": "H3205"
@@ -6037,6 +6468,10 @@ globalThis.appData.books.push({
               "strong": "H3205"
             },
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "gerou",
               "strong": "H3205"
             },
@@ -6081,6 +6516,10 @@ globalThis.appData.books.push({
             {
               "word": "gerou",
               "strong": "H3205"
+            },
+            {
+              "word": "Terá",
+              "strong": "H8646"
             }
           ]
         },
@@ -6091,6 +6530,10 @@ globalThis.appData.books.push({
             {
               "word": "gerou",
               "strong": "H3205"
+            },
+            {
+              "word": "Terá",
+              "strong": "H8646"
             },
             {
               "word": "gerou",
@@ -6107,8 +6550,20 @@ globalThis.appData.books.push({
           "text": "E viveu Terá setenta anos, e gerou a Abrão, a Naor, e a Harã.",
           "tokens": [
             {
+              "word": "Terá",
+              "strong": "H8646"
+            },
+            {
               "word": "gerou",
               "strong": "H3205"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Harã",
+              "strong": "H2039"
             }
           ]
         },
@@ -6117,12 +6572,36 @@ globalThis.appData.books.push({
           "text": "E estas são as gerações de Terá: Terá gerou a Abrão, a Naor, e a Harã; e Harã gerou a Ló.",
           "tokens": [
             {
-              "word": "gerou",
-              "strong": "H3205"
+              "word": "Terá",
+              "strong": "H8646"
+            },
+            {
+              "word": "Terá",
+              "strong": "H8646"
             },
             {
               "word": "gerou",
               "strong": "H3205"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Harã",
+              "strong": "H2039"
+            },
+            {
+              "word": "Harã",
+              "strong": "H2039"
+            },
+            {
+              "word": "gerou",
+              "strong": "H3205"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
             }
           ]
         },
@@ -6135,8 +6614,16 @@ globalThis.appData.books.push({
               "strong": "H4191"
             },
             {
+              "word": "Harã",
+              "strong": "H2039"
+            },
+            {
               "word": "pai",
               "strong": "H1"
+            },
+            {
+              "word": "Terá",
+              "strong": "H8646"
             },
             {
               "word": "vivo",
@@ -6153,24 +6640,32 @@ globalThis.appData.books.push({
           "text": "E tomaram Abrão e Naor mulheres para si: o nome da mulher de Abrão era Sarai, e o nome da mulher de Naor era Milca, filha de Harã, pai de Milca e pai de Iscá.",
           "tokens": [
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "mulheres",
               "strong": "H802"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Sarai",
+              "strong": "H8297"
             },
             {
               "word": "mulher",
               "strong": "H802"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
-              "word": "mulher",
-              "strong": "H802"
+              "word": "Harã",
+              "strong": "H2039"
             },
             {
               "word": "pai",
@@ -6187,6 +6682,10 @@ globalThis.appData.books.push({
           "text": "E Sarai foi estéril, não tinha filhos.",
           "tokens": [
             {
+              "word": "Sarai",
+              "strong": "H8297"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
             }
@@ -6197,8 +6696,28 @@ globalThis.appData.books.push({
           "text": "E tomou Terá a Abrão seu filho, e a Ló, filho de Harã, filho de seu filho, e a Sarai sua nora, mulher de seu filho Abrão, e saiu com eles de Ur dos caldeus, para ir à terra de Canaã; e vieram até Harã, e habitaram ali.",
           "tokens": [
             {
+              "word": "Terá",
+              "strong": "H8646"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Harã",
+              "strong": "H2039"
             },
             {
               "word": "filho",
@@ -6209,8 +6728,8 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
-              "word": "filho",
-              "strong": "H1121"
+              "word": "Sarai",
+              "strong": "H8297"
             },
             {
               "word": "mulher",
@@ -6221,8 +6740,20 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "Harã",
+              "strong": "H2039"
             }
           ]
         },
@@ -6235,8 +6766,20 @@ globalThis.appData.books.push({
               "strong": "H3117"
             },
             {
+              "word": "Terá",
+              "strong": "H8646"
+            },
+            {
               "word": "morreu",
               "strong": "H4191"
+            },
+            {
+              "word": "Terá",
+              "strong": "H8646"
+            },
+            {
+              "word": "Harã",
+              "strong": "H2039"
             }
           ]
         }
@@ -6258,20 +6801,12 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "casa",
@@ -6310,8 +6845,8 @@ globalThis.appData.books.push({
           "text": "E abençoarei os que te abençoarem, e amaldiçoarei os que te amaldiçoarem; e em ti serão benditas todas as famílias da terra.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "amaldiçoarei",
+              "strong": "H779"
             },
             {
               "word": "terra",
@@ -6324,12 +6859,24 @@ globalThis.appData.books.push({
           "text": "Assim partiu Abrão como o Senhor lhe tinha dito, e foi Ló com ele; e era Abrão da idade de setenta e cinco anos quando saiu de Harã.",
           "tokens": [
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "Senhor",
               "strong": "H3068"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Ló",
+              "strong": "H3876"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Harã",
+              "strong": "H2039"
             }
           ]
         },
@@ -6338,8 +6885,20 @@ globalThis.appData.books.push({
           "text": "E tomou Abrão a Sarai, sua mulher, e a Ló, filho de seu irmão, e todos os bens que haviam adquirido, e as almas que lhe acresceram em Harã; e saíram para irem à terra de Canaã; e chegaram à terra de Canaã.",
           "tokens": [
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Sarai",
+              "strong": "H8297"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
             },
             {
               "word": "filho",
@@ -6354,12 +6913,24 @@ globalThis.appData.books.push({
               "strong": "H5315"
             },
             {
-              "word": "terra",
-              "strong": "H776"
+              "word": "Harã",
+              "strong": "H2039"
             },
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -6367,6 +6938,10 @@ globalThis.appData.books.push({
           "n": 6,
           "text": "E passou Abrão por aquela terra até ao lugar de Siquém, até ao carvalho de Moré; e estavam então os cananeus na terra.",
           "tokens": [
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
             {
               "word": "terra",
               "strong": "H776"
@@ -6384,6 +6959,10 @@ globalThis.appData.books.push({
             {
               "word": "Senhor",
               "strong": "H3068"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "disse",
@@ -6416,6 +6995,14 @@ globalThis.appData.books.push({
               "strong": "H2022"
             },
             {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
               "word": "altar",
               "strong": "H4196"
             },
@@ -6432,7 +7019,12 @@ globalThis.appData.books.push({
         {
           "n": 9,
           "text": "Depois caminhou Abrão dali, seguindo ainda para o lado do sul.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            }
+          ]
         },
         {
           "n": 10,
@@ -6441,6 +7033,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "Egito",
@@ -6463,6 +7059,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Sarai",
+              "strong": "H8297"
             },
             {
               "word": "mulher",
@@ -6507,6 +7107,10 @@ globalThis.appData.books.push({
           "text": "E aconteceu que, entrando Abrão no Egito, viram os egípcios a mulher, que era mui formosa.",
           "tokens": [
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "Egito",
               "strong": "H4714"
             },
@@ -6547,6 +7151,10 @@ globalThis.appData.books.push({
           "text": "E fez bem a Abrão por amor dela; e ele teve ovelhas, vacas, jumentos, servos e servas, jumentas e camelos.",
           "tokens": [
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "amor",
               "strong": "H160"
             },
@@ -6573,8 +7181,16 @@ globalThis.appData.books.push({
               "strong": "H1004"
             },
             {
+              "word": "Sarai",
+              "strong": "H8297"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             }
           ]
         },
@@ -6585,6 +7201,10 @@ globalThis.appData.books.push({
             {
               "word": "Faraó",
               "strong": "H6547"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "disse",
@@ -6642,27 +7262,48 @@ globalThis.appData.books.push({
           "text": "Subiu, pois, Abrão do Egito para o lado do sul, ele e sua mulher, e tudo o que tinha, e com ele Ló.",
           "tokens": [
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "Egito",
               "strong": "H4714"
             },
             {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
             }
           ]
         },
         {
           "n": 2,
           "text": "E era Abrão muito rico em gado, em prata e em ouro.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            }
+          ]
         },
         {
           "n": 3,
           "text": "E fez as suas jornadas do sul até Betel, até ao lugar onde a princípio estivera a sua tenda, entre Betel e Ai;",
           "tokens": [
             {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
               "word": "princípio",
               "strong": "H7225"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
             }
           ]
         },
@@ -6675,6 +7316,10 @@ globalThis.appData.books.push({
               "strong": "H4196"
             },
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "Senhor",
               "strong": "H3068"
             }
@@ -6683,7 +7328,16 @@ globalThis.appData.books.push({
         {
           "n": 5,
           "text": "E também Ló, que ia com Abrão, tinha rebanhos, gado e tendas.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            }
+          ]
         },
         {
           "n": 6,
@@ -6700,6 +7354,14 @@ globalThis.appData.books.push({
           "text": "E houve contenda entre os pastores do gado de Abrão e os pastores do gado de Ló; e os cananeus e os perizeus habitavam então na terra.",
           "tokens": [
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
+            {
               "word": "terra",
               "strong": "H776"
             }
@@ -6712,6 +7374,14 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
             },
             {
               "word": "irmãos",
@@ -6734,6 +7404,10 @@ globalThis.appData.books.push({
           "text": "E levantou Ló os seus olhos, e viu toda a campina do Jordão, que era toda bem regada, antes do Senhor ter destruído Sodoma e Gomorra, e era como o jardim do Senhor, como a terra do Egito, quando se entra em Zoar.",
           "tokens": [
             {
+              "word": "Ló",
+              "strong": "H3876"
+            },
+            {
               "word": "olhos",
               "strong": "H5869"
             },
@@ -6742,8 +7416,20 @@ globalThis.appData.books.push({
               "strong": "H7200"
             },
             {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
               "word": "Senhor",
               "strong": "H3068"
+            },
+            {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
+              "word": "Gomorra",
+              "strong": "H6017"
             },
             {
               "word": "jardim",
@@ -6766,23 +7452,48 @@ globalThis.appData.books.push({
         {
           "n": 11,
           "text": "Então Ló escolheu para si toda a campina do Jordão, e partiu Ló para o oriente, e apartaram-se um do outro.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            }
+          ]
         },
         {
           "n": 12,
           "text": "Habitou Abrão na terra de Canaã e Ló habitou nas cidades da campina, e armou as suas tendas até Sodoma.",
           "tokens": [
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
             },
             {
               "word": "cidades",
               "strong": "H5892"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Sodoma",
+              "strong": "H5467"
             }
           ]
         },
@@ -6793,6 +7504,10 @@ globalThis.appData.books.push({
             {
               "word": "homens",
               "strong": "H120"
+            },
+            {
+              "word": "Sodoma",
+              "strong": "H5467"
             },
             {
               "word": "Senhor",
@@ -6811,6 +7526,14 @@ globalThis.appData.books.push({
             {
               "word": "Senhor",
               "strong": "H3068"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
             },
             {
               "word": "olhos",
@@ -6849,16 +7572,8 @@ globalThis.appData.books.push({
               "strong": "H2233"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -6884,6 +7599,18 @@ globalThis.appData.books.push({
           "n": 18,
           "text": "E Abrão mudou as suas tendas, e foi, e habitou nos carvalhais de Manre, que estão junto a Hebrom; e edificou ali um altar ao Senhor.",
           "tokens": [
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Manre",
+              "strong": "H4471"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
             {
               "word": "altar",
               "strong": "H4196"
@@ -6912,6 +7639,10 @@ globalThis.appData.books.push({
               "strong": "H4428"
             },
             {
+              "word": "Sinar",
+              "strong": "H8152"
+            },
+            {
               "word": "rei",
               "strong": "H4428"
             },
@@ -6934,8 +7665,16 @@ globalThis.appData.books.push({
               "strong": "H4428"
             },
             {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
               "word": "rei",
               "strong": "H4428"
+            },
+            {
+              "word": "Gomorra",
+              "strong": "H6017"
             },
             {
               "word": "rei",
@@ -7009,8 +7748,16 @@ globalThis.appData.books.push({
               "strong": "H4428"
             },
             {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
               "word": "rei",
               "strong": "H4428"
+            },
+            {
+              "word": "Gomorra",
+              "strong": "H6017"
             },
             {
               "word": "rei",
@@ -7043,6 +7790,10 @@ globalThis.appData.books.push({
               "strong": "H4428"
             },
             {
+              "word": "Sinar",
+              "strong": "H8152"
+            },
+            {
               "word": "rei",
               "strong": "H4428"
             },
@@ -7061,6 +7812,14 @@ globalThis.appData.books.push({
               "strong": "H4428"
             },
             {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
+              "word": "Gomorra",
+              "strong": "H6017"
+            },
+            {
               "word": "monte",
               "strong": "H2022"
             }
@@ -7069,12 +7828,29 @@ globalThis.appData.books.push({
         {
           "n": 11,
           "text": "E tomaram todos os bens de Sodoma, e de Gomorra, e todo o seu mantimento e foram-se.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
+              "word": "Gomorra",
+              "strong": "H6017"
+            }
+          ]
         },
         {
           "n": 12,
           "text": "Também tomaram a Ló, que habitava em Sodoma, filho do irmão de Abrão, e os seus bens, e foram-se.",
           "tokens": [
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
+            {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
             {
               "word": "filho",
               "strong": "H1121"
@@ -7082,6 +7858,10 @@ globalThis.appData.books.push({
             {
               "word": "irmão",
               "strong": "H251"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             }
           ]
         },
@@ -7090,12 +7870,24 @@ globalThis.appData.books.push({
           "text": "Então veio um, que escapara, e o contou a Abrão, o hebreu; ele habitava junto dos carvalhais de Manre, o amorreu, irmão de Escol, e irmão de Aner; eles eram confederados de Abrão.",
           "tokens": [
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Manre",
+              "strong": "H4471"
+            },
+            {
               "word": "irmão",
               "strong": "H251"
             },
             {
               "word": "irmão",
               "strong": "H251"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             }
           ]
         },
@@ -7103,6 +7895,10 @@ globalThis.appData.books.push({
           "n": 14,
           "text": "Ouvindo, pois, Abrão que o seu irmão estava preso, armou os seus criados, nascidos em sua casa, trezentos e dezoito, e os perseguiu até Dã.",
           "tokens": [
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
             {
               "word": "irmão",
               "strong": "H251"
@@ -7113,7 +7909,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "Dã",
-              "strong": "H5414"
+              "strong": "H1835"
             }
           ]
         },
@@ -7131,6 +7927,10 @@ globalThis.appData.books.push({
           "n": 16,
           "text": "E tornou a trazer todos os seus bens, e tornou a trazer também a Ló, seu irmão, e os seus bens, e também as mulheres, e o povo.",
           "tokens": [
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
             {
               "word": "irmão",
               "strong": "H251"
@@ -7154,6 +7954,10 @@ globalThis.appData.books.push({
               "strong": "H4428"
             },
             {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
               "word": "voltou",
               "strong": "H7725"
             },
@@ -7172,8 +7976,16 @@ globalThis.appData.books.push({
           "text": "E Melquisedeque, rei de Salém, trouxe pão e vinho; e era este sacerdote do Deus Altíssimo.",
           "tokens": [
             {
+              "word": "Melquisedeque",
+              "strong": "H4442"
+            },
+            {
               "word": "rei",
               "strong": "H4428"
+            },
+            {
+              "word": "Salém",
+              "strong": "H8004"
             },
             {
               "word": "pão",
@@ -7206,16 +8018,16 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "Deus",
               "strong": "H430"
             },
             {
               "word": "céus",
               "strong": "H8064"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -7236,6 +8048,10 @@ globalThis.appData.books.push({
               "strong": "H3027"
             },
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
             }
@@ -7250,12 +8066,16 @@ globalThis.appData.books.push({
               "strong": "H4428"
             },
             {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
               "word": "disse",
               "strong": "H559"
             },
             {
-              "word": "Dá",
-              "strong": "H5414"
+              "word": "Abrão",
+              "strong": "H87"
             }
           ]
         },
@@ -7264,12 +8084,20 @@ globalThis.appData.books.push({
           "text": "Abrão, porém, disse ao rei de Sodoma: Levantei minha mão ao Senhor, o Deus Altíssimo, o Possuidor dos céus e da terra,",
           "tokens": [
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "disse",
               "strong": "H559"
             },
             {
               "word": "rei",
               "strong": "H4428"
+            },
+            {
+              "word": "Sodoma",
+              "strong": "H5467"
             },
             {
               "word": "mão",
@@ -7288,10 +8116,6 @@ globalThis.appData.books.push({
               "strong": "H8064"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             }
@@ -7300,7 +8124,12 @@ globalThis.appData.books.push({
         {
           "n": 23,
           "text": "Jurando que desde um fio até à correia de um sapato, não tomarei coisa alguma de tudo o que é teu; para que não digas: Eu enriqueci a Abrão;",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            }
+          ]
         },
         {
           "n": 24,
@@ -7309,6 +8138,10 @@ globalThis.appData.books.push({
             {
               "word": "homens",
               "strong": "H120"
+            },
+            {
+              "word": "Manre",
+              "strong": "H4471"
             }
           ]
         }
@@ -7330,8 +8163,16 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "dizendo",
               "strong": "H559"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             }
           ]
         },
@@ -7342,6 +8183,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "Senhor",
@@ -7360,10 +8205,6 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "casa",
               "strong": "H1004"
             }
@@ -7376,6 +8217,10 @@ globalThis.appData.books.push({
             {
               "word": "Disse",
               "strong": "H559"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "dado",
@@ -7420,6 +8265,10 @@ globalThis.appData.books.push({
             {
               "word": "céus",
               "strong": "H8064"
+            },
+            {
+              "word": "estrelas",
+              "strong": "H3556"
             },
             {
               "word": "disse",
@@ -7498,22 +8347,27 @@ globalThis.appData.books.push({
         {
           "n": 10,
           "text": "E trouxe-lhe todos estes, e partiu-os pelo meio, e pôs cada parte deles em frente da outra; mas as aves não partiu.",
-          "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            }
-          ]
+          "tokens": []
         },
         {
           "n": 11,
           "text": "E as aves desciam sobre os cadáveres; Abrão, porém, as enxotava.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            }
+          ]
         },
         {
           "n": 12,
           "text": "E pondo-se o sol, um profundo sono caiu sobre Abrão; e eis que grande espanto e grande escuridão caiu sobre ele.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            }
+          ]
         },
         {
           "n": 13,
@@ -7522,6 +8376,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "descendência",
@@ -7568,12 +8426,7 @@ globalThis.appData.books.push({
         {
           "n": 16,
           "text": "E a quarta geração tornará para cá; porque a medida da injustiça dos amorreus não está ainda cheia.",
-          "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            }
-          ]
+          "tokens": []
         },
         {
           "n": 17,
@@ -7595,6 +8448,10 @@ globalThis.appData.books.push({
             {
               "word": "aliança",
               "strong": "H1285"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "dizendo",
@@ -7651,12 +8508,24 @@ globalThis.appData.books.push({
           "text": "Ora Sarai, mulher de Abrão, não lhe dava filhos, e ele tinha uma serva egípcia, cujo nome era Agar.",
           "tokens": [
             {
+              "word": "Sarai",
+              "strong": "H8297"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
             },
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Agar",
+              "strong": "H1904"
             }
           ]
         },
@@ -7667,6 +8536,14 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Sarai",
+              "strong": "H8297"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "Senhor",
@@ -7687,6 +8564,14 @@ globalThis.appData.books.push({
             {
               "word": "ouviu",
               "strong": "H8085"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Sarai",
+              "strong": "H8297"
             }
           ]
         },
@@ -7695,8 +8580,20 @@ globalThis.appData.books.push({
           "text": "Assim tomou Sarai, mulher de Abrão, a Agar egípcia, sua serva, e deu-a por mulher a Abrão seu marido, ao fim de dez anos que Abrão habitara na terra de Canaã.",
           "tokens": [
             {
+              "word": "Sarai",
+              "strong": "H8297"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Agar",
+              "strong": "H1904"
             },
             {
               "word": "deu",
@@ -7707,8 +8604,20 @@ globalThis.appData.books.push({
               "strong": "H802"
             },
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -7716,6 +8625,10 @@ globalThis.appData.books.push({
           "n": 4,
           "text": "E ele possuiu a Agar, e ela concebeu; e vendo ela que concebera, foi sua senhora desprezada aos seus olhos.",
           "tokens": [
+            {
+              "word": "Agar",
+              "strong": "H1904"
+            },
             {
               "word": "vendo",
               "strong": "H7200"
@@ -7733,6 +8646,14 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Sarai",
+              "strong": "H8297"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "vendo",
@@ -7757,6 +8678,14 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Sarai",
+              "strong": "H8297"
+            },
+            {
               "word": "mão",
               "strong": "H3027"
             },
@@ -7767,6 +8696,10 @@ globalThis.appData.books.push({
             {
               "word": "olhos",
               "strong": "H5869"
+            },
+            {
+              "word": "Sarai",
+              "strong": "H8297"
             }
           ]
         },
@@ -7801,12 +8734,20 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Agar",
+              "strong": "H1904"
+            },
+            {
+              "word": "Sarai",
+              "strong": "H8297"
+            },
+            {
               "word": "disse",
               "strong": "H559"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Sarai",
+              "strong": "H8297"
             }
           ]
         },
@@ -7841,6 +8782,10 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
+              "word": "Multiplicarei",
+              "strong": "H7235"
+            },
+            {
               "word": "descendência",
               "strong": "H2233"
             }
@@ -7867,6 +8812,10 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Ismael",
+              "strong": "H3458"
+            },
+            {
               "word": "Senhor",
               "strong": "H3068"
             },
@@ -7891,10 +8840,6 @@ globalThis.appData.books.push({
             {
               "word": "mão",
               "strong": "H3027"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "irmãos",
@@ -7930,6 +8875,10 @@ globalThis.appData.books.push({
           "text": "E Agar deu à luz um filho a Abrão; e Abrão chamou o nome do seu filho que Agar tivera, Ismael.",
           "tokens": [
             {
+              "word": "Agar",
+              "strong": "H1904"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
             },
@@ -7942,8 +8891,24 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Agar",
+              "strong": "H1904"
+            },
+            {
+              "word": "Ismael",
+              "strong": "H3458"
             }
           ]
         },
@@ -7952,8 +8917,12 @@ globalThis.appData.books.push({
           "text": "E era Abrão da idade de oitenta e seis anos, quando Agar deu à luz Ismael.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
+              "word": "Agar",
+              "strong": "H1904"
             },
             {
               "word": "deu",
@@ -7962,6 +8931,10 @@ globalThis.appData.books.push({
             {
               "word": "luz",
               "strong": "H216"
+            },
+            {
+              "word": "Ismael",
+              "strong": "H3458"
             }
           ]
         }
@@ -7975,12 +8948,16 @@ globalThis.appData.books.push({
           "text": "Sendo, pois, Abrão da idade de noventa e nove anos, apareceu o SENHOR a Abrão, e disse-lhe: Eu sou o Deus Todo-Poderoso, anda em minha presença e sê perfeito.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "SENHOR",
               "strong": "H3068"
+            },
+            {
+              "word": "Abrão",
+              "strong": "H87"
             },
             {
               "word": "disse",
@@ -8003,6 +8980,10 @@ globalThis.appData.books.push({
             {
               "word": "aliança",
               "strong": "H1285"
+            },
+            {
+              "word": "multiplicarei",
+              "strong": "H7235"
             }
           ]
         },
@@ -8010,6 +8991,10 @@ globalThis.appData.books.push({
           "n": 3,
           "text": "Então caiu Abrão sobre o seu rosto, e falou Deus com ele, dizendo:",
           "tokens": [
+            {
+              "word": "Abrão",
+              "strong": "H87"
+            },
             {
               "word": "Deus",
               "strong": "H430"
@@ -8043,6 +9028,10 @@ globalThis.appData.books.push({
           "text": "E não se chamará mais o teu nome Abrão, mas Abraão será o teu nome; porque por pai de muitas nações te tenho posto;",
           "tokens": [
             {
+              "word": "Abrão",
+              "strong": "H87"
+            },
+            {
               "word": "Abraão",
               "strong": "H85"
             },
@@ -8060,6 +9049,10 @@ globalThis.appData.books.push({
           "n": 6,
           "text": "E te farei frutificar grandissimamente, e de ti farei nações, e reis sairão de ti;",
           "tokens": [
+            {
+              "word": "frutificar",
+              "strong": "H6509"
+            },
             {
               "word": "nações",
               "strong": "H1471"
@@ -8111,6 +9104,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             },
             {
               "word": "Deus",
@@ -8171,10 +9168,6 @@ globalThis.appData.books.push({
               "strong": "H1320"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "aliança",
               "strong": "H1285"
             }
@@ -8199,10 +9192,6 @@ globalThis.appData.books.push({
             {
               "word": "casa",
               "strong": "H1004"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "descendência",
@@ -8275,8 +9264,20 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
+              "word": "Sarai",
+              "strong": "H8297"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Sarai",
+              "strong": "H8297"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
             }
           ]
         },
@@ -8339,8 +9340,8 @@ globalThis.appData.books.push({
               "strong": "H216"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Sara",
+              "strong": "H8283"
             }
           ]
         },
@@ -8359,6 +9360,10 @@ globalThis.appData.books.push({
             {
               "word": "Deus",
               "strong": "H430"
+            },
+            {
+              "word": "Ismael",
+              "strong": "H3458"
             }
           ]
         },
@@ -8377,6 +9382,10 @@ globalThis.appData.books.push({
             {
               "word": "verdade",
               "strong": "H571"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
             },
             {
               "word": "mulher",
@@ -8409,8 +9418,20 @@ globalThis.appData.books.push({
           "text": "E quanto a Ismael, também te tenho ouvido; eis aqui o tenho abençoado, e fá-lo-ei frutificar, e fá-lo-ei multiplicar grandissimamente; doze príncipes gerará, e dele farei uma grande nação.",
           "tokens": [
             {
+              "word": "Ismael",
+              "strong": "H3458"
+            },
+            {
               "word": "ouvido",
               "strong": "H8085"
+            },
+            {
+              "word": "frutificar",
+              "strong": "H6509"
+            },
+            {
+              "word": "multiplicar",
+              "strong": "H7235"
             },
             {
               "word": "nação",
@@ -8429,6 +9450,10 @@ globalThis.appData.books.push({
             {
               "word": "Isaque",
               "strong": "H3327"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
             },
             {
               "word": "luz",
@@ -8463,16 +9488,16 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Ismael",
+              "strong": "H3458"
+            },
+            {
               "word": "casa",
               "strong": "H1004"
             },
             {
               "word": "homem",
               "strong": "H120"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "casa",
@@ -8505,10 +9530,6 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "carne",
               "strong": "H1320"
             }
@@ -8519,12 +9540,12 @@ globalThis.appData.books.push({
           "text": "E Ismael, seu filho, era da idade de treze anos, quando lhe foi circuncidada a carne do seu prepúcio.",
           "tokens": [
             {
-              "word": "filho",
-              "strong": "H1121"
+              "word": "Ismael",
+              "strong": "H3458"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "filho",
+              "strong": "H1121"
             },
             {
               "word": "carne",
@@ -8545,6 +9566,10 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
+              "word": "Ismael",
+              "strong": "H3458"
+            },
+            {
               "word": "filho",
               "strong": "H1121"
             }
@@ -8557,10 +9582,6 @@ globalThis.appData.books.push({
             {
               "word": "homens",
               "strong": "H120"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "casa",
@@ -8586,8 +9607,8 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Manre",
+              "strong": "H4471"
             },
             {
               "word": "dia",
@@ -8610,14 +9631,6 @@ globalThis.appData.books.push({
             {
               "word": "vendo",
               "strong": "H7200"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -8688,6 +9701,10 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "disse",
               "strong": "H559"
             }
@@ -8716,10 +9733,6 @@ globalThis.appData.books.push({
           "text": "E tomou manteiga e leite, e a vitela que tinha preparado, e pôs tudo diante deles, e ele estava em pé junto a eles debaixo da árvore; e comeram.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "árvore",
               "strong": "H6086"
             }
@@ -8729,6 +9742,10 @@ globalThis.appData.books.push({
           "n": 9,
           "text": "E disseram-lhe: Onde está Sara, tua mulher? E ele disse: Ei-la aí na tenda.",
           "tokens": [
+            {
+              "word": "Sara",
+              "strong": "H8283"
+            },
             {
               "word": "mulher",
               "strong": "H802"
@@ -8748,24 +9765,28 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "vida",
               "strong": "H2416"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
             },
             {
               "word": "mulher",
               "strong": "H802"
             },
             {
+              "word": "terá",
+              "strong": "H8646"
+            },
+            {
               "word": "filho",
               "strong": "H1121"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Sara",
+              "strong": "H8283"
             }
           ]
         },
@@ -8778,6 +9799,14 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "mulheres",
               "strong": "H802"
             }
@@ -8787,6 +9816,10 @@ globalThis.appData.books.push({
           "n": 12,
           "text": "Assim, pois, riu-se Sara consigo, dizendo: Terei ainda deleite depois de haver envelhecido, sendo também o meu senhor já velho?",
           "tokens": [
+            {
+              "word": "Sara",
+              "strong": "H8283"
+            },
             {
               "word": "dizendo",
               "strong": "H559"
@@ -8814,6 +9847,10 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "dizendo",
               "strong": "H559"
             },
@@ -8836,12 +9873,16 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "vida",
               "strong": "H2416"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
+              "word": "terá",
+              "strong": "H8646"
             },
             {
               "word": "filho",
@@ -8853,6 +9894,10 @@ globalThis.appData.books.push({
           "n": 15,
           "text": "E Sara negou, dizendo: Não me ri; porquanto temeu. E ele disse: Não digas isso, porque te riste.",
           "tokens": [
+            {
+              "word": "Sara",
+              "strong": "H8283"
+            },
             {
               "word": "dizendo",
               "strong": "H559"
@@ -8874,6 +9919,10 @@ globalThis.appData.books.push({
             {
               "word": "homens",
               "strong": "H120"
+            },
+            {
+              "word": "Sodoma",
+              "strong": "H5467"
             },
             {
               "word": "Abraão",
@@ -8914,10 +9963,6 @@ globalThis.appData.books.push({
             {
               "word": "nações",
               "strong": "H1471"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -8976,6 +10021,14 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
+              "word": "Gomorra",
+              "strong": "H6017"
+            },
+            {
               "word": "pecado",
               "strong": "H2403"
             }
@@ -8995,12 +10048,12 @@ globalThis.appData.books.push({
               "strong": "H120"
             },
             {
-              "word": "Abraão",
-              "strong": "H85"
+              "word": "Sodoma",
+              "strong": "H5467"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Abraão",
+              "strong": "H85"
             },
             {
               "word": "Senhor",
@@ -9091,12 +10144,12 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
-              "word": "justos",
-              "strong": "H6666"
+              "word": "Sodoma",
+              "strong": "H5467"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "justos",
+              "strong": "H6666"
             },
             {
               "word": "cidade",
@@ -9252,8 +10305,24 @@ globalThis.appData.books.push({
           "text": "E vieram os dois anjos a Sodoma à tarde, e estava Ló assentado à porta de Sodoma; e vendo-os Ló, levantou-se ao seu encontro e inclinou-se com o rosto à terra;",
           "tokens": [
             {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
+            {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
               "word": "vendo",
               "strong": "H7200"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
             },
             {
               "word": "terra",
@@ -9322,6 +10391,10 @@ globalThis.appData.books.push({
               "strong": "H120"
             },
             {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
               "word": "povo",
               "strong": "H5971"
             }
@@ -9331,6 +10404,10 @@ globalThis.appData.books.push({
           "n": 5,
           "text": "E chamaram a Ló, e disseram-lhe: Onde estão os homens que a ti vieram nesta noite? Traze-os fora a nós, para que os conheçamos.",
           "tokens": [
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
             {
               "word": "homens",
               "strong": "H120"
@@ -9344,7 +10421,12 @@ globalThis.appData.books.push({
         {
           "n": 6,
           "text": "Então saiu Ló a eles à porta, e fechou a porta atrás de si,",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            }
+          ]
         },
         {
           "n": 7,
@@ -9389,6 +10471,10 @@ globalThis.appData.books.push({
             {
               "word": "homem",
               "strong": "H120"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
             }
           ]
         },
@@ -9405,6 +10491,10 @@ globalThis.appData.books.push({
               "strong": "H3027"
             },
             {
+              "word": "Ló",
+              "strong": "H3876"
+            },
+            {
               "word": "casa",
               "strong": "H1004"
             }
@@ -9417,10 +10507,6 @@ globalThis.appData.books.push({
             {
               "word": "homens",
               "strong": "H120"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "casa",
@@ -9437,6 +10523,10 @@ globalThis.appData.books.push({
               "strong": "H120"
             },
             {
+              "word": "Ló",
+              "strong": "H3876"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
             },
@@ -9451,10 +10541,6 @@ globalThis.appData.books.push({
           "text": "Porque nós vamos destruir este lugar, porque o seu clamor tem aumentado diante da face do Senhor, e o Senhor nos enviou a destruí-lo.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "Senhor",
               "strong": "H3068"
             },
@@ -9468,6 +10554,10 @@ globalThis.appData.books.push({
           "n": 14,
           "text": "Então saiu Ló, e falou a seus genros, aos que haviam de tomar as suas filhas, e disse: Levantai-vos, saí deste lugar, porque o Senhor há de destruir a cidade. Foi tido porém por zombador aos olhos de seus genros.",
           "tokens": [
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
             {
               "word": "disse",
               "strong": "H559"
@@ -9490,6 +10580,10 @@ globalThis.appData.books.push({
           "n": 15,
           "text": "E ao amanhecer os anjos apertaram com Ló, dizendo: Levanta-te, toma tua mulher e tuas duas filhas que aqui estão, para que não pereças na injustiça desta cidade.",
           "tokens": [
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
             {
               "word": "dizendo",
               "strong": "H559"
@@ -9529,10 +10623,6 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "cidade",
               "strong": "H5892"
             }
@@ -9560,6 +10650,10 @@ globalThis.appData.books.push({
           "n": 18,
           "text": "E Ló disse-lhe: Ora, não, meu Senhor!",
           "tokens": [
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
             {
               "word": "disse",
               "strong": "H559"
@@ -9637,10 +10731,6 @@ globalThis.appData.books.push({
           "text": "Apressa-te, escapa-te para ali; porque nada poderei fazer, enquanto não tiveres ali chegado. Por isso se chamou o nome da cidade Zoar.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "cidade",
               "strong": "H5892"
             }
@@ -9653,6 +10743,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
             }
           ]
         },
@@ -9671,6 +10765,14 @@ globalThis.appData.books.push({
             {
               "word": "céus",
               "strong": "H8064"
+            },
+            {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
+              "word": "Gomorra",
+              "strong": "H6017"
             }
           ]
         },
@@ -9687,10 +10789,6 @@ globalThis.appData.books.push({
               "strong": "H5892"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             }
@@ -9703,6 +10801,10 @@ globalThis.appData.books.push({
             {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
             }
           ]
         },
@@ -9715,10 +10817,6 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "Senhor",
               "strong": "H3068"
             }
@@ -9729,20 +10827,20 @@ globalThis.appData.books.push({
           "text": "E olhou para Sodoma e Gomorra e para toda a terra da campina; e viu, que a fumaça da terra subia, como a de uma fornalha.",
           "tokens": [
             {
+              "word": "Sodoma",
+              "strong": "H5467"
+            },
+            {
+              "word": "Gomorra",
+              "strong": "H6017"
+            },
+            {
               "word": "terra",
               "strong": "H776"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "viu",
               "strong": "H7200"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -9763,10 +10861,6 @@ globalThis.appData.books.push({
               "strong": "H5892"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "Deus",
               "strong": "H430"
             },
@@ -9775,12 +10869,16 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Ló",
+              "strong": "H3876"
             },
             {
               "word": "cidades",
               "strong": "H5892"
+            },
+            {
+              "word": "Ló",
+              "strong": "H3876"
             }
           ]
         },
@@ -9788,6 +10886,10 @@ globalThis.appData.books.push({
           "n": 30,
           "text": "E subiu Ló de Zoar, e habitou no monte, e as suas duas filhas com ele; porque temia habitar em Zoar; e habitou numa caverna, ele e as suas duas filhas.",
           "tokens": [
+            {
+              "word": "Ló",
+              "strong": "H3876"
+            },
             {
               "word": "monte",
               "strong": "H2022"
@@ -9933,6 +11035,10 @@ globalThis.appData.books.push({
           "text": "E conceberam as duas filhas de Ló de seu pai.",
           "tokens": [
             {
+              "word": "Ló",
+              "strong": "H3876"
+            },
+            {
               "word": "pai",
               "strong": "H1"
             }
@@ -10013,7 +11119,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "Gerar",
-              "strong": "H3205"
+              "strong": "H1642"
             }
           ]
         },
@@ -10026,6 +11132,10 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
             },
@@ -10035,7 +11145,11 @@ globalThis.appData.books.push({
             },
             {
               "word": "Gerar",
-              "strong": "H3205"
+              "strong": "H1642"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
             }
           ]
         },
@@ -10058,10 +11172,6 @@ globalThis.appData.books.push({
             {
               "word": "morto",
               "strong": "H4191"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "mulher",
@@ -10224,10 +11334,6 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "mulher",
               "strong": "H802"
             }
@@ -10246,10 +11352,6 @@ globalThis.appData.books.push({
               "strong": "H1"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "mãe",
               "strong": "H517"
             },
@@ -10266,10 +11368,6 @@ globalThis.appData.books.push({
             {
               "word": "Deus",
               "strong": "H430"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "casa",
@@ -10306,6 +11404,10 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
             }
@@ -10324,10 +11426,6 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "bom",
               "strong": "H2896"
             },
@@ -10341,6 +11439,10 @@ globalThis.appData.books.push({
           "n": 16,
           "text": "E a Sara disse: Vês que tenho dado ao teu irmão mil moedas de prata; eis que ele te seja por véu dos olhos para com todos os que contigo estão, e até para com todos os outros; e estás advertida.",
           "tokens": [
+            {
+              "word": "Sara",
+              "strong": "H8283"
+            },
             {
               "word": "disse",
               "strong": "H559"
@@ -10394,12 +11496,12 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "casa",
               "strong": "H1004"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
             },
             {
               "word": "mulher",
@@ -10425,8 +11527,16 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "SENHOR",
               "strong": "H3068"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
             }
           ]
         },
@@ -10434,6 +11544,10 @@ globalThis.appData.books.push({
           "n": 2,
           "text": "E concebeu Sara, e deu a Abraão um filho na sua velhice, ao tempo determinado, que Deus lhe tinha falado.",
           "tokens": [
+            {
+              "word": "Sara",
+              "strong": "H8283"
+            },
             {
               "word": "deu",
               "strong": "H5414"
@@ -10465,6 +11579,10 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "Isaque",
               "strong": "H3327"
             }
@@ -10487,10 +11605,6 @@ globalThis.appData.books.push({
               "strong": "H3327"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "dias",
               "strong": "H3117"
             },
@@ -10507,10 +11621,6 @@ globalThis.appData.books.push({
             {
               "word": "Abraão",
               "strong": "H85"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "nasceu",
@@ -10535,6 +11645,10 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "Deus",
               "strong": "H430"
             },
@@ -10555,6 +11669,10 @@ globalThis.appData.books.push({
             {
               "word": "Abraão",
               "strong": "H85"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
             },
             {
               "word": "filhos",
@@ -10593,8 +11711,16 @@ globalThis.appData.books.push({
               "strong": "H7200"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Agar",
+              "strong": "H1904"
             },
             {
               "word": "dado",
@@ -10679,8 +11805,8 @@ globalThis.appData.books.push({
               "strong": "H5869"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Sara",
+              "strong": "H8283"
             },
             {
               "word": "ouve",
@@ -10735,12 +11861,20 @@ globalThis.appData.books.push({
               "strong": "H5414"
             },
             {
+              "word": "Agar",
+              "strong": "H1904"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
             },
             {
               "word": "deserto",
               "strong": "H4057"
+            },
+            {
+              "word": "Berseba",
+              "strong": "H884"
             }
           ]
         },
@@ -10785,12 +11919,20 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "Agar",
+              "strong": "H1904"
+            },
+            {
               "word": "céus",
               "strong": "H8064"
             },
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Agar",
+              "strong": "H1904"
             },
             {
               "word": "Deus",
@@ -10875,10 +12017,6 @@ globalThis.appData.books.push({
             {
               "word": "mulher",
               "strong": "H802"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -10997,6 +12135,10 @@ globalThis.appData.books.push({
             {
               "word": "Abraão",
               "strong": "H85"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             }
           ]
         },
@@ -11011,6 +12153,10 @@ globalThis.appData.books.push({
             {
               "word": "Abraão",
               "strong": "H85"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             }
           ]
         },
@@ -11023,6 +12169,10 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "mão",
               "strong": "H3027"
             }
@@ -11031,7 +12181,12 @@ globalThis.appData.books.push({
         {
           "n": 31,
           "text": "Por isso se chamou aquele lugar Berseba, porquanto ambos juraram ali.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Berseba",
+              "strong": "H884"
+            }
+          ]
         },
         {
           "n": 32,
@@ -11040,6 +12195,10 @@ globalThis.appData.books.push({
             {
               "word": "aliança",
               "strong": "H1285"
+            },
+            {
+              "word": "Berseba",
+              "strong": "H884"
             },
             {
               "word": "terra",
@@ -11051,6 +12210,10 @@ globalThis.appData.books.push({
           "n": 33,
           "text": "E plantou um bosque em Berseba, e invocou lá o nome do Senhor, Deus eterno.",
           "tokens": [
+            {
+              "word": "Berseba",
+              "strong": "H884"
+            },
             {
               "word": "Senhor",
               "strong": "H3068"
@@ -11137,6 +12300,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Moriá",
+              "strong": "H4179"
             },
             {
               "word": "holocausto",
@@ -11331,10 +12498,6 @@ globalThis.appData.books.push({
             {
               "word": "altar",
               "strong": "H4196"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             }
           ]
         },
@@ -11509,8 +12672,16 @@ globalThis.appData.books.push({
           "text": "Que deveras te abençoarei, e grandissimamente multiplicarei a tua descendência como as estrelas dos céus, e como a areia que está na praia do mar; e a tua descendência possuirá a porta dos seus inimigos;",
           "tokens": [
             {
+              "word": "multiplicarei",
+              "strong": "H7235"
+            },
+            {
               "word": "descendência",
               "strong": "H2233"
+            },
+            {
+              "word": "estrelas",
+              "strong": "H3556"
             },
             {
               "word": "céus",
@@ -11539,10 +12710,6 @@ globalThis.appData.books.push({
               "strong": "H1471"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             }
@@ -11557,8 +12724,16 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
+              "word": "Berseba",
+              "strong": "H884"
+            },
+            {
               "word": "Abraão",
               "strong": "H85"
+            },
+            {
+              "word": "Berseba",
+              "strong": "H884"
             }
           ]
         },
@@ -11616,6 +12791,10 @@ globalThis.appData.books.push({
               "strong": "H3205"
             },
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
             },
@@ -11657,12 +12836,20 @@ globalThis.appData.books.push({
               "strong": "H2416"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             },
             {
               "word": "vida",
               "strong": "H2416"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
             }
           ]
         },
@@ -11675,12 +12862,32 @@ globalThis.appData.books.push({
               "strong": "H4191"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
+              "word": "Quiriate-Arba",
+              "strong": "H7153"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
               "word": "terra",
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "Abraão",
               "strong": "H85"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
             }
           ]
         },
@@ -11705,12 +12912,7 @@ globalThis.appData.books.push({
         {
           "n": 4,
           "text": "Estrangeiro e peregrino sou entre vós; dai-me possessão de sepultura convosco, para que eu sepulte a minha morta de diante da minha face.",
-          "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            }
-          ]
+          "tokens": []
         },
         {
           "n": 5,
@@ -11757,10 +12959,6 @@ globalThis.appData.books.push({
               "strong": "H5971"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
@@ -11791,7 +12989,12 @@ globalThis.appData.books.push({
         {
           "n": 9,
           "text": "Que ele me dê a cova de Macpela, que ele tem no fim do seu campo; que ma dê pelo devido preço em herança de sepulcro no meio de vós.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Macpela",
+              "strong": "H4375"
+            }
+          ]
         },
         {
           "n": 10,
@@ -11808,10 +13011,6 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "cidade",
@@ -11858,16 +13057,8 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "povo",
               "strong": "H5971"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -11882,10 +13073,6 @@ globalThis.appData.books.push({
             {
               "word": "povo",
               "strong": "H5971"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -11958,7 +13145,16 @@ globalThis.appData.books.push({
         {
           "n": 17,
           "text": "Assim o campo de Efrom, que estava em Macpela, em frente de Manre, o campo e a cova que nele estava, e todo o arvoredo que no campo havia, que estava em todo o seu contorno ao redor,",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Macpela",
+              "strong": "H4375"
+            },
+            {
+              "word": "Manre",
+              "strong": "H4471"
+            }
+          ]
         },
         {
           "n": 18,
@@ -11977,10 +13173,6 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "cidade",
               "strong": "H5892"
             }
@@ -11995,12 +13187,32 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
             },
             {
+              "word": "Macpela",
+              "strong": "H4375"
+            },
+            {
+              "word": "Manre",
+              "strong": "H4471"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -12058,20 +13270,12 @@ globalThis.appData.books.push({
               "strong": "H5650"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "casa",
               "strong": "H1004"
             },
             {
               "word": "mão",
               "strong": "H3027"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             }
           ]
         },
@@ -12094,10 +13298,6 @@ globalThis.appData.books.push({
             {
               "word": "Deus",
               "strong": "H430"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -12204,10 +13404,6 @@ globalThis.appData.books.push({
               "strong": "H8064"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "casa",
               "strong": "H1004"
             },
@@ -12216,16 +13412,8 @@ globalThis.appData.books.push({
               "strong": "H1"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "dizendo",
@@ -12238,10 +13426,6 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "mulher",
@@ -12278,10 +13462,6 @@ globalThis.appData.books.push({
             {
               "word": "mão",
               "strong": "H3027"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "Abraão",
@@ -12324,10 +13504,6 @@ globalThis.appData.books.push({
           "text": "E fez ajoelhar os camelos fora da cidade, junto a um poço de água, pela tarde, ao tempo que as moças saíam a tirar água.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "cidade",
               "strong": "H5892"
             },
@@ -12364,10 +13540,6 @@ globalThis.appData.books.push({
             {
               "word": "Abraão",
               "strong": "H85"
-            },
-            {
-              "word": "dá",
-              "strong": "H5414"
             },
             {
               "word": "bom",
@@ -12427,6 +13599,10 @@ globalThis.appData.books.push({
           "n": 15,
           "text": "E sucedeu que, antes que ele acabasse de falar, eis que Rebeca, que havia nascido a Betuel, filho de Milca, mulher de Naor, irmão de Abraão, saía com o seu cântaro sobre o seu ombro.",
           "tokens": [
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
             {
               "word": "filho",
               "strong": "H1121"
@@ -12692,8 +13868,16 @@ globalThis.appData.books.push({
           "text": "E Rebeca tinha um irmão cujo nome era Labão, o qual correu ao encontro daquele homem até a fonte.",
           "tokens": [
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "irmão",
               "strong": "H251"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "homem",
@@ -12720,6 +13904,10 @@ globalThis.appData.books.push({
             {
               "word": "palavras",
               "strong": "H1697"
+            },
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
             },
             {
               "word": "homem",
@@ -12838,6 +14026,10 @@ globalThis.appData.books.push({
           "text": "E Sara, a mulher do meu senhor, deu à luz um filho a meu senhor depois da sua velhice, e ele deu-lhe tudo quanto tem.",
           "tokens": [
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
             },
@@ -12860,10 +14052,6 @@ globalThis.appData.books.push({
             {
               "word": "senhor",
               "strong": "H3068"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "deu",
@@ -12962,14 +14150,6 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "casa",
               "strong": "H1004"
             },
@@ -13027,10 +14207,6 @@ globalThis.appData.books.push({
               "strong": "H4325"
             },
             {
-              "word": "dá",
-              "strong": "H5414"
-            },
-            {
               "word": "água",
               "strong": "H4325"
             }
@@ -13071,16 +14247,16 @@ globalThis.appData.books.push({
               "strong": "H3820"
             },
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "água",
               "strong": "H4325"
             },
             {
               "word": "disse",
               "strong": "H559"
-            },
-            {
-              "word": "dá",
-              "strong": "H5414"
             }
           ]
         },
@@ -13153,10 +14329,6 @@ globalThis.appData.books.push({
               "strong": "H1870"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "verdade",
               "strong": "H571"
             },
@@ -13193,6 +14365,10 @@ globalThis.appData.books.push({
           "text": "Então responderam Labão e Betuel, e disseram: Do Senhor procedeu este negócio; não podemos falar-te mal ou bem.",
           "tokens": [
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "Senhor",
               "strong": "H3068"
             }
@@ -13203,8 +14379,8 @@ globalThis.appData.books.push({
           "text": "Eis que Rebeca está diante da tua face; toma-a, e vai-te; seja a mulher do filho de teu senhor, como tem dito o SENHOR.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Rebeca",
+              "strong": "H7259"
             },
             {
               "word": "mulher",
@@ -13261,6 +14437,10 @@ globalThis.appData.books.push({
             {
               "word": "deu",
               "strong": "H5414"
+            },
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
             },
             {
               "word": "deu",
@@ -13352,6 +14532,10 @@ globalThis.appData.books.push({
           "text": "E chamaram a Rebeca, e disseram-lhe: Irás tu com este homem? Ela respondeu: Irei.",
           "tokens": [
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "homem",
               "strong": "H120"
             }
@@ -13361,6 +14545,10 @@ globalThis.appData.books.push({
           "n": 59,
           "text": "Então despediram a Rebeca, sua irmã, e sua ama, e o servo de Abraão, e seus homens.",
           "tokens": [
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
             {
               "word": "ama",
               "strong": "H157"
@@ -13384,6 +14572,10 @@ globalThis.appData.books.push({
           "text": "E abençoaram a Rebeca, e disseram-lhe: Ó nossa irmã, sê tu a mãe de milhares de milhares, e que a tua descendência possua a porta de seus aborrecedores!",
           "tokens": [
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "mãe",
               "strong": "H517"
             },
@@ -13398,12 +14590,20 @@ globalThis.appData.books.push({
           "text": "E Rebeca se levantou com as suas moças, e subiram sobre os camelos, e seguiram o homem; e tomou aquele servo a Rebeca, e partiu.",
           "tokens": [
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "homem",
               "strong": "H120"
             },
             {
               "word": "servo",
               "strong": "H5650"
+            },
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
             }
           ]
         },
@@ -13443,6 +14643,10 @@ globalThis.appData.books.push({
           "n": 64,
           "text": "Rebeca também levantou seus olhos, e viu a Isaque, e desceu do camelo.",
           "tokens": [
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
             {
               "word": "olhos",
               "strong": "H5869"
@@ -13514,6 +14718,14 @@ globalThis.appData.books.push({
               "strong": "H517"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
             },
@@ -13524,10 +14736,6 @@ globalThis.appData.books.push({
             {
               "word": "Isaque",
               "strong": "H3327"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "morte",
@@ -13593,6 +14801,10 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Enoque",
+              "strong": "H2585"
             },
             {
               "word": "filhos",
@@ -13665,10 +14877,6 @@ globalThis.appData.books.push({
               "strong": "H3117"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "vida",
               "strong": "H2416"
             },
@@ -13709,12 +14917,24 @@ globalThis.appData.books.push({
               "strong": "H3327"
             },
             {
+              "word": "Ismael",
+              "strong": "H3458"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
             },
             {
+              "word": "Macpela",
+              "strong": "H4375"
+            },
+            {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Manre",
+              "strong": "H4471"
             }
           ]
         },
@@ -13735,6 +14955,10 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
             }
@@ -13744,10 +14968,6 @@ globalThis.appData.books.push({
           "n": 11,
           "text": "E aconteceu depois da morte de Abraão, que Deus abençoou a Isaque seu filho; e habitava Isaque junto ao poço Beer-Laai-Rói.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "morte",
               "strong": "H4191"
@@ -13783,12 +15003,24 @@ globalThis.appData.books.push({
           "text": "Estas, porém, são as gerações de Ismael filho de Abraão, que a serva de Sara, Agar, egípcia, deu a Abraão.",
           "tokens": [
             {
+              "word": "Ismael",
+              "strong": "H3458"
+            },
+            {
               "word": "filho",
               "strong": "H1121"
             },
             {
               "word": "Abraão",
               "strong": "H85"
+            },
+            {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
+              "word": "Agar",
+              "strong": "H1904"
             },
             {
               "word": "deu",
@@ -13807,6 +15039,14 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Ismael",
+              "strong": "H3458"
+            },
+            {
+              "word": "Ismael",
+              "strong": "H3458"
             }
           ]
         },
@@ -13827,6 +15067,10 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Ismael",
+              "strong": "H3458"
             }
           ]
         },
@@ -13835,12 +15079,16 @@ globalThis.appData.books.push({
           "text": "E estes são os anos da vida de Ismael, cento e trinta e sete anos, e ele expirou e, morrendo, foi congregado ao seu povo.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "vida",
               "strong": "H2416"
+            },
+            {
+              "word": "Ismael",
+              "strong": "H3458"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             },
             {
               "word": "povo",
@@ -13855,10 +15103,6 @@ globalThis.appData.books.push({
             {
               "word": "Egito",
               "strong": "H4714"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "irmãos",
@@ -13905,12 +15149,16 @@ globalThis.appData.books.push({
               "strong": "H3327"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         },
@@ -13937,6 +15185,10 @@ globalThis.appData.books.push({
             {
               "word": "ouviu",
               "strong": "H8085"
+            },
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
             },
             {
               "word": "mulher",
@@ -14013,7 +15265,12 @@ globalThis.appData.books.push({
         {
           "n": 25,
           "text": "E saiu o primeiro ruivo e todo como um vestido de pêlo; por isso chamaram o seu nome Esaú.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            }
+          ]
         },
         {
           "n": 26,
@@ -14028,16 +15285,16 @@ globalThis.appData.books.push({
               "strong": "H3027"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             },
             {
               "word": "Isaque",
               "strong": "H3327"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "gerou",
@@ -14049,6 +15306,10 @@ globalThis.appData.books.push({
           "n": 27,
           "text": "E cresceram os meninos, e Esaú foi homem perito na caça, homem do campo; mas Jacó era homem simples, habitando em tendas.",
           "tokens": [
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
             {
               "word": "homem",
               "strong": "H120"
@@ -14076,6 +15337,14 @@ globalThis.appData.books.push({
               "strong": "H3327"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             }
@@ -14088,6 +15357,10 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -14100,8 +15373,16 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Edom",
+              "strong": "H123"
             }
           ]
         },
@@ -14126,6 +15407,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "morrer",
@@ -14166,6 +15451,14 @@ globalThis.appData.books.push({
             {
               "word": "pão",
               "strong": "H3899"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         }
@@ -14181,10 +15474,6 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "dias",
@@ -14204,7 +15493,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "Gerar",
-              "strong": "H3205"
+              "strong": "H1642"
             }
           ]
         },
@@ -14257,8 +15546,16 @@ globalThis.appData.books.push({
           "text": "E multiplicarei a tua descendência como as estrelas dos céus, e darei à tua descendência todas estas terras; e por meio dela serão benditas todas as nações da terra;",
           "tokens": [
             {
+              "word": "multiplicarei",
+              "strong": "H7235"
+            },
+            {
               "word": "descendência",
               "strong": "H2233"
+            },
+            {
+              "word": "estrelas",
+              "strong": "H3556"
             },
             {
               "word": "céus",
@@ -14271,10 +15568,6 @@ globalThis.appData.books.push({
             {
               "word": "nações",
               "strong": "H1471"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -14306,7 +15599,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "Gerar",
-              "strong": "H3205"
+              "strong": "H1642"
             }
           ]
         },
@@ -14341,6 +15634,10 @@ globalThis.appData.books.push({
             {
               "word": "amor",
               "strong": "H160"
+            },
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
             }
           ]
         },
@@ -14359,6 +15656,10 @@ globalThis.appData.books.push({
             {
               "word": "Isaque",
               "strong": "H3327"
+            },
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
             },
             {
               "word": "mulher",
@@ -14528,7 +15829,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "Gerar",
-              "strong": "H3205"
+              "strong": "H1642"
             }
           ]
         },
@@ -14555,10 +15856,6 @@ globalThis.appData.books.push({
             {
               "word": "pai",
               "strong": "H1"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "morte",
@@ -14598,7 +15895,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "Gerar",
-              "strong": "H3205"
+              "strong": "H1642"
             },
             {
               "word": "Isaque",
@@ -14640,7 +15937,12 @@ globalThis.appData.books.push({
         {
           "n": 23,
           "text": "Depois subiu dali a Berseba.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Berseba",
+              "strong": "H884"
+            }
+          ]
         },
         {
           "n": 24,
@@ -14673,6 +15975,10 @@ globalThis.appData.books.push({
             {
               "word": "abençoar",
               "strong": "H1288"
+            },
+            {
+              "word": "multiplicarei",
+              "strong": "H7235"
             },
             {
               "word": "descendência",
@@ -14720,7 +16026,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "Gerar",
-              "strong": "H3205"
+              "strong": "H1642"
             }
           ]
         },
@@ -14820,6 +16126,10 @@ globalThis.appData.books.push({
               "strong": "H5892"
             },
             {
+              "word": "Berseba",
+              "strong": "H884"
+            },
+            {
               "word": "dia",
               "strong": "H3117"
             }
@@ -14830,8 +16140,8 @@ globalThis.appData.books.push({
           "text": "Ora, sendo Esaú da idade de quarenta anos, tomou por mulher a Judite, filha de Beeri, heteu, e a Basemate, filha de Elom, heteu.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "mulher",
@@ -14846,6 +16156,10 @@ globalThis.appData.books.push({
             {
               "word": "Isaque",
               "strong": "H3327"
+            },
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
             },
             {
               "word": "espírito",
@@ -14873,6 +16187,10 @@ globalThis.appData.books.push({
             {
               "word": "ver",
               "strong": "H7200"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "filho",
@@ -14905,10 +16223,6 @@ globalThis.appData.books.push({
               "strong": "H3117"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "morte",
               "strong": "H4191"
             }
@@ -14934,12 +16248,24 @@ globalThis.appData.books.push({
           "text": "E Rebeca escutou quando Isaque falava ao seu filho Esaú. E foi Esaú ao campo para apanhar a caça que havia de trazer.",
           "tokens": [
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "Isaque",
               "strong": "H3327"
             },
             {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -14947,6 +16273,10 @@ globalThis.appData.books.push({
           "n": 6,
           "text": "Então falou Rebeca a Jacó seu filho, dizendo: Eis que tenho ouvido o teu pai que falava com Esaú teu irmão, dizendo:",
           "tokens": [
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
             {
               "word": "Jacó",
               "strong": "H3290"
@@ -14968,6 +16298,10 @@ globalThis.appData.books.push({
               "strong": "H1"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "irmão",
               "strong": "H251"
             },
@@ -14982,16 +16316,8 @@ globalThis.appData.books.push({
           "text": "Traze-me caça, e faze-me um guisado saboroso, para que eu coma, e te abençoe diante da face do Senhor, antes da minha morte.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "Senhor",
               "strong": "H3068"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "morte",
@@ -15032,10 +16358,6 @@ globalThis.appData.books.push({
               "strong": "H1"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "morte",
               "strong": "H4191"
             }
@@ -15054,8 +16376,16 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "mãe",
               "strong": "H517"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "irmão",
@@ -15129,6 +16459,14 @@ globalThis.appData.books.push({
           "n": 15,
           "text": "Depois tomou Rebeca os vestidos de gala de Esaú, seu filho mais velho, que tinha consigo em casa, e vestiu a Jacó, seu filho menor;",
           "tokens": [
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
             {
               "word": "filho",
               "strong": "H1121"
@@ -15226,8 +16564,8 @@ globalThis.appData.books.push({
               "strong": "H1"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "alma",
@@ -15292,6 +16630,10 @@ globalThis.appData.books.push({
             {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -15326,6 +16668,10 @@ globalThis.appData.books.push({
             {
               "word": "mãos",
               "strong": "H3027"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -15344,6 +16690,10 @@ globalThis.appData.books.push({
             {
               "word": "mãos",
               "strong": "H3027"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "irmão",
@@ -15368,6 +16718,10 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "disse",
               "strong": "H559"
             }
@@ -15380,10 +16734,6 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "filho",
@@ -15460,10 +16810,6 @@ globalThis.appData.books.push({
               "strong": "H8064"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             }
@@ -15494,10 +16840,6 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "mãe",
               "strong": "H517"
             }
@@ -15524,10 +16866,6 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "Isaque",
               "strong": "H3327"
             },
@@ -15536,12 +16874,12 @@ globalThis.appData.books.push({
               "strong": "H1"
             },
             {
-              "word": "irmão",
-              "strong": "H251"
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "irmão",
+              "strong": "H251"
             }
           ]
         },
@@ -15564,10 +16902,6 @@ globalThis.appData.books.push({
             {
               "word": "pai",
               "strong": "H1"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "filho",
@@ -15602,6 +16936,10 @@ globalThis.appData.books.push({
             {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -15623,6 +16961,10 @@ globalThis.appData.books.push({
           "n": 34,
           "text": "Esaú, ouvindo as palavras de seu pai, bradou com grande e mui amargo brado, e disse a seu pai: Abençoa-me também a mim, meu pai.",
           "tokens": [
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
             {
               "word": "palavras",
               "strong": "H1697"
@@ -15694,6 +17036,10 @@ globalThis.appData.books.push({
               "strong": "H3327"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "dizendo",
               "strong": "H559"
             },
@@ -15728,6 +17074,10 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "pai",
               "strong": "H1"
             },
@@ -15742,6 +17092,10 @@ globalThis.appData.books.push({
             {
               "word": "pai",
               "strong": "H1"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -15764,10 +17118,6 @@ globalThis.appData.books.push({
             {
               "word": "habitação",
               "strong": "H4908"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -15794,6 +17144,10 @@ globalThis.appData.books.push({
           "text": "E Esaú odiou a Jacó por causa daquela bênção, com que seu pai o tinha abençoado; e Esaú disse no seu coração: Chegar-se-ão os dias de luto de meu pai; e matarei a Jacó meu irmão.",
           "tokens": [
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             },
@@ -15804,6 +17158,10 @@ globalThis.appData.books.push({
             {
               "word": "pai",
               "strong": "H1"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "disse",
@@ -15836,8 +17194,16 @@ globalThis.appData.books.push({
           "text": "E foram denunciadas a Rebeca estas palavras de Esaú, seu filho mais velho; e ela mandou chamar a Jacó, seu filho menor, e disse-lhe: Eis que Esaú teu irmão se consola a teu respeito, propondo matar-te.",
           "tokens": [
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "palavras",
               "strong": "H1697"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "filho",
@@ -15854,6 +17220,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "irmão",
@@ -15874,8 +17244,16 @@ globalThis.appData.books.push({
               "strong": "H8085"
             },
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "irmão",
               "strong": "H251"
+            },
+            {
+              "word": "Harã",
+              "strong": "H2039"
             }
           ]
         },
@@ -15916,12 +17294,12 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
-              "word": "Isaque",
-              "strong": "H3327"
+              "word": "Rebeca",
+              "strong": "H7259"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Isaque",
+              "strong": "H3327"
             },
             {
               "word": "vida",
@@ -15973,6 +17351,10 @@ globalThis.appData.books.push({
             {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -15997,6 +17379,10 @@ globalThis.appData.books.push({
               "strong": "H802"
             },
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "irmão",
               "strong": "H251"
             },
@@ -16013,6 +17399,10 @@ globalThis.appData.books.push({
             {
               "word": "Deus",
               "strong": "H430"
+            },
+            {
+              "word": "frutificar",
+              "strong": "H6509"
             },
             {
               "word": "povos",
@@ -16067,6 +17457,10 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "filho",
               "strong": "H1121"
             },
@@ -16075,12 +17469,20 @@ globalThis.appData.books.push({
               "strong": "H251"
             },
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "mãe",
               "strong": "H517"
             },
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -16091,6 +17493,10 @@ globalThis.appData.books.push({
             {
               "word": "Vendo",
               "strong": "H7200"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "Isaque",
@@ -16111,6 +17517,10 @@ globalThis.appData.books.push({
             {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -16141,6 +17551,14 @@ globalThis.appData.books.push({
               "strong": "H7200"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "olhos",
               "strong": "H5869"
             },
@@ -16159,12 +17577,24 @@ globalThis.appData.books.push({
           "text": "Foi Esaú a Ismael, e tomou para si por mulher, além das suas mulheres, a Maalate filha de Ismael, filho de Abraão, irmã de Nebaiote.",
           "tokens": [
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
+              "word": "Ismael",
+              "strong": "H3458"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
             },
             {
               "word": "mulheres",
               "strong": "H802"
+            },
+            {
+              "word": "Ismael",
+              "strong": "H3458"
             },
             {
               "word": "filho",
@@ -16183,6 +17613,14 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Berseba",
+              "strong": "H884"
+            },
+            {
+              "word": "Harã",
+              "strong": "H2039"
             }
           ]
         },
@@ -16269,20 +17707,12 @@ globalThis.appData.books.push({
               "strong": "H2233"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
             {
               "word": "descendência",
               "strong": "H2233"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -16366,6 +17796,10 @@ globalThis.appData.books.push({
           "n": 19,
           "text": "E chamou o nome daquele lugar Betel; o nome porém daquela cidade antes era Luz.",
           "tokens": [
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            },
             {
               "word": "cidade",
               "strong": "H5892"
@@ -16508,6 +17942,10 @@ globalThis.appData.books.push({
             {
               "word": "irmãos",
               "strong": "H251"
+            },
+            {
+              "word": "Harã",
+              "strong": "H2039"
             }
           ]
         },
@@ -16518,6 +17956,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "filho",
@@ -16532,6 +17974,10 @@ globalThis.appData.books.push({
             {
               "word": "Disse",
               "strong": "H559"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -16564,6 +18010,10 @@ globalThis.appData.books.push({
           "text": "Estando ele ainda falando com eles, veio Raquel com as ovelhas de seu pai; porque ela era pastora.",
           "tokens": [
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "pai",
               "strong": "H1"
             }
@@ -16582,12 +18032,24 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "irmão",
               "strong": "H251"
             },
             {
               "word": "mãe",
               "strong": "H517"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "irmão",
@@ -16610,6 +18072,10 @@ globalThis.appData.books.push({
               "strong": "H5414"
             },
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "irmão",
               "strong": "H251"
             },
@@ -16626,6 +18092,10 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -16636,6 +18106,10 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             },
             {
               "word": "irmão",
@@ -16650,6 +18124,10 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "pai",
               "strong": "H1"
             }
@@ -16659,6 +18137,10 @@ globalThis.appData.books.push({
           "n": 13,
           "text": "E aconteceu que, ouvindo Labão as novas de Jacó, filho de sua irmã, correu-lhe ao encontro, e abraçou-o, e beijou-o, e levou-o à sua casa; e ele contou a Labão todas estas coisas.",
           "tokens": [
+            {
+              "word": "Labão",
+              "strong": "H3837"
+            },
             {
               "word": "Jacó",
               "strong": "H3290"
@@ -16670,6 +18152,10 @@ globalThis.appData.books.push({
             {
               "word": "casa",
               "strong": "H1004"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         },
@@ -16677,6 +18163,10 @@ globalThis.appData.books.push({
           "n": 14,
           "text": "Então Labão disse-lhe: Verdadeiramente és tu o meu osso e a minha carne. E ficou com ele um mês inteiro.",
           "tokens": [
+            {
+              "word": "Labão",
+              "strong": "H3837"
+            },
             {
               "word": "disse",
               "strong": "H559"
@@ -16694,6 +18184,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "Jacó",
@@ -16714,12 +18208,16 @@ globalThis.appData.books.push({
           "text": "E Labão tinha duas filhas; o nome da mais velha era Lia, e o nome da menor Raquel.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -16728,8 +18226,16 @@ globalThis.appData.books.push({
           "text": "Lia tinha olhos tenros, mas Raquel era de formoso semblante e formosa à vista.",
           "tokens": [
             {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "olhos",
               "strong": "H5869"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -16742,8 +18248,20 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -16754,6 +18272,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "homem",
@@ -16774,6 +18296,14 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "dias",
               "strong": "H3117"
             }
@@ -16792,8 +18322,8 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
-              "word": "Dá",
-              "strong": "H5414"
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "mulher",
@@ -16810,6 +18340,10 @@ globalThis.appData.books.push({
           "text": "Então reuniu Labão a todos os homens daquele lugar, e fez um banquete.",
           "tokens": [
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "homens",
               "strong": "H120"
             }
@@ -16819,6 +18353,10 @@ globalThis.appData.books.push({
           "n": 23,
           "text": "E aconteceu, à tarde, que tomou Lia, sua filha, e trouxe-a a Jacó que a possuiu.",
           "tokens": [
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
             {
               "word": "Jacó",
               "strong": "H3290"
@@ -16830,8 +18368,16 @@ globalThis.appData.books.push({
           "text": "E Labão deu sua serva Zilpa a Lia, sua filha, por serva.",
           "tokens": [
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
             }
           ]
         },
@@ -16844,8 +18390,20 @@ globalThis.appData.books.push({
               "strong": "H7200"
             },
             {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -16858,8 +18416,8 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         },
@@ -16870,6 +18428,10 @@ globalThis.appData.books.push({
             {
               "word": "serviço",
               "strong": "H5647"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             }
           ]
         },
@@ -16882,12 +18444,20 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
             },
             {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -16896,8 +18466,16 @@ globalThis.appData.books.push({
           "text": "E Labão deu sua serva Bila por serva a Raquel, sua filha.",
           "tokens": [
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -16906,12 +18484,28 @@ globalThis.appData.books.push({
           "text": "E possuiu também a Raquel, e amou também a Raquel mais do que a Lia e serviu com ele ainda outros sete anos.",
           "tokens": [
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "amou",
               "strong": "H157"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "serviu",
               "strong": "H5647"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             }
           ]
         },
@@ -16926,6 +18520,14 @@ globalThis.appData.books.push({
             {
               "word": "Senhor",
               "strong": "H3068"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -16933,6 +18535,10 @@ globalThis.appData.books.push({
           "n": 32,
           "text": "E concebeu Lia, e deu à luz um filho, e chamou-o Rúben; pois disse: Porque o Senhor atendeu à minha aflição, por isso agora me amará o meu marido.",
           "tokens": [
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
             {
               "word": "deu",
               "strong": "H5414"
@@ -16944,6 +18550,10 @@ globalThis.appData.books.push({
             {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
             },
             {
               "word": "disse",
@@ -16986,6 +18596,10 @@ globalThis.appData.books.push({
             {
               "word": "deu",
               "strong": "H5414"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
             }
           ]
         },
@@ -17079,6 +18693,10 @@ globalThis.appData.books.push({
               "strong": "H7200"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
             },
@@ -17095,10 +18713,6 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
-              "word": "Dá",
-              "strong": "H5414"
-            },
-            {
               "word": "filhos",
               "strong": "H1121"
             }
@@ -17111,6 +18725,10 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             },
             {
               "word": "disse",
@@ -17189,6 +18807,10 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "Julgou",
               "strong": "H8199"
             },
@@ -17210,7 +18832,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "Dã",
-              "strong": "H5414"
+              "strong": "H1835"
             }
           ]
         },
@@ -17218,6 +18840,10 @@ globalThis.appData.books.push({
           "n": 7,
           "text": "E Bila, serva de Raquel, concebeu outra vez, e deu a Jacó o segundo filho.",
           "tokens": [
+            {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
             {
               "word": "deu",
               "strong": "H5414"
@@ -17239,6 +18865,14 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
+              "word": "Naftali",
+              "strong": "H5321"
             }
           ]
         },
@@ -17249,6 +18883,10 @@ globalThis.appData.books.push({
             {
               "word": "Vendo",
               "strong": "H7200"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
             },
             {
               "word": "filhos",
@@ -17277,6 +18915,10 @@ globalThis.appData.books.push({
               "strong": "H5414"
             },
             {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "filho",
               "strong": "H1121"
             },
@@ -17293,6 +18935,14 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
             }
           ]
         },
@@ -17303,6 +18953,10 @@ globalThis.appData.books.push({
             {
               "word": "deu",
               "strong": "H5414"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
             },
             {
               "word": "filho",
@@ -17321,6 +18975,14 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
+              "word": "Aser",
+              "strong": "H836"
             }
           ]
         },
@@ -17329,12 +18991,16 @@ globalThis.appData.books.push({
           "text": "E foi Rúben nos dias da ceifa do trigo, e achou mandrágoras no campo. E trouxe-as a Lia sua mãe. Então disse Raquel a Lia: Ora dá-me das mandrágoras de teu filho.",
           "tokens": [
             {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
               "word": "dias",
               "strong": "H3117"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Lia",
+              "strong": "H3812"
             },
             {
               "word": "mãe",
@@ -17345,8 +19011,12 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
-              "word": "dá",
-              "strong": "H5414"
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
             },
             {
               "word": "filho",
@@ -17371,6 +19041,10 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "noite",
               "strong": "H3915"
             },
@@ -17387,6 +19061,10 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
             },
             {
               "word": "disse",
@@ -17419,6 +19097,10 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
             },
@@ -17441,6 +19123,10 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "Deus",
               "strong": "H430"
             },
@@ -17451,6 +19137,10 @@ globalThis.appData.books.push({
             {
               "word": "dado",
               "strong": "H5414"
+            },
+            {
+              "word": "Issacar",
+              "strong": "H3485"
             }
           ]
         },
@@ -17458,6 +19148,10 @@ globalThis.appData.books.push({
           "n": 19,
           "text": "E Lia concebeu outra vez, e deu a Jacó um sexto filho.",
           "tokens": [
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
             {
               "word": "deu",
               "strong": "H5414"
@@ -17481,6 +19175,10 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "Deus",
               "strong": "H430"
             },
@@ -17499,13 +19197,22 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Zebulom",
+              "strong": "H2074"
             }
           ]
         },
         {
           "n": 21,
           "text": "E depois teve uma filha, e chamou-lhe Diná.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Diná",
+              "strong": "H1783"
+            }
+          ]
         },
         {
           "n": 22,
@@ -17514,6 +19221,10 @@ globalThis.appData.books.push({
             {
               "word": "Deus",
               "strong": "H430"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             },
             {
               "word": "Deus",
@@ -17557,7 +19268,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "dizendo",
@@ -17578,6 +19289,10 @@ globalThis.appData.books.push({
           "text": "E aconteceu que, como Raquel deu à luz a José, disse Jacó a Labão: Deixa-me ir, que me vá ao meu lugar, e à minha terra.",
           "tokens": [
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
             },
@@ -17587,7 +19302,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
@@ -17596,6 +19311,10 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "terra",
@@ -17607,10 +19326,6 @@ globalThis.appData.books.push({
           "n": 26,
           "text": "Dá-me as minhas mulheres, e os meus filhos, pelas quais te tenho servido, e ir-me-ei; pois tu sabes o serviço que te tenho feito.",
           "tokens": [
-            {
-              "word": "Dá",
-              "strong": "H5414"
-            },
             {
               "word": "mulheres",
               "strong": "H802"
@@ -17632,6 +19347,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "olhos",
@@ -17735,6 +19454,10 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "palavra",
               "strong": "H1697"
             }
@@ -17781,6 +19504,10 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         },
@@ -17816,6 +19543,14 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         },
@@ -17837,6 +19572,10 @@ globalThis.appData.books.push({
           "n": 42,
           "text": "Mas, quando era fraco o rebanho, não as punha. Assim as fracas eram de Labão, e as fortes de Jacó.",
           "tokens": [
+            {
+              "word": "Labão",
+              "strong": "H3837"
+            },
             {
               "word": "Jacó",
               "strong": "H3290"
@@ -17875,6 +19614,10 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             },
@@ -17903,6 +19646,10 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         },
@@ -17939,6 +19686,14 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
             }
           ]
         },
@@ -18054,6 +19809,10 @@ globalThis.appData.books.push({
             {
               "word": "olhos",
               "strong": "H5869"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         },
@@ -18066,6 +19825,10 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
               "word": "ungido",
               "strong": "H4899"
             },
@@ -18076,10 +19839,6 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             }
           ]
         },
@@ -18087,6 +19846,14 @@ globalThis.appData.books.push({
           "n": 14,
           "text": "Então responderam Raquel e Lia e disseram-lhe: Há ainda para nós parte ou herança na casa de nosso pai?",
           "tokens": [
+            {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
             {
               "word": "casa",
               "strong": "H1004"
@@ -18157,6 +19924,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -18164,6 +19935,14 @@ globalThis.appData.books.push({
           "n": 19,
           "text": "E havendo Labão ido a tosquiar as suas ovelhas, furtou Raquel os ídolos que seu pai tinha.",
           "tokens": [
+            {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
             {
               "word": "pai",
               "strong": "H1"
@@ -18177,6 +19956,10 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         },
@@ -18191,6 +19974,10 @@ globalThis.appData.books.push({
             {
               "word": "montanha",
               "strong": "H2022"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
             }
           ]
         },
@@ -18201,6 +19988,10 @@ globalThis.appData.books.push({
             {
               "word": "dia",
               "strong": "H3117"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "Jacó",
@@ -18221,12 +20012,20 @@ globalThis.appData.books.push({
               "strong": "H1870"
             },
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "dias",
               "strong": "H3117"
             },
             {
               "word": "montanha",
               "strong": "H2022"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
             }
           ]
         },
@@ -18237,6 +20036,10 @@ globalThis.appData.books.push({
             {
               "word": "Deus",
               "strong": "H430"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "noite",
@@ -18261,6 +20064,10 @@ globalThis.appData.books.push({
           "text": "Alcançou, pois, Labão a Jacó, e armara Jacó a sua tenda naquela montanha; armou também Labão com os seus irmãos a sua, na montanha de Gileade.",
           "tokens": [
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             },
@@ -18271,6 +20078,10 @@ globalThis.appData.books.push({
             {
               "word": "montanha",
               "strong": "H2022"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "irmãos",
@@ -18279,6 +20090,10 @@ globalThis.appData.books.push({
             {
               "word": "montanha",
               "strong": "H2022"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
             }
           ]
         },
@@ -18289,6 +20104,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "Jacó",
@@ -18378,6 +20197,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         },
@@ -18400,6 +20223,10 @@ globalThis.appData.books.push({
             {
               "word": "sabia",
               "strong": "H2451"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -18408,19 +20235,40 @@ globalThis.appData.books.push({
           "text": "Então entrou Labão na tenda de Jacó, e na tenda de Lia, e na tenda de ambas as servas, e não os achou; e saindo da tenda de Lia, entrou na tenda de Raquel.",
           "tokens": [
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
         {
           "n": 34,
           "text": "Mas tinha tomado Raquel os ídolos e os tinha posto na albarda de um camelo, e assentara-se sobre eles; e apalpou Labão toda a tenda, e não os achou.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
+            }
+          ]
         },
         {
           "n": 35,
@@ -18443,10 +20291,6 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "mulheres",
               "strong": "H802"
             }
@@ -18461,12 +20305,20 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             },
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "pecado",
@@ -18508,10 +20360,6 @@ globalThis.appData.books.push({
             {
               "word": "noite",
               "strong": "H3915"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "mão",
@@ -18594,6 +20442,10 @@ globalThis.appData.books.push({
           "text": "Então respondeu Labão, e disse a Jacó: Estas filhas são minhas filhas, e estes filhos são meus filhos, e este rebanho é o meu rebanho, e tudo o que vês, é meu; e que farei hoje a estas minhas filhas, ou a seus filhos, que deram à luz?",
           "tokens": [
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "disse",
               "strong": "H559"
             },
@@ -18662,6 +20514,10 @@ globalThis.appData.books.push({
           "text": "E chamou-o Labão Jegar-Saaduta; porém Jacó chamou-o Galeede.",
           "tokens": [
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             }
@@ -18674,6 +20530,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         },
@@ -18712,6 +20572,10 @@ globalThis.appData.books.push({
             {
               "word": "Disse",
               "strong": "H559"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             },
             {
               "word": "Jacó",
@@ -18809,6 +20673,10 @@ globalThis.appData.books.push({
           "text": "E levantou-se Labão pela manhã de madrugada, e beijou seus filhos e suas filhas e abençoou-os e partiu; e voltou Labão ao seu lugar.",
           "tokens": [
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
             },
@@ -18819,6 +20687,10 @@ globalThis.appData.books.push({
             {
               "word": "voltou",
               "strong": "H7725"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         }
@@ -18876,12 +20748,20 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "irmão",
               "strong": "H251"
             },
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Edom",
+              "strong": "H123"
             }
           ]
         },
@@ -18898,12 +20778,20 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             },
             {
               "word": "servo",
               "strong": "H5650"
+            },
+            {
+              "word": "Labão",
+              "strong": "H3837"
             }
           ]
         },
@@ -18942,6 +20830,10 @@ globalThis.appData.books.push({
               "strong": "H251"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "homens",
               "strong": "H120"
             }
@@ -18968,7 +20860,12 @@ globalThis.appData.books.push({
         {
           "n": 8,
           "text": "Porque dizia: Se Esaú vier a um bando e o ferir, o outro bando escapará.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            }
+          ]
         },
         {
           "n": 9,
@@ -19027,6 +20924,10 @@ globalThis.appData.books.push({
             {
               "word": "servo",
               "strong": "H5650"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
             }
           ]
         },
@@ -19034,10 +20935,6 @@ globalThis.appData.books.push({
           "n": 11,
           "text": "Livra-me, peço-te, da mão de meu irmão, da mão de Esaú; porque eu o temo; porventura não venha, e me fira, e a mãe com os filhos.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "mão",
               "strong": "H3027"
@@ -19047,12 +20944,12 @@ globalThis.appData.books.push({
               "strong": "H251"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "mão",
               "strong": "H3027"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "mãe",
@@ -19097,6 +20994,10 @@ globalThis.appData.books.push({
             {
               "word": "irmão",
               "strong": "H251"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -19145,6 +21046,10 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "irmão",
               "strong": "H251"
             },
@@ -19173,6 +21078,10 @@ globalThis.appData.books.push({
             {
               "word": "senhor",
               "strong": "H3068"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -19187,6 +21096,10 @@ globalThis.appData.books.push({
             {
               "word": "palavra",
               "strong": "H1697"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -19268,10 +21181,6 @@ globalThis.appData.books.push({
               "strong": "H7200"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "Jacó",
               "strong": "H3290"
             }
@@ -19348,10 +21257,6 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
-              "word": "Dá",
-              "strong": "H5414"
-            },
-            {
               "word": "disse",
               "strong": "H559"
             },
@@ -19368,6 +21273,10 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Peniel",
+              "strong": "H6439"
             },
             {
               "word": "Deus",
@@ -19388,8 +21297,8 @@ globalThis.appData.books.push({
           "text": "E saiu-lhe o sol, quando passou a Peniel; e manquejava da sua coxa.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Peniel",
+              "strong": "H6439"
             }
           ]
         },
@@ -19406,16 +21315,8 @@ globalThis.appData.books.push({
               "strong": "H3478"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "dia",
               "strong": "H3117"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "Jacó",
@@ -19445,12 +21346,24 @@ globalThis.appData.books.push({
               "strong": "H3754"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "homens",
               "strong": "H120"
             },
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -19463,12 +21376,20 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -19481,6 +21402,10 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "irmão",
               "strong": "H251"
             }
@@ -19489,7 +21414,12 @@ globalThis.appData.books.push({
         {
           "n": 4,
           "text": "Então Esaú correu-lhe ao encontro, e abraçou-o, e lançou-se sobre o seu pescoço, e beijou-o; e choraram.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            }
+          ]
         },
         {
           "n": 5,
@@ -19548,12 +21478,20 @@ globalThis.appData.books.push({
           "text": "E chegou também Lia com seus filhos, e inclinaram-se; e depois chegou José e Raquel e inclinaram-se.",
           "tokens": [
             {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -19564,6 +21502,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "serve",
@@ -19587,6 +21529,10 @@ globalThis.appData.books.push({
           "n": 9,
           "text": "Mas Esaú disse: Eu tenho bastante, meu irmão; seja para ti o que tens.",
           "tokens": [
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
             {
               "word": "disse",
               "strong": "H559"
@@ -19616,10 +21562,6 @@ globalThis.appData.books.push({
             {
               "word": "presente",
               "strong": "H4503"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "mão",
@@ -19704,12 +21646,12 @@ globalThis.appData.books.push({
           "text": "E Esaú disse: Permite então que eu deixe contigo alguns da minha gente. E ele disse: Para que é isso? Basta que ache graça aos olhos de meu senhor.",
           "tokens": [
             {
-              "word": "disse",
-              "strong": "H559"
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "disse",
+              "strong": "H559"
             },
             {
               "word": "disse",
@@ -19732,6 +21674,10 @@ globalThis.appData.books.push({
             {
               "word": "voltou",
               "strong": "H7725"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "dia",
@@ -19766,6 +21712,10 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "Salém",
+              "strong": "H8004"
+            },
+            {
               "word": "cidade",
               "strong": "H5892"
             },
@@ -19774,12 +21724,12 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
-              "word": "vinha",
-              "strong": "H3754"
+              "word": "Canaã",
+              "strong": "H3667"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "vinha",
+              "strong": "H3754"
             },
             {
               "word": "cidade",
@@ -19791,10 +21741,6 @@ globalThis.appData.books.push({
           "n": 19,
           "text": "E comprou uma parte do campo em que estendera a sua tenda, da mão dos filhos de Hamor, pai de Siquém, por cem peças de dinheiro.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "mão",
               "strong": "H3027"
@@ -19841,16 +21787,20 @@ globalThis.appData.books.push({
           "text": "E saiu Diná, filha de Lia, que esta dera a Jacó, para ver as filhas da terra.",
           "tokens": [
             {
+              "word": "Diná",
+              "strong": "H1783"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             },
             {
               "word": "ver",
               "strong": "H7200"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -19883,6 +21833,10 @@ globalThis.appData.books.push({
             {
               "word": "alma",
               "strong": "H5315"
+            },
+            {
+              "word": "Diná",
+              "strong": "H1783"
             },
             {
               "word": "Jacó",
@@ -19923,6 +21877,10 @@ globalThis.appData.books.push({
             {
               "word": "ouviu",
               "strong": "H8085"
+            },
+            {
+              "word": "Diná",
+              "strong": "H1783"
             },
             {
               "word": "filhos",
@@ -19989,10 +21947,6 @@ globalThis.appData.books.push({
             {
               "word": "filho",
               "strong": "H1121"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "mulher",
@@ -20062,6 +22016,10 @@ globalThis.appData.books.push({
             {
               "word": "pai",
               "strong": "H1"
+            },
+            {
+              "word": "Diná",
+              "strong": "H1783"
             }
           ]
         },
@@ -20157,20 +22115,12 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "cidade",
               "strong": "H5892"
             },
             {
               "word": "homens",
               "strong": "H120"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "cidade",
@@ -20236,24 +22186,12 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "cidade",
               "strong": "H5892"
             },
             {
               "word": "homem",
               "strong": "H120"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "cidade",
@@ -20278,12 +22216,20 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
+            {
               "word": "Levi",
               "strong": "H3878"
             },
             {
               "word": "irmãos",
               "strong": "H251"
+            },
+            {
+              "word": "Diná",
+              "strong": "H1783"
             },
             {
               "word": "cidade",
@@ -20300,16 +22246,12 @@ globalThis.appData.books.push({
           "text": "Mataram também ao fio da espada a Hamor, e a seu filho Siquém; e tomaram a Diná da casa de Siquém, e saíram.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "filho",
               "strong": "H1121"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Diná",
+              "strong": "H1783"
             },
             {
               "word": "casa",
@@ -20376,6 +22318,10 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
+            {
               "word": "Levi",
               "strong": "H3878"
             },
@@ -20420,6 +22366,10 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
               "word": "altar",
               "strong": "H4196"
             },
@@ -20428,8 +22378,8 @@ globalThis.appData.books.push({
               "strong": "H430"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "irmão",
@@ -20460,6 +22410,10 @@ globalThis.appData.books.push({
           "text": "E levantemo-nos, e subamos a Betel; e ali farei um altar ao Deus que me respondeu no dia da minha angústia, e que foi comigo no caminho que tenho andado.",
           "tokens": [
             {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
               "word": "altar",
               "strong": "H4196"
             },
@@ -20470,10 +22424,6 @@ globalThis.appData.books.push({
             {
               "word": "dia",
               "strong": "H3117"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "caminho",
@@ -20542,6 +22492,14 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
               "word": "povo",
               "strong": "H5971"
             }
@@ -20556,12 +22514,12 @@ globalThis.appData.books.push({
               "strong": "H4196"
             },
             {
-              "word": "Deus",
-              "strong": "H430"
+              "word": "Betel",
+              "strong": "H1008"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Deus",
+              "strong": "H430"
             },
             {
               "word": "irmão",
@@ -20580,6 +22538,14 @@ globalThis.appData.books.push({
             {
               "word": "ama",
               "strong": "H157"
+            },
+            {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
             }
           ]
         },
@@ -20722,6 +22688,10 @@ globalThis.appData.books.push({
             {
               "word": "Deus",
               "strong": "H430"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
             }
           ]
         },
@@ -20729,6 +22699,10 @@ globalThis.appData.books.push({
           "n": 16,
           "text": "E partiram de Betel; e havia ainda um pequeno espaço de terra para chegar a Efrata, e deu à luz Raquel, e ela teve trabalho em seu parto.",
           "tokens": [
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            },
             {
               "word": "terra",
               "strong": "H776"
@@ -20740,6 +22714,10 @@ globalThis.appData.books.push({
             {
               "word": "luz",
               "strong": "H216"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             }
           ]
         },
@@ -20788,6 +22766,10 @@ globalThis.appData.books.push({
               "strong": "H4191"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "caminho",
               "strong": "H1870"
             }
@@ -20802,8 +22784,8 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Raquel",
+              "strong": "H7354"
             },
             {
               "word": "dia",
@@ -20834,6 +22816,10 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
               "word": "pai",
               "strong": "H1"
             },
@@ -20860,8 +22846,20 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
             },
             {
               "word": "Levi",
@@ -20870,6 +22868,14 @@ globalThis.appData.books.push({
             {
               "word": "Judá",
               "strong": "H3063"
+            },
+            {
+              "word": "Issacar",
+              "strong": "H3485"
+            },
+            {
+              "word": "Zebulom",
+              "strong": "H2074"
             }
           ]
         },
@@ -20882,8 +22888,12 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Benjamim",
@@ -20900,8 +22910,16 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "Dã",
-              "strong": "H5414"
+              "strong": "H1835"
+            },
+            {
+              "word": "Naftali",
+              "strong": "H5321"
             }
           ]
         },
@@ -20912,6 +22930,18 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "Aser",
+              "strong": "H836"
             },
             {
               "word": "filhos",
@@ -20942,6 +22972,18 @@ globalThis.appData.books.push({
             {
               "word": "Isaque",
               "strong": "H3327"
+            },
+            {
+              "word": "Manre",
+              "strong": "H4471"
+            },
+            {
+              "word": "Quiriate-Arba",
+              "strong": "H7153"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
             },
             {
               "word": "Abraão",
@@ -20988,6 +23030,10 @@ globalThis.appData.books.push({
               "strong": "H3117"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             },
@@ -21005,15 +23051,32 @@ globalThis.appData.books.push({
         {
           "n": 1,
           "text": "E estas são as gerações de Esaú (que é Edom).",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
+              "word": "Edom",
+              "strong": "H123"
+            }
+          ]
         },
         {
           "n": 2,
           "text": "Esaú tomou suas mulheres das filhas de Canaã; a Ada, filha de Elom, heteu, e a Aolibama, filha de Aná, filho de Zibeão, heveu.",
           "tokens": [
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "mulheres",
               "strong": "H802"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             },
             {
               "word": "filho",
@@ -21024,12 +23087,22 @@ globalThis.appData.books.push({
         {
           "n": 3,
           "text": "E a Basemate, filha de Ismael, irmã de Nebaiote.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Ismael",
+              "strong": "H3458"
+            }
+          ]
         },
         {
           "n": 4,
           "text": "E Ada teve de Esaú a Elifaz; e Basemate teve a Reuel;",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            }
+          ]
         },
         {
           "n": 5,
@@ -21048,12 +23121,20 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "nasceram",
               "strong": "H3205"
             },
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -21061,6 +23142,10 @@ globalThis.appData.books.push({
           "n": 6,
           "text": "E Esaú tomou suas mulheres, e seus filhos, e suas filhas, e todas as almas de sua casa, e seu gado, e todos os seus animais, e todos os seus bens, que havia adquirido na terra de Canaã; e foi para outra terra apartando-se de Jacó, seu irmão;",
           "tokens": [
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
             {
               "word": "mulheres",
               "strong": "H802"
@@ -21080,6 +23165,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             },
             {
               "word": "terra",
@@ -21110,8 +23199,20 @@ globalThis.appData.books.push({
           "text": "Portanto Esaú habitou na montanha de Seir; Esaú é Edom.",
           "tokens": [
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "montanha",
               "strong": "H2022"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
+              "word": "Edom",
+              "strong": "H123"
             }
           ]
         },
@@ -21119,6 +23220,10 @@ globalThis.appData.books.push({
           "n": 9,
           "text": "Estas, pois, são as gerações de Esaú, pai dos edomeus, na montanha de Seir.",
           "tokens": [
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
             {
               "word": "pai",
               "strong": "H1"
@@ -21138,12 +23243,8 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
-              "word": "filho",
-              "strong": "H1121"
-            },
-            {
-              "word": "mulher",
-              "strong": "H802"
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "filho",
@@ -21152,6 +23253,22 @@ globalThis.appData.books.push({
             {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -21174,12 +23291,20 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
             },
             {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -21198,6 +23323,10 @@ globalThis.appData.books.push({
             {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -21214,8 +23343,16 @@ globalThis.appData.books.push({
               "strong": "H802"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "filho",
               "strong": "H1121"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -21228,8 +23365,16 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -21240,6 +23385,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Edom",
+              "strong": "H123"
             },
             {
               "word": "filhos",
@@ -21260,8 +23409,16 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Edom",
+              "strong": "H123"
             },
             {
               "word": "filhos",
@@ -21270,6 +23427,10 @@ globalThis.appData.books.push({
             {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -21286,8 +23447,16 @@ globalThis.appData.books.push({
               "strong": "H802"
             },
             {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
             }
           ]
         },
@@ -21298,6 +23467,14 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
+              "word": "Edom",
+              "strong": "H123"
             }
           ]
         },
@@ -21326,6 +23503,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Edom",
+              "strong": "H123"
             }
           ]
         },
@@ -21435,6 +23616,10 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Edom",
+              "strong": "H123"
+            },
+            {
               "word": "rei",
               "strong": "H4428"
             },
@@ -21453,12 +23638,12 @@ globalThis.appData.books.push({
           "text": "Reinou, pois, em Edom Bela, filho de Beor, e o nome da sua cidade foi Dinabá.",
           "tokens": [
             {
-              "word": "filho",
-              "strong": "H1121"
+              "word": "Edom",
+              "strong": "H123"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "filho",
+              "strong": "H1121"
             },
             {
               "word": "cidade",
@@ -21489,10 +23674,6 @@ globalThis.appData.books.push({
               "strong": "H4191"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             }
@@ -21509,10 +23690,6 @@ globalThis.appData.books.push({
             {
               "word": "filho",
               "strong": "H1121"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "cidade",
@@ -21583,7 +23760,12 @@ globalThis.appData.books.push({
         {
           "n": 40,
           "text": "E estes são os nomes dos príncipes de Esaú, segundo as suas gerações, segundo os seus lugares, com os seus nomes: o príncipe Timna, o príncipe Alva, o príncipe Jetete,",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            }
+          ]
         },
         {
           "n": 41,
@@ -21600,16 +23782,24 @@ globalThis.appData.books.push({
           "text": "O príncipe Magdiel, o príncipe Irã: estes são os príncipes de Edom, segundo as suas habitações, na terra da sua possessão. Este é Esaú, pai de Edom.",
           "tokens": [
             {
+              "word": "Edom",
+              "strong": "H123"
+            },
+            {
               "word": "terra",
               "strong": "H776"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Esaú",
+              "strong": "H6215"
             },
             {
               "word": "pai",
               "strong": "H1"
+            },
+            {
+              "word": "Edom",
+              "strong": "H123"
             }
           ]
         }
@@ -21637,6 +23827,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -21650,7 +23844,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -21674,7 +23868,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "pai",
@@ -21692,7 +23886,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "filhos",
@@ -21701,10 +23895,6 @@ globalThis.appData.books.push({
             {
               "word": "filho",
               "strong": "H1121"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             }
           ]
         },
@@ -21732,7 +23922,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -21779,7 +23969,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -21788,6 +23978,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "estrelas",
+              "strong": "H3556"
             }
           ]
         },
@@ -21871,7 +24065,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -21890,6 +24084,10 @@ globalThis.appData.books.push({
             {
               "word": "irmãos",
               "strong": "H251"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
             }
           ]
         },
@@ -21947,7 +24145,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -21975,6 +24173,10 @@ globalThis.appData.books.push({
           "text": "E ouvindo-o Rúben, livrou-o das suas mãos, e disse: Não lhe tiremos a vida.",
           "tokens": [
             {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
               "word": "mãos",
               "strong": "H3027"
             },
@@ -21995,6 +24197,10 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
             },
             {
               "word": "sangue",
@@ -22028,7 +24234,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -22036,7 +24242,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -22065,6 +24271,10 @@ globalThis.appData.books.push({
             {
               "word": "vinha",
               "strong": "H3754"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
             },
             {
               "word": "Egito",
@@ -22126,19 +24336,15 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
+              "strong": "H3130"
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Egito",
@@ -22151,8 +24357,12 @@ globalThis.appData.books.push({
           "text": "Voltando, pois, Rúben à cova, eis que José não estava na cova; então rasgou as suas vestes.",
           "tokens": [
             {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -22180,7 +24390,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "sangue",
@@ -22220,7 +24430,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -22273,12 +24483,12 @@ globalThis.appData.books.push({
               "strong": "H4714"
             },
             {
-              "word": "Faraó",
-              "strong": "H6547"
+              "word": "Potifar",
+              "strong": "H6318"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Faraó",
+              "strong": "H6547"
             },
             {
               "word": "guarda",
@@ -22602,10 +24812,6 @@ globalThis.appData.books.push({
           "text": "Então ela tirou de sobre si os vestidos da sua viuvez e cobriu-se com o véu, e envolveu-se, e assentou-se à entrada das duas fontes que estão no caminho de Timna, porque via que Selá já era grande, e ela não lhe fora dada por mulher.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "caminho",
               "strong": "H1870"
             },
@@ -22694,12 +24900,7 @@ globalThis.appData.books.push({
         {
           "n": 19,
           "text": "E ela se levantou, e se foi e tirou de sobre si o seu véu, e vestiu os vestidos da sua viuvez.",
-          "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            }
-          ]
+          "tokens": []
         },
         {
           "n": 20,
@@ -22714,16 +24915,8 @@ globalThis.appData.books.push({
               "strong": "H3027"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "mão",
               "strong": "H3027"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "mulher",
@@ -22934,19 +25127,19 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Egito",
               "strong": "H4714"
             },
             {
-              "word": "Faraó",
-              "strong": "H6547"
+              "word": "Potifar",
+              "strong": "H6318"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Faraó",
+              "strong": "H6547"
             },
             {
               "word": "guarda",
@@ -22955,10 +25148,6 @@ globalThis.appData.books.push({
             {
               "word": "homem",
               "strong": "H120"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "mão",
@@ -22976,7 +25165,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "homem",
@@ -23024,7 +25213,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "olhos",
@@ -23066,7 +25255,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "bênção",
@@ -23092,7 +25281,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "sabia",
@@ -23104,7 +25293,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -23126,7 +25315,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
@@ -23192,7 +25381,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -23211,10 +25400,6 @@ globalThis.appData.books.push({
             {
               "word": "serviço",
               "strong": "H5647"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "casa",
@@ -23358,7 +25543,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "casa",
@@ -23384,7 +25569,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "benignidade",
@@ -23410,7 +25595,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "casa",
@@ -23486,10 +25671,6 @@ globalThis.appData.books.push({
               "strong": "H1004"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "guarda",
               "strong": "H8104"
             },
@@ -23499,7 +25680,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -23508,16 +25689,12 @@ globalThis.appData.books.push({
           "text": "E o capitão da guarda pô-los a cargo de José, para que os servisse; e estiveram muitos dias na prisão.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "guarda",
               "strong": "H8104"
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "dias",
@@ -23553,7 +25730,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "viu",
@@ -23568,10 +25745,6 @@ globalThis.appData.books.push({
             {
               "word": "Faraó",
               "strong": "H6547"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "casa",
@@ -23593,7 +25766,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
@@ -23611,15 +25784,11 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
               "strong": "H559"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             }
           ]
         },
@@ -23664,7 +25833,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "dias",
@@ -23717,10 +25886,6 @@ globalThis.appData.books.push({
           "text": "Porque, de fato, fui roubado da terra dos hebreus; e tampouco aqui nada tenho feito para que me pusessem nesta cova.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             }
@@ -23740,7 +25905,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "cabeça",
@@ -23768,7 +25933,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
@@ -23860,7 +26025,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -23870,7 +26035,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         }
@@ -23902,6 +26067,10 @@ globalThis.appData.books.push({
               "strong": "H5104"
             },
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "carne",
               "strong": "H1320"
             }
@@ -23914,6 +26083,10 @@ globalThis.appData.books.push({
             {
               "word": "rio",
               "strong": "H5104"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             },
             {
               "word": "carne",
@@ -23934,6 +26107,10 @@ globalThis.appData.books.push({
               "strong": "H1320"
             },
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "Faraó",
               "strong": "H6547"
             }
@@ -23942,12 +26119,21 @@ globalThis.appData.books.push({
         {
           "n": 5,
           "text": "Depois dormiu e sonhou outra vez, e eis que brotavam de um mesmo pé sete espigas cheias e boas.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            }
+          ]
         },
         {
           "n": 6,
           "text": "E eis que sete espigas miúdas, e queimadas do vento oriental, brotavam após elas.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "vento",
               "strong": "H7307"
@@ -23958,6 +26144,10 @@ globalThis.appData.books.push({
           "n": 7,
           "text": "E as espigas miúdas devoravam as sete espigas grandes e cheias. Então acordou Faraó, e eis que era um sonho.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "Faraó",
               "strong": "H6547"
@@ -24017,10 +26207,6 @@ globalThis.appData.books.push({
               "strong": "H1004"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "guarda",
               "strong": "H8104"
             }
@@ -24045,10 +26231,6 @@ globalThis.appData.books.push({
               "strong": "H5650"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "guarda",
               "strong": "H8104"
             }
@@ -24069,7 +26251,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Faraó",
@@ -24091,7 +26273,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "ouvi",
@@ -24109,7 +26291,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Faraó",
@@ -24147,7 +26329,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "rio",
@@ -24164,6 +26346,10 @@ globalThis.appData.books.push({
               "strong": "H5104"
             },
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "carne",
               "strong": "H1320"
             }
@@ -24173,6 +26359,10 @@ globalThis.appData.books.push({
           "n": 19,
           "text": "E eis que outras sete vacas subiam após estas, muito feias à vista e magras de carne; não tenho visto outras tais, quanto à fealdade, em toda a terra do Egito.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "carne",
               "strong": "H1320"
@@ -24190,7 +26380,12 @@ globalThis.appData.books.push({
         {
           "n": 20,
           "text": "E as vacas magras e feias comiam as primeiras sete vacas gordas;",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            }
+          ]
         },
         {
           "n": 21,
@@ -24205,12 +26400,21 @@ globalThis.appData.books.push({
         {
           "n": 22,
           "text": "Depois vi em meu sonho, e eis que de um mesmo pé subiam sete espigas cheias e boas;",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            }
+          ]
         },
         {
           "n": 23,
           "text": "E eis que sete espigas secas, miúdas e queimadas do vento oriental, brotavam após elas.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "vento",
               "strong": "H7307"
@@ -24220,7 +26424,16 @@ globalThis.appData.books.push({
         {
           "n": 24,
           "text": "E as sete espigas miúdas devoravam as sete espigas boas. E eu contei isso aos magos, mas ninguém houve que mo interpretasse.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            }
+          ]
         },
         {
           "n": 25,
@@ -24232,7 +26445,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Faraó",
@@ -24255,15 +26468,48 @@ globalThis.appData.books.push({
         {
           "n": 26,
           "text": "As sete vacas formosas são sete anos, as sete espigas formosas também são sete anos, o sonho é um só.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            }
+          ]
         },
         {
           "n": 27,
           "text": "E as sete vacas feias à vista e magras, que subiam depois delas, são sete anos, e as sete espigas miúdas e queimadas do vento oriental, serão sete anos de fome.",
           "tokens": [
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "vento",
               "strong": "H7307"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             }
           ]
         },
@@ -24294,6 +26540,10 @@ globalThis.appData.books.push({
           "text": "E eis que vêm sete anos, e haverá grande fartura em toda a terra do Egito.",
           "tokens": [
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "terra",
               "strong": "H776"
             },
@@ -24307,6 +26557,10 @@ globalThis.appData.books.push({
           "n": 30,
           "text": "E depois deles levantar-se-ão sete anos de fome, e toda aquela fartura será esquecida na terra do Egito, e a fome consumirá a terra;",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "terra",
               "strong": "H776"
@@ -24388,16 +26642,16 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
             {
               "word": "Egito",
               "strong": "H4714"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             }
           ]
         },
@@ -24405,10 +26659,6 @@ globalThis.appData.books.push({
           "n": 35,
           "text": "E ajuntem toda a comida destes bons anos, que vêm, e amontoem o trigo debaixo da mão de Faraó, para mantimento nas cidades, e o guardem.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "mão",
               "strong": "H3027"
@@ -24428,12 +26678,12 @@ globalThis.appData.books.push({
           "text": "Assim será o mantimento para provimento da terra, para os sete anos de fome, que haverá na terra do Egito; para que a terra não pereça de fome.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             },
             {
               "word": "terra",
@@ -24523,7 +26773,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Deus",
@@ -24567,7 +26817,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -24588,10 +26838,6 @@ globalThis.appData.books.push({
               "strong": "H6547"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "mão",
               "strong": "H3027"
             },
@@ -24601,7 +26847,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -24633,7 +26879,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Faraó",
@@ -24663,7 +26909,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "deu",
@@ -24679,7 +26925,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -24697,11 +26943,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
+              "strong": "H3130"
             },
             {
               "word": "Faraó",
@@ -24717,11 +26959,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
+              "strong": "H3130"
             },
             {
               "word": "Faraó",
@@ -24742,6 +26980,10 @@ globalThis.appData.books.push({
           "text": "E nos sete anos de fartura a terra produziu abundantemente.",
           "tokens": [
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "terra",
               "strong": "H776"
             }
@@ -24751,6 +26993,10 @@ globalThis.appData.books.push({
           "n": 48,
           "text": "E ele ajuntou todo o mantimento dos sete anos, que houve na terra do Egito; e guardou o mantimento nas cidades, pondo nas mesmas o mantimento do campo que estava ao redor de cada cidade.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "terra",
               "strong": "H776"
@@ -24779,7 +27025,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "mar",
@@ -24797,7 +27043,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "filhos",
@@ -24819,7 +27065,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Manassés",
@@ -24862,10 +27108,6 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             }
           ]
         },
@@ -24873,6 +27115,10 @@ globalThis.appData.books.push({
           "n": 53,
           "text": "Então acabaram-se os sete anos de fartura que havia na terra do Egito.",
           "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
             {
               "word": "terra",
               "strong": "H776"
@@ -24888,8 +27134,12 @@ globalThis.appData.books.push({
           "text": "E começaram a vir os sete anos de fome, como José tinha dito; e havia fome em todas as terras, mas em toda a terra do Egito havia pão.",
           "tokens": [
             {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -24939,7 +27189,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -24953,7 +27203,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -24975,7 +27225,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         }
@@ -25038,7 +27288,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Egito",
@@ -25060,7 +27310,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Jacó",
@@ -25087,6 +27337,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -25096,7 +27350,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -25105,10 +27359,6 @@ globalThis.appData.books.push({
             {
               "word": "povo",
               "strong": "H5971"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -25120,7 +27370,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -25134,7 +27384,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "vendo",
@@ -25153,12 +27403,12 @@ globalThis.appData.books.push({
               "strong": "H559"
             },
             {
-              "word": "Da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -25168,7 +27418,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "conheceu",
@@ -25186,7 +27436,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
@@ -25195,10 +27445,6 @@ globalThis.appData.books.push({
             {
               "word": "ver",
               "strong": "H7200"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -25255,10 +27501,6 @@ globalThis.appData.books.push({
               "strong": "H7200"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             }
@@ -25289,6 +27531,10 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "pai",
               "strong": "H1"
             }
@@ -25304,7 +27550,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -25376,7 +27622,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Deus",
@@ -25433,10 +27679,6 @@ globalThis.appData.books.push({
               "strong": "H251"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "alma",
               "strong": "H5315"
             }
@@ -25446,6 +27688,10 @@ globalThis.appData.books.push({
           "n": 22,
           "text": "E Rúben respondeu-lhes, dizendo: Não vo-lo dizia eu: Não pequeis contra o menino; mas não ouvistes; e vedes aqui, o seu sangue também é requerido.",
           "tokens": [
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
             {
               "word": "dizendo",
               "strong": "H559"
@@ -25462,7 +27708,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -25470,6 +27716,10 @@ globalThis.appData.books.push({
           "n": 24,
           "text": "E retirou-se deles e chorou. Depois tornou a eles, e falou-lhes, e tomou a Simeão dentre eles, e amarrou-o perante os seus olhos.",
           "tokens": [
+            {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
             {
               "word": "olhos",
               "strong": "H5869"
@@ -25482,7 +27732,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "caminho",
@@ -25556,6 +27806,10 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "dizendo",
               "strong": "H559"
             }
@@ -25574,16 +27828,8 @@ globalThis.appData.books.push({
               "strong": "H3068"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -25624,6 +27870,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -25638,10 +27888,6 @@ globalThis.appData.books.push({
             {
               "word": "senhor",
               "strong": "H3068"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -25715,7 +27961,11 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
             },
             {
               "word": "Benjamim",
@@ -25727,6 +27977,10 @@ globalThis.appData.books.push({
           "n": 37,
           "text": "Mas Rúben falou a seu pai, dizendo: Mata os meus dois filhos, se eu não tornar a trazê-lo para ti; entrega-o em minha mão, e tornarei a trazê-lo.",
           "tokens": [
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
             {
               "word": "pai",
               "strong": "H1"
@@ -25949,10 +28203,6 @@ globalThis.appData.books.push({
           "text": "Eu serei fiador por ele, da minha mão o requererás; se eu não o trouxer, e não o puser perante a tua face, serei réu de crime para contigo para sempre.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "mão",
               "strong": "H3027"
             },
@@ -26085,7 +28335,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -26099,7 +28349,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Benjamim",
@@ -26141,7 +28391,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "casa",
@@ -26149,7 +28399,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -26167,7 +28417,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "voltou",
@@ -26193,11 +28443,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
+              "strong": "H3130"
             },
             {
               "word": "casa",
@@ -26266,6 +28512,10 @@ globalThis.appData.books.push({
             {
               "word": "dado",
               "strong": "H5414"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
             }
           ]
         },
@@ -26283,7 +28533,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "deu",
@@ -26309,7 +28559,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "dia",
@@ -26331,7 +28581,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "casa",
@@ -26439,7 +28689,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmão",
@@ -26536,7 +28786,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -26549,10 +28799,6 @@ globalThis.appData.books.push({
               "strong": "H216"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "homens",
               "strong": "H120"
             }
@@ -26563,10 +28809,6 @@ globalThis.appData.books.push({
           "text": "Saindo eles da cidade, e não se havendo ainda distanciado, disse José ao que estava sobre a sua casa: Levanta-te, e persegue aqueles homens; e, alcançando-os, lhes dirás: Por que pagastes mal por bem?",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "cidade",
               "strong": "H5892"
             },
@@ -26576,7 +28818,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "casa",
@@ -26635,8 +28877,8 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Canaã",
+              "strong": "H3667"
             },
             {
               "word": "casa",
@@ -26724,7 +28966,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -26742,7 +28984,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "homem",
@@ -26897,10 +29139,6 @@ globalThis.appData.books.push({
             {
               "word": "filho",
               "strong": "H1121"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "irmão",
@@ -27071,12 +29309,7 @@ globalThis.appData.books.push({
         {
           "n": 29,
           "text": "Se agora também tirardes a este da minha face, e lhe acontecer algum desastre, fareis descer as minhas cãs com aflição à sepultura.",
-          "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            }
-          ]
+          "tokens": []
         },
         {
           "n": 30,
@@ -27199,7 +29432,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "homem",
@@ -27207,7 +29440,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "deu",
@@ -27251,7 +29484,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -27259,7 +29492,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "pai",
@@ -27268,10 +29501,6 @@ globalThis.appData.books.push({
             {
               "word": "irmãos",
               "strong": "H251"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             }
           ]
         },
@@ -27285,7 +29514,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -27297,7 +29526,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmão",
@@ -27318,10 +29547,6 @@ globalThis.appData.books.push({
               "strong": "H5869"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "vida",
               "strong": "H2416"
             },
@@ -27335,10 +29560,6 @@ globalThis.appData.books.push({
           "n": 6,
           "text": "Porque já houve dois anos de fome no meio da terra, e ainda restam cinco anos em que não haverá lavoura nem sega.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "terra",
               "strong": "H776"
@@ -27415,7 +29636,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Deus",
@@ -27569,7 +29790,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "olhos",
@@ -27603,7 +29824,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -27612,6 +29833,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -27624,24 +29849,12 @@ globalThis.appData.books.push({
               "strong": "H1"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
             {
               "word": "Egito",
               "strong": "H4714"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -27653,10 +29866,6 @@ globalThis.appData.books.push({
           "n": 19,
           "text": "A ti, pois, é ordenado: Fazei isto: tomai vós da terra do Egito carros para vossos meninos, para vossas mulheres, e para vosso pai, e vinde.",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "terra",
               "strong": "H776"
@@ -27703,7 +29912,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "deu",
@@ -27798,6 +30007,10 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             },
@@ -27817,7 +30030,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -27843,7 +30056,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "vendo",
@@ -27851,7 +30064,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "espírito",
@@ -27885,7 +30098,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         }
@@ -27901,6 +30114,10 @@ globalThis.appData.books.push({
             {
               "word": "Israel",
               "strong": "H3478"
+            },
+            {
+              "word": "Berseba",
+              "strong": "H884"
             },
             {
               "word": "sacrifícios",
@@ -27994,7 +30211,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "mão",
@@ -28013,6 +30230,10 @@ globalThis.appData.books.push({
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Berseba",
+              "strong": "H884"
             },
             {
               "word": "filhos",
@@ -28047,6 +30268,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             },
             {
               "word": "Egito",
@@ -28117,6 +30342,10 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
               "word": "Jacó",
               "strong": "H3290"
             }
@@ -28129,6 +30358,14 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "Enoque",
+              "strong": "H2585"
             }
           ]
         },
@@ -28139,6 +30376,10 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
             },
             {
               "word": "filho",
@@ -28181,6 +30422,10 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "filhos",
               "strong": "H1121"
             }
@@ -28193,6 +30438,10 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Issacar",
+              "strong": "H3485"
             }
           ]
         },
@@ -28203,6 +30452,10 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Zebulom",
+              "strong": "H2074"
             }
           ]
         },
@@ -28215,12 +30468,20 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Lia",
+              "strong": "H3812"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
             },
             {
               "word": "Jacó",
               "strong": "H3290"
+            },
+            {
+              "word": "Diná",
+              "strong": "H1783"
             },
             {
               "word": "almas",
@@ -28239,6 +30500,10 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
             }
           ]
         },
@@ -28249,6 +30514,10 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Aser",
+              "strong": "H836"
             },
             {
               "word": "filhos",
@@ -28265,8 +30534,16 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
             },
             {
               "word": "deu",
@@ -28291,6 +30568,10 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
             },
@@ -28300,7 +30581,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Benjamim",
@@ -28318,7 +30599,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -28369,6 +30650,10 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "nasceram",
               "strong": "H3205"
             },
@@ -28392,7 +30677,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "Dã",
-              "strong": "H5414"
+              "strong": "H1835"
             }
           ]
         },
@@ -28403,6 +30688,10 @@ globalThis.appData.books.push({
             {
               "word": "filhos",
               "strong": "H1121"
+            },
+            {
+              "word": "Naftali",
+              "strong": "H5321"
             }
           ]
         },
@@ -28415,8 +30704,16 @@ globalThis.appData.books.push({
               "strong": "H1121"
             },
             {
+              "word": "Labão",
+              "strong": "H3837"
+            },
+            {
               "word": "deu",
               "strong": "H5414"
+            },
+            {
+              "word": "Raquel",
+              "strong": "H7354"
             },
             {
               "word": "deu",
@@ -28429,6 +30726,10 @@ globalThis.appData.books.push({
             {
               "word": "almas",
               "strong": "H5315"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             }
           ]
         },
@@ -28476,7 +30777,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "nasceram",
@@ -28493,10 +30794,6 @@ globalThis.appData.books.push({
             {
               "word": "almas",
               "strong": "H5315"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "casa",
@@ -28526,7 +30823,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -28540,7 +30837,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Israel",
@@ -28566,7 +30863,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -28580,7 +30877,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -28613,6 +30910,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -28673,7 +30974,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Faraó",
@@ -28692,12 +30993,12 @@ globalThis.appData.books.push({
               "strong": "H251"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             },
             {
               "word": "terra",
@@ -28774,6 +31075,10 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "servos",
               "strong": "H5650"
             },
@@ -28793,7 +31098,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "dizendo",
@@ -28820,10 +31125,6 @@ globalThis.appData.books.push({
             {
               "word": "Egito",
               "strong": "H4714"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -28853,7 +31154,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Jacó",
@@ -28902,10 +31203,6 @@ globalThis.appData.books.push({
               "strong": "H3117"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "vida",
               "strong": "H2416"
             }
@@ -28936,20 +31233,12 @@ globalThis.appData.books.push({
               "strong": "H3117"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "vida",
               "strong": "H2416"
             },
             {
               "word": "dias",
               "strong": "H3117"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "vida",
@@ -28980,10 +31269,6 @@ globalThis.appData.books.push({
             {
               "word": "Faraó",
               "strong": "H6547"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             }
           ]
         },
@@ -28993,7 +31278,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "pai",
@@ -29016,10 +31301,6 @@ globalThis.appData.books.push({
               "strong": "H4714"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
@@ -29039,7 +31320,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "pão",
@@ -29088,8 +31369,8 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "Canaã",
+              "strong": "H3667"
             }
           ]
         },
@@ -29099,7 +31380,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -29114,8 +31395,12 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "casa",
@@ -29132,10 +31417,6 @@ globalThis.appData.books.push({
           "text": "Acabando-se, pois, o dinheiro da terra do Egito, e da terra de Canaã, vieram todos os egípcios a José, dizendo: Dá-nos pão; por que morreremos em tua presença? porquanto o dinheiro nos falta.",
           "tokens": [
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
@@ -29144,24 +31425,20 @@ globalThis.appData.books.push({
               "strong": "H4714"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "dizendo",
               "strong": "H559"
-            },
-            {
-              "word": "Dá",
-              "strong": "H5414"
             },
             {
               "word": "pão",
@@ -29175,7 +31452,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
@@ -29189,11 +31466,11 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "deu",
@@ -29268,10 +31545,6 @@ globalThis.appData.books.push({
               "strong": "H6547"
             },
             {
-              "word": "dá",
-              "strong": "H5414"
-            },
-            {
               "word": "semente",
               "strong": "H2233"
             },
@@ -29287,7 +31560,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "terra",
@@ -29322,10 +31595,6 @@ globalThis.appData.books.push({
             {
               "word": "cidades",
               "strong": "H5892"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -29381,7 +31650,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "povo",
@@ -29463,7 +31732,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "dia",
@@ -29514,6 +31783,10 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "multiplicaram",
+              "strong": "H7235"
             }
           ]
         },
@@ -29542,12 +31815,12 @@ globalThis.appData.books.push({
               "strong": "H3290"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "vida",
               "strong": "H2416"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             }
           ]
         },
@@ -29555,10 +31828,6 @@ globalThis.appData.books.push({
           "n": 29,
           "text": "Chegando-se, pois, o tempo da morte de Israel, chamou a José, seu filho, e disse-lhe: Se agora tenho achado graça em teus olhos, rogo-te que ponhas a tua mão debaixo da minha coxa, e usa comigo de beneficência e verdade; rogo-te que não me enterres no Egito,",
           "tokens": [
-            {
-              "word": "da",
-              "strong": "H5414"
-            },
             {
               "word": "morte",
               "strong": "H4191"
@@ -29569,7 +31838,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "filho",
@@ -29586,10 +31855,6 @@ globalThis.appData.books.push({
             {
               "word": "mão",
               "strong": "H3027"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "verdade",
@@ -29634,10 +31899,6 @@ globalThis.appData.books.push({
             {
               "word": "Israel",
               "strong": "H3478"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             }
           ]
         }
@@ -29656,7 +31917,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "pai",
@@ -29690,7 +31951,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "filho",
@@ -29716,7 +31977,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Deus",
@@ -29731,6 +31992,10 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "abençoou",
               "strong": "H1288"
             }
@@ -29743,6 +32008,14 @@ globalThis.appData.books.push({
             {
               "word": "disse",
               "strong": "H559"
+            },
+            {
+              "word": "frutificar",
+              "strong": "H6509"
+            },
+            {
+              "word": "multiplicar",
+              "strong": "H7235"
             },
             {
               "word": "povos",
@@ -29789,6 +32062,14 @@ globalThis.appData.books.push({
             {
               "word": "Manassés",
               "strong": "H4519"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
             }
           ]
         },
@@ -29811,12 +32092,20 @@ globalThis.appData.books.push({
               "strong": "H4191"
             },
             {
+              "word": "Raquel",
+              "strong": "H7354"
+            },
+            {
               "word": "caminho",
               "strong": "H1870"
             },
             {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             },
             {
               "word": "caminho",
@@ -29842,7 +32131,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
@@ -29856,7 +32145,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
@@ -29916,7 +32205,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "ver",
@@ -29942,7 +32231,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "pai",
@@ -29951,10 +32240,6 @@ globalThis.appData.books.push({
             {
               "word": "terra",
               "strong": "H776"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             }
           ]
         },
@@ -29964,7 +32249,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Efraim",
@@ -30040,7 +32325,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
@@ -30089,10 +32374,6 @@ globalThis.appData.books.push({
               "strong": "H3327"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             }
@@ -30108,7 +32389,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "pai",
@@ -30162,7 +32443,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
@@ -30280,7 +32561,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Deus",
@@ -30305,20 +32586,12 @@ globalThis.appData.books.push({
               "strong": "H5414"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
             },
             {
               "word": "irmãos",
               "strong": "H251"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "mão",
@@ -30388,6 +32661,10 @@ globalThis.appData.books.push({
           "text": "Rúben, tu és meu primogênito, minha força e o princípio de meu vigor, o mais excelente em alteza e o mais excelente em poder.",
           "tokens": [
             {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
               "word": "princípio",
               "strong": "H7225"
             }
@@ -30411,6 +32688,10 @@ globalThis.appData.books.push({
           "n": 5,
           "text": "Simeão e Levi são irmãos; as suas espadas são instrumentos de violência.",
           "tokens": [
+            {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
             {
               "word": "Levi",
               "strong": "H3878"
@@ -30447,6 +32728,10 @@ globalThis.appData.books.push({
           "n": 7,
           "text": "Maldito seja o seu furor, pois era forte, e a sua ira, pois era dura; eu os dividirei em Jacó, e os espalharei em Israel.",
           "tokens": [
+            {
+              "word": "Maldito",
+              "strong": "H779"
+            },
             {
               "word": "Jacó",
               "strong": "H3290"
@@ -30492,10 +32777,6 @@ globalThis.appData.books.push({
               "strong": "H3063"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "filho",
               "strong": "H1121"
             }
@@ -30522,10 +32803,6 @@ globalThis.appData.books.push({
             {
               "word": "filho",
               "strong": "H1121"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "vinho",
@@ -30556,6 +32833,10 @@ globalThis.appData.books.push({
           "text": "Zebulom habitará no porto dos mares, e será como porto dos navios, e o seu termo será para Sidom.",
           "tokens": [
             {
+              "word": "Zebulom",
+              "strong": "H2074"
+            },
+            {
               "word": "mares",
               "strong": "H3220"
             }
@@ -30564,7 +32845,12 @@ globalThis.appData.books.push({
         {
           "n": 14,
           "text": "Issacar é jumento de fortes ossos, deitado entre dois fardos.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Issacar",
+              "strong": "H3485"
+            }
+          ]
         },
         {
           "n": 15,
@@ -30594,7 +32880,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "Dã",
-              "strong": "H5414"
+              "strong": "H1835"
             },
             {
               "word": "povo",
@@ -30612,7 +32898,11 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "Dã",
-              "strong": "H5414"
+              "strong": "H1835"
+            },
+            {
+              "word": "serpente",
+              "strong": "H5175"
             },
             {
               "word": "caminho",
@@ -30637,12 +32927,21 @@ globalThis.appData.books.push({
         {
           "n": 19,
           "text": "Quanto a Gade, uma tropa o acometerá; mas ele a acometerá por fim.",
-          "tokens": []
+          "tokens": [
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            }
+          ]
         },
         {
           "n": 20,
           "text": "De Aser, o seu pão será gordo, e ele dará delícias reais.",
           "tokens": [
+            {
+              "word": "Aser",
+              "strong": "H836"
+            },
             {
               "word": "pão",
               "strong": "H3899"
@@ -30654,8 +32953,8 @@ globalThis.appData.books.push({
           "text": "Naftali é uma gazela solta; ele dá palavras formosas.",
           "tokens": [
             {
-              "word": "dá",
-              "strong": "H5414"
+              "word": "Naftali",
+              "strong": "H5321"
             },
             {
               "word": "palavras",
@@ -30669,7 +32968,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -30717,8 +33016,8 @@ globalThis.appData.books.push({
               "strong": "H8064"
             },
             {
-              "word": "da",
-              "strong": "H5414"
+              "word": "abismo",
+              "strong": "H8415"
             }
           ]
         },
@@ -30740,11 +33039,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
+              "strong": "H3130"
             },
             {
               "word": "cabeça",
@@ -30815,8 +33110,20 @@ globalThis.appData.books.push({
           "text": "Na cova que está no campo de Macpela, que está em frente de Manre, na terra de Canaã, a qual Abraão comprou com aquele campo de Efrom, o heteu, por herança de sepultura.",
           "tokens": [
             {
+              "word": "Macpela",
+              "strong": "H4375"
+            },
+            {
+              "word": "Manre",
+              "strong": "H4471"
+            },
+            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
             },
             {
               "word": "Abraão",
@@ -30833,6 +33140,10 @@ globalThis.appData.books.push({
               "strong": "H85"
             },
             {
+              "word": "Sara",
+              "strong": "H8283"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
             },
@@ -30841,8 +33152,16 @@ globalThis.appData.books.push({
               "strong": "H3327"
             },
             {
+              "word": "Rebeca",
+              "strong": "H7259"
+            },
+            {
               "word": "mulher",
               "strong": "H802"
+            },
+            {
+              "word": "Lia",
+              "strong": "H3812"
             }
           ]
         },
@@ -30889,7 +33208,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "pai",
@@ -30903,7 +33222,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "servos",
@@ -30947,7 +33266,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "casa",
@@ -30992,6 +33311,10 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
               "word": "pai",
               "strong": "H1"
             }
@@ -31021,7 +33344,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "pai",
@@ -31036,16 +33359,8 @@ globalThis.appData.books.push({
               "strong": "H6547"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "casa",
               "strong": "H1004"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "terra",
@@ -31067,7 +33382,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -31097,8 +33412,16 @@ globalThis.appData.books.push({
           "text": "Chegando eles, pois, à eira de Atade, que está além do Jordão, fizeram um grande e dolorido pranto; e fez a seu pai uma grande lamentação por sete dias.",
           "tokens": [
             {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
               "word": "pai",
               "strong": "H1"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
             },
             {
               "word": "dias",
@@ -31115,12 +33438,16 @@ globalThis.appData.books.push({
               "strong": "H7200"
             },
             {
-              "word": "da",
-              "strong": "H5414"
-            },
-            {
               "word": "terra",
               "strong": "H776"
+            },
+            {
+              "word": "Abel",
+              "strong": "H1893"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
             }
           ]
         },
@@ -31147,8 +33474,20 @@ globalThis.appData.books.push({
               "strong": "H776"
             },
             {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "Macpela",
+              "strong": "H4375"
+            },
+            {
               "word": "Abraão",
               "strong": "H85"
+            },
+            {
+              "word": "Manre",
+              "strong": "H4471"
             }
           ]
         },
@@ -31166,7 +33505,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Egito",
@@ -31196,7 +33535,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "pai",
@@ -31208,7 +33547,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -31222,15 +33561,11 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "pai",
               "strong": "H1"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "morte",
@@ -31248,7 +33583,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -31272,7 +33607,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -31296,7 +33631,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "disse",
@@ -31346,7 +33681,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "Egito",
@@ -31362,7 +33697,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -31376,7 +33711,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "filhos",
@@ -31385,10 +33720,6 @@ globalThis.appData.books.push({
             {
               "word": "Efraim",
               "strong": "H669"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
             },
             {
               "word": "filhos",
@@ -31408,7 +33739,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             }
           ]
         },
@@ -31422,7 +33753,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "irmãos",
@@ -31460,7 +33791,7 @@ globalThis.appData.books.push({
           "tokens": [
             {
               "word": "José",
-              "strong": "H3124"
+              "strong": "H3130"
             },
             {
               "word": "filhos",
@@ -31490,11 +33821,7 @@ globalThis.appData.books.push({
             },
             {
               "word": "José",
-              "strong": "H3124"
-            },
-            {
-              "word": "da",
-              "strong": "H5414"
+              "strong": "H3130"
             },
             {
               "word": "Egito",
