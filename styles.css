@@ -166,6 +166,7 @@
       grid-template-columns: minmax(250px, 1fr) auto;
       gap: 14px;
       align-items: center;
+      position: relative;
     }
 
     .brand {
@@ -1122,6 +1123,7 @@
 
       .brand {
         align-items: flex-start;
+        padding-right: 104px;
       }
 
       .brand-mark {
@@ -1182,18 +1184,42 @@
         width: 100%;
       }
 
-      .reader-tools,
       .search-box {
         grid-column: 1 / -1;
       }
 
       .reader-tools {
-        justify-content: space-between;
-        width: 100%;
+        position: absolute;
+        top: 12px;
+        right: 14px;
+        width: auto;
+        gap: 6px;
+      }
+
+      .reader-tool {
+        width: 42px;
+        min-width: 42px;
+        padding: 0;
+        color: var(--brand);
+        font-weight: 800;
+      }
+
+      #themeToggle {
+        color: transparent;
+        position: relative;
+      }
+
+      #themeToggle::before {
+        content: attr(data-icon);
+        color: var(--brand);
+        position: absolute;
+        inset: 0;
+        display: grid;
+        place-items: center;
       }
 
       .font-size-toggle {
-        min-width: 52px;
+        min-width: 42px;
       }
 
       .theme-editor {
