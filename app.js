@@ -65,6 +65,8 @@ const defaultStudyThemes = [
   { name: "Paixão", query: "G4091|G4716|G4717|G1115|Pilatos|cruz", hint: "julgamento, cruz e Gólgota" }
 ];
 
+Object.assign(appData.lexicon, loadCustomLexicon());
+
     function getBook() {
       return appData.books.find(book => book.id === state.bookId);
     }
@@ -369,7 +371,7 @@ const defaultStudyThemes = [
       const related = new Map();
 
       function addSuggestion(map, strong, reason, ref) {
-        const entry = appData.lexicon[strong];
+        const entry = getLexiconEntry(strong);
         if (!entry) return;
         if (!map.has(strong)) {
           map.set(strong, {
@@ -478,11 +480,13 @@ const defaultStudyThemes = [
 
         const data = await result.json();
         const text = extractAiText(data);
-        const strongs = extractStrongCodes(text)
-          .filter(strong => appData.lexicon[strong]);
+        const strongs = extractStrongCodes(text);
 
         if (strongs.length === 1) {
           responseBox.innerHTML = renderMarkdown(text);
+          if (!getLexiconEntry(strongs[0])) {
+            saveAiSuggestedStrong(strongs[0], word, text, verse);
+          }
           addCustomStrongMark(verse.n, word, strongs[0]);
           showToast(`Sugestão ${strongs[0]} aplicada.`);
           return;
@@ -490,13 +494,16 @@ const defaultStudyThemes = [
 
         const actionButtons = strongs.map(strong => `
           <button class="secondary strong-ai-mark" type="button" data-ai-strong="${escapeHtml(strong)}" data-ai-word="${escapeHtml(word)}" data-ai-verse="${verse.n}">
-            Marcar ${escapeHtml(strong)}
+            Marcar ${escapeHtml(strong)}${getLexiconEntry(strong) ? "" : " como pessoal"}
           </button>
         `).join("");
 
         responseBox.innerHTML = `${renderMarkdown(text)}${actionButtons ? `<div class="assistant-actions">${actionButtons}</div>` : `<p class="assistant-empty">A IA não indicou um Strong que já tenha card no app.</p>`}`;
         document.querySelectorAll("[data-ai-strong]").forEach(button => {
           button.addEventListener("click", () => {
+            if (!getLexiconEntry(button.dataset.aiStrong)) {
+              saveAiSuggestedStrong(button.dataset.aiStrong, button.dataset.aiWord, text, verse);
+            }
             addCustomStrongMark(Number(button.dataset.aiVerse), button.dataset.aiWord, button.dataset.aiStrong);
           });
         });
@@ -535,7 +542,7 @@ const defaultStudyThemes = [
       }
 
       const normalizedStrong = strong.toUpperCase();
-      const entry = appData.lexicon[normalizedStrong];
+      const entry = getLexiconEntry(normalizedStrong);
       if (!entry) {
         showToast("Esse Strong ainda não tem card no app.");
         return;
@@ -563,6 +570,57 @@ const defaultStudyThemes = [
       renderChapter();
       openStrongOccurrence(state.bookId, state.chapter, verseNumber, normalizedStrong);
       showToast("Palavra marcada.");
+    }
+
+    function loadCustomLexicon() {
+      try {
+        return JSON.parse(localStorage.getItem("custom-lexicon:v1") || "{}");
+      } catch (error) {
+        return {};
+      }
+    }
+
+    function saveCustomLexicon(lexicon) {
+      localStorage.setItem("custom-lexicon:v1", JSON.stringify(lexicon));
+    }
+
+    function getLexiconEntry(strong) {
+      return appData.lexicon[String(strong || "").toUpperCase()];
+    }
+
+    function saveAiSuggestedStrong(strong, word, aiText, verse) {
+      const normalizedStrong = String(strong || "").toUpperCase();
+      if (!/^[HG]\d+$/.test(normalizedStrong) || getLexiconEntry(normalizedStrong)) return;
+
+      const customLexicon = loadCustomLexicon();
+      const entry = buildAiSuggestedLexiconEntry(normalizedStrong, word, aiText, verse);
+      customLexicon[normalizedStrong] = entry;
+      saveCustomLexicon(customLexicon);
+      appData.lexicon[normalizedStrong] = entry;
+    }
+
+    function buildAiSuggestedLexiconEntry(strong, word, aiText, verse) {
+      const originalLine = extractAiField(aiText, "Palavra original") || strong;
+      const gloss = extractAiField(aiText, "Sentido básico") || `Sugestão pessoal para "${word}"`;
+      const context = extractAiField(aiText, "Motivo contextual") || "Sugestão criada pela IA para esta palavra neste versículo.";
+
+      return {
+        lemma: word,
+        original: originalLine,
+        translit: word,
+        grammar: "Sugestão pessoal criada com IA",
+        gloss,
+        exegetic: aiText,
+        culture: `${context} Revise esta marcação quando houver um léxico/interlinear disponível.`,
+        parallels: [`${getBook().name} ${state.chapter}:${verse.n}`],
+        personal: true
+      };
+    }
+
+    function extractAiField(text, label) {
+      const escapedLabel = escapeRegExp(label);
+      const match = String(text || "").match(new RegExp(`${escapedLabel}\\s*[:：]\\s*([^\\n]+)`, "i"));
+      return match ? match[1].replace(/^[-*\s]+/, "").trim() : "";
     }
 
     function collectCustomMarkItems() {
@@ -738,7 +796,7 @@ const defaultStudyThemes = [
 
     function renderStudyCard() {
       if (!state.selected) return;
-      const entry = appData.lexicon[state.selected.strong];
+      const entry = getLexiconEntry(state.selected.strong);
       const occurrences = findOccurrences(state.selected.strong);
       const occurrenceSummary = buildOccurrenceSummary(occurrences);
       const prompt = buildAiPrompt(entry, occurrences);
@@ -1506,7 +1564,7 @@ const defaultStudyThemes = [
     }
 
     function clearMyStudy() {
-      const confirmed = window.confirm("Limpar notas, análises salvas, favoritos e histórico deste estudo? A chave da IA e os temas serão mantidos.");
+      const confirmed = window.confirm("Limpar notas, análises salvas, favoritos, histórico e marcações pessoais deste estudo? A chave da IA e os temas serão mantidos.");
       if (!confirmed) return;
 
       const keys = [];
@@ -1515,6 +1573,8 @@ const defaultStudyThemes = [
         if (
           key === "favorites:v1" ||
           key === "history:v1" ||
+          key === "assisted-marks:v1" ||
+          key === "custom-lexicon:v1" ||
           key?.startsWith("note:") ||
           key?.startsWith("verse-note:") ||
           key?.startsWith("ai-result:")
@@ -1529,6 +1589,7 @@ const defaultStudyThemes = [
       renderChapter();
       renderHistory();
       renderMyStudy();
+      renderCustomMarks();
       loadNote();
       showToast("Meu estudo foi limpo.");
     }
