@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-em-foco-pente-fino-nt-1";
+const CACHE_NAME = "biblia-em-foco-leitura-visual-v1";
 const ASSETS = [
   "./",
   "./index.html",
