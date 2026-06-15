@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-em-foco-at-completo-v1";
+const CACHE_NAME = "biblia-em-foco-at-sync-v1";
 const ASSETS = [
   "./",
   "./index.html",

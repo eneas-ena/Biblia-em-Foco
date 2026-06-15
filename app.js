@@ -1,7 +1,7 @@
 const appData = globalThis.appData;
 
 const state = {
-      bookId: "matthew",
+      bookId: appData.books[0]?.id || "matthew",
       chapter: 1,
       selected: null,
       selectedVerseNote: null,
@@ -138,6 +138,7 @@ const defaultStudyThemes = [
 
     function populateControls() {
       els.bookSelect.innerHTML = appData.books.map(book => `<option value="${book.id}">${book.name}</option>`).join("");
+      els.bookSelect.value = state.bookId;
       updateChapterSelect();
       els.sourceNote.textContent = appData.source;
     }
