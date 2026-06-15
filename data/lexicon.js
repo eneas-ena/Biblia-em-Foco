@@ -8113,6 +8113,9 @@ Object.assign(globalThis.appData.lexicon, {
 });
 
 
+
+
+
 // BEGIN HEBREW STRONG LAYER
 Object.assign(globalThis.appData.lexicon, {
   "H430": {
@@ -9683,7 +9686,7 @@ Object.assign(globalThis.appData.lexicon, {
       "Isaías 51:3"
     ]
   },
-  "H3124": {
+  "H3130": {
     "lemma": "Yoseph",
     "original": "יוֹסֵף",
     "translit": "Yoseph",
@@ -9765,6 +9768,901 @@ Object.assign(globalThis.appData.lexicon, {
       "Gênesis 48:14",
       "Josué 17:1",
       "1 Crônicas 5:23"
+    ]
+  },
+  "H8415": {
+    "lemma": "tehom",
+    "original": "תְּהוֹם",
+    "translit": "tehom",
+    "grammar": "substantivo feminino",
+    "gloss": "abismo, profundidade",
+    "exegetic": "Em Gênesis 1, abismo descreve a profundidade aquosa antes da ordenação criadora de Deus.",
+    "culture": "No imaginário antigo, as águas profundas podiam simbolizar caos; o texto bíblico as coloca sob a soberania do Criador.",
+    "parallels": [
+      "Gênesis 1:2",
+      "Salmo 42:7",
+      "Jonas 2:5"
+    ]
+  },
+  "H7549": {
+    "lemma": "raqia",
+    "original": "רָקִיעַ",
+    "translit": "raqia",
+    "grammar": "substantivo masculino",
+    "gloss": "expansão, firmamento",
+    "exegetic": "A expansão separa águas e organiza o espaço criado na narrativa de Gênesis.",
+    "culture": "A linguagem reflete a forma antiga de descrever o cosmos como mundo ordenado por Deus.",
+    "parallels": [
+      "Gênesis 1:6",
+      "Gênesis 1:14",
+      "Salmo 19:1"
+    ]
+  },
+  "H3974": {
+    "lemma": "maor",
+    "original": "מָאוֹר",
+    "translit": "maor",
+    "grammar": "substantivo masculino",
+    "gloss": "luminar, fonte de luz",
+    "exegetic": "Luminares governam tempos, sinais, dias e anos dentro da ordem criada por Deus.",
+    "culture": "O texto evita divinizar sol e lua; eles são criaturas a serviço do Criador.",
+    "parallels": [
+      "Gênesis 1:14",
+      "Gênesis 1:16",
+      "Êxodo 25:6"
+    ]
+  },
+  "H3556": {
+    "lemma": "kokab",
+    "original": "כּוֹכָב",
+    "translit": "kokab",
+    "grammar": "substantivo masculino",
+    "gloss": "estrela",
+    "exegetic": "Estrelas aparecem como parte da criação e, em Gênesis, também como imagem da promessa de descendência.",
+    "culture": "No mundo antigo, astros eram muitas vezes divinizados; a Bíblia os apresenta como criação de Deus.",
+    "parallels": [
+      "Gênesis 1:16",
+      "Gênesis 15:5",
+      "Daniel 12:3"
+    ]
+  },
+  "H6754": {
+    "lemma": "tselem",
+    "original": "צֶלֶם",
+    "translit": "tselem",
+    "grammar": "substantivo masculino",
+    "gloss": "imagem",
+    "exegetic": "Imagem de Deus indica vocação humana para representar o Criador na criação.",
+    "culture": "No Antigo Oriente, imagem podia se relacionar a representação real; Gênesis amplia essa dignidade ao ser humano.",
+    "parallels": [
+      "Gênesis 1:26",
+      "Gênesis 9:6",
+      "Salmo 8:5"
+    ]
+  },
+  "H1823": {
+    "lemma": "demuth",
+    "original": "דְּמוּת",
+    "translit": "demuth",
+    "grammar": "substantivo feminino",
+    "gloss": "semelhança",
+    "exegetic": "Semelhança reforça a relação entre Deus e a humanidade criada para refletir sua vontade.",
+    "culture": "A expressão imagem e semelhança sustenta dignidade, responsabilidade e missão humana.",
+    "parallels": [
+      "Gênesis 1:26",
+      "Gênesis 5:1",
+      "Ezequiel 1:5"
+    ]
+  },
+  "H6509": {
+    "lemma": "parah",
+    "original": "פָּרָה",
+    "translit": "parah",
+    "grammar": "verbo",
+    "gloss": "frutificar",
+    "exegetic": "Frutificar expressa bênção criacional, fecundidade e continuidade da vida.",
+    "culture": "A bênção de frutificar aparece em criação, família e aliança.",
+    "parallels": [
+      "Gênesis 1:22",
+      "Gênesis 1:28",
+      "Gênesis 9:1"
+    ]
+  },
+  "H7235": {
+    "lemma": "rabah",
+    "original": "רָבָה",
+    "translit": "rabah",
+    "grammar": "verbo",
+    "gloss": "multiplicar, tornar numeroso",
+    "exegetic": "Multiplicar acompanha a bênção de Deus e a promessa de descendência.",
+    "culture": "A multiplicação da vida e da família é sinal de bênção na narrativa patriarcal.",
+    "parallels": [
+      "Gênesis 1:28",
+      "Gênesis 16:10",
+      "Gênesis 22:17"
+    ]
+  },
+  "H5175": {
+    "lemma": "nachash",
+    "original": "נָחָשׁ",
+    "translit": "nachash",
+    "grammar": "substantivo masculino",
+    "gloss": "serpente",
+    "exegetic": "A serpente em Gênesis 3 é personagem de tentação, distorção da palavra de Deus e ruptura da confiança.",
+    "culture": "A serpente se torna símbolo bíblico de engano, perigo e oposição ao propósito de Deus.",
+    "parallels": [
+      "Gênesis 3:1",
+      "Gênesis 3:15",
+      "Números 21:8"
+    ]
+  },
+  "H6175": {
+    "lemma": "arum",
+    "original": "עָרוּם",
+    "translit": "arum",
+    "grammar": "adjetivo",
+    "gloss": "astuto, prudente",
+    "exegetic": "Em Gênesis 3, astúcia descreve a capacidade da serpente de manipular a palavra e induzir desconfiança.",
+    "culture": "A mesma raiz pode ter sentidos positivos ou negativos conforme o contexto sapiencial.",
+    "parallels": [
+      "Gênesis 3:1",
+      "Provérbios 12:16",
+      "Provérbios 14:15"
+    ]
+  },
+  "H779": {
+    "lemma": "arar",
+    "original": "אָרַר",
+    "translit": "verbo",
+    "grammar": "amaldiçoar",
+    "gloss": "Amaldiçoar é declarar juízo, perda de bênção ou condição de desordem diante de Deus.",
+    "exegetic": "A linguagem de bênção e maldição atravessa aliança, terra e obediência.",
+    "culture": [
+      "Gênesis 3:14",
+      "Gênesis 12:3",
+      "Deuteronômio 27:15"
+    ]
+  },
+  "H5731": {
+    "lemma": "Eden",
+    "original": "עֵדֶן",
+    "translit": "Eden",
+    "grammar": "nome próprio",
+    "gloss": "Éden",
+    "exegetic": "Éden é o jardim da origem humana, lugar de vida, provisão e comunhão com Deus.",
+    "culture": "O nome evoca deleite e abundância, tornando-se imagem de restauração futura.",
+    "parallels": [
+      "Gênesis 2:8",
+      "Gênesis 3:24",
+      "Isaías 51:3"
+    ]
+  },
+  "H7014": {
+    "lemma": "Qayin",
+    "original": "קַיִן",
+    "translit": "Qayin",
+    "grammar": "nome próprio",
+    "gloss": "Caim",
+    "exegetic": "Caim é filho de Adão e Eva e figura central na primeira narrativa de violência fraterna.",
+    "culture": "Sua história mostra como pecado, inveja e ruptura familiar se expandem após a queda.",
+    "parallels": [
+      "Gênesis 4:1",
+      "Gênesis 4:8",
+      "Gênesis 4:16"
+    ]
+  },
+  "H1893": {
+    "lemma": "Hebel",
+    "original": "הֶבֶל",
+    "translit": "Hebel",
+    "grammar": "nome próprio",
+    "gloss": "Abel",
+    "exegetic": "Abel é irmão de Caim, lembrado por sua oferta e por seu sangue clamando da terra.",
+    "culture": "O nome se relaciona a vapor ou brevidade, ecoando a fragilidade da vida.",
+    "parallels": [
+      "Gênesis 4:2",
+      "Gênesis 4:10",
+      "Hebreus 11:4"
+    ]
+  },
+  "H8352": {
+    "lemma": "Sheth",
+    "original": "שֵׁת",
+    "translit": "Sheth",
+    "grammar": "nome próprio",
+    "gloss": "Sete",
+    "exegetic": "Sete é apresentado como descendente dado em lugar de Abel, preservando a linhagem de esperança.",
+    "culture": "Sua genealogia conduz à história de Noé e à continuidade da humanidade.",
+    "parallels": [
+      "Gênesis 4:25",
+      "Gênesis 5:3",
+      "Lucas 3:38"
+    ]
+  },
+  "H583": {
+    "lemma": "Enosh",
+    "original": "אֱנוֹשׁ",
+    "translit": "Enosh",
+    "grammar": "nome próprio",
+    "gloss": "Enos",
+    "exegetic": "Enos pertence à linhagem de Sete e aparece ligado ao início da invocação pública do nome do Senhor.",
+    "culture": "A genealogia preserva memória teológica, não apenas informação biográfica.",
+    "parallels": [
+      "Gênesis 4:26",
+      "Gênesis 5:6",
+      "1 Crônicas 1:1"
+    ]
+  },
+  "H2585": {
+    "lemma": "Chanok",
+    "original": "חֲנוֹךְ",
+    "translit": "Chanok",
+    "grammar": "nome próprio",
+    "gloss": "Enoque",
+    "exegetic": "Enoque é lembrado como aquele que andou com Deus e foi tomado por Deus.",
+    "culture": "Sua breve nota em Gênesis destaca comunhão com Deus em meio à genealogia marcada pela morte.",
+    "parallels": [
+      "Gênesis 5:22",
+      "Gênesis 5:24",
+      "Hebreus 11:5"
+    ]
+  },
+  "H5146": {
+    "lemma": "Noach",
+    "original": "נֹחַ",
+    "translit": "Noach",
+    "grammar": "nome próprio",
+    "gloss": "Noé",
+    "exegetic": "Noé é figura de justiça, livramento e recomeço da humanidade após o dilúvio.",
+    "culture": "Sua história une juízo, graça, aliança e preservação da vida.",
+    "parallels": [
+      "Gênesis 6:8",
+      "Gênesis 9:9",
+      "Hebreus 11:7"
+    ]
+  },
+  "H8392": {
+    "lemma": "tebah",
+    "original": "תֵּבָה",
+    "translit": "tebah",
+    "grammar": "substantivo feminino",
+    "gloss": "arca, caixa de preservação",
+    "exegetic": "Em Gênesis, a arca de Noé é instrumento de preservação em meio ao juízo das águas.",
+    "culture": "Esta palavra é diferente da arca da aliança; também aparece no cesto de Moisés.",
+    "parallels": [
+      "Gênesis 6:14",
+      "Gênesis 7:1",
+      "Êxodo 2:3"
+    ]
+  },
+  "H3315": {
+    "lemma": "Yepheth",
+    "original": "יֶפֶת",
+    "translit": "Yepheth",
+    "grammar": "nome próprio",
+    "gloss": "Jafé",
+    "exegetic": "Jafé é filho de Noé e ancestral de povos listados na tábua das nações.",
+    "culture": "Gênesis usa genealogias para explicar relações entre povos conhecidos de Israel.",
+    "parallels": [
+      "Gênesis 5:32",
+      "Gênesis 9:27",
+      "Gênesis 10:2"
+    ]
+  },
+  "H3667": {
+    "lemma": "Kena'an",
+    "original": "כְּנַעַן",
+    "translit": "Kena'an",
+    "grammar": "nome próprio",
+    "gloss": "Canaã",
+    "exegetic": "Canaã é filho de Cam e também nome da terra central nas promessas patriarcais.",
+    "culture": "O nome liga genealogia, território, promessa e conflito espiritual na narrativa bíblica.",
+    "parallels": [
+      "Gênesis 9:25",
+      "Gênesis 12:5",
+      "Êxodo 3:8"
+    ]
+  },
+  "H894": {
+    "lemma": "Babel",
+    "original": "בָּבֶל",
+    "translit": "Babel",
+    "grammar": "nome próprio",
+    "gloss": "Babel, Babilônia",
+    "exegetic": "Babel em Gênesis 11 representa concentração de poder humano e confusão das línguas.",
+    "culture": "Mais tarde, Babilônia se torna símbolo de império, orgulho e oposição a Deus.",
+    "parallels": [
+      "Gênesis 11:9",
+      "Isaías 13:1",
+      "Daniel 1:1"
+    ]
+  },
+  "H8152": {
+    "lemma": "Shinar",
+    "original": "שִׁנְעָר",
+    "translit": "Shinar",
+    "grammar": "nome próprio",
+    "gloss": "Sinar",
+    "exegetic": "Sinar é a planície associada à construção de Babel.",
+    "culture": "O local conecta a narrativa das origens à memória posterior da Babilônia.",
+    "parallels": [
+      "Gênesis 10:10",
+      "Gênesis 11:2",
+      "Daniel 1:2"
+    ]
+  },
+  "H218": {
+    "lemma": "Ur",
+    "original": "אוּר",
+    "translit": "Ur",
+    "grammar": "nome próprio",
+    "gloss": "Ur",
+    "exegetic": "Ur dos caldeus é o ponto de origem da jornada familiar de Abrão.",
+    "culture": "A saída de Ur prepara o chamado, a promessa e a peregrinação patriarcal.",
+    "parallels": [
+      "Gênesis 11:28",
+      "Gênesis 15:7",
+      "Neemias 9:7"
+    ]
+  },
+  "H2039": {
+    "lemma": "Haran",
+    "original": "הָרָן",
+    "translit": "Haran",
+    "grammar": "nome próprio",
+    "gloss": "Harã",
+    "exegetic": "Harã é nome de pessoa e também lugar de parada na jornada da família de Abrão.",
+    "culture": "A narrativa patriarcal usa deslocamentos para mostrar chamado, espera e promessa.",
+    "parallels": [
+      "Gênesis 11:31",
+      "Gênesis 12:4",
+      "Gênesis 27:43"
+    ]
+  },
+  "H8646": {
+    "lemma": "Terach",
+    "original": "תֶּרַח",
+    "translit": "Terach",
+    "grammar": "nome próprio",
+    "gloss": "Terá",
+    "exegetic": "Terá é pai de Abrão, Naor e Harã, ligado à transição para a história patriarcal.",
+    "culture": "Sua família marca a passagem das genealogias universais para a promessa abraâmica.",
+    "parallels": [
+      "Gênesis 11:24",
+      "Gênesis 11:31",
+      "Josué 24:2"
+    ]
+  },
+  "H87": {
+    "lemma": "Avram",
+    "original": "אַבְרָם",
+    "translit": "Avram",
+    "grammar": "nome próprio",
+    "gloss": "Abrão",
+    "exegetic": "Abrão é o nome inicial de Abraão antes da renovação do nome na aliança.",
+    "culture": "A mudança de nome em Gênesis 17 expressa vocação ampliada e promessa às nações.",
+    "parallels": [
+      "Gênesis 12:1",
+      "Gênesis 15:6",
+      "Gênesis 17:5"
+    ]
+  },
+  "H8297": {
+    "lemma": "Saray",
+    "original": "שָׂרַי",
+    "translit": "Saray",
+    "grammar": "nome próprio",
+    "gloss": "Sarai",
+    "exegetic": "Sarai é o nome inicial de Sara antes da promessa explicitada na aliança.",
+    "culture": "Sua história passa por esterilidade, espera, promessa e nascimento impossível aos olhos humanos.",
+    "parallels": [
+      "Gênesis 11:29",
+      "Gênesis 16:1",
+      "Gênesis 17:15"
+    ]
+  },
+  "H8283": {
+    "lemma": "Sarah",
+    "original": "שָׂרָה",
+    "translit": "Sarah",
+    "grammar": "nome próprio",
+    "gloss": "Sara",
+    "exegetic": "Sara é matriarca da promessa e mãe de Isaque.",
+    "culture": "A mudança de nome reforça seu lugar na aliança e na promessa de descendência.",
+    "parallels": [
+      "Gênesis 17:15",
+      "Gênesis 18:12",
+      "Gênesis 21:1"
+    ]
+  },
+  "H3876": {
+    "lemma": "Lot",
+    "original": "לוֹט",
+    "translit": "Lot",
+    "grammar": "nome próprio",
+    "gloss": "Ló",
+    "exegetic": "Ló é sobrinho de Abrão, associado à escolha das campinas do Jordão e ao juízo de Sodoma.",
+    "culture": "Sua história contrasta proximidade com a promessa e vulnerabilidade diante de cidades corrompidas.",
+    "parallels": [
+      "Gênesis 12:5",
+      "Gênesis 13:11",
+      "Gênesis 19:1"
+    ]
+  },
+  "H5467": {
+    "lemma": "Sedom",
+    "original": "סְדֹם",
+    "translit": "Sedom",
+    "grammar": "nome próprio",
+    "gloss": "Sodoma",
+    "exegetic": "Sodoma torna-se símbolo de grave corrupção, violência e juízo divino.",
+    "culture": "A cidade aparece na tradição bíblica como advertência moral e social.",
+    "parallels": [
+      "Gênesis 13:13",
+      "Gênesis 18:20",
+      "Ezequiel 16:49"
+    ]
+  },
+  "H6017": {
+    "lemma": "Amorah",
+    "original": "עֲמֹרָה",
+    "translit": "Amorah",
+    "grammar": "nome próprio",
+    "gloss": "Gomorra",
+    "exegetic": "Gomorra é cidade associada a Sodoma no juízo das cidades da campina.",
+    "culture": "Sodoma e Gomorra funcionam juntas como memória de juízo e advertência.",
+    "parallels": [
+      "Gênesis 14:2",
+      "Gênesis 19:24",
+      "Deuteronômio 29:23"
+    ]
+  },
+  "H4442": {
+    "lemma": "Malki-Tsedeq",
+    "original": "מַלְכִּי־צֶדֶק",
+    "translit": "Malki-Tsedeq",
+    "grammar": "nome/título",
+    "gloss": "Melquisedeque",
+    "exegetic": "Melquisedeque aparece como rei de Salém e sacerdote do Deus Altíssimo.",
+    "culture": "Sua figura une realeza, sacerdócio, bênção e tipologia messiânica posterior.",
+    "parallels": [
+      "Gênesis 14:18",
+      "Salmo 110:4",
+      "Hebreus 7:1"
+    ]
+  },
+  "H8004": {
+    "lemma": "Shalem",
+    "original": "שָׁלֵם",
+    "translit": "Shalem",
+    "grammar": "nome próprio",
+    "gloss": "Salém",
+    "exegetic": "Salém é o reino de Melquisedeque e é tradicionalmente associado a Jerusalém.",
+    "culture": "O nome evoca paz e inteireza, conectando realeza e bênção.",
+    "parallels": [
+      "Gênesis 14:18",
+      "Salmo 76:2",
+      "Hebreus 7:2"
+    ]
+  },
+  "H1904": {
+    "lemma": "Hagar",
+    "original": "הָגָר",
+    "translit": "Hagar",
+    "grammar": "nome próprio",
+    "gloss": "Hagar",
+    "exegetic": "Hagar é serva egípcia de Sarai e mãe de Ismael.",
+    "culture": "Sua história destaca conflito familiar, sofrimento, cuidado divino e o Deus que vê.",
+    "parallels": [
+      "Gênesis 16:1",
+      "Gênesis 16:13",
+      "Gênesis 21:17"
+    ]
+  },
+  "H3458": {
+    "lemma": "Yishmael",
+    "original": "יִשְׁמָעֵאל",
+    "translit": "Yishmael",
+    "grammar": "nome próprio",
+    "gloss": "Ismael",
+    "exegetic": "Ismael é filho de Abraão e Hagar, cujo nome lembra que Deus ouve.",
+    "culture": "Sua narrativa mostra tensão familiar e também promessa de cuidado divino.",
+    "parallels": [
+      "Gênesis 16:11",
+      "Gênesis 17:20",
+      "Gênesis 21:18"
+    ]
+  },
+  "H4471": {
+    "lemma": "Mamre",
+    "original": "מַמְרֵא",
+    "translit": "Mamre",
+    "grammar": "nome próprio",
+    "gloss": "Manre",
+    "exegetic": "Manre é local associado à permanência de Abraão e à visita divina em Gênesis 18.",
+    "culture": "Carvalhais, tendas e altares marcam a vida patriarcal como peregrinação diante de Deus.",
+    "parallels": [
+      "Gênesis 13:18",
+      "Gênesis 18:1",
+      "Gênesis 23:19"
+    ]
+  },
+  "H7259": {
+    "lemma": "Rivqah",
+    "original": "רִבְקָה",
+    "translit": "Rivqah",
+    "grammar": "nome próprio",
+    "gloss": "Rebeca",
+    "exegetic": "Rebeca é matriarca, esposa de Isaque e mãe de Jacó e Esaú.",
+    "culture": "Sua história envolve providência, família, conflito entre filhos e continuidade da promessa.",
+    "parallels": [
+      "Gênesis 24:15",
+      "Gênesis 25:23",
+      "Gênesis 27:13"
+    ]
+  },
+  "H6215": {
+    "lemma": "Esav",
+    "original": "עֵשָׂו",
+    "translit": "Esav",
+    "grammar": "nome próprio",
+    "gloss": "Esaú",
+    "exegetic": "Esaú é filho de Isaque e Rebeca, irmão de Jacó e ancestral de Edom.",
+    "culture": "Sua história envolve primogenitura, bênção, conflito familiar e reconciliação.",
+    "parallels": [
+      "Gênesis 25:25",
+      "Gênesis 27:41",
+      "Gênesis 33:4"
+    ]
+  },
+  "H123": {
+    "lemma": "Edom",
+    "original": "אֱדוֹם",
+    "translit": "Edom",
+    "grammar": "nome próprio",
+    "gloss": "Edom",
+    "exegetic": "Edom é nome ligado a Esaú e ao povo descendente dele.",
+    "culture": "A relação entre Jacó e Esaú se projeta nas tensões posteriores entre Israel e Edom.",
+    "parallels": [
+      "Gênesis 25:30",
+      "Gênesis 36:1",
+      "Obadias 1:1"
+    ]
+  },
+  "H3837": {
+    "lemma": "Lavan",
+    "original": "לָבָן",
+    "translit": "Lavan",
+    "grammar": "nome próprio",
+    "gloss": "Labão",
+    "exegetic": "Labão é irmão de Rebeca e pai de Lia e Raquel, ligado ao ciclo de Jacó.",
+    "culture": "Sua narrativa explora trabalho, engano, família e providência.",
+    "parallels": [
+      "Gênesis 24:29",
+      "Gênesis 29:25",
+      "Gênesis 31:55"
+    ]
+  },
+  "H3812": {
+    "lemma": "Leah",
+    "original": "לֵאָה",
+    "translit": "Leah",
+    "grammar": "nome próprio",
+    "gloss": "Lia",
+    "exegetic": "Lia é esposa de Jacó e mãe de filhos que formam tribos de Israel.",
+    "culture": "Sua história mostra dor familiar, competição e graça na formação do povo.",
+    "parallels": [
+      "Gênesis 29:23",
+      "Gênesis 29:32",
+      "Gênesis 49:31"
+    ]
+  },
+  "H7354": {
+    "lemma": "Rachel",
+    "original": "רָחֵל",
+    "translit": "Rachel",
+    "grammar": "nome próprio",
+    "gloss": "Raquel",
+    "exegetic": "Raquel é esposa amada de Jacó e mãe de José e Benjamim.",
+    "culture": "Sua narrativa reúne amor, esterilidade, rivalidade e promessa.",
+    "parallels": [
+      "Gênesis 29:18",
+      "Gênesis 30:22",
+      "Gênesis 35:18"
+    ]
+  },
+  "H1783": {
+    "lemma": "Dinah",
+    "original": "דִּינָה",
+    "translit": "Dinah",
+    "grammar": "nome próprio",
+    "gloss": "Diná",
+    "exegetic": "Diná é filha de Jacó e Lia, ligada à narrativa dolorosa de Gênesis 34.",
+    "culture": "Sua história expõe honra familiar, violência e respostas problemáticas de vingança.",
+    "parallels": [
+      "Gênesis 30:21",
+      "Gênesis 34:1",
+      "Gênesis 46:15"
+    ]
+  },
+  "H1008": {
+    "lemma": "Bethel",
+    "original": "בֵּית־אֵל",
+    "translit": "Bethel",
+    "grammar": "nome próprio",
+    "gloss": "Betel",
+    "exegetic": "Betel significa casa de Deus e marca experiências decisivas de Jacó.",
+    "culture": "O lugar se torna memória de revelação, voto e encontro com Deus.",
+    "parallels": [
+      "Gênesis 28:19",
+      "Gênesis 35:1",
+      "Amós 4:4"
+    ]
+  },
+  "H6439": {
+    "lemma": "Penuel",
+    "original": "פְּנוּאֵל",
+    "translit": "Penuel",
+    "grammar": "nome próprio",
+    "gloss": "Peniel, Penuel",
+    "exegetic": "Peniel/Penuel é o lugar onde Jacó luta e recebe novo nome.",
+    "culture": "O nome lembra a experiência de ver Deus face a face e sair transformado.",
+    "parallels": [
+      "Gênesis 32:30",
+      "Juízes 8:8",
+      "1 Reis 12:25"
+    ]
+  },
+  "H6318": {
+    "lemma": "Potiphar",
+    "original": "פּוֹטִיפַר",
+    "translit": "Potiphar",
+    "grammar": "nome próprio",
+    "gloss": "Potifar",
+    "exegetic": "Potifar é oficial egípcio a quem José é vendido.",
+    "culture": "A casa de Potifar introduz a fidelidade de José em terra estrangeira.",
+    "parallels": [
+      "Gênesis 37:36",
+      "Gênesis 39:1",
+      "Gênesis 39:20"
+    ]
+  },
+  "H2526": {
+    "lemma": "Cham",
+    "original": "חָם",
+    "translit": "Cham",
+    "grammar": "nome próprio",
+    "gloss": "Cam, Cão",
+    "exegetic": "Cam é filho de Noé e ancestral de povos listados em Gênesis 10.",
+    "culture": "A tabela das nações organiza povos antigos em relações de parentesco teológico e geográfico.",
+    "parallels": [
+      "Gênesis 5:32",
+      "Gênesis 9:22",
+      "Gênesis 10:6"
+    ]
+  },
+  "H7205": {
+    "lemma": "Reuven",
+    "original": "רְאוּבֵן",
+    "translit": "Reuven",
+    "grammar": "nome próprio",
+    "gloss": "Rúben",
+    "exegetic": "Rúben é primogênito de Jacó e Lia.",
+    "culture": "Sua história envolve primogenitura, perda de posição e memória tribal.",
+    "parallels": [
+      "Gênesis 29:32",
+      "Gênesis 35:22",
+      "Gênesis 49:3"
+    ]
+  },
+  "H8095": {
+    "lemma": "Shimon",
+    "original": "שִׁמְעוֹן",
+    "translit": "Shimon",
+    "grammar": "nome próprio",
+    "gloss": "Simeão",
+    "exegetic": "Simeão é filho de Jacó e Lia e nome de uma das tribos de Israel.",
+    "culture": "Sua narrativa aparece ligada à família de Jacó e ao episódio de Siquém.",
+    "parallels": [
+      "Gênesis 29:33",
+      "Gênesis 34:25",
+      "Gênesis 49:5"
+    ]
+  },
+  "H1835": {
+    "lemma": "Dan",
+    "original": "דָּן",
+    "translit": "Dan",
+    "grammar": "nome próprio",
+    "gloss": "Dã",
+    "exegetic": "Dã é filho de Jacó e Bila e nome de tribo de Israel.",
+    "culture": "O nome se relaciona à ideia de julgar, preservando memória da fala de Raquel.",
+    "parallels": [
+      "Gênesis 30:6",
+      "Gênesis 49:16",
+      "Juízes 18:29"
+    ]
+  },
+  "H5321": {
+    "lemma": "Naphtali",
+    "original": "נַפְתָּלִי",
+    "translit": "Naphtali",
+    "grammar": "nome próprio",
+    "gloss": "Naftali",
+    "exegetic": "Naftali é filho de Jacó e Bila, ligado à formação das tribos.",
+    "culture": "Os nomes dos filhos de Jacó frequentemente carregam memória de conflito, oração e esperança familiar.",
+    "parallels": [
+      "Gênesis 30:8",
+      "Gênesis 35:25",
+      "Gênesis 49:21"
+    ]
+  },
+  "H1410": {
+    "lemma": "Gad",
+    "original": "גָּד",
+    "translit": "Gad",
+    "grammar": "nome próprio",
+    "gloss": "Gade",
+    "exegetic": "Gade é filho de Jacó e Zilpa e ancestral de uma tribo de Israel.",
+    "culture": "O nome se relaciona à ideia de fortuna ou tropa, dentro da dinâmica familiar de Jacó.",
+    "parallels": [
+      "Gênesis 30:11",
+      "Gênesis 35:26",
+      "Gênesis 49:19"
+    ]
+  },
+  "H836": {
+    "lemma": "Asher",
+    "original": "אָשֵׁר",
+    "translit": "Asher",
+    "grammar": "nome próprio",
+    "gloss": "Aser",
+    "exegetic": "Aser é filho de Jacó e Zilpa e nome de uma tribo.",
+    "culture": "O nome se relaciona à felicidade ou bem-aventurança anunciada por Lia.",
+    "parallels": [
+      "Gênesis 30:13",
+      "Gênesis 35:26",
+      "Gênesis 49:20"
+    ]
+  },
+  "H3485": {
+    "lemma": "Yissaskar",
+    "original": "יִשָּׂשכָר",
+    "translit": "Yissaskar",
+    "grammar": "nome próprio",
+    "gloss": "Issacar",
+    "exegetic": "Issacar é filho de Jacó e Lia e ancestral de uma tribo de Israel.",
+    "culture": "Sua história participa da formação familiar das doze tribos.",
+    "parallels": [
+      "Gênesis 30:18",
+      "Gênesis 35:23",
+      "Gênesis 49:14"
+    ]
+  },
+  "H2074": {
+    "lemma": "Zevulun",
+    "original": "זְבֻלוּן",
+    "translit": "Zevulun",
+    "grammar": "nome próprio",
+    "gloss": "Zebulom",
+    "exegetic": "Zebulom é filho de Jacó e Lia e nome tribal.",
+    "culture": "A bênção de Jacó associa Zebulom à linguagem de habitação e região marítima.",
+    "parallels": [
+      "Gênesis 30:20",
+      "Gênesis 35:23",
+      "Gênesis 49:13"
+    ]
+  },
+  "H4179": {
+    "lemma": "Moriyah",
+    "original": "מֹרִיָּה",
+    "translit": "Moriyah",
+    "grammar": "nome próprio",
+    "gloss": "Moriá",
+    "exegetic": "Moriá é a terra associada ao teste de Abraão em Gênesis 22.",
+    "culture": "O lugar ganha importância posterior por sua associação com adoração, entrega e provisão divina.",
+    "parallels": [
+      "Gênesis 22:2",
+      "2 Crônicas 3:1",
+      "Hebreus 11:17"
+    ]
+  },
+  "H2275": {
+    "lemma": "Chevron",
+    "original": "חֶבְרוֹן",
+    "translit": "Chevron",
+    "grammar": "nome próprio",
+    "gloss": "Hebrom",
+    "exegetic": "Hebrom é local importante da vida patriarcal, associado a Abraão, sepulturas familiares e promessa.",
+    "culture": "A cidade se torna lugar de memória ancestral e, depois, cenário da história de Davi.",
+    "parallels": [
+      "Gênesis 13:18",
+      "Gênesis 23:19",
+      "2 Samuel 2:1"
+    ]
+  },
+  "H4375": {
+    "lemma": "Machpelah",
+    "original": "מַכְפֵּלָה",
+    "translit": "Machpelah",
+    "grammar": "nome próprio",
+    "gloss": "Macpela",
+    "exegetic": "Macpela é o campo/caverna comprado por Abraão para sepultura familiar.",
+    "culture": "A compra do terreno em Canaã é sinal concreto da esperança na promessa da terra.",
+    "parallels": [
+      "Gênesis 23:9",
+      "Gênesis 23:19",
+      "Gênesis 49:30"
+    ]
+  },
+  "H7153": {
+    "lemma": "Qiryath-Arba",
+    "original": "קִרְיַת אַרְבַּע",
+    "translit": "Qiryath-Arba",
+    "grammar": "nome próprio",
+    "gloss": "Quiriate-Arba",
+    "exegetic": "Quiriate-Arba é nome antigo associado a Hebrom.",
+    "culture": "O nome preserva memória geográfica anterior dentro da narrativa da terra prometida.",
+    "parallels": [
+      "Gênesis 23:2",
+      "Gênesis 35:27",
+      "Josué 14:15"
+    ]
+  },
+  "H884": {
+    "lemma": "Beer-Sheva",
+    "original": "בְּאֵר שֶׁבַע",
+    "translit": "Beer-Sheva",
+    "grammar": "nome próprio",
+    "gloss": "Berseba",
+    "exegetic": "Berseba é lugar ligado a poços, juramentos e permanência patriarcal.",
+    "culture": "Poços e juramentos em Gênesis mostram sobrevivência, conflito e reconhecimento público.",
+    "parallels": [
+      "Gênesis 21:31",
+      "Gênesis 26:33",
+      "Gênesis 46:1"
+    ]
+  },
+  "H1642": {
+    "lemma": "Gerar",
+    "original": "גְּרָר",
+    "translit": "Gerar",
+    "grammar": "nome próprio",
+    "gloss": "Gerar",
+    "exegetic": "Gerar é região associada a Abraão, Isaque e Abimeleque.",
+    "culture": "As narrativas em Gerar exploram medo, proteção divina e conflitos por poços.",
+    "parallels": [
+      "Gênesis 20:1",
+      "Gênesis 26:1",
+      "Gênesis 26:20"
+    ]
+  },
+  "H1568": {
+    "lemma": "Gilead",
+    "original": "גִּלְעָד",
+    "translit": "Gilead",
+    "grammar": "nome próprio",
+    "gloss": "Gileade",
+    "exegetic": "Gileade é região a leste do Jordão, citada na história de Jacó e Labão.",
+    "culture": "O lugar se torna referência geográfica e memorial em Israel.",
+    "parallels": [
+      "Gênesis 31:21",
+      "Gênesis 31:48",
+      "Jeremias 8:22"
+    ]
+  },
+  "H3383": {
+    "lemma": "Yarden",
+    "original": "יַרְדֵּן",
+    "translit": "Yarden",
+    "grammar": "nome próprio",
+    "gloss": "Jordão",
+    "exegetic": "O Jordão é rio importante como fronteira, passagem e marco da terra.",
+    "culture": "Na história bíblica, atravessar o Jordão torna-se imagem de transição para a promessa.",
+    "parallels": [
+      "Gênesis 13:10",
+      "Josué 3:15",
+      "2 Reis 5:14"
     ]
   }
 });
