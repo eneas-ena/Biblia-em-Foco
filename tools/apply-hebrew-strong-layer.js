@@ -128,12 +128,76 @@ const hebrewLexicon = {
   H3123: ["yonah", "יוֹנָה", "yonah", "substantivo feminino", "pomba", "Pomba aparece como ave, símbolo poético e imagem de fragilidade ou beleza.", "A poesia bíblica usa animais e natureza para expressar afeto e busca.", ["Gênesis 8:8", "Cânticos 2:14", "Oséias 7:11"]],
   H7799: ["shushan", "שׁוּשַׁן", "shushan", "substantivo masculino", "lírio", "Lírio é imagem poética de beleza e delicadeza.", "Cânticos usa flores e jardins para construir linguagem de amor e desejo.", ["Cânticos 2:1", "Cânticos 2:16", "Cânticos 6:3"]],
   H1588: ["gan", "גַּן", "gan", "substantivo masculino", "jardim", "Jardim pode indicar espaço de vida, beleza e comunhão.", "Do Éden a Cânticos, jardim comunica deleite, cuidado e presença.", ["Gênesis 2:8", "Cânticos 4:12", "Isaías 51:3"]],
-  H3124: ["Yoseph", "יוֹסֵף", "Yoseph", "nome próprio", "José", "José é figura de providência, sofrimento e preservação da família da promessa.", "Sua história liga sonho, fidelidade, perdão e salvação em meio à fome.", ["Gênesis 37:3", "Gênesis 50:20", "Êxodo 13:19"]],
+  H3130: ["Yoseph", "יוֹסֵף", "Yoseph", "nome próprio", "José", "José é figura de providência, sofrimento e preservação da família da promessa.", "Sua história liga sonho, fidelidade, perdão e salvação em meio à fome.", ["Gênesis 37:3", "Gênesis 50:20", "Êxodo 13:19"]],
   H3063: ["Yehudah", "יְהוּדָה", "Yehudah", "nome próprio", "Judá", "Judá é filho de Jacó, tribo real e eixo da promessa davídica.", "A bênção de Gênesis 49 liga Judá à linguagem de governo e esperança messiânica.", ["Gênesis 29:35", "Gênesis 49:10", "Rute 4:12"]],
   H1144: ["Binyamin", "בִּנְיָמִין", "Binyamin", "nome próprio", "Benjamim", "Benjamim é filho de Jacó e tribo associada a histórias decisivas de Israel.", "O nome e a tribo aparecem em narrativas de família, guerra e monarquia.", ["Gênesis 35:18", "Juízes 20:12", "1 Samuel 9:1"]],
   H3878: ["Levi", "לֵוִי", "Levi", "nome próprio", "Levi", "Levi é filho de Jacó e ancestral da tribo ligada ao serviço cultual.", "Os levitas ocupam papel central na guarda, ensino e culto de Israel.", ["Gênesis 29:34", "Números 3:6", "Malaquias 2:4"]],
   H669: ["Ephrayim", "אֶפְרַיִם", "Ephrayim", "nome próprio", "Efraim", "Efraim é filho de José e nome importante para o reino do norte.", "Profetas usam Efraim como representação teológica de Israel em infidelidade e esperança.", ["Gênesis 48:19", "Oséias 11:8", "Jeremias 31:20"]],
-  H4519: ["Menashsheh", "מְנַשֶּׁה", "Menashsheh", "nome próprio", "Manassés", "Manassés é filho de José e nome de tribo de Israel.", "A tribo aparece na distribuição da terra e na memória das promessas patriarcais.", ["Gênesis 48:14", "Josué 17:1", "1 Crônicas 5:23"]]
+  H4519: ["Menashsheh", "מְנַשֶּׁה", "Menashsheh", "nome próprio", "Manassés", "Manassés é filho de José e nome de tribo de Israel.", "A tribo aparece na distribuição da terra e na memória das promessas patriarcais.", ["Gênesis 48:14", "Josué 17:1", "1 Crônicas 5:23"]],
+  H8415: ["tehom", "תְּהוֹם", "tehom", "substantivo feminino", "abismo, profundidade", "Em Gênesis 1, abismo descreve a profundidade aquosa antes da ordenação criadora de Deus.", "No imaginário antigo, as águas profundas podiam simbolizar caos; o texto bíblico as coloca sob a soberania do Criador.", ["Gênesis 1:2", "Salmo 42:7", "Jonas 2:5"]],
+  H7549: ["raqia", "רָקִיעַ", "raqia", "substantivo masculino", "expansão, firmamento", "A expansão separa águas e organiza o espaço criado na narrativa de Gênesis.", "A linguagem reflete a forma antiga de descrever o cosmos como mundo ordenado por Deus.", ["Gênesis 1:6", "Gênesis 1:14", "Salmo 19:1"]],
+  H3974: ["maor", "מָאוֹר", "maor", "substantivo masculino", "luminar, fonte de luz", "Luminares governam tempos, sinais, dias e anos dentro da ordem criada por Deus.", "O texto evita divinizar sol e lua; eles são criaturas a serviço do Criador.", ["Gênesis 1:14", "Gênesis 1:16", "Êxodo 25:6"]],
+  H3556: ["kokab", "כּוֹכָב", "kokab", "substantivo masculino", "estrela", "Estrelas aparecem como parte da criação e, em Gênesis, também como imagem da promessa de descendência.", "No mundo antigo, astros eram muitas vezes divinizados; a Bíblia os apresenta como criação de Deus.", ["Gênesis 1:16", "Gênesis 15:5", "Daniel 12:3"]],
+  H6754: ["tselem", "צֶלֶם", "tselem", "substantivo masculino", "imagem", "Imagem de Deus indica vocação humana para representar o Criador na criação.", "No Antigo Oriente, imagem podia se relacionar a representação real; Gênesis amplia essa dignidade ao ser humano.", ["Gênesis 1:26", "Gênesis 9:6", "Salmo 8:5"]],
+  H1823: ["demuth", "דְּמוּת", "demuth", "substantivo feminino", "semelhança", "Semelhança reforça a relação entre Deus e a humanidade criada para refletir sua vontade.", "A expressão imagem e semelhança sustenta dignidade, responsabilidade e missão humana.", ["Gênesis 1:26", "Gênesis 5:1", "Ezequiel 1:5"]],
+  H6509: ["parah", "פָּרָה", "parah", "verbo", "frutificar", "Frutificar expressa bênção criacional, fecundidade e continuidade da vida.", "A bênção de frutificar aparece em criação, família e aliança.", ["Gênesis 1:22", "Gênesis 1:28", "Gênesis 9:1"]],
+  H7235: ["rabah", "רָבָה", "rabah", "verbo", "multiplicar, tornar numeroso", "Multiplicar acompanha a bênção de Deus e a promessa de descendência.", "A multiplicação da vida e da família é sinal de bênção na narrativa patriarcal.", ["Gênesis 1:28", "Gênesis 16:10", "Gênesis 22:17"]],
+  H5175: ["nachash", "נָחָשׁ", "nachash", "substantivo masculino", "serpente", "A serpente em Gênesis 3 é personagem de tentação, distorção da palavra de Deus e ruptura da confiança.", "A serpente se torna símbolo bíblico de engano, perigo e oposição ao propósito de Deus.", ["Gênesis 3:1", "Gênesis 3:15", "Números 21:8"]],
+  H6175: ["arum", "עָרוּם", "arum", "adjetivo", "astuto, prudente", "Em Gênesis 3, astúcia descreve a capacidade da serpente de manipular a palavra e induzir desconfiança.", "A mesma raiz pode ter sentidos positivos ou negativos conforme o contexto sapiencial.", ["Gênesis 3:1", "Provérbios 12:16", "Provérbios 14:15"]],
+  H779: ["arar", "אָרַר", "verbo", "amaldiçoar", "Amaldiçoar é declarar juízo, perda de bênção ou condição de desordem diante de Deus.", "A linguagem de bênção e maldição atravessa aliança, terra e obediência.", ["Gênesis 3:14", "Gênesis 12:3", "Deuteronômio 27:15"]],
+  H5731: ["Eden", "עֵדֶן", "Eden", "nome próprio", "Éden", "Éden é o jardim da origem humana, lugar de vida, provisão e comunhão com Deus.", "O nome evoca deleite e abundância, tornando-se imagem de restauração futura.", ["Gênesis 2:8", "Gênesis 3:24", "Isaías 51:3"]],
+  H7014: ["Qayin", "קַיִן", "Qayin", "nome próprio", "Caim", "Caim é filho de Adão e Eva e figura central na primeira narrativa de violência fraterna.", "Sua história mostra como pecado, inveja e ruptura familiar se expandem após a queda.", ["Gênesis 4:1", "Gênesis 4:8", "Gênesis 4:16"]],
+  H1893: ["Hebel", "הֶבֶל", "Hebel", "nome próprio", "Abel", "Abel é irmão de Caim, lembrado por sua oferta e por seu sangue clamando da terra.", "O nome se relaciona a vapor ou brevidade, ecoando a fragilidade da vida.", ["Gênesis 4:2", "Gênesis 4:10", "Hebreus 11:4"]],
+  H8352: ["Sheth", "שֵׁת", "Sheth", "nome próprio", "Sete", "Sete é apresentado como descendente dado em lugar de Abel, preservando a linhagem de esperança.", "Sua genealogia conduz à história de Noé e à continuidade da humanidade.", ["Gênesis 4:25", "Gênesis 5:3", "Lucas 3:38"]],
+  H583: ["Enosh", "אֱנוֹשׁ", "Enosh", "nome próprio", "Enos", "Enos pertence à linhagem de Sete e aparece ligado ao início da invocação pública do nome do Senhor.", "A genealogia preserva memória teológica, não apenas informação biográfica.", ["Gênesis 4:26", "Gênesis 5:6", "1 Crônicas 1:1"]],
+  H2585: ["Chanok", "חֲנוֹךְ", "Chanok", "nome próprio", "Enoque", "Enoque é lembrado como aquele que andou com Deus e foi tomado por Deus.", "Sua breve nota em Gênesis destaca comunhão com Deus em meio à genealogia marcada pela morte.", ["Gênesis 5:22", "Gênesis 5:24", "Hebreus 11:5"]],
+  H5146: ["Noach", "נֹחַ", "Noach", "nome próprio", "Noé", "Noé é figura de justiça, livramento e recomeço da humanidade após o dilúvio.", "Sua história une juízo, graça, aliança e preservação da vida.", ["Gênesis 6:8", "Gênesis 9:9", "Hebreus 11:7"]],
+  H8392: ["tebah", "תֵּבָה", "tebah", "substantivo feminino", "arca, caixa de preservação", "Em Gênesis, a arca de Noé é instrumento de preservação em meio ao juízo das águas.", "Esta palavra é diferente da arca da aliança; também aparece no cesto de Moisés.", ["Gênesis 6:14", "Gênesis 7:1", "Êxodo 2:3"]],
+  H3315: ["Yepheth", "יֶפֶת", "Yepheth", "nome próprio", "Jafé", "Jafé é filho de Noé e ancestral de povos listados na tábua das nações.", "Gênesis usa genealogias para explicar relações entre povos conhecidos de Israel.", ["Gênesis 5:32", "Gênesis 9:27", "Gênesis 10:2"]],
+  H3667: ["Kena'an", "כְּנַעַן", "Kena'an", "nome próprio", "Canaã", "Canaã é filho de Cam e também nome da terra central nas promessas patriarcais.", "O nome liga genealogia, território, promessa e conflito espiritual na narrativa bíblica.", ["Gênesis 9:25", "Gênesis 12:5", "Êxodo 3:8"]],
+  H894: ["Babel", "בָּבֶל", "Babel", "nome próprio", "Babel, Babilônia", "Babel em Gênesis 11 representa concentração de poder humano e confusão das línguas.", "Mais tarde, Babilônia se torna símbolo de império, orgulho e oposição a Deus.", ["Gênesis 11:9", "Isaías 13:1", "Daniel 1:1"]],
+  H8152: ["Shinar", "שִׁנְעָר", "Shinar", "nome próprio", "Sinar", "Sinar é a planície associada à construção de Babel.", "O local conecta a narrativa das origens à memória posterior da Babilônia.", ["Gênesis 10:10", "Gênesis 11:2", "Daniel 1:2"]],
+  H218: ["Ur", "אוּר", "Ur", "nome próprio", "Ur", "Ur dos caldeus é o ponto de origem da jornada familiar de Abrão.", "A saída de Ur prepara o chamado, a promessa e a peregrinação patriarcal.", ["Gênesis 11:28", "Gênesis 15:7", "Neemias 9:7"]],
+  H2039: ["Haran", "הָרָן", "Haran", "nome próprio", "Harã", "Harã é nome de pessoa e também lugar de parada na jornada da família de Abrão.", "A narrativa patriarcal usa deslocamentos para mostrar chamado, espera e promessa.", ["Gênesis 11:31", "Gênesis 12:4", "Gênesis 27:43"]],
+  H8646: ["Terach", "תֶּרַח", "Terach", "nome próprio", "Terá", "Terá é pai de Abrão, Naor e Harã, ligado à transição para a história patriarcal.", "Sua família marca a passagem das genealogias universais para a promessa abraâmica.", ["Gênesis 11:24", "Gênesis 11:31", "Josué 24:2"]],
+  H87: ["Avram", "אַבְרָם", "Avram", "nome próprio", "Abrão", "Abrão é o nome inicial de Abraão antes da renovação do nome na aliança.", "A mudança de nome em Gênesis 17 expressa vocação ampliada e promessa às nações.", ["Gênesis 12:1", "Gênesis 15:6", "Gênesis 17:5"]],
+  H8297: ["Saray", "שָׂרַי", "Saray", "nome próprio", "Sarai", "Sarai é o nome inicial de Sara antes da promessa explicitada na aliança.", "Sua história passa por esterilidade, espera, promessa e nascimento impossível aos olhos humanos.", ["Gênesis 11:29", "Gênesis 16:1", "Gênesis 17:15"]],
+  H8283: ["Sarah", "שָׂרָה", "Sarah", "nome próprio", "Sara", "Sara é matriarca da promessa e mãe de Isaque.", "A mudança de nome reforça seu lugar na aliança e na promessa de descendência.", ["Gênesis 17:15", "Gênesis 18:12", "Gênesis 21:1"]],
+  H3876: ["Lot", "לוֹט", "Lot", "nome próprio", "Ló", "Ló é sobrinho de Abrão, associado à escolha das campinas do Jordão e ao juízo de Sodoma.", "Sua história contrasta proximidade com a promessa e vulnerabilidade diante de cidades corrompidas.", ["Gênesis 12:5", "Gênesis 13:11", "Gênesis 19:1"]],
+  H5467: ["Sedom", "סְדֹם", "Sedom", "nome próprio", "Sodoma", "Sodoma torna-se símbolo de grave corrupção, violência e juízo divino.", "A cidade aparece na tradição bíblica como advertência moral e social.", ["Gênesis 13:13", "Gênesis 18:20", "Ezequiel 16:49"]],
+  H6017: ["Amorah", "עֲמֹרָה", "Amorah", "nome próprio", "Gomorra", "Gomorra é cidade associada a Sodoma no juízo das cidades da campina.", "Sodoma e Gomorra funcionam juntas como memória de juízo e advertência.", ["Gênesis 14:2", "Gênesis 19:24", "Deuteronômio 29:23"]],
+  H4442: ["Malki-Tsedeq", "מַלְכִּי־צֶדֶק", "Malki-Tsedeq", "nome/título", "Melquisedeque", "Melquisedeque aparece como rei de Salém e sacerdote do Deus Altíssimo.", "Sua figura une realeza, sacerdócio, bênção e tipologia messiânica posterior.", ["Gênesis 14:18", "Salmo 110:4", "Hebreus 7:1"]],
+  H8004: ["Shalem", "שָׁלֵם", "Shalem", "nome próprio", "Salém", "Salém é o reino de Melquisedeque e é tradicionalmente associado a Jerusalém.", "O nome evoca paz e inteireza, conectando realeza e bênção.", ["Gênesis 14:18", "Salmo 76:2", "Hebreus 7:2"]],
+  H1904: ["Hagar", "הָגָר", "Hagar", "nome próprio", "Hagar", "Hagar é serva egípcia de Sarai e mãe de Ismael.", "Sua história destaca conflito familiar, sofrimento, cuidado divino e o Deus que vê.", ["Gênesis 16:1", "Gênesis 16:13", "Gênesis 21:17"]],
+  H3458: ["Yishmael", "יִשְׁמָעֵאל", "Yishmael", "nome próprio", "Ismael", "Ismael é filho de Abraão e Hagar, cujo nome lembra que Deus ouve.", "Sua narrativa mostra tensão familiar e também promessa de cuidado divino.", ["Gênesis 16:11", "Gênesis 17:20", "Gênesis 21:18"]],
+  H4471: ["Mamre", "מַמְרֵא", "Mamre", "nome próprio", "Manre", "Manre é local associado à permanência de Abraão e à visita divina em Gênesis 18.", "Carvalhais, tendas e altares marcam a vida patriarcal como peregrinação diante de Deus.", ["Gênesis 13:18", "Gênesis 18:1", "Gênesis 23:19"]],
+  H7259: ["Rivqah", "רִבְקָה", "Rivqah", "nome próprio", "Rebeca", "Rebeca é matriarca, esposa de Isaque e mãe de Jacó e Esaú.", "Sua história envolve providência, família, conflito entre filhos e continuidade da promessa.", ["Gênesis 24:15", "Gênesis 25:23", "Gênesis 27:13"]],
+  H6215: ["Esav", "עֵשָׂו", "Esav", "nome próprio", "Esaú", "Esaú é filho de Isaque e Rebeca, irmão de Jacó e ancestral de Edom.", "Sua história envolve primogenitura, bênção, conflito familiar e reconciliação.", ["Gênesis 25:25", "Gênesis 27:41", "Gênesis 33:4"]],
+  H123: ["Edom", "אֱדוֹם", "Edom", "nome próprio", "Edom", "Edom é nome ligado a Esaú e ao povo descendente dele.", "A relação entre Jacó e Esaú se projeta nas tensões posteriores entre Israel e Edom.", ["Gênesis 25:30", "Gênesis 36:1", "Obadias 1:1"]],
+  H3837: ["Lavan", "לָבָן", "Lavan", "nome próprio", "Labão", "Labão é irmão de Rebeca e pai de Lia e Raquel, ligado ao ciclo de Jacó.", "Sua narrativa explora trabalho, engano, família e providência.", ["Gênesis 24:29", "Gênesis 29:25", "Gênesis 31:55"]],
+  H3812: ["Leah", "לֵאָה", "Leah", "nome próprio", "Lia", "Lia é esposa de Jacó e mãe de filhos que formam tribos de Israel.", "Sua história mostra dor familiar, competição e graça na formação do povo.", ["Gênesis 29:23", "Gênesis 29:32", "Gênesis 49:31"]],
+  H7354: ["Rachel", "רָחֵל", "Rachel", "nome próprio", "Raquel", "Raquel é esposa amada de Jacó e mãe de José e Benjamim.", "Sua narrativa reúne amor, esterilidade, rivalidade e promessa.", ["Gênesis 29:18", "Gênesis 30:22", "Gênesis 35:18"]],
+  H1783: ["Dinah", "דִּינָה", "Dinah", "nome próprio", "Diná", "Diná é filha de Jacó e Lia, ligada à narrativa dolorosa de Gênesis 34.", "Sua história expõe honra familiar, violência e respostas problemáticas de vingança.", ["Gênesis 30:21", "Gênesis 34:1", "Gênesis 46:15"]],
+  H1008: ["Bethel", "בֵּית־אֵל", "Bethel", "nome próprio", "Betel", "Betel significa casa de Deus e marca experiências decisivas de Jacó.", "O lugar se torna memória de revelação, voto e encontro com Deus.", ["Gênesis 28:19", "Gênesis 35:1", "Amós 4:4"]],
+  H6439: ["Penuel", "פְּנוּאֵל", "Penuel", "nome próprio", "Peniel, Penuel", "Peniel/Penuel é o lugar onde Jacó luta e recebe novo nome.", "O nome lembra a experiência de ver Deus face a face e sair transformado.", ["Gênesis 32:30", "Juízes 8:8", "1 Reis 12:25"]],
+  H6318: ["Potiphar", "פּוֹטִיפַר", "Potiphar", "nome próprio", "Potifar", "Potifar é oficial egípcio a quem José é vendido.", "A casa de Potifar introduz a fidelidade de José em terra estrangeira.", ["Gênesis 37:36", "Gênesis 39:1", "Gênesis 39:20"]],
+  H2526: ["Cham", "חָם", "Cham", "nome próprio", "Cam, Cão", "Cam é filho de Noé e ancestral de povos listados em Gênesis 10.", "A tabela das nações organiza povos antigos em relações de parentesco teológico e geográfico.", ["Gênesis 5:32", "Gênesis 9:22", "Gênesis 10:6"]],
+  H7205: ["Reuven", "רְאוּבֵן", "Reuven", "nome próprio", "Rúben", "Rúben é primogênito de Jacó e Lia.", "Sua história envolve primogenitura, perda de posição e memória tribal.", ["Gênesis 29:32", "Gênesis 35:22", "Gênesis 49:3"]],
+  H8095: ["Shimon", "שִׁמְעוֹן", "Shimon", "nome próprio", "Simeão", "Simeão é filho de Jacó e Lia e nome de uma das tribos de Israel.", "Sua narrativa aparece ligada à família de Jacó e ao episódio de Siquém.", ["Gênesis 29:33", "Gênesis 34:25", "Gênesis 49:5"]],
+  H1835: ["Dan", "דָּן", "Dan", "nome próprio", "Dã", "Dã é filho de Jacó e Bila e nome de tribo de Israel.", "O nome se relaciona à ideia de julgar, preservando memória da fala de Raquel.", ["Gênesis 30:6", "Gênesis 49:16", "Juízes 18:29"]],
+  H5321: ["Naphtali", "נַפְתָּלִי", "Naphtali", "nome próprio", "Naftali", "Naftali é filho de Jacó e Bila, ligado à formação das tribos.", "Os nomes dos filhos de Jacó frequentemente carregam memória de conflito, oração e esperança familiar.", ["Gênesis 30:8", "Gênesis 35:25", "Gênesis 49:21"]],
+  H1410: ["Gad", "גָּד", "Gad", "nome próprio", "Gade", "Gade é filho de Jacó e Zilpa e ancestral de uma tribo de Israel.", "O nome se relaciona à ideia de fortuna ou tropa, dentro da dinâmica familiar de Jacó.", ["Gênesis 30:11", "Gênesis 35:26", "Gênesis 49:19"]],
+  H836: ["Asher", "אָשֵׁר", "Asher", "nome próprio", "Aser", "Aser é filho de Jacó e Zilpa e nome de uma tribo.", "O nome se relaciona à felicidade ou bem-aventurança anunciada por Lia.", ["Gênesis 30:13", "Gênesis 35:26", "Gênesis 49:20"]],
+  H3485: ["Yissaskar", "יִשָּׂשכָר", "Yissaskar", "nome próprio", "Issacar", "Issacar é filho de Jacó e Lia e ancestral de uma tribo de Israel.", "Sua história participa da formação familiar das doze tribos.", ["Gênesis 30:18", "Gênesis 35:23", "Gênesis 49:14"]],
+  H2074: ["Zevulun", "זְבֻלוּן", "Zevulun", "nome próprio", "Zebulom", "Zebulom é filho de Jacó e Lia e nome tribal.", "A bênção de Jacó associa Zebulom à linguagem de habitação e região marítima.", ["Gênesis 30:20", "Gênesis 35:23", "Gênesis 49:13"]],
+  H4179: ["Moriyah", "מֹרִיָּה", "Moriyah", "nome próprio", "Moriá", "Moriá é a terra associada ao teste de Abraão em Gênesis 22.", "O lugar ganha importância posterior por sua associação com adoração, entrega e provisão divina.", ["Gênesis 22:2", "2 Crônicas 3:1", "Hebreus 11:17"]],
+  H2275: ["Chevron", "חֶבְרוֹן", "Chevron", "nome próprio", "Hebrom", "Hebrom é local importante da vida patriarcal, associado a Abraão, sepulturas familiares e promessa.", "A cidade se torna lugar de memória ancestral e, depois, cenário da história de Davi.", ["Gênesis 13:18", "Gênesis 23:19", "2 Samuel 2:1"]],
+  H4375: ["Machpelah", "מַכְפֵּלָה", "Machpelah", "nome próprio", "Macpela", "Macpela é o campo/caverna comprado por Abraão para sepultura familiar.", "A compra do terreno em Canaã é sinal concreto da esperança na promessa da terra.", ["Gênesis 23:9", "Gênesis 23:19", "Gênesis 49:30"]],
+  H7153: ["Qiryath-Arba", "קִרְיַת אַרְבַּע", "Qiryath-Arba", "nome próprio", "Quiriate-Arba", "Quiriate-Arba é nome antigo associado a Hebrom.", "O nome preserva memória geográfica anterior dentro da narrativa da terra prometida.", ["Gênesis 23:2", "Gênesis 35:27", "Josué 14:15"]],
+  H884: ["Beer-Sheva", "בְּאֵר שֶׁבַע", "Beer-Sheva", "nome próprio", "Berseba", "Berseba é lugar ligado a poços, juramentos e permanência patriarcal.", "Poços e juramentos em Gênesis mostram sobrevivência, conflito e reconhecimento público.", ["Gênesis 21:31", "Gênesis 26:33", "Gênesis 46:1"]],
+  H1642: ["Gerar", "גְּרָר", "Gerar", "nome próprio", "Gerar", "Gerar é região associada a Abraão, Isaque e Abimeleque.", "As narrativas em Gerar exploram medo, proteção divina e conflitos por poços.", ["Gênesis 20:1", "Gênesis 26:1", "Gênesis 26:20"]],
+  H1568: ["Gilead", "גִּלְעָד", "Gilead", "nome próprio", "Gileade", "Gileade é região a leste do Jordão, citada na história de Jacó e Labão.", "O lugar se torna referência geográfica e memorial em Israel.", ["Gênesis 31:21", "Gênesis 31:48", "Jeremias 8:22"]],
+  H3383: ["Yarden", "יַרְדֵּן", "Yarden", "nome próprio", "Jordão", "O Jordão é rio importante como fronteira, passagem e marco da terra.", "Na história bíblica, atravessar o Jordão torna-se imagem de transição para a promessa.", ["Gênesis 13:10", "Josué 3:15", "2 Reis 5:14"]]
 };
 
 const wordBank = {
@@ -233,7 +297,7 @@ const wordBank = {
   H4503: ["oferta", "ofertas", "presente", "presentes"],
   H4196: ["altar", "altares"],
   H4908: ["tabernáculo", "tabernaculo", "habitação", "habitacao"],
-  H727: ["arca"],
+  H727: [],
   H3722: ["expiar", "expiação", "expiacao", "perdoar"],
   H7812: ["adorar", "adorou", "prostrou", "prostrar"],
   H5647: ["servir", "serviu", "serve", "serviço", "servico", "cultuar"],
@@ -249,12 +313,89 @@ const wordBank = {
   H3123: ["pomba", "pombas"],
   H7799: ["lírio", "lirio", "lírios", "lirios"],
   H1588: ["jardim", "jardins"],
-  H3124: ["José", "Jose"],
+  H3130: ["José", "Jose"],
   H3063: ["Judá", "Juda"],
   H1144: ["Benjamim"],
   H3878: ["Levi"],
   H669: ["Efraim"],
-  H4519: ["Manassés", "Manasses"]
+  H4519: ["Manassés", "Manasses"],
+  H8415: ["abismo"],
+  H7549: ["expansão", "expansao", "firmamento"],
+  H3974: ["luminar", "luminares"],
+  H3556: ["estrela", "estrelas"],
+  H6754: ["imagem"],
+  H1823: ["semelhança", "semelhanca"],
+  H6509: ["frutificai", "frutificou", "frutificar"],
+  H7235: ["multiplicai", "multiplicar", "multiplicarei", "multiplicou", "multiplicaram"],
+  H5175: ["serpente", "serpentes"],
+  H6175: ["astuta", "astuto", "prudente"],
+  H779: ["amaldiçoada", "amaldicoada", "amaldiçoado", "amaldicoado", "amaldiçoarei", "amaldicoarei", "maldito", "maldita"],
+  H5731: ["Éden", "Eden"],
+  H7014: ["Caim"],
+  H1893: ["Abel"],
+  H8352: ["Sete"],
+  H583: ["Enos"],
+  H2585: ["Enoque"],
+  H5146: ["Noé", "Noe"],
+  H3315: ["Jafé", "Jafe"],
+  H3667: ["Canaã", "Canaa"],
+  H894: ["Babel", "Babilônia", "Babilonia"],
+  H8152: ["Sinar"],
+  H218: ["Ur"],
+  H2039: ["Harã", "Hara"],
+  H8646: ["Terá", "Tera"],
+  H87: ["Abrão", "Abraao"],
+  H8297: ["Sarai"],
+  H8283: ["Sara"],
+  H3876: ["Ló", "Lo"],
+  H5467: ["Sodoma"],
+  H6017: ["Gomorra"],
+  H4442: ["Melquisedeque"],
+  H8004: ["Salém", "Salem"],
+  H1904: ["Hagar", "Agar"],
+  H3458: ["Ismael"],
+  H4471: ["Manre", "Mamre"],
+  H7259: ["Rebeca"],
+  H6215: ["Esaú", "Esau"],
+  H123: ["Edom"],
+  H3837: ["Labão", "Labao"],
+  H3812: ["Lia"],
+  H7354: ["Raquel"],
+  H1783: ["Diná", "Dina"],
+  H1008: ["Betel"],
+  H6439: ["Peniel", "Penuel"],
+  H6318: ["Potifar"],
+  H2526: ["Cão", "Cao"],
+  H7205: ["Rúben", "Ruben"],
+  H8095: ["Simeão", "Simeao"],
+  H1835: ["Dã", "Da"],
+  H5321: ["Naftali"],
+  H1410: ["Gade"],
+  H836: ["Aser"],
+  H3485: ["Issacar"],
+  H2074: ["Zebulom"],
+  H4179: ["Moriá", "Moria"],
+  H2275: ["Hebrom"],
+  H4375: ["Macpela"],
+  H7153: ["Quiriate-Arba", "Quiriate Arba"],
+  H884: ["Berseba", "Beer-Seba", "Beer Seba"],
+  H1642: ["Gerar"],
+  H1568: ["Gileade"],
+  H3383: ["Jordão", "Jordao"]
+};
+
+const bookWordBank = {
+  genesis: {
+    H8392: ["arca"]
+  }
+};
+
+const shortProperWordBank = {
+  genesis: {
+    H3876: ["Ló", "Lo"],
+    H1835: ["Dã"],
+    H1642: ["Gerar"]
+  }
 };
 
 function normalize(value) {
@@ -268,7 +409,7 @@ function escapeRegExp(value) {
   return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
-function findTokens(text) {
+function findTokens(text, bookId) {
   const matches = [];
   const occupied = [];
 
@@ -277,13 +418,32 @@ function findTokens(text) {
   }
 
   const normalizedText = normalize(text);
+  const shortBank = shortProperWordBank[bookId] || {};
 
-  Object.entries(wordBank).forEach(([strong, words]) => {
+  Object.entries(shortBank).forEach(([strong, words]) => {
+    words.forEach(word => {
+      const regex = new RegExp(`(^|[^\\p{L}\\p{N}_])(${escapeRegExp(word)})(?=[^\\p{L}\\p{N}_]|$)`, "gu");
+      let match;
+      while ((match = regex.exec(text))) {
+        const start = match.index + match[1].length;
+        const end = start + match[2].length;
+        if (overlaps(start, end)) continue;
+        const visible = text.slice(start, end);
+        occupied.push({ start, end });
+        matches.push({ start, word: visible, strong });
+      }
+    });
+  });
+
+  const bank = { ...wordBank, ...(bookWordBank[bookId] || {}) };
+
+  Object.entries(bank).forEach(([strong, words]) => {
     words
       .slice()
       .sort((left, right) => right.length - left.length)
       .forEach(word => {
         const normalizedWord = normalize(word);
+        if (normalizedWord.length < 3) return;
         const regex = new RegExp(`(^|[^\\p{L}\\p{N}_])(${escapeRegExp(normalizedWord)})(?=[^\\p{L}\\p{N}_]|$)`, "giu");
         let match;
         while ((match = regex.exec(normalizedText))) {
@@ -317,7 +477,7 @@ for (const id of otIds) {
   const book = readBook(file);
   for (const chapter of book.chapters) {
     for (const verse of chapter.verses) {
-      verse.tokens = findTokens(verse.text);
+      verse.tokens = findTokens(verse.text, id);
       markedWords += verse.tokens.length;
     }
   }
