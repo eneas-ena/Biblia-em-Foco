@@ -1,0 +1,637 @@
+{
+  "G746": [
+    "principio",
+    "comeco",
+    "origem"
+  ],
+  "G3056": [
+    "verbo",
+    "palavra"
+  ],
+  "G2316": [
+    "Deus"
+  ],
+  "G2424": [
+    "Jesus"
+  ],
+  "G5547": [
+    "Cristo"
+  ],
+  "G5207": [
+    "Filho",
+    "filhos"
+  ],
+  "G3962": [
+    "Pai"
+  ],
+  "G4151": [
+    "Espirito"
+  ],
+  "G2222": [
+    "vida"
+  ],
+  "G5457": [
+    "luz"
+  ],
+  "G4653": [
+    "trevas"
+  ],
+  "G2889": [
+    "mundo"
+  ],
+  "G4100": [
+    "crer",
+    "creu",
+    "creram",
+    "cressem",
+    "crerem",
+    "crede",
+    "acrediteis"
+  ],
+  "G3141": [
+    "testemunho"
+  ],
+  "G3140": [
+    "testificar",
+    "testificou",
+    "testificasse"
+  ],
+  "G26": [
+    "amor",
+    "amar",
+    "amou"
+  ],
+  "G5368": [
+    "amo",
+    "amas"
+  ],
+  "G25": [
+    "amar",
+    "amas"
+  ],
+  "G5485": [
+    "graca"
+  ],
+  "G225": [
+    "verdade"
+  ],
+  "G266": [
+    "pecado",
+    "pecados"
+  ],
+  "G2920": [
+    "juizo",
+    "julgar",
+    "julgamento"
+  ],
+  "G4982": [
+    "salvar",
+    "salvacao",
+    "salvo",
+    "salvaria"
+  ],
+  "G386": [
+    "ressurreicao",
+    "ressuscitar",
+    "ressuscitou"
+  ],
+  "G3498": [
+    "morto",
+    "mortos"
+  ],
+  "G2288": [
+    "morte"
+  ],
+  "G3101": [
+    "discipulo",
+    "discipulos"
+  ],
+  "G444": [
+    "homem",
+    "homens",
+    "humanidade"
+  ],
+  "G932": [
+    "reino"
+  ],
+  "G935": [
+    "rei",
+    "reis"
+  ],
+  "G3598": [
+    "caminho"
+  ],
+  "G740": [
+    "pao"
+  ],
+  "G5204": [
+    "agua"
+  ],
+  "G3624": [
+    "casa"
+  ],
+  "G2411": [
+    "templo"
+  ],
+  "G2453": [
+    "judeu",
+    "judeus"
+  ],
+  "G2414": [
+    "Jerusalem"
+  ],
+  "G4091": [
+    "Pilatos"
+  ],
+  "G2976": [
+    "Lazaro"
+  ],
+  "G4074": [
+    "Pedro"
+  ],
+  "G4613": [
+    "Simao"
+  ],
+  "G2381": [
+    "Tome"
+  ],
+  "G3137": [
+    "Maria"
+  ],
+  "G3136": [
+    "Marta"
+  ],
+  "G2098": [
+    "evangelho"
+  ],
+  "G908": [
+    "batismo"
+  ],
+  "G3341": [
+    "arrependimento",
+    "arrependei-vos"
+  ],
+  "G859": [
+    "remissao",
+    "perdao"
+  ],
+  "G2048": [
+    "deserto",
+    "desertos"
+  ],
+  "G4567": [
+    "Satanas"
+  ],
+  "G32": [
+    "anjo",
+    "anjos"
+  ],
+  "G1849": [
+    "autoridade"
+  ],
+  "G4864": [
+    "sinagoga",
+    "sinagogas"
+  ],
+  "G4521": [
+    "sabado"
+  ],
+  "G1321": [
+    "ensinar",
+    "ensinava",
+    "ensinavam",
+    "ensinando"
+  ],
+  "G169": [
+    "imundo",
+    "imundos",
+    "impuro"
+  ],
+  "G1140": [
+    "demonio",
+    "demonios"
+  ],
+  "G2511": [
+    "limpar",
+    "purificar"
+  ],
+  "G2513": [
+    "limpo",
+    "limpa",
+    "puros"
+  ],
+  "G3015": [
+    "leproso"
+  ],
+  "G4697": [
+    "compadecido",
+    "compaixao"
+  ],
+  "G2784": [
+    "pregando",
+    "pregar",
+    "pregaram",
+    "pregava",
+    "proclamar",
+    "pregai",
+    "pregado"
+  ],
+  "G1411": [
+    "poder",
+    "milagre",
+    "milagres"
+  ],
+  "G4102": [
+    "fe",
+    "fidelidade"
+  ],
+  "G2491": [
+    "Joao"
+  ],
+  "G2385": [
+    "Tiago"
+  ],
+  "G406": [
+    "Andre"
+  ],
+  "G2584": [
+    "Cafarnaum"
+  ],
+  "G3478": [
+    "Nazare",
+    "nazareno"
+  ],
+  "G1056": [
+    "Galileia"
+  ],
+  "G2446": [
+    "Jordao"
+  ],
+  "G2268": [
+    "Isaias"
+  ],
+  "G3813": [
+    "crianca",
+    "criancas"
+  ],
+  "G4145": [
+    "rico",
+    "ricos"
+  ],
+  "G2344": [
+    "tesouro"
+  ],
+  "G2574": [
+    "camelo"
+  ],
+  "G4221": [
+    "calice"
+  ],
+  "G5185": [
+    "cego"
+  ],
+  "G924": [
+    "Bartimeu"
+  ],
+  "G3688": [
+    "jumentinho",
+    "jumento"
+  ],
+  "G5614": [
+    "Hosana"
+  ],
+  "G290": [
+    "vinha"
+  ],
+  "G3037": [
+    "pedra",
+    "pedras"
+  ],
+  "G2541": [
+    "Cesar"
+  ],
+  "G1785": [
+    "mandamento",
+    "mandamentos"
+  ],
+  "G5503": [
+    "viuva",
+    "viuvas"
+  ],
+  "G4434": [
+    "pobre",
+    "pobres"
+  ],
+  "G749": [
+    "sacerdote",
+    "sacerdotes",
+    "sumo sacerdote",
+    "sumos sacerdotes",
+    "principais sacerdotes"
+  ],
+  "G1122": [
+    "escriba",
+    "escribas"
+  ],
+  "G106": [
+    "azimos",
+    "azimo"
+  ],
+  "G1242": [
+    "pacto",
+    "alianca",
+    "aliança"
+  ],
+  "G129": [
+    "sangue"
+  ],
+  "G1068": [
+    "Getsemani"
+  ],
+  "G3860": [
+    "entregar",
+    "entregue",
+    "entregou",
+    "entregaram",
+    "entregarão",
+    "entregara"
+  ],
+  "G4892": [
+    "sinedrio"
+  ],
+  "G912": [
+    "Barrabas"
+  ],
+  "G2760": [
+    "centuriao"
+  ],
+  "G4539": [
+    "Salome"
+  ],
+  "G1454": [
+    "ressurreicao"
+  ],
+  "G1453": [
+    "ressuscitou",
+    "ressuscitar",
+    "ressuscitado",
+    "ressurgiu",
+    "ressurgido"
+  ],
+  "G4198": [
+    "ide",
+    "vai",
+    "ir",
+    "foram"
+  ],
+  "G4592": [
+    "sinal",
+    "sinais"
+  ],
+  "G2962": [
+    "Senhor"
+  ],
+  "G2036": [
+    "disse",
+    "dizei"
+  ],
+  "G2064": [
+    "vem",
+    "vir",
+    "veio",
+    "vinde"
+  ],
+  "G1492": [
+    "viu",
+    "ver",
+    "vendo",
+    "vereis"
+  ],
+  "G191": [
+    "ouviram",
+    "ouvir",
+    "ouvira"
+  ],
+  "G5217": [
+    "retirai-vos"
+  ],
+  "G991": [
+    "acautelai-vos",
+    "olhai",
+    "olha"
+  ],
+  "G4105": [
+    "engane",
+    "enganarao",
+    "enganar"
+  ],
+  "G4171": [
+    "guerra",
+    "guerras"
+  ],
+  "G1484": [
+    "nacao",
+    "nacoes"
+  ],
+  "G4578": [
+    "terremoto",
+    "terremotos"
+  ],
+  "G3042": [
+    "fome",
+    "fomes"
+  ],
+  "G5056": [
+    "fim"
+  ],
+  "G5278": [
+    "perseverar"
+  ],
+  "G946": [
+    "abominacao"
+  ],
+  "G2049": [
+    "desolacao"
+  ],
+  "G2347": [
+    "tribulacao"
+  ],
+  "G1588": [
+    "eleito",
+    "eleitos",
+    "escolhidos"
+  ],
+  "G5580": [
+    "falsos cristos"
+  ],
+  "G5578": [
+    "falsos profetas"
+  ],
+  "G1127": [
+    "vigiai",
+    "vigiasse"
+  ],
+  "G2540": [
+    "tempo"
+  ],
+  "G3495": [
+    "moco"
+  ],
+  "G1188": [
+    "direita"
+  ],
+  "G5399": [
+    "temiam",
+    "atemorizeis",
+    "atemorizadas"
+  ],
+  "G570": [
+    "incredulidade"
+  ],
+  "G2937": [
+    "criatura"
+  ],
+  "G1100": [
+    "lingua",
+    "linguas",
+    "língua",
+    "línguas",
+    "idioma",
+    "idiomas"
+  ],
+  "G652": [
+    "apostolo",
+    "apostolos",
+    "apóstolo",
+    "apóstolos"
+  ],
+  "G1577": [
+    "igreja",
+    "igrejas",
+    "assembleia",
+    "assembleias"
+  ],
+  "G40": [
+    "santo",
+    "santos",
+    "santa",
+    "santas",
+    "santidade"
+  ],
+  "G1680": [
+    "esperanca",
+    "esperança",
+    "esperancas",
+    "esperanças"
+  ],
+  "G1343": [
+    "justica",
+    "justiça",
+    "retidao",
+    "retidão"
+  ],
+  "G3551": [
+    "lei",
+    "leis"
+  ],
+  "G4561": [
+    "carne",
+    "carnal",
+    "carnais"
+  ],
+  "G4716": [
+    "cruz",
+    "crucificado",
+    "crucificados"
+  ],
+  "G2409": [
+    "sacerdote",
+    "sacerdotes"
+  ],
+  "G2362": [
+    "trono",
+    "tronos"
+  ],
+  "G721": [
+    "cordeiro"
+  ],
+  "G2342": [
+    "besta",
+    "feras",
+    "fera"
+  ],
+  "G1404": [
+    "dragao",
+    "dragão"
+  ],
+  "G5281": [
+    "perseveranca",
+    "perseverança",
+    "paciencia",
+    "paciência"
+  ],
+  "G4678": [
+    "sabedoria",
+    "sabio",
+    "sábio",
+    "sabios",
+    "sábios"
+  ],
+  "G5486": [
+    "dom",
+    "dons"
+  ],
+  "G4394": [
+    "profecia",
+    "profecias"
+  ],
+  "G3466": [
+    "misterio",
+    "mistério",
+    "misterios",
+    "mistérios"
+  ],
+  "G4991": [
+    "salvacao",
+    "salvação"
+  ],
+  "G1515": [
+    "paz"
+  ],
+  "G3972": [
+    "Paulo"
+  ],
+  "G4569": [
+    "Saulo"
+  ],
+  "G921": [
+    "Barnabe",
+    "Barnabé"
+  ],
+  "G4736": [
+    "Estevao",
+    "Estêvão"
+  ],
+  "G5095": [
+    "Timoteo",
+    "Timóteo"
+  ],
+  "G5103": [
+    "Tito"
+  ],
+  "G5371": [
+    "Filemom",
+    "Filemon"
+  ],
+  "G3682": [
+    "Onesimo",
+    "Onésimo"
+  ],
+  "G2181": [
+    "Efeso",
+    "Éfeso"
+  ],
+  "G4516": [
+    "Roma"
+  ]
+}
