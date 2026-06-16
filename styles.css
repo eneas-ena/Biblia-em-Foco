@@ -1346,17 +1346,16 @@
         overflow: hidden;
       }
 
-      /* In study mode the mobile drawer must show only the Strong/study card.
-         This prevents Notes, Favorites or Meu estudo from occupying the top. */
-      body.mobile-study-open.mobile-study-has-card .side > :not(#mobileStudyBack):not(#studyCard) {
-        display: none !important;
-      }
-
+      /* In study mode the study card goes first; other panels (notas, favoritos,
+         meu estudo, etc.) continue visible below it. */
       body.mobile-study-open.mobile-study-has-card .side #studyCard {
         display: block !important;
         visibility: visible !important;
         opacity: 1 !important;
         order: -1;
+      }
+      body.mobile-study-open.mobile-study-has-card .side > #mobileStudyBack {
+        order: -2;
       }
 
       body.mobile-study-open:not(.mobile-study-has-card) .side #studyCard {
