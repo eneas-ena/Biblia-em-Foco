@@ -2237,6 +2237,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
     function initPwaOfflineStatus() {
       if (!("serviceWorker" in navigator) || !window.location.protocol.startsWith("http")) return;
+      let refreshing = false;
 
       const notifyOfflineState = () => {
         if (!navigator.onLine) {
@@ -2251,11 +2252,18 @@ Object.assign(appData.lexicon, loadCustomLexicon());
           if (!worker) return;
           worker.addEventListener("statechange", () => {
             if (worker.state === "installed" && navigator.serviceWorker.controller) {
+              worker.postMessage({ type: "SKIP_WAITING" });
               showToast("App atualizado para uso offline.");
             }
           });
         });
       }).catch(() => {});
+
+      navigator.serviceWorker.addEventListener("controllerchange", () => {
+        if (refreshing) return;
+        refreshing = true;
+        window.location.reload();
+      });
 
       window.addEventListener("online", () => showToast("Conexão restaurada."));
       window.addEventListener("offline", () => showToast("Modo offline ativo."));

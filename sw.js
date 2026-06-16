@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-em-foco-pwa-offline-cardfix4-v1";
+const CACHE_NAME = "biblia-em-foco-pwa-offline-cardfix5-v1";
 const OFFLINE_URL = "./index.html";
 const ASSETS = [
   "./",
@@ -110,6 +110,7 @@ self.addEventListener("fetch", event => {
   if (event.request.method !== "GET") return;
   const requestUrl = new URL(event.request.url);
   if (requestUrl.origin !== self.location.origin) return;
+  const isVersionedAsset = requestUrl.searchParams.has("v");
 
   if (event.request.mode === "navigate" || event.request.destination === "document") {
     event.respondWith(
@@ -124,6 +125,21 @@ self.addEventListener("fetch", event => {
         })
         .catch(() => caches.match(event.request, { ignoreSearch: true })
           .then(cached => cached || caches.match(OFFLINE_URL)))
+    );
+    return;
+  }
+
+  if (isVersionedAsset) {
+    event.respondWith(
+      fetch(event.request)
+        .then(response => {
+          if (!response || response.status !== 200) return response;
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then(cache => cache.put(event.request, copy));
+          return response;
+        })
+        .catch(() => caches.match(event.request)
+          .then(cached => cached || caches.match(event.request, { ignoreSearch: true })))
     );
     return;
   }
