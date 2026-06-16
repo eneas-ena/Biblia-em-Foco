@@ -38,6 +38,7 @@ const state = {
       mobileStudyBack: document.getElementById("mobileStudyBack"),
       mobileStudyScreen: document.getElementById("mobileStudyScreen"),
       mobileScreenBack: document.getElementById("mobileScreenBack"),
+      mobileStudyCard: document.getElementById("mobileStudyCard"),
       mobileStudyContent: document.getElementById("mobileStudyContent"),
       themeToggle: document.getElementById("themeToggle"),
       fontSizeToggle: document.getElementById("fontSizeToggle"),
@@ -151,12 +152,23 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
     function getSidePanelNodes() {
       if (!els.side) return [];
-      return Array.from(els.side.children).filter(node => node !== els.mobileStudyBack);
+      return Array.from(els.side.children).filter(node => node !== els.mobileStudyBack && node !== els.studyCard);
+    }
+
+    function renderMobileStudyCard() {
+      if (!els.mobileStudyCard) return;
+      if (!state.selected) {
+        els.mobileStudyCard.hidden = true;
+        els.mobileStudyCard.innerHTML = "";
+        return;
+      }
+      els.mobileStudyCard.hidden = false;
+      renderStudyCard(els.mobileStudyCard);
     }
 
     function mountMobileStudyScreen(mode = "study") {
-      if (!isMobileReader() || !els.mobileStudyScreen || !els.mobileStudyContent || !els.studyCard) return false;
-      if (mode === "study" && state.selected && !els.studyCard.querySelector(".card-header")) {
+      if (!isMobileReader() || !els.mobileStudyScreen || !els.mobileStudyContent || !els.studyCard || !els.mobileStudyCard) return false;
+      if (mode === "study" && state.selected) {
         renderStudyCard();
       }
       if (!mobilePanel.nodes.length) {
@@ -179,12 +191,10 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       });
 
       if (mode === "study") {
-        els.studyCard.hidden = false;
-        els.studyCard.style.display = "block";
-        els.studyCard.style.order = "-1";
-        els.mobileStudyContent.prepend(els.studyCard);
+        renderMobileStudyCard();
       } else {
-        els.studyCard.style.display = "none";
+        els.mobileStudyCard.hidden = true;
+        els.mobileStudyCard.innerHTML = "";
       }
 
       els.mobileStudyContent.scrollTop = 0;
@@ -207,6 +217,10 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         node.style.overflow = "";
         els.side.appendChild(node);
       });
+      if (els.mobileStudyCard) {
+        els.mobileStudyCard.hidden = true;
+        els.mobileStudyCard.innerHTML = "";
+      }
       els.mobileStudyScreen.hidden = true;
       els.mobileStudyScreen.setAttribute("aria-hidden", "true");
       delete els.mobileStudyScreen.dataset.panelMode;
@@ -999,14 +1013,14 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       });
     }
 
-    function renderStudyCard() {
+    function renderStudyCard(target = els.studyCard) {
       if (!state.selected) return;
       const entry = getLexiconEntry(state.selected.strong);
       const occurrences = findOccurrences(state.selected.strong);
       const occurrenceSummary = buildOccurrenceSummary(occurrences);
       const prompt = buildAiPrompt(entry, occurrences);
 
-      els.studyCard.innerHTML = `
+      target.innerHTML = `
         <div class="card-header">
           <span class="label">Strong ${state.selected.strong}</span>
           <h3>${escapeHtml(state.selected.word)}</h3>
@@ -1067,36 +1081,43 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         </div>
       `;
 
-      document.querySelectorAll(".tab").forEach(button => {
+      bindStudyCardControls(target, prompt);
+    }
+
+    function bindStudyCardControls(target, prompt) {
+      target.querySelectorAll(".tab").forEach(button => {
         button.addEventListener("click", () => {
           state.tab = button.dataset.tab;
           renderStudyCard();
+          if (document.body.classList.contains("mobile-study-screen-open")) {
+            renderMobileStudyCard();
+          }
         });
       });
 
-      const copyPrompt = document.getElementById("copyPrompt");
+      const copyPrompt = target.querySelector("#copyPrompt");
       if (copyPrompt) {
         copyPrompt.addEventListener("click", async () => {
-          await navigator.clipboard.writeText(document.getElementById("aiPrompt").value);
+          await navigator.clipboard.writeText(target.querySelector("#aiPrompt").value);
           showToast("Prompt copiado.");
         });
       }
 
-      const saveAiNote = document.getElementById("saveAiNote");
+      const saveAiNote = target.querySelector("#saveAiNote");
       if (saveAiNote) {
         saveAiNote.addEventListener("click", () => {
-          const response = document.getElementById("aiResponse").textContent.trim();
-          els.noteText.value = response || document.getElementById("aiPrompt").value;
+          const response = target.querySelector("#aiResponse").textContent.trim();
+          els.noteText.value = response || target.querySelector("#aiPrompt").value;
           showToast(response ? "Resposta colocada na nota." : "Prompt colocado na nota.");
         });
       }
 
-      const runAi = document.getElementById("runAi");
+      const runAi = target.querySelector("#runAi");
       if (runAi) {
-        runAi.addEventListener("click", () => runAiAnalysis(prompt));
+        runAi.addEventListener("click", () => runAiAnalysis(prompt, target));
       }
 
-      document.querySelectorAll(".occurrence-item").forEach(button => {
+      target.querySelectorAll(".occurrence-item").forEach(button => {
         button.addEventListener("click", () => openStrongOccurrence(
           button.dataset.book,
           Number(button.dataset.chapter),
@@ -1105,10 +1126,10 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         ));
       });
 
-      const toggleAiResponse = document.getElementById("toggleAiResponse");
+      const toggleAiResponse = target.querySelector("#toggleAiResponse");
       if (toggleAiResponse) {
         toggleAiResponse.addEventListener("click", () => {
-          const responseBox = document.getElementById("aiResponse");
+          const responseBox = target.querySelector("#aiResponse");
           responseBox.classList.toggle("collapsed");
           toggleAiResponse.textContent = responseBox.classList.contains("collapsed") ? "Expandir" : "Minimizar";
         });
@@ -1227,9 +1248,9 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       return localStorage.getItem(aiResultKey()) || "";
     }
 
-    async function runAiAnalysis(prompt) {
-      const responseBox = document.getElementById("aiResponse");
-      const runButton = document.getElementById("runAi");
+    async function runAiAnalysis(prompt, target = document) {
+      const responseBox = target.querySelector("#aiResponse");
+      const runButton = target.querySelector("#runAi");
       const settings = loadAiSettings();
       const isLocal = /^https?:\/\/(127\.0\.0\.1|localhost|\[::1\])/i.test(settings.endpoint || "");
 
@@ -1279,6 +1300,9 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         responseBox.innerHTML = renderMarkdown(text);
         localStorage.setItem(aiResultKey(), text);
         renderMyStudy();
+        if (document.body.classList.contains("mobile-study-screen-open")) {
+          renderMobileStudyCard();
+        }
         showToast("Analise concluída.");
       } catch (error) {
         responseBox.textContent = `Não foi possível chamar a IA.\n\n${error.message}`;

@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-em-foco-mobile-study-screen-a11y-v1";
+const CACHE_NAME = "biblia-em-foco-mobile-card-own-v1";
 const OFFLINE_URL = "./index.html";
 const ASSETS = [
   "./",

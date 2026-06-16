@@ -1308,6 +1308,30 @@
         -webkit-overflow-scrolling: touch;
       }
 
+      .mobile-study-card {
+        display: block;
+        overflow: hidden;
+      }
+
+      .mobile-study-card[hidden] {
+        display: none !important;
+      }
+
+      .mobile-study-card .card-header {
+        padding: 14px 16px;
+      }
+
+      .mobile-study-card .card-header h3 {
+        font-size: 22px;
+      }
+
+      .mobile-study-card .occurrence-list {
+        max-height: 42vh;
+        overflow: auto;
+        padding-right: 2px;
+        -webkit-overflow-scrolling: touch;
+      }
+
       .mobile-study-back {
         position: sticky;
         top: 0;
