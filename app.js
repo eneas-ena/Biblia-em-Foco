@@ -19,7 +19,6 @@ const state = {
       chapterSelect: document.getElementById("chapterSelect"),
       verses: document.getElementById("verses"),
       chapterTitle: document.getElementById("chapterTitle"),
-      sourceNote: document.getElementById("sourceNote"),
       studyCard: document.getElementById("studyCard"),
       noteText: document.getElementById("noteText"),
       noteHint: document.getElementById("noteHint"),
@@ -143,7 +142,6 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       els.bookSelect.innerHTML = appData.books.map(book => `<option value="${book.id}">${book.name}</option>`).join("");
       els.bookSelect.value = state.bookId;
       updateChapterSelect();
-      els.sourceNote.textContent = appData.source;
     }
 
     function updateChapterSelect() {
