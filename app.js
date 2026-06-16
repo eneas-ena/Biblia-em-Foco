@@ -166,7 +166,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       document.body.classList.add("mobile-study-screen-open");
       document.body.classList.toggle("mobile-study-has-card", mode === "study");
       els.mobileStudyScreen.hidden = false;
-      els.mobileStudyScreen.setAttribute("aria-hidden", "false");
+      els.mobileStudyScreen.removeAttribute("aria-hidden");
       els.mobileStudyScreen.dataset.panelMode = mode;
 
       mobilePanel.nodes.forEach(node => {
@@ -188,11 +188,17 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       }
 
       els.mobileStudyContent.scrollTop = 0;
+      window.requestAnimationFrame(() => {
+        els.mobileScreenBack?.focus({ preventScroll: true });
+      });
       return true;
     }
 
     function unmountMobileStudyScreen() {
       if (!els.mobileStudyScreen || !els.side || !mobilePanel.nodes.length) return;
+      if (els.mobileStudyScreen.contains(document.activeElement)) {
+        document.activeElement.blur();
+      }
       mobilePanel.nodes.forEach(node => {
         node.style.display = "";
         node.style.order = "";
