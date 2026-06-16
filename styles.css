@@ -15,6 +15,8 @@
       --mark: #276a63;
       --mark-strong: #174f56;
       --mark-active: #a96f1f;
+      --mark-name: #8a5f1c;
+      --mark-name-strong: #6f4610;
       --gold: #a96f1f;
       --gold-soft: #f1e4d1;
       --green: #2f684c;
@@ -40,6 +42,8 @@
       --mark: #8fb28a;
       --mark-strong: #f4f1ea;
       --mark-active: #d8b46c;
+      --mark-name: #d8b46c;
+      --mark-name-strong: #f6dfaa;
       --gold: #d8b46c;
       --gold-soft: rgba(216, 180, 108, .16);
       --green: #9bcf9a;
@@ -149,6 +153,13 @@
       max-width: 360px;
       color: #45666a;
       font-size: 18px;
+      line-height: 1.45;
+    }
+
+    .home-content .home-credit {
+      max-width: 420px;
+      color: rgba(69, 102, 106, .78);
+      font-size: 12px;
       line-height: 1.45;
     }
 
@@ -390,6 +401,16 @@
       background: transparent;
       border-bottom-color: var(--mark-active);
       text-shadow: 0 0 18px color-mix(in srgb, var(--gold) 18%, transparent);
+    }
+
+    .token-name {
+      color: var(--mark-name);
+      border-bottom-color: color-mix(in srgb, var(--mark-name) 34%, transparent);
+    }
+
+    .token-name:hover, .token-name.active {
+      color: var(--mark-name-strong);
+      border-bottom-color: var(--mark-active);
     }
 
     .personal-token {
