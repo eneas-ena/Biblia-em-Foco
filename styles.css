@@ -1329,10 +1329,10 @@
       body.mobile-study-has-card .study-card {
         display: block;
         order: -1;
-        max-height: min(58vh, 520px);
+        height: auto;
+        max-height: none;
         min-height: 0;
-        overflow: auto;
-        -webkit-overflow-scrolling: touch;
+        overflow: hidden;
       }
 
       .study-card .card-header {
@@ -1349,6 +1349,13 @@
 
       .study-card .assistant-panel .ai-response:empty {
         display: none;
+      }
+
+      .study-card .occurrence-list {
+        max-height: 42vh;
+        overflow: auto;
+        padding-right: 2px;
+        -webkit-overflow-scrolling: touch;
       }
 
       .tab-panel {
