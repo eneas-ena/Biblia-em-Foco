@@ -171,6 +171,17 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         startY = touch.clientY;
       }, { passive: true });
 
+      els.side?.addEventListener("touchmove", event => {
+        if (startX === null || startY === null || !document.body.classList.contains("mobile-study-open")) return;
+        const touch = event.touches[0];
+        const deltaX = Math.max(0, touch.clientX - startX);
+        const deltaY = touch.clientY - startY;
+
+        if (deltaX > 12 && Math.abs(deltaX) > Math.abs(deltaY) * 1.15) {
+          els.side.style.setProperty("--mobile-panel-shift", `${Math.min(deltaX, 130)}px`);
+        }
+      }, { passive: true });
+
       els.side?.addEventListener("touchend", event => {
         if (startX === null || startY === null) return;
         const touch = event.changedTouches[0];
@@ -178,10 +189,17 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         const deltaY = touch.clientY - startY;
         startX = null;
         startY = null;
+        els.side?.style.removeProperty("--mobile-panel-shift");
 
-        if (document.body.classList.contains("mobile-study-open") && deltaX > 70 && Math.abs(deltaX) > Math.abs(deltaY) * 1.3) {
+        if (document.body.classList.contains("mobile-study-open") && deltaX > 62 && Math.abs(deltaX) > Math.abs(deltaY) * 1.15) {
           closeMobileStudyPanel();
         }
+      }, { passive: true });
+
+      els.side?.addEventListener("touchcancel", () => {
+        startX = null;
+        startY = null;
+        els.side?.style.removeProperty("--mobile-panel-shift");
       }, { passive: true });
 
       document.addEventListener("keydown", event => {
