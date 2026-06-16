@@ -148,6 +148,17 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       if (mode === "study" && state.selected && !els.studyCard.querySelector(".card-header")) {
         renderStudyCard();
       }
+      if (window.matchMedia("(max-width: 560px)").matches && els.side && els.studyCard) {
+        if (mode === "study") {
+          els.studyCard.hidden = false;
+          els.studyCard.style.display = "block";
+          els.studyCard.style.order = "-1";
+          els.studyCard.style.visibility = "visible";
+          els.mobileStudyBack?.after(els.studyCard);
+        } else {
+          els.studyCard.style.display = "none";
+        }
+      }
       const resetScroll = () => {
         if (!els.side) return;
         els.side.scrollTop = 0;
@@ -164,6 +175,11 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       document.body.classList.remove("mobile-study-open");
       document.body.classList.remove("mobile-study-has-card");
       if (els.side) delete els.side.dataset.panelMode;
+      if (els.studyCard) {
+        els.studyCard.style.display = "";
+        els.studyCard.style.order = "";
+        els.studyCard.style.visibility = "";
+      }
     }
 
     function bindMobileStudyGestures() {
