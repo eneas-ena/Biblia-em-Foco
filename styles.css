@@ -436,6 +436,10 @@
       top: 86px;
     }
 
+    .mobile-study-back {
+      display: none;
+    }
+
     .empty-state {
       min-height: 260px;
       padding: 24px;
@@ -1124,6 +1128,10 @@
     }
 
     @media (max-width: 560px) {
+      body.mobile-study-open {
+        overflow: hidden;
+      }
+
       .home-media {
         background:
           linear-gradient(180deg, rgba(255, 253, 248, .90), rgba(255, 253, 248, .62)),
@@ -1146,6 +1154,52 @@
 
       .reader {
         padding: 18px;
+        transition: transform .28s ease, opacity .28s ease;
+      }
+
+      body.mobile-study-open .reader {
+        transform: translateX(-22%);
+        opacity: .28;
+        pointer-events: none;
+      }
+
+      .side {
+        position: fixed;
+        inset: 0;
+        z-index: 40;
+        overflow: auto;
+        overscroll-behavior: contain;
+        padding: 12px;
+        background:
+          linear-gradient(180deg, rgba(34, 91, 96, .10), rgba(247, 245, 239, 0) 220px),
+          var(--bg);
+        transform: translateX(100%);
+        transition: transform .28s ease;
+        align-content: start;
+      }
+
+      :root[data-theme="dark"] .side {
+        background:
+          linear-gradient(180deg, rgba(112, 168, 154, .12), rgba(8, 13, 12, 0) 220px),
+          var(--bg);
+      }
+
+      body.mobile-study-open .side {
+        transform: translateX(0);
+      }
+
+      .mobile-study-back {
+        position: sticky;
+        top: 0;
+        z-index: 2;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        justify-self: start;
+        min-height: 38px;
+        padding: 0 13px;
+        background: var(--paper);
+        box-shadow: var(--shadow);
       }
 
       .topbar-inner {
