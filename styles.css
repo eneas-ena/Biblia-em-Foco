@@ -1192,6 +1192,7 @@
         position: sticky;
         top: 0;
         z-index: 2;
+        order: -2;
         display: inline-flex;
         align-items: center;
         justify-content: center;
@@ -1200,6 +1201,16 @@
         padding: 0 13px;
         background: var(--paper);
         box-shadow: var(--shadow);
+      }
+
+      body.mobile-study-has-card .study-card {
+        display: block;
+        order: -1;
+        min-height: 220px;
+      }
+
+      body.mobile-study-has-card .study-card .card-header {
+        display: block;
       }
 
       .topbar-inner {
