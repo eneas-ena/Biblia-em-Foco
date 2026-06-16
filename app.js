@@ -191,7 +191,8 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
         const visibleWord = verse.text.slice(range.start, range.end);
         const personalClass = range.token.personal ? " personal-token" : "";
-        pieces.push(`<span class="token${personalClass}" data-verse="${verse.n}" data-strong="${escapeHtml(range.token.strong)}" data-word="${escapeHtml(range.token.word)}" tabindex="0" role="button" title="Strong ${escapeHtml(range.token.strong)}">${escapeHtml(visibleWord)}</span>`);
+        const semanticClass = getTokenSemanticClass(range.token.strong);
+        pieces.push(`<span class="token${personalClass}${semanticClass}" data-verse="${verse.n}" data-strong="${escapeHtml(range.token.strong)}" data-word="${escapeHtml(range.token.word)}" tabindex="0" role="button" title="Strong ${escapeHtml(range.token.strong)}">${escapeHtml(visibleWord)}</span>`);
         cursor = range.end;
       });
 
@@ -200,6 +201,16 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       }
 
       return pieces.join("");
+    }
+
+    function getTokenSemanticClass(strong) {
+      const entry = getLexiconEntry(strong);
+      if (!entry) return "";
+      const text = `${entry.grammar || ""} ${entry.gloss || ""}`.toLowerCase();
+      if (text.includes("nome próprio") || text.includes("nome divino") || text.includes("cidade") || text.includes("lugar") || text.includes("gentílico")) {
+        return " token-name";
+      }
+      return "";
     }
 
     function buildTokenRanges(text, tokens) {
