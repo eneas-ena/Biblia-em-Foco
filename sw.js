@@ -1,10 +1,18 @@
-const CACHE_NAME = "biblia-em-foco-mobile-strong-modal-v1";
+const CACHE_NAME = "biblia-em-foco-mobile-drawer-v4";
 const OFFLINE_URL = "./index.html";
+const CORE_ASSETS = new Set([
+  "./",
+  "./index.html",
+  "./styles.css",
+  "./app.js",
+  "./sw.js"
+]);
 const ASSETS = [
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
+  "./sw.js",
   "./manifest.webmanifest",
   "./assets/icon.png",
   "./assets/icon-192.png",
@@ -106,53 +114,55 @@ self.addEventListener("message", event => {
   }
 });
 
+function normalizePath(url) {
+  let path = url.pathname.split("/").pop() || "";
+  if (!path) return "./";
+  return "./" + path;
+}
+
+function isCoreAsset(requestUrl) {
+  if (requestUrl.pathname.endsWith("/")) return true;
+  return CORE_ASSETS.has(normalizePath(requestUrl));
+}
+
+function networkFirst(request) {
+  return fetch(new Request(request, { cache: "reload" }))
+    .then(response => {
+      if (!response || response.status !== 200) return response;
+      const copy = response.clone();
+      caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
+      return response;
+    })
+    .catch(() => caches.match(request, { ignoreSearch: true })
+      .then(cached => cached || caches.match(OFFLINE_URL)));
+}
+
+function cacheFirstThenUpdate(request) {
+  return caches.match(request, { ignoreSearch: true }).then(cached => {
+    const networkFetch = fetch(request).then(response => {
+      if (!response || response.status !== 200) return response;
+      const copy = response.clone();
+      caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
+      return response;
+    }).catch(() => cached);
+    return cached || networkFetch;
+  });
+}
+
 self.addEventListener("fetch", event => {
   if (event.request.method !== "GET") return;
   const requestUrl = new URL(event.request.url);
   if (requestUrl.origin !== self.location.origin) return;
-  const isVersionedAsset = requestUrl.searchParams.has("v");
 
-  if (event.request.mode === "navigate" || event.request.destination === "document") {
-    event.respondWith(
-      fetch(event.request)
-        .then(response => {
-          const copy = response.clone();
-          caches.open(CACHE_NAME).then(cache => {
-            cache.put(event.request, copy.clone());
-            cache.put(OFFLINE_URL, copy);
-          });
-          return response;
-        })
-        .catch(() => caches.match(event.request, { ignoreSearch: true })
-          .then(cached => cached || caches.match(OFFLINE_URL)))
-    );
+  if (
+    event.request.mode === "navigate" ||
+    event.request.destination === "document" ||
+    isCoreAsset(requestUrl) ||
+    requestUrl.searchParams.has("v")
+  ) {
+    event.respondWith(networkFirst(event.request));
     return;
   }
 
-  if (isVersionedAsset) {
-    event.respondWith(
-      fetch(event.request)
-        .then(response => {
-          if (!response || response.status !== 200) return response;
-          const copy = response.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put(event.request, copy));
-          return response;
-        })
-        .catch(() => caches.match(event.request)
-          .then(cached => cached || caches.match(event.request, { ignoreSearch: true })))
-    );
-    return;
-  }
-
-  event.respondWith(
-    caches.match(event.request, { ignoreSearch: true }).then(cached => {
-      const networkFetch = fetch(event.request).then(response => {
-        if (!response || response.status !== 200) return response;
-        const copy = response.clone();
-        caches.open(CACHE_NAME).then(cache => cache.put(event.request, copy));
-        return response;
-      });
-      return cached || networkFetch;
-    })
-  );
+  event.respondWith(cacheFirstThenUpdate(event.request));
 });
