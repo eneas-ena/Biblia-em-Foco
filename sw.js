@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-em-foco-painel-strong-cor-v1";
+const CACHE_NAME = "biblia-em-foco-card-strong-mobile-v1";
 const ASSETS = [
   "./",
   "./index.html",
