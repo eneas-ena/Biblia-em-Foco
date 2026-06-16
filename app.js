@@ -142,6 +142,9 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
     function openMobileStudyPanel() {
       document.body.classList.add("mobile-study-open");
+      requestAnimationFrame(() => {
+        if (els.side) els.side.scrollTop = 0;
+      });
     }
 
     function closeMobileStudyPanel() {
@@ -244,8 +247,16 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     function getTokenSemanticClass(strong) {
       const entry = getLexiconEntry(strong);
       if (!entry) return "";
-      const text = `${entry.grammar || ""} ${entry.gloss || ""}`.toLowerCase();
-      if (text.includes("nome próprio") || text.includes("nome divino") || text.includes("cidade") || text.includes("lugar") || text.includes("gentílico")) {
+      const normalizedStrong = String(strong || "").toUpperCase();
+      const grammar = normalizeText(entry.grammar || "");
+      const properStrong = new Set(["G4567", "H7854"]);
+      if (
+        grammar.includes("nome proprio") ||
+        grammar.includes("nome divino") ||
+        grammar.includes("nome/titulo") ||
+        grammar.includes("gentilico") ||
+        properStrong.has(normalizedStrong)
+      ) {
         return " token-name";
       }
       return "";
