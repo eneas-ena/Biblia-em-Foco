@@ -1268,11 +1268,6 @@
         transform: translateX(var(--mobile-panel-shift, 0px));
       }
 
-      body.mobile-study-has-card .side > :not(.mobile-study-back):not(.study-card),
-      .side[data-panel-mode="study"] > :not(.mobile-study-back):not(.study-card) {
-        display: none;
-      }
-
       .mobile-study-back {
         position: sticky;
         top: 0;
