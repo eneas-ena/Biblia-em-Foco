@@ -61,7 +61,6 @@ const state = {
       addTheme: document.getElementById("addTheme"),
       toast: document.getElementById("toast")
     };
-    const mobilePanel = { nodes: [] };
 
 const defaultStudyThemes = [
   { name: "Amor", query: "G25|amor", hint: "amor do Pai, do Filho e dos discípulos" },
@@ -153,178 +152,95 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       return window.matchMedia("(max-width: 900px)").matches;
     }
 
-    function getSidePanelNodes() {
-      if (!els.side) return [];
-      return Array.from(els.side.children).filter(node => node !== els.mobileStudyBack && node !== els.studyCard);
-    }
+    // === Mobile drawer (simplified) ============================================
+    // No DOM moving, no separate fullscreen screen, no parallel "strong modal".
+    // The right column (.side aside) slides in from the right via CSS when the
+    // body has the class "mobile-study-open". The studyCard is rendered in its
+    // normal place (els.studyCard) by renderStudyCard() — same as on desktop.
 
     function renderMobileStudyCard() {
-      if (!els.mobileStudyCard) return;
-      els.mobileStudyCard.hidden = false;
-      renderStudyCard(els.mobileStudyCard);
+      // Kept for compatibility with old callers; just re-render the main card.
+      renderStudyCard();
     }
 
-    function openMobileStrongModal() {
-      if (!isMobileReader() || !els.mobileStrongModal || !els.mobileStrongCard || !state.selected) return false;
-      renderStudyCard(els.mobileStrongCard);
-      document.body.classList.add("mobile-strong-open");
-      els.mobileStrongModal.hidden = false;
-      els.mobileStrongModal.removeAttribute("aria-hidden");
-      els.mobileStrongCard.scrollTop = 0;
-      window.requestAnimationFrame(() => {
-        els.mobileStrongClose?.focus({ preventScroll: true });
-      });
-      return true;
-    }
-
-    function closeMobileStrongModal() {
-      if (!els.mobileStrongModal) return;
-      if (els.mobileStrongModal.contains(document.activeElement)) {
-        document.activeElement.blur();
-      }
-      els.mobileStrongModal.hidden = true;
-      els.mobileStrongModal.setAttribute("aria-hidden", "true");
-      document.body.classList.remove("mobile-strong-open");
-    }
-
-    function mountMobileStudyScreen(mode = "study") {
-      if (!isMobileReader() || !els.mobileStudyScreen || !els.mobileStudyContent || !els.studyCard || !els.mobileStudyCard) return false;
-      if (state.selected) {
-        mode = "study";
-        renderStudyCard();
-      }
-      if (!mobilePanel.nodes.length) {
-        mobilePanel.nodes = getSidePanelNodes();
-      }
-
-      document.body.classList.add("mobile-study-screen-open");
-      document.body.classList.toggle("mobile-study-has-card", mode === "study");
-      els.mobileStudyScreen.hidden = false;
-      els.mobileStudyScreen.removeAttribute("aria-hidden");
-      els.mobileStudyScreen.dataset.panelMode = mode;
-
-      mobilePanel.nodes.forEach(node => {
-        node.style.display = "";
-        node.style.order = "";
-        node.style.visibility = "";
-        node.style.maxHeight = "";
-        node.style.overflow = "";
-        els.mobileStudyContent.appendChild(node);
-      });
-
-      renderMobileStudyCard();
-
-      els.mobileStudyContent.scrollTop = 0;
-      window.requestAnimationFrame(() => {
-        els.mobileScreenBack?.focus({ preventScroll: true });
-      });
-      return true;
-    }
-
-    function unmountMobileStudyScreen() {
-      if (!els.mobileStudyScreen || !els.side || !mobilePanel.nodes.length) return;
-      if (els.mobileStudyScreen.contains(document.activeElement)) {
-        document.activeElement.blur();
-      }
-      mobilePanel.nodes.forEach(node => {
-        node.style.display = "";
-        node.style.order = "";
-        node.style.visibility = "";
-        node.style.maxHeight = "";
-        node.style.overflow = "";
-        els.side.appendChild(node);
-      });
-      if (els.mobileStudyCard) {
-        els.mobileStudyCard.hidden = true;
-        els.mobileStudyCard.innerHTML = "";
-      }
-      els.mobileStudyScreen.hidden = true;
-      els.mobileStudyScreen.setAttribute("aria-hidden", "true");
-      delete els.mobileStudyScreen.dataset.panelMode;
-      document.body.classList.remove("mobile-study-screen-open");
-    }
+    // Legacy no-ops — kept so call sites elsewhere in app.js keep working.
+    function openMobileStrongModal() { return false; }
+    function closeMobileStrongModal() {}
+    function mountMobileStudyScreen() { return false; }
+    function unmountMobileStudyScreen() {}
 
     function openMobileStudyPanel(mode = "study") {
       if (state.selected) mode = "study";
-      if (mountMobileStudyScreen(mode)) return;
+      // Always make sure the card has content before sliding the drawer in.
+      renderStudyCard();
       document.body.classList.add("mobile-study-open");
       document.body.classList.toggle("mobile-study-has-card", mode === "study");
-      if (els.side) els.side.dataset.panelMode = mode;
-      if (mode === "study" && state.selected && !els.studyCard.querySelector(".card-header")) {
-        renderStudyCard();
-      }
-      const resetScroll = () => {
-        if (!els.side) return;
-        els.side.scrollTop = 0;
-        if (mode === "study") {
-          els.studyCard?.scrollIntoView({ block: "start" });
+      if (els.side) {
+        els.side.dataset.panelMode = mode;
+        // Reset scroll so the user always sees the top of the study card.
+        const resetScroll = () => {
           els.side.scrollTop = 0;
-        }
-      };
-      requestAnimationFrame(resetScroll);
-      setTimeout(resetScroll, 80);
+          if (mode === "study" && els.studyCard) {
+            els.studyCard.scrollIntoView({ block: "start" });
+            els.side.scrollTop = 0;
+          }
+        };
+        requestAnimationFrame(resetScroll);
+        setTimeout(resetScroll, 80);
+      }
     }
 
     function closeMobileStudyPanel() {
-      closeMobileStrongModal();
-      unmountMobileStudyScreen();
       document.body.classList.remove("mobile-study-open");
       document.body.classList.remove("mobile-study-has-card");
-      if (els.side) delete els.side.dataset.panelMode;
-      if (els.studyCard) {
-        els.studyCard.style.display = "";
-        els.studyCard.style.order = "";
-        els.studyCard.style.visibility = "";
-        els.studyCard.style.maxHeight = "";
-        els.studyCard.style.overflow = "";
+      if (els.side) {
+        delete els.side.dataset.panelMode;
+        els.side.style.removeProperty("--mobile-panel-shift");
       }
     }
 
     function bindMobileStudyGestures() {
+      if (!els.side) return;
       let startX = null;
       let startY = null;
-      const gestureTargets = [els.side, els.mobileStudyScreen].filter(Boolean);
+      const target = els.side;
 
-      gestureTargets.forEach(target => {
-        target.addEventListener("touchstart", event => {
-          const touch = event.touches[0];
-          startX = touch.clientX;
-          startY = touch.clientY;
-        }, { passive: true });
+      target.addEventListener("touchstart", event => {
+        const touch = event.touches[0];
+        startX = touch.clientX;
+        startY = touch.clientY;
+      }, { passive: true });
 
-        target.addEventListener("touchmove", event => {
-          const panelOpen = document.body.classList.contains("mobile-study-open") || document.body.classList.contains("mobile-study-screen-open");
-          if (startX === null || startY === null || !panelOpen) return;
-          const touch = event.touches[0];
-          const deltaX = Math.max(0, touch.clientX - startX);
-          const deltaY = touch.clientY - startY;
+      target.addEventListener("touchmove", event => {
+        if (startX === null || startY === null) return;
+        if (!document.body.classList.contains("mobile-study-open")) return;
+        const touch = event.touches[0];
+        const deltaX = Math.max(0, touch.clientX - startX);
+        const deltaY = touch.clientY - startY;
+        if (deltaX > 12 && Math.abs(deltaX) > Math.abs(deltaY) * 1.15) {
+          target.style.setProperty("--mobile-panel-shift", `${Math.min(deltaX, 130)}px`);
+        }
+      }, { passive: true });
 
-          if (deltaX > 12 && Math.abs(deltaX) > Math.abs(deltaY) * 1.15) {
-            target.style.setProperty("--mobile-panel-shift", `${Math.min(deltaX, 130)}px`);
-          }
-        }, { passive: true });
+      target.addEventListener("touchend", event => {
+        if (startX === null || startY === null) return;
+        const touch = event.changedTouches[0];
+        const deltaX = touch.clientX - startX;
+        const deltaY = touch.clientY - startY;
+        startX = null;
+        startY = null;
+        target.style.removeProperty("--mobile-panel-shift");
+        if (document.body.classList.contains("mobile-study-open")
+            && deltaX > 62 && Math.abs(deltaX) > Math.abs(deltaY) * 1.15) {
+          closeMobileStudyPanel();
+        }
+      }, { passive: true });
 
-        target.addEventListener("touchend", event => {
-          if (startX === null || startY === null) return;
-          const touch = event.changedTouches[0];
-          const deltaX = touch.clientX - startX;
-          const deltaY = touch.clientY - startY;
-          startX = null;
-          startY = null;
-          target.style.removeProperty("--mobile-panel-shift");
-
-          const panelOpen = document.body.classList.contains("mobile-study-open") || document.body.classList.contains("mobile-study-screen-open");
-          if (panelOpen && deltaX > 62 && Math.abs(deltaX) > Math.abs(deltaY) * 1.15) {
-            closeMobileStudyPanel();
-          }
-        }, { passive: true });
-
-        target.addEventListener("touchcancel", () => {
-          startX = null;
-          startY = null;
-          target.style.removeProperty("--mobile-panel-shift");
-        }, { passive: true });
-      });
+      target.addEventListener("touchcancel", () => {
+        startX = null;
+        startY = null;
+        target.style.removeProperty("--mobile-panel-shift");
+      }, { passive: true });
 
       document.addEventListener("keydown", event => {
         if (event.key === "Escape") closeMobileStudyPanel();

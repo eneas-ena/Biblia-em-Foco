@@ -1215,9 +1215,8 @@
     }
 
     @media (max-width: 560px) {
-      body.mobile-study-open,
-      body.mobile-study-screen-open,
-      body.mobile-strong-open {
+      /* Lock the page scroll while the drawer is open. */
+      body.mobile-study-open {
         overflow: hidden;
       }
 
@@ -1233,13 +1232,8 @@
         padding: 0 18px 48px;
       }
 
-      .home-content h1 {
-        font-size: 38px;
-      }
-
-      .home-content p {
-        font-size: 16px;
-      }
+      .home-content h1 { font-size: 38px; }
+      .home-content p  { font-size: 16px; }
 
       .reader {
         padding: 18px;
@@ -1252,6 +1246,7 @@
         pointer-events: none;
       }
 
+      /* ========= Mobile drawer: the right column slides in from the right ===== */
       .side {
         position: fixed;
         inset: 0;
@@ -1266,6 +1261,8 @@
         transition: transform .34s cubic-bezier(.2, .8, .2, 1);
         align-content: start;
         box-shadow: -18px 0 42px rgba(0, 0, 0, .18);
+        display: grid;
+        gap: 14px;
       }
 
       :root[data-theme="dark"] .side {
@@ -1278,71 +1275,13 @@
         transform: translateX(var(--mobile-panel-shift, 0px));
       }
 
-      .mobile-study-screen {
-        position: fixed;
-        inset: 0;
-        z-index: 45;
-        display: grid;
-        grid-template-rows: auto minmax(0, 1fr);
-        gap: 10px;
-        padding: 10px 12px 18px;
-        overflow: hidden;
-        overscroll-behavior: contain;
-        background:
-          linear-gradient(180deg, rgba(34, 91, 96, .10), rgba(247, 245, 239, 0) 220px),
-          var(--bg);
-        transform: translateX(var(--mobile-panel-shift, 0px));
-      }
-
-      .mobile-study-screen[hidden] {
-        display: none !important;
-      }
-
-      :root[data-theme="dark"] .mobile-study-screen {
-        background:
-          linear-gradient(180deg, rgba(112, 168, 154, .12), rgba(8, 13, 12, 0) 220px),
-          var(--bg);
-      }
-
-      .mobile-study-content {
-        display: grid;
-        gap: 14px;
-        align-content: start;
-        overflow: auto;
-        padding-bottom: 18px;
-        -webkit-overflow-scrolling: touch;
-      }
-
-      .mobile-study-card {
-        display: block;
-        overflow: hidden;
-      }
-
-      .mobile-study-card[hidden] {
-        display: none !important;
-      }
-
-      .mobile-study-card .card-header {
-        padding: 14px 16px;
-      }
-
-      .mobile-study-card .card-header h3 {
-        font-size: 22px;
-      }
-
-      .mobile-study-card .occurrence-list {
-        max-height: 42vh;
-        overflow: auto;
-        padding-right: 2px;
-        -webkit-overflow-scrolling: touch;
-      }
-
+      /* The "voltar" header is hidden on desktop; show it inside the drawer. */
       .mobile-study-back {
+        display: grid !important;
         position: sticky;
         top: 0;
         z-index: 5;
         order: -2;
-        display: grid;
         grid-template-columns: 30px 1fr;
         grid-template-rows: auto auto;
         column-gap: 8px;
@@ -1356,6 +1295,7 @@
         box-shadow: 0 10px 24px rgba(0, 0, 0, .12);
         backdrop-filter: blur(14px);
         text-align: left;
+        position: relative;
       }
 
       .mobile-study-back span {
@@ -1395,59 +1335,10 @@
         background: color-mix(in srgb, var(--muted) 34%, transparent);
       }
 
-      .mobile-strong-modal {
-        position: fixed;
-        inset: 0;
-        z-index: 70;
+      /* Make sure the study card is always visible inside the drawer,
+         even when it shows the empty state. */
+      .side .study-card {
         display: block;
-        padding: 10px 12px 18px;
-        overflow: hidden;
-        background:
-          linear-gradient(180deg, rgba(34, 91, 96, .10), rgba(247, 245, 239, 0) 220px),
-          var(--bg);
-      }
-
-      .mobile-strong-modal[hidden] {
-        display: none !important;
-      }
-
-      :root[data-theme="dark"] .mobile-strong-modal {
-        background:
-          linear-gradient(180deg, rgba(112, 168, 154, .12), rgba(8, 13, 12, 0) 220px),
-          var(--bg);
-      }
-
-      .mobile-strong-dialog {
-        height: 100%;
-        display: grid;
-        grid-template-rows: auto minmax(0, 1fr);
-        gap: 10px;
-      }
-
-      .mobile-strong-card {
-        display: block;
-        overflow: auto;
-        -webkit-overflow-scrolling: touch;
-      }
-
-      .mobile-strong-card .card-header {
-        padding: 14px 16px;
-      }
-
-      .mobile-strong-card .card-header h3 {
-        font-size: 22px;
-      }
-
-      .mobile-strong-card .occurrence-list {
-        max-height: 42vh;
-        overflow: auto;
-        padding-right: 2px;
-        -webkit-overflow-scrolling: touch;
-      }
-
-      body.mobile-study-has-card .side .study-card,
-      .side[data-panel-mode="study"] .study-card {
-        display: block !important;
         order: -1;
         height: auto;
         max-height: none;
@@ -1455,37 +1346,18 @@
         overflow: hidden;
       }
 
-      .side[data-panel-mode="study"] .study-card .card-header {
-        padding: 14px 16px;
-      }
-
-      .side[data-panel-mode="study"] .study-card .card-header h3 {
-        font-size: 22px;
-      }
-
-      .side[data-panel-mode="study"] .study-card .assistant-panel {
-        padding: 16px;
-      }
-
-      .side[data-panel-mode="study"] .study-card .assistant-panel .ai-response:empty {
-        display: none;
-      }
-
-      .side[data-panel-mode="study"] .study-card .occurrence-list {
+      .side .study-card .card-header { padding: 14px 16px; display: block; }
+      .side .study-card .card-header h3 { font-size: 22px; }
+      .side .study-card .assistant-panel { padding: 16px; }
+      .side .study-card .assistant-panel .ai-response:empty { display: none; }
+      .side .study-card .occurrence-list {
         max-height: 42vh;
         overflow: auto;
         padding-right: 2px;
         -webkit-overflow-scrolling: touch;
       }
 
-      .tab-panel {
-        padding: 15px;
-      }
-
-      body.mobile-study-has-card .side .study-card .card-header,
-      .side[data-panel-mode="study"] .study-card .card-header {
-        display: block;
-      }
+      .tab-panel { padding: 15px; }
 
       .topbar-inner {
         padding: 12px 14px;
