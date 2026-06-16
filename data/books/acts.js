@@ -1,0 +1,20139 @@
+globalThis.appData.books.push({
+  "id": "acts",
+  "name": "Atos",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Fiz o primeiro tratado, ó Teófilo, acerca de tudo quanto Jesus começou a fazer e ensinar,",
+          "tokens": [
+            {
+              "word": "primeiro",
+              "strong": "G4413"
+            },
+            {
+              "word": "Teófilo",
+              "strong": "G2321"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "ensinar",
+              "strong": "G1321"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "até o dia em que foi levado para cima, depois de haver dado mandamento, pelo Espírito Santo, aos apóstolos que escolhera;",
+          "tokens": [
+            {
+              "word": "cima",
+              "strong": "G509"
+            },
+            {
+              "word": "mandamento",
+              "strong": "G1785"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "aos quais também, depois de haver padecido, se apresentou vivo, com muitas provas infalíveis, aparecendo-lhes por espaço de quarenta dias, e lhes falando das coisas concernentes ao reino de Deus.",
+          "tokens": [
+            {
+              "word": "vivo",
+              "strong": "G2198"
+            },
+            {
+              "word": "reino",
+              "strong": "G932"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Estando com eles, ordenou-lhes que não se ausentassem de Jerusalém, mas que esperassem a promessa do Pai, a qual (disse ele) de mim ouvistes.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "promessa",
+              "strong": "G1860"
+            },
+            {
+              "word": "Pai",
+              "strong": "G3962"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Porque, na verdade, João batizou em água, mas vós sereis batizados no Espírito Santo, dentro de poucos dias.",
+          "tokens": [
+            {
+              "word": "verdade",
+              "strong": "G225"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "água",
+              "strong": "G5204"
+            },
+            {
+              "word": "batizados",
+              "strong": "G907"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Aqueles, pois, que se haviam reunido perguntavam-lhe, dizendo: Senhor, é nesse tempo que restauras o reino a Israel?",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "reino",
+              "strong": "G932"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Respondeu-lhes: A vós não vos compete saber os tempos ou as épocas, que o Pai reservou à sua própria autoridade.",
+          "tokens": [
+            {
+              "word": "Pai",
+              "strong": "G3962"
+            },
+            {
+              "word": "autoridade",
+              "strong": "G1849"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Mas recebereis poder, ao descer sobre vós o Espírito Santo, e ser-me-eis testemunhas, tanto em Jerusalém, como em toda a Judéia e Samária, e até os confins da terra.",
+          "tokens": [
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "testemunhas",
+              "strong": "G3144"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            },
+            {
+              "word": "Samária",
+              "strong": "G4540"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Tendo ele dito estas coisas, foi levado para cima, enquanto eles olhavam, e uma nuvem o recebeu, ocultando-o a seus olhos.",
+          "tokens": [
+            {
+              "word": "cima",
+              "strong": "G509"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Estando eles com os olhos fitos no céu, enquanto ele subia, eis que junto deles apareceram dois varões vestidos de branco,",
+          "tokens": [
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "os quais lhes disseram: Varões galileus, por que ficais aí olhando para o céu? Esse Jesus, que dentre vós foi elevado para o céu, há de vir assim como para o céu o vistes ir.",
+          "tokens": [
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "vir",
+              "strong": "G2064"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então voltaram para Jerusalém, do monte chamado das Oliveiras, que está perto de Jerusalém, à distância da jornada de um sábado.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "monte",
+              "strong": "G3735"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "sábado",
+              "strong": "G4521"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E, entrando, subiram ao cenáculo, onde permaneciam Pedro e João, Tiago e André, Felipe e Tomé, Bartolomeu e Mateus; Tiago, filho de Alfeu, Simão o Zelote, e Judas, filho de Tiago.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "Tiago",
+              "strong": "G2385"
+            },
+            {
+              "word": "André",
+              "strong": "G406"
+            },
+            {
+              "word": "Felipe",
+              "strong": "G5376"
+            },
+            {
+              "word": "Tomé",
+              "strong": "G2381"
+            },
+            {
+              "word": "Tiago",
+              "strong": "G2385"
+            },
+            {
+              "word": "filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "Judas",
+              "strong": "G2455"
+            },
+            {
+              "word": "filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "Tiago",
+              "strong": "G2385"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Todos estes perseveravam unanimemente em oração, com as mulheres, e Maria, mãe de Jesus, e com os irmãos dele.",
+          "tokens": [
+            {
+              "word": "oração",
+              "strong": "G4335"
+            },
+            {
+              "word": "Maria",
+              "strong": "G3137"
+            },
+            {
+              "word": "mãe",
+              "strong": "G3384"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Naqueles dias levantou-se Pedro no meio dos irmãos, sendo o número de pessoas ali reunidas cerca de cento e vinte, e disse:",
+          "tokens": [
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Irmãos, convinha que se cumprisse a escritura que o Espírito Santo predisse pela boca de Davi, acerca de Judas, que foi o guia daqueles que prenderam a Jesus;",
+          "tokens": [
+            {
+              "word": "Irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "escritura",
+              "strong": "G1124"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            },
+            {
+              "word": "Judas",
+              "strong": "G2455"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "pois ele era contado entre nós e teve parte neste ministério.",
+          "tokens": []
+        },
+        {
+          "n": 18,
+          "text": "(Ora, ele adquiriu um campo com o salário da sua iniquidade; e precipitando-se, caiu prostrado e arrebentou pelo meio, e todas as suas entranhas se derramaram.",
+          "tokens": [
+            {
+              "word": "campo",
+              "strong": "G68"
+            },
+            {
+              "word": "iniquidade",
+              "strong": "G458"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E tornou-se isto conhecido de todos os habitantes de Jerusalém; de maneira que na própria língua deles esse campo se chama Acéldama, isto é, Campo de Sangue.)",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "língua",
+              "strong": "G1100"
+            },
+            {
+              "word": "campo",
+              "strong": "G68"
+            },
+            {
+              "word": "Campo",
+              "strong": "G68"
+            },
+            {
+              "word": "Sangue",
+              "strong": "G129"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Porquanto no livro dos Salmos está escrito: Fique deserta a sua habitação, e não haja quem nela habite; e: Tome outro o seu ministério.",
+          "tokens": [
+            {
+              "word": "escrito",
+              "strong": "G1125"
+            },
+            {
+              "word": "Tome",
+              "strong": "G2381"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "É necessário, pois, que dos varões que conviveram conosco todo o tempo em que o Senhor Jesus andou entre nós,",
+          "tokens": [
+            {
+              "word": "necessário",
+              "strong": "G1163"
+            },
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "começando desde o batismo de João até o dia em que dentre nós foi levado para cima, um deles se torne testemunha conosco da sua ressurreição.",
+          "tokens": [
+            {
+              "word": "batismo",
+              "strong": "G908"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "cima",
+              "strong": "G509"
+            },
+            {
+              "word": "ressurreição",
+              "strong": "G386"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E apresentaram dois: José, chamado Barsabás, que tinha por sobrenome o Justo, e Matias.",
+          "tokens": [
+            {
+              "word": "José",
+              "strong": "G2501"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E orando, disseram: Tu, Senhor, que conheces os corações de todos, mostra qual destes dois tens escolhido",
+          "tokens": [
+            {
+              "word": "orando",
+              "strong": "G4336"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "para tomar o lugar neste ministério e apostolado, do qual Judas se desviou para ir ao seu próprio lugar.",
+          "tokens": [
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "Judas",
+              "strong": "G2455"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Então deitaram sortes a respeito deles e caiu a sorte sobre Matias, e por voto comum foi ele contado com os onze apóstolos.",
+          "tokens": [
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Ao cumprir-se o dia de Pentecostes, estavam todos reunidos no mesmo lugar.",
+          "tokens": [
+            {
+              "word": "cumprir",
+              "strong": "G4137"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "De repente veio do céu um ruído, como que de um vento impetuoso, e encheu toda a casa onde estavam sentados.",
+          "tokens": [
+            {
+              "word": "veio",
+              "strong": "G2064"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "vento",
+              "strong": "G4151"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E lhes apareceram umas línguas como que de fogo, que se distribuíam, e sobre cada um deles pousou uma.",
+          "tokens": [
+            {
+              "word": "línguas",
+              "strong": "G1100"
+            },
+            {
+              "word": "fogo",
+              "strong": "G4442"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E todos ficaram cheios do Espírito Santo, e começaram a falar noutras línguas, conforme o Espírito lhes concedia que falassem.",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "línguas",
+              "strong": "G1100"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Habitavam então em Jerusalém judeus, homens piedosos, de todas as nações que há debaixo do céu.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "nações",
+              "strong": "G1484"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Ouvindo-se, pois, aquele ruído, ajuntou-se a multidão; e estava confusa, porque cada um os ouvia falar na sua própria língua.",
+          "tokens": [
+            {
+              "word": "língua",
+              "strong": "G1100"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E todos pasmavam e se admiravam, dizendo uns aos outros: Pois quê! não são galileus todos esses que estão falando?",
+          "tokens": []
+        },
+        {
+          "n": 8,
+          "text": "Como é, pois, que os ouvimos falar cada um na própria língua em que nascemos?",
+          "tokens": [
+            {
+              "word": "língua",
+              "strong": "G1100"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Nós, partos, medos, e elamitas; e os que habitamos a Mesopotâmia, a Judéia e a Capadócia, o Ponto e a Ásia,",
+          "tokens": [
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "a Frígia e a Panfília, o Egito e as partes da Líbia próximas a Cirene, e forasteiros romanos, tanto judeus como prosélitos,",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Panfília",
+              "strong": "G3828"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "cretenses e árabes - ouvímo-los em nossas línguas, falar das grandezas de Deus.",
+          "tokens": [
+            {
+              "word": "línguas",
+              "strong": "G1100"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E todos pasmavam e estavam perplexos, dizendo uns aos outros: Que quer dizer isto?",
+          "tokens": []
+        },
+        {
+          "n": 13,
+          "text": "E outros, zombando, diziam: Estão cheios de mosto.",
+          "tokens": []
+        },
+        {
+          "n": 14,
+          "text": "Então Pedro, pondo-se em pé com os onze, levantou a voz e disse-lhes: Varões judeus e todos os que habitais em Jerusalém, seja- vos isto notório, e escutai as minhas palavras.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Pois estes homens não estão embriagados, como vós pensais, visto que é apenas a terceira hora do dia.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "visto",
+              "strong": "G3708"
+            },
+            {
+              "word": "hora",
+              "strong": "G5610"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Mas isto é o que foi dito pelo profeta Joel:",
+          "tokens": [
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E acontecerá nos últimos dias, diz o Senhor, que derramarei do meu Espírito sobre toda a carne; e os vossos filhos e as vossas filhas profetizarão, os vossos mancebos terão visões, os vossos anciãos terão sonhos;",
+          "tokens": [
+            {
+              "word": "últimos",
+              "strong": "G2078"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "carne",
+              "strong": "G4561"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "e sobre os meus servos e sobre as minhas servas derramarei do meu Espírito naqueles dias, e eles profetizarão.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "G1401"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E mostrarei prodígios em cima no céu; e sinais embaixo na terra, sangue, fogo e vapor de fumaça.",
+          "tokens": [
+            {
+              "word": "cima",
+              "strong": "G509"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "sinais",
+              "strong": "G4592"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "sangue",
+              "strong": "G129"
+            },
+            {
+              "word": "fogo",
+              "strong": "G4442"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "O sol se converterá em trevas, e a lua em sangue, antes que venha o grande e glorioso dia do Senhor.",
+          "tokens": [
+            {
+              "word": "trevas",
+              "strong": "G4653"
+            },
+            {
+              "word": "sangue",
+              "strong": "G129"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "e acontecerá que todo aquele que invocar o nome do Senhor será salvo.",
+          "tokens": [
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "salvo",
+              "strong": "G4982"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Varões israelitas, escutai estas palavras: A Jesus, o nazareno, varão aprovado por Deus entre vós com milagres, prodígios e sinais, que Deus por ele fez no meio de vós, como vós mesmos bem sabeis;",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "nazareno",
+              "strong": "G3478"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "milagres",
+              "strong": "G1411"
+            },
+            {
+              "word": "sinais",
+              "strong": "G4592"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "a este, que foi entregue pelo determinado conselho e presciência de Deus, vós matastes, crucificando-o pelas mãos de iníquos;",
+          "tokens": [
+            {
+              "word": "entregue",
+              "strong": "G3860"
+            },
+            {
+              "word": "conselho",
+              "strong": "G4824"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "ao qual Deus ressuscitou, rompendo os grilhões da morte, pois não era possível que fosse retido por ela.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ressuscitou",
+              "strong": "G1453"
+            },
+            {
+              "word": "morte",
+              "strong": "G2288"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Porque dele fala Davi: Sempre via diante de mim o Senhor, porque está à minha direita, para que eu não seja abalado;",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "direita",
+              "strong": "G1188"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "por isso se alegrou o meu coração, e a minha língua exultou; e além disso a minha carne há de repousar em esperança;",
+          "tokens": [
+            {
+              "word": "coração",
+              "strong": "G2588"
+            },
+            {
+              "word": "língua",
+              "strong": "G1100"
+            },
+            {
+              "word": "carne",
+              "strong": "G4561"
+            },
+            {
+              "word": "esperança",
+              "strong": "G1680"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "pois não deixarás a minha alma no hades, nem permitirás que o teu Santo veja a corrupção;",
+          "tokens": [
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "fizeste-me conhecer os caminhos da vida; encher-me-ás de alegria na tua presença.",
+          "tokens": [
+            {
+              "word": "vida",
+              "strong": "G2222"
+            },
+            {
+              "word": "alegria",
+              "strong": "G5479"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Irmãos, seja-me permitido dizer-vos livremente acerca do patriarca Davi, que ele morreu e foi sepultado, e entre nós está até hoje a sua sepultura.",
+          "tokens": [
+            {
+              "word": "Irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            },
+            {
+              "word": "morreu",
+              "strong": "G599"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Sendo, pois, ele profeta, e sabendo que Deus lhe havia prometido com juramento que faria sentar sobre o seu trono um dos seus descendentes -",
+          "tokens": [
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "juramento",
+              "strong": "G3727"
+            },
+            {
+              "word": "trono",
+              "strong": "G2362"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "prevendo isto, Davi falou da ressurreição de Cristo, que a sua alma não foi deixada no hades, nem a sua carne viu a corrupção.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            },
+            {
+              "word": "ressurreição",
+              "strong": "G386"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "carne",
+              "strong": "G4561"
+            },
+            {
+              "word": "viu",
+              "strong": "G3708"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Ora, a este Jesus, Deus ressuscitou, do que todos nós somos testemunhas.",
+          "tokens": [
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ressuscitou",
+              "strong": "G1453"
+            },
+            {
+              "word": "testemunhas",
+              "strong": "G3144"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "De sorte que, exaltado pela dextra de Deus, e tendo recebido do Pai a promessa do Espírito Santo, derramou isto que vós agora vedes e ouvis.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Pai",
+              "strong": "G3962"
+            },
+            {
+              "word": "promessa",
+              "strong": "G1860"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Porque Davi não subiu aos céus, mas ele próprio declara: Disse o Senhor ao meu Senhor: Assenta-te à minha direita,",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            },
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "direita",
+              "strong": "G1188"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "até que eu ponha os teus inimigos por escabelo de teus pés.",
+          "tokens": [
+            {
+              "word": "inimigos",
+              "strong": "G2190"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Saiba pois com certeza toda a casa de Israel que a esse mesmo Jesus, a quem vós crucificastes, Deus o fez Senhor e Cristo.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "E, ouvindo eles isto, compungiram-se em seu coração, e perguntaram a Pedro e aos demais apóstolos: Que faremos, irmãos?",
+          "tokens": [
+            {
+              "word": "coração",
+              "strong": "G2588"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Pedro então lhes respondeu: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para remissão de vossos pecados; e recebereis o dom do Espírito Santo.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "remissão",
+              "strong": "G859"
+            },
+            {
+              "word": "pecados",
+              "strong": "G266"
+            },
+            {
+              "word": "dom",
+              "strong": "G5486"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "Porque a promessa vos pertence a vós, a vossos filhos, e a todos os que estão longe: a quantos o Senhor nosso Deus chamar.",
+          "tokens": [
+            {
+              "word": "promessa",
+              "strong": "G1860"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "E com muitas outras palavras dava testemunho, e os exortava, dizendo: salvai-vos desta geração perversa.",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "geração",
+              "strong": "G1074"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "De sorte que foram batizados os que receberam a sua palavra; e naquele dia agregaram-se quase três mil almas;",
+          "tokens": [
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "batizados",
+              "strong": "G907"
+            },
+            {
+              "word": "receberam",
+              "strong": "G3880"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "e perseveravam na doutrina dos apóstolos e na comunhão, no partir do pão e nas orações.",
+          "tokens": [
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "pão",
+              "strong": "G740"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "Em cada alma havia temor, e muitos prodígios e sinais eram feitos pelos apóstolos.",
+          "tokens": [
+            {
+              "word": "sinais",
+              "strong": "G4592"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            }
+          ]
+        },
+        {
+          "n": 44,
+          "text": "Todos os que criam estavam unidos e tinham tudo em comum.",
+          "tokens": []
+        },
+        {
+          "n": 45,
+          "text": "E vendiam suas propriedades e bens e os repartiam por todos, segundo a necessidade de cada um.",
+          "tokens": []
+        },
+        {
+          "n": 46,
+          "text": "E, perseverando unânimes todos os dias no templo, e partindo o pão em casa, comiam com alegria e singeleza de coração,",
+          "tokens": [
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "pão",
+              "strong": "G740"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "alegria",
+              "strong": "G5479"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            }
+          ]
+        },
+        {
+          "n": 47,
+          "text": "louvando a Deus, e caindo na graça de todo o povo. E cada dia acrescentava-lhes o Senhor os que iam sendo salvos.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Pedro e João subiam ao templo à hora da oração, a nona.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "hora",
+              "strong": "G5610"
+            },
+            {
+              "word": "oração",
+              "strong": "G4335"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E, era carregado um homem, coxo de nascença, o qual todos os dias punham à porta do templo, chamada Formosa, para pedir esmolas aos que entravam.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "porta",
+              "strong": "G2374"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Ora, vendo ele a Pedro e João, que iam entrando no templo, pediu que lhe dessem uma esmola.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "esmola",
+              "strong": "G1654"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E Pedro, com João, fitando os olhos nele, disse: Olha para nós.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Olha",
+              "strong": "G991"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E ele os olhava atentamente, esperando receber deles alguma coisa.",
+          "tokens": [
+            {
+              "word": "receber",
+              "strong": "G2983"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Disse-lhe Pedro: Não tenho prata nem ouro; mas o que tenho, isso te dou; em nome de Jesus Cristo, o nazareno, anda.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "prata",
+              "strong": "G694"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "nazareno",
+              "strong": "G3478"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Nisso, tomando-o pela mão direita, o levantou; imediatamente os seus pés e artelhos se firmaram",
+          "tokens": [
+            {
+              "word": "direita",
+              "strong": "G1188"
+            },
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "e, dando ele um salto, pôs-se em pé. Começou a andar e entrou com eles no templo, andando, saltando e louvando a Deus.",
+          "tokens": [
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Todo o povo, ao vê-lo andar e louvar a Deus,",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "reconhecia-o como o mesmo que estivera sentado a pedir esmola à Porta Formosa do templo; e todos ficaram cheios de pasmo e assombro, pelo que lhe acontecera.",
+          "tokens": [
+            {
+              "word": "esmola",
+              "strong": "G1654"
+            },
+            {
+              "word": "Porta",
+              "strong": "G2374"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Apegando-se o homem a Pedro e João, todo o povo correu atônito para junto deles, ao pórtico chamado de Salomão.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Salomão",
+              "strong": "G4672"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Pedro, vendo isto, disse ao povo: Varões israelitas, por que vos admirais deste homem? Ou, por que fitais os olhos em nós, como se por nosso próprio poder ou piedade o tivéssemos feito andar?",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "O Deus de Abraão, de Isaque e de Jacó, o Deus de nossos pais, glorificou a seu Servo Jesus, a quem vós entregastes e perante a face de Pilatos negastes, quando este havia resolvido soltá-lo.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Abraão",
+              "strong": "G11"
+            },
+            {
+              "word": "Isaque",
+              "strong": "G2464"
+            },
+            {
+              "word": "Jacó",
+              "strong": "G2384"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Servo",
+              "strong": "G1401"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Pilatos",
+              "strong": "G4091"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Mas vós negastes o Santo e Justo, e pedistes que se vos desse um homicida;",
+          "tokens": [
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "e matastes o Autor da vida, a quem Deus ressuscitou dentre os mortos, do que nós somos testemunhas.",
+          "tokens": [
+            {
+              "word": "vida",
+              "strong": "G2222"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ressuscitou",
+              "strong": "G1453"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            },
+            {
+              "word": "testemunhas",
+              "strong": "G3144"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E pela fé em seu nome fez o seu nome fortalecer a este homem que vedes e conheceis; sim, a fé, que vem por ele, deu a este, na presença de todos vós, esta perfeita saúde.",
+          "tokens": [
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "vem",
+              "strong": "G2064"
+            },
+            {
+              "word": "deu",
+              "strong": "G1325"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Agora, irmãos, eu sei que o fizestes por ignorância, como também as vossas autoridades.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Mas Deus assim cumpriu o que já dantes pela boca de todos os seus profetas havia anunciado que o seu Cristo havia de padecer.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Arrependei-vos, pois, e convertei-vos, para que sejam apagados os vossos pecados, de sorte que venham os tempos de refrigério, da presença do Senhor,",
+          "tokens": [
+            {
+              "word": "pecados",
+              "strong": "G266"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "e envie ele o Cristo, que já dantes vos foi indicado, Jesus,",
+          "tokens": [
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "ao qual convém que o céu receba até os tempos da restauração de todas as coisas, das quais Deus falou pela boca dos seus santos profetas, desde o princípio.",
+          "tokens": [
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "santos",
+              "strong": "G40"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "princípio",
+              "strong": "G746"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Pois Moisés disse: Suscitar-vos-á o Senhor vosso Deus, dentre vossos irmãos, um profeta semelhante a mim; a ele ouvireis em tudo quanto vos disser.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E acontecerá que toda alma que não ouvir a esse profeta, será exterminada dentre o povo.",
+          "tokens": [
+            {
+              "word": "ouvir",
+              "strong": "G191"
+            },
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E todos os profetas, desde Samuel e os que sucederam, quantos falaram, também anunciaram estes dias.",
+          "tokens": [
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Vós sois os filhos dos profetas e do pacto que Deus fez com vossos pais, dizendo a Abraão: Na tua descendência serão abençoadas todas as famílias da terra.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "pacto",
+              "strong": "G1242"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Abraão",
+              "strong": "G11"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Deus suscitou a seu Servo, e a vós primeiramente vo-lo enviou para que vos abençoasse, desviando-vos, a cada um, das vossas maldades.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Servo",
+              "strong": "G1401"
+            },
+            {
+              "word": "enviou",
+              "strong": "G649"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Enquanto eles estavam falando ao povo, sobrevieram-lhes os sacerdotes, o capitão do templo e os saduceus,",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "G749"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "doendo-se muito de que eles ensinassem o povo, e anunciassem em Jesus a ressurreição dentre os mortos,",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "ressurreição",
+              "strong": "G386"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "deitaram mão neles, e os encerraram na prisão até o dia seguinte; pois era já tarde.",
+          "tokens": [
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Muitos, porém, dos que ouviram a palavra, creram, e se elevou o número dos homens a quase cinco mil.",
+          "tokens": [
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "creram",
+              "strong": "G4100"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "No dia seguinte, reuniram-se em Jerusalém as autoridades, os anciãos, os escribas,",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "escribas",
+              "strong": "G1122"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "e Anás, o sumo sacerdote, e Caifás, João, Alexandre, e todos quantos eram da linhagem do sumo sacerdote.",
+          "tokens": [
+            {
+              "word": "Anás",
+              "strong": "G452"
+            },
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            },
+            {
+              "word": "Caifás",
+              "strong": "G2533"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            },
+            {
+              "word": "Alexandre",
+              "strong": "G223"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E, pondo-os no meio deles, perguntaram: Com que poder ou em nome de quem fizestes vós isto?",
+          "tokens": [
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Então Pedro, cheio do Espírito Santo, lhes disse: Autoridades do povo e vós, anciãos,",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "se nós hoje somos inquiridos acerca do benefício feito a um enfermo, e do modo como foi curado,",
+          "tokens": [
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "curado",
+              "strong": "G2323"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "seja conhecido de vós todos, e de todo o povo de Israel, que em nome de Jesus Cristo, o nazareno, aquele a quem vós crucificastes e a quem Deus ressuscitou dentre os mortos, nesse nome está este aqui, são diante de vós.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "nazareno",
+              "strong": "G3478"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ressuscitou",
+              "strong": "G1453"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Ele é a pedra que foi rejeitada por vós, os edificadores, a qual foi posta como pedra angular.",
+          "tokens": [
+            {
+              "word": "pedra",
+              "strong": "G3037"
+            },
+            {
+              "word": "pedra",
+              "strong": "G3037"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E em nenhum outro há salvação; porque debaixo do céu nenhum outro nome há, dado entre os homens, em que devamos ser salvos.",
+          "tokens": [
+            {
+              "word": "salvação",
+              "strong": "G4982"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Então eles, vendo a intrepidez de Pedro e João, e tendo percebido que eram homens iletrados e indoutos, se admiravam; e reconheciam que haviam estado com Jesus.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E vendo em pé com eles o homem que fora curado, nada tinham que dizer em contrário.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "curado",
+              "strong": "G2323"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Todavia, mandando-os sair do sinédrio, conferenciaram entre si,",
+          "tokens": [
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "dizendo: Que havemos de fazer a estes homens? porque a todos os que habitam em Jerusalém é manifesto que por eles foi feito um sinal notório, e não o podemos negar.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "sinal",
+              "strong": "G4592"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Mas, para que não se divulgue mais entre o povo, ameacemo- los para que de ora em diante não falem neste nome a homem algum.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E, chamando-os, ordenaram-lhes que absolutamente não falassem nem ensinassem em nome de Jesus.",
+          "tokens": [
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Mas Pedro e João, respondendo, lhes disseram: Julgai vós se é justo diante de Deus ouvir-nos antes a vós do que a Deus;",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ouvir",
+              "strong": "G191"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "pois nós não podemos deixar de falar das coisas que temos visto e ouvido.",
+          "tokens": [
+            {
+              "word": "visto",
+              "strong": "G3708"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Mas eles ainda os ameaçaram mais, e, não achando motivo para os castigar, soltaram-nos, por causa do povo; porque todos glorificavam a Deus pelo que acontecera;",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "pois tinha mais de quarenta anos o homem em quem se operara esta cura milagrosa.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E soltos eles, foram para os seus, e contaram tudo o que lhes haviam dito os principais sacerdotes e os anciãos.",
+          "tokens": [
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "principais sacerdotes",
+              "strong": "G749"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Ao ouvirem isto, levantaram unanimemente a voz a Deus e disseram: Senhor, tu que fizeste o céu, a terra, o mar, e tudo o que neles há;",
+          "tokens": [
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "que pelo Espírito Santo, por boca de nosso pai Davi, teu servo, disseste: Por que se enfureceram os gentios, e os povos imaginaram coisas vãs?",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "pai",
+              "strong": "G3962"
+            },
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            },
+            {
+              "word": "servo",
+              "strong": "G1401"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Levantaram-se os reis da terra, e as autoridades ajuntaram- se à uma, contra o Senhor e contra o seu Ungido.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "G935"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Porque verdadeiramente se ajuntaram, nesta cidade, contra o teu santo Servo Jesus, ao qual ungiste, não só Herodes, mas também Pôncio Pilatos com os gentios e os povos de Israel;",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "santo",
+              "strong": "G40"
+            },
+            {
+              "word": "Servo",
+              "strong": "G1401"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Herodes",
+              "strong": "G2264"
+            },
+            {
+              "word": "Pilatos",
+              "strong": "G4091"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "para fazerem tudo o que a tua mão e o teu conselho predeterminaram que se fizesse.",
+          "tokens": [
+            {
+              "word": "conselho",
+              "strong": "G4824"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Agora pois, ó Senhor, olha para as suas ameaças, e concede aos teus servos que falam com toda a intrepidez a tua palavra,",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "olha",
+              "strong": "G991"
+            },
+            {
+              "word": "servos",
+              "strong": "G1401"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "enquanto estendes a mão para curar e para que se façam sinais e prodígios pelo nome de teu santo Servo Jesus.",
+          "tokens": [
+            {
+              "word": "sinais",
+              "strong": "G4592"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "santo",
+              "strong": "G40"
+            },
+            {
+              "word": "Servo",
+              "strong": "G1401"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "E, tendo eles orado, tremeu o lugar em que estavam reunidos; e todos foram cheios do Espírito Santo, e anunciavam com intrepidez a palavra de Deus.",
+          "tokens": [
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Da multidão dos que criam, era um só o coração e uma só a alma, e ninguém dizia que coisa alguma das que possuía era sua própria, mas todas as coisas lhes eram comuns.",
+          "tokens": [
+            {
+              "word": "coração",
+              "strong": "G2588"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Com grande poder os apóstolos davam testemunho da ressurreição do Senhor Jesus, e em todos eles havia abundante graça.",
+          "tokens": [
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "ressurreição",
+              "strong": "G386"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "graça",
+              "strong": "G5485"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Pois não havia entre eles necessitado algum; porque todos os que possuíam terras ou casas, vendendo-as, traziam o preço do que vendiam e o depositavam aos pés dos apóstolos.",
+          "tokens": [
+            {
+              "word": "pés",
+              "strong": "G4228"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "E se repartia a qualquer um que tivesse necessidade.",
+          "tokens": []
+        },
+        {
+          "n": 36,
+          "text": "então José, cognominado pelos apóstolos Barnabé (que quer dizer, filho de consolação), levita, natural de Chipre,",
+          "tokens": [
+            {
+              "word": "José",
+              "strong": "G2501"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "Chipre",
+              "strong": "G2954"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "possuindo um campo, vendeu-o, trouxe o preço e o depositou aos pés dos apóstolos.",
+          "tokens": [
+            {
+              "word": "campo",
+              "strong": "G68"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Mas um certo homem chamado Ananias, com Safira, sua mulher, vendeu uma propriedade,",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "mulher",
+              "strong": "G1135"
+            },
+            {
+              "word": "Ananias",
+              "strong": "G367"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "e reteve parte do preço, sabendo-o também sua mulher; e levando a outra parte, a depositou aos pés dos apóstolos.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "G1135"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Disse então Pedro: Ananias, por que encheu Satanás o teu coração, para que mentisses ao Espírito Santo e retivesses parte do preço do terreno?",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "Satanás",
+              "strong": "G4567"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "Ananias",
+              "strong": "G367"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Enquanto o possuías, não era teu? e vendido, não estava o preço em teu poder? Como, pois, formaste este desígnio em teu coração? Não mentiste aos homens, mas a Deus.",
+          "tokens": [
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E Ananias, ouvindo estas palavras, caiu e expirou. E grande temor veio sobre todos os que souberam disto.",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "veio",
+              "strong": "G2064"
+            },
+            {
+              "word": "Ananias",
+              "strong": "G367"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Levantando-se os moços, cobriram-no e, transportando-o para fora, o sepultaram.",
+          "tokens": []
+        },
+        {
+          "n": 7,
+          "text": "Depois de um intervalo de cerca de três horas, entrou também sua mulher, sabendo o que havia acontecido.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "G1135"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E perguntou-lhe Pedro: Dize-me vendestes por tanto aquele terreno? E ela respondeu: Sim, por tanto.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então Pedro lhe disse: Por que é que combinastes entre vós provar o Espírito do Senhor? Eis aí à porta os pés dos que sepultaram o teu marido, e te levarão também a ti.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "porta",
+              "strong": "G2374"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Imediatamente ela caiu aos pés dele e expirou. E entrando os moços, acharam-na morta e, levando-a para fora, sepultaram-na ao lado do marido.",
+          "tokens": [
+            {
+              "word": "pés",
+              "strong": "G4228"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Sobreveio grande temor a toda a igreja e a todos os que ouviram estas coisas.",
+          "tokens": [
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E muitos sinais e prodígios eram feitos entre o povo pelas mãos dos apóstolos. E estavam todos de comum acordo no pórtico de Salomão.",
+          "tokens": [
+            {
+              "word": "sinais",
+              "strong": "G4592"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "Salomão",
+              "strong": "G4672"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Dos outros, porém, nenhum ousava ajuntar-se a eles; mas o povo os tinha em grande estima;",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "e cada vez mais se agregavam crentes ao Senhor em grande número tanto de homens como de mulheres;",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "a ponto de transportarem os enfermos para as ruas, e os porem em leitos e macas, para que ao passar Pedro, ao menos sua sombra cobrisse alguns deles.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Também das cidades circunvizinhas afluía muita gente a Jerusalém, conduzindo enfermos e atormentados de espíritos imundos, os quais eram todos curados.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "G4172"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "imundos",
+              "strong": "G169"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Levantando-se o sumo sacerdote e todos os que estavam com ele (isto é, a seita dos saduceus), encheram-se de inveja,",
+          "tokens": [
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "deitaram mão nos apóstolos, e os puseram na prisão pública.",
+          "tokens": [
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Mas de noite um anjo do Senhor abriu as portas do cárcere e, tirando-os para fora, disse:",
+          "tokens": [
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Ide, apresentai-vos no templo, e falai ao povo todas as palavras desta vida.",
+          "tokens": [
+            {
+              "word": "Ide",
+              "strong": "G4198"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "vida",
+              "strong": "G2222"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Ora, tendo eles ouvido isto, entraram de manhã cedo no templo e ensinavam. Chegando, porém o sumo sacerdote e os que estavam com ele, convocaram o sinédrio, com todos os anciãos dos filhos de Israel, e enviaram guardas ao cárcere para trazê-los.",
+          "tokens": [
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "ensinavam",
+              "strong": "G1321"
+            },
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            },
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Mas os guardas, tendo lá ido, não os acharam na prisão; e voltando, lho anunciaram,",
+          "tokens": [
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "dizendo: Achamos realmente o cárcere fechado com toda a segurança, e as sentinelas em pé às portas; mas, abrindo-as, a ninguém achamos dentro.",
+          "tokens": []
+        },
+        {
+          "n": 24,
+          "text": "E quando o capitão do templo e os principais sacerdotes ouviram estas palavras ficaram perplexos acerca deles e do que viria a ser isso.",
+          "tokens": [
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "principais sacerdotes",
+              "strong": "G749"
+            },
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Então chegou alguém e lhes anunciou: Eis que os homens que encerrastes na prisão estão no templo, em pé, a ensinar o povo.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "ensinar",
+              "strong": "G1321"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Nisso foi o capitão com os guardas e os trouxe, não com violência, porque temiam ser apedrejados pelo povo.",
+          "tokens": [
+            {
+              "word": "temiam",
+              "strong": "G5399"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E tendo-os trazido, os apresentaram ao sinédrio. E o sumo sacerdote os interrogou, dizendo:",
+          "tokens": [
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            },
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Não vos admoestamos expressamente que não ensinásseis nesse nome? e eis que enchestes Jerusalém dessa vossa doutrina e quereis lançar sobre nós o sangue desse homem.",
+          "tokens": [
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "sangue",
+              "strong": "G129"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Respondendo Pedro e os apóstolos, disseram: Importa antes obedecer a Deus que aos homens.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "O Deus de nossos pais ressuscitou a Jesus, ao qual vós matastes, suspendendo-o no madeiro;",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ressuscitou",
+              "strong": "G1453"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "sim, Deus, com a sua destra, o elevou a Príncipe e Salvador, para dar a Israel o arrependimento e remissão de pecados.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Príncipe",
+              "strong": "G758"
+            },
+            {
+              "word": "Salvador",
+              "strong": "G4990"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            },
+            {
+              "word": "arrependimento",
+              "strong": "G3341"
+            },
+            {
+              "word": "remissão",
+              "strong": "G859"
+            },
+            {
+              "word": "pecados",
+              "strong": "G266"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E nós somos testemunhas destas coisas, e bem assim o Espírito Santo, que Deus deu àqueles que lhe obedecem.",
+          "tokens": [
+            {
+              "word": "testemunhas",
+              "strong": "G3144"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "deu",
+              "strong": "G1325"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Ora, ouvindo eles isto, se enfureceram e queriam matá-los.",
+          "tokens": [
+            {
+              "word": "matá",
+              "strong": "G3157"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Mas, levantando-se no sinédrio certo fariseu chamado Gamaliel, doutor da lei, acatado por todo o povo, mandou que por um pouco saíssem aqueles homens;",
+          "tokens": [
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "e prosseguiu: Varões israelitas, acautelai-vos a respeito do que estai para fazer a estes homens.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Porque, há algum tempo, levantou-se Teudas, dizendo ser alguém; ao qual se ajuntaram uns quatrocentos homens; mas ele foi morto, e todos quantos lhe obedeciam foram dispersos e reduzidos a nada.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "morto",
+              "strong": "G3498"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Depois dele levantou-se Judas, o galileu, nos dias do recenseamento, e levou muitos após si; mas também este pereceu, e todos quantos lhe obedeciam foram dispersos.",
+          "tokens": [
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "Judas",
+              "strong": "G2455"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Agora vos digo: Dai de mão a estes homens, e deixai-os, porque este conselho ou esta obra, caso seja dos homens, se desfará;",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "conselho",
+              "strong": "G4824"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "mas, se é de Deus, não podereis derrotá-los; para que não sejais, porventura, achados até combatendo contra Deus.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Concordaram, pois, com ele, e tendo chamado os apóstolos, açoitaram-nos e mandaram que não falassem em nome de Jesus, e os soltaram.",
+          "tokens": [
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "Retiraram-se pois da presença do sinédrio, regozijando-se de terem sido julgados dignos de sofrer afronta pelo nome de Jesus.",
+          "tokens": [
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            },
+            {
+              "word": "julgados",
+              "strong": "G2919"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "E todos os dias, no templo e de casa em casa, não cessavam de ensinar, e de anunciar a Jesus, o Cristo.",
+          "tokens": [
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "ensinar",
+              "strong": "G1321"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Ora, naqueles dias, crescendo o número dos discípulos, houve uma murmuração dos helenistas contra os hebreus, porque as viúvas daqueles estavam sendo esquecidas na distribuição diária.",
+          "tokens": [
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "viúvas",
+              "strong": "G5503"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E os doze, convocando a multidão dos discípulos, disseram: Não é razoável que nós deixemos a palavra de Deus e sirvamos às mesas.",
+          "tokens": [
+            {
+              "word": "doze",
+              "strong": "G1427"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Escolhei, pois, irmãos, dentre vós, sete homens de boa reputação, cheios do Espírito Santo e de sabedoria, aos quais encarreguemos deste serviço.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "sete",
+              "strong": "G4589"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "sabedoria",
+              "strong": "G4678"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Mas nós perseveraremos na oração e no ministério da palavra.",
+          "tokens": [
+            {
+              "word": "oração",
+              "strong": "G4335"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "O parecer agradou a todos, e elegeram a Estevão, homem cheio de fé e do Espírito Santo, Filipe, Prócoro, Nicanor, Timão, Pármenas, e Nicolau, prosélito de Antioquia,",
+          "tokens": [
+            {
+              "word": "Estevão",
+              "strong": "G4736"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "e os apresentaram perante os apóstolos; estes, tendo orado, lhes impuseram as mãos.",
+          "tokens": [
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E divulgava-se a palavra de Deus, de sorte que se multiplicava muito o número dos discípulos em Jerusalém e muitos sacerdotes obedeciam à fé.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "G749"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Ora, Estêvão, cheio de graça e poder, fazia prodígios e grandes sinais entre o povo.",
+          "tokens": [
+            {
+              "word": "Estêvão",
+              "strong": "G4736"
+            },
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "sinais",
+              "strong": "G4592"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Levantaram-se, porém, alguns que eram da sinagoga chamada dos libertos, dos cireneus, dos alexandrinos, dos da Cilícia e da Ásia, e disputavam com Estêvão;",
+          "tokens": [
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "Estêvão",
+              "strong": "G4736"
+            },
+            {
+              "word": "Cilícia",
+              "strong": "G2791"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "e não podiam resistir à sabedoria e ao Espírito com que falava.",
+          "tokens": [
+            {
+              "word": "sabedoria",
+              "strong": "G4678"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Então subornaram uns homens para que dissessem: Temo-lo ouvido proferir palavras blasfemas contra Moisés e contra Deus.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Assim excitaram o povo, os anciãos, e os escribas; e investindo contra ele, o arrebataram e o levaram ao sinédrio;",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "escribas",
+              "strong": "G1122"
+            },
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "e apresentaram falsas testemunhas que diziam: Este homem não cessa de proferir palavras contra este santo lugar e contra a lei;",
+          "tokens": [
+            {
+              "word": "testemunhas",
+              "strong": "G3144"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "santo",
+              "strong": "G40"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "porque nós o temos ouvido dizer que esse Jesus, o nazareno, há de destruir este lugar e mudar os costumes que Moisés nos transmitiu.",
+          "tokens": [
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "nazareno",
+              "strong": "G3478"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Então todos os que estavam assentados no sinédrio, fitando os olhos nele, viram o seu rosto como de um anjo.",
+          "tokens": [
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E disse o sumo sacerdote: Porventura são assim estas coisas?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Estêvão respondeu: Irmãos e pais, ouvi. O Deus da glória apareceu a nosso pai Abraão, estando ele na Mesopotâmia, antes de habitar em Harã,",
+          "tokens": [
+            {
+              "word": "Estêvão",
+              "strong": "G4736"
+            },
+            {
+              "word": "Irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "glória",
+              "strong": "G1391"
+            },
+            {
+              "word": "pai",
+              "strong": "G3962"
+            },
+            {
+              "word": "Abraão",
+              "strong": "G11"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "e disse-lhe: Sai da tua terra e dentre a tua parentela, e dirige-te à terra que eu te mostrar.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Então saiu da terra dos caldeus e habitou em Harã. Dali, depois que seu pai faleceu, Deus o trouxe para esta terra em que vós agora habitais.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "habitou",
+              "strong": "G4637"
+            },
+            {
+              "word": "pai",
+              "strong": "G3962"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E não lhe deu nela herança, nem sequer o espaço de um pé; mas prometeu que lha daria em possessão, e depois dele à sua descendência, não tendo ele ainda filho.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "G1325"
+            },
+            {
+              "word": "filho",
+              "strong": "G5207"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Pois Deus disse que a sua descendência seria peregrina em terra estranha e que a escravizariam e maltratariam por quatrocentos anos.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Mas eu julgarei a nação que os tiver escravizado, disse Deus; e depois disto sairão, e me servirão neste lugar.",
+          "tokens": [
+            {
+              "word": "nação",
+              "strong": "G1484"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E deu-lhe o pacto da circuncisão; assim então gerou Abraão a Isaque, e o circuncidou ao oitavo dia; e Isaque gerou a Jacó, e Jacó aos doze patriarcas.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "G1325"
+            },
+            {
+              "word": "pacto",
+              "strong": "G1242"
+            },
+            {
+              "word": "Abraão",
+              "strong": "G11"
+            },
+            {
+              "word": "Isaque",
+              "strong": "G2464"
+            },
+            {
+              "word": "Isaque",
+              "strong": "G2464"
+            },
+            {
+              "word": "Jacó",
+              "strong": "G2384"
+            },
+            {
+              "word": "Jacó",
+              "strong": "G2384"
+            },
+            {
+              "word": "doze",
+              "strong": "G1427"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Os patriarcas, movidos de inveja, venderam José para o Egito; mas Deus era com ele,",
+          "tokens": [
+            {
+              "word": "José",
+              "strong": "G2501"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "e o livrou de todas as suas tribulações, e lhe deu graça e sabedoria perante Faraó, rei do Egito, que o constituiu governador sobre o Egito e toda a sua casa.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "G1325"
+            },
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "sabedoria",
+              "strong": "G4678"
+            },
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "governador",
+              "strong": "G2232"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Sobreveio então uma fome a todo o Egito e Canaã, e grande tribulação; e nossos pais não achavam alimentos.",
+          "tokens": [
+            {
+              "word": "fome",
+              "strong": "G3983"
+            },
+            {
+              "word": "tribulação",
+              "strong": "G2347"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Mas tendo ouvido Jacó que no Egito havia trigo, enviou ali nossos pais pela primeira vez.",
+          "tokens": [
+            {
+              "word": "Jacó",
+              "strong": "G2384"
+            },
+            {
+              "word": "trigo",
+              "strong": "G4621"
+            },
+            {
+              "word": "enviou",
+              "strong": "G649"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E na segunda vez deu-se José a conhecer a seus irmãos, e a sua linhagem tornou-se manifesta a Faraó.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "G1325"
+            },
+            {
+              "word": "José",
+              "strong": "G2501"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Então José mandou chamar a seu pai Jacó, e a toda a sua parentela - setenta e cinco almas.",
+          "tokens": [
+            {
+              "word": "José",
+              "strong": "G2501"
+            },
+            {
+              "word": "pai",
+              "strong": "G3962"
+            },
+            {
+              "word": "Jacó",
+              "strong": "G2384"
+            },
+            {
+              "word": "setenta",
+              "strong": "G1440"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Jacó, pois, desceu ao Egito, onde morreu, ele e nossos pais;",
+          "tokens": [
+            {
+              "word": "Jacó",
+              "strong": "G2384"
+            },
+            {
+              "word": "desceu",
+              "strong": "G2597"
+            },
+            {
+              "word": "morreu",
+              "strong": "G599"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "e foram transportados para Siquém e depositados na sepultura que Abraão comprara por certo preço em prata aos filhos de Emor, em Siquém.",
+          "tokens": [
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "Abraão",
+              "strong": "G11"
+            },
+            {
+              "word": "prata",
+              "strong": "G694"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Enquanto se aproximava o tempo da promessa que Deus tinha feito a Abraão, o povo crescia e se multiplicava no Egito;",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "promessa",
+              "strong": "G1860"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "Abraão",
+              "strong": "G11"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "até que se levantou ali outro rei, que não tinha conhecido José.",
+          "tokens": [
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "José",
+              "strong": "G2501"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Usando esse de astúcia contra a nossa raça, maltratou a nossos pais, ao ponto de fazê-los enjeitar seus filhos, para que não vivessem.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Nesse tempo nasceu Moisés, e era mui formoso, e foi criado três meses em casa de seu pai.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "pai",
+              "strong": "G3962"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Sendo ele enjeitado, a filha de Faraó o recolheu e o criou como seu próprio filho.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "G5207"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Assim Moisés foi instruído em toda a sabedoria dos egípcios, e era poderoso em palavras e obras.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "sabedoria",
+              "strong": "G4678"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "obras",
+              "strong": "G2041"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Ora, quando ele completou quarenta anos, veio-lhe ao coração visitar seus irmãos, os filhos de Israel.",
+          "tokens": [
+            {
+              "word": "veio",
+              "strong": "G2064"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E vendo um deles sofrer injustamente, defendeu-o, e vingou o oprimido, matando o egípcio.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Cuidava que seus irmãos entenderiam que por mão dele Deus lhes havia de dar a liberdade; mas eles não entenderam.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "No dia seguinte apareceu-lhes quando brigavam, e quis levá- los à paz, dizendo: Homens, sois irmãos; por que vos maltratais um ao outro?",
+          "tokens": [
+            {
+              "word": "paz",
+              "strong": "G1515"
+            },
+            {
+              "word": "Homens",
+              "strong": "G444"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Mas o que fazia injustiça ao seu próximo o repeliu, dizendo: Quem te constituiu senhor e juiz sobre nós?",
+          "tokens": [
+            {
+              "word": "próximo",
+              "strong": "G4139"
+            },
+            {
+              "word": "senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Acaso queres tu matar-me como ontem mataste o egípcio?",
+          "tokens": [
+            {
+              "word": "matar",
+              "strong": "G5407"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "A esta palavra fugiu Moisés, e tornou-se peregrino na terra de Madiã, onde gerou dois filhos.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E passados mais quarenta anos, apareceu-lhe um anjo no deserto do monte Sinai, numa chama de fogo no meio de uma sarça.",
+          "tokens": [
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "deserto",
+              "strong": "G2048"
+            },
+            {
+              "word": "monte",
+              "strong": "G3735"
+            },
+            {
+              "word": "fogo",
+              "strong": "G4442"
+            },
+            {
+              "word": "Sinai",
+              "strong": "G4614"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Moisés, vendo isto, admirou-se da visão; e, aproximando-se ele para observar, soou a voz do Senhor;",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Eu sou o deus de teus pais, o Deus de Abraão, de Isaque e de Jacó. E Moisés ficou trêmulo e não ousava olhar.",
+          "tokens": [
+            {
+              "word": "deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Abraão",
+              "strong": "G11"
+            },
+            {
+              "word": "Isaque",
+              "strong": "G2464"
+            },
+            {
+              "word": "Jacó",
+              "strong": "G2384"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Disse-lhe então o Senhor: Tira as alparcas dos teus pés, porque o lugar em que estás é terra santa.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "santa",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Vi, com efeito, a aflição do meu povo no Egito, ouvi os seus gemidos, e desci para livrá-lo. Agora pois vem, e enviar-te-ei ao Egito.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "vem",
+              "strong": "G2064"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "A este Moisés que eles haviam repelido, dizendo: Quem te constituiu senhor e juiz? a este enviou Deus como senhor e libertador, pela mão do anjo que lhe aparecera na sarça.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "enviou",
+              "strong": "G649"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Foi este que os conduziu para fora, fazendo prodígios e sinais na terra do Egito, e no Mar Vermelho, e no deserto por quarenta anos.",
+          "tokens": [
+            {
+              "word": "sinais",
+              "strong": "G4592"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "deserto",
+              "strong": "G2048"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Este é o Moisés que disse aos filhos de Israel: Deus vos suscitará dentre vossos irmãos um profeta como eu.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Este é o que esteve na congregação no deserto, com o anjo que lhe falava no monte Sinai, e com nossos pais, o qual recebeu palavras de vida para vo-las dar;",
+          "tokens": [
+            {
+              "word": "deserto",
+              "strong": "G2048"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "monte",
+              "strong": "G3735"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "vida",
+              "strong": "G2222"
+            },
+            {
+              "word": "Sinai",
+              "strong": "G4614"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "ao qual os nossos pais não quiseram obedecer, antes o rejeitaram, e em seus corações voltaram ao Egito,",
+          "tokens": []
+        },
+        {
+          "n": 40,
+          "text": "dizendo a arão: Faze-nos deuses que vão adiante de nós; porque a esse Moisés que nos tirou da terra do Egito, não sabemos o que lhe aconteceu.",
+          "tokens": [
+            {
+              "word": "arão",
+              "strong": "G689"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "sabemos",
+              "strong": "G1097"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "Fizeram, pois, naqueles dias o bezerro, e ofereceram sacrifício ao ídolo, e se alegravam nas obras das suas mãos.",
+          "tokens": [
+            {
+              "word": "obras",
+              "strong": "G2041"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "Mas Deus se afastou, e os abandonou ao culto das hostes do céu, como está escrito no livro dos profetas: Porventura me oferecestes vítimas e sacrifícios por quarenta anos no deserto, ó casa de Israel?",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "escrito",
+              "strong": "G1125"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "deserto",
+              "strong": "G2048"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "Antes carregastes o tabernáculo de Moloque e a estrela do deus Renfã, figuras que vós fizestes para adorá-las. Desterrar-vos-ei pois, para além da Babilônia.",
+          "tokens": [
+            {
+              "word": "deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Babilônia",
+              "strong": "G897"
+            }
+          ]
+        },
+        {
+          "n": 44,
+          "text": "Entre os nossos pais no deserto estava o tabernáculo do testemunho, como ordenara aquele que disse a Moisés que o fizesse segundo o modelo que tinha visto;",
+          "tokens": [
+            {
+              "word": "deserto",
+              "strong": "G2048"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "visto",
+              "strong": "G3708"
+            }
+          ]
+        },
+        {
+          "n": 45,
+          "text": "o qual nossos pais, tendo-o por sua vez recebido, o levaram sob a direção de Josué, quando entraram na posse da terra das nações que Deus expulsou da presença dos nossos pais, até os dias de Davi,",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "G2424"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "nações",
+              "strong": "G1484"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            }
+          ]
+        },
+        {
+          "n": 46,
+          "text": "que achou graça diante de Deus, e pediu que lhe fosse dado achar habitação para o Deus de Jacó.",
+          "tokens": [
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Jacó",
+              "strong": "G2384"
+            }
+          ]
+        },
+        {
+          "n": 47,
+          "text": "Entretanto foi Salomão quem lhe edificou uma casa;",
+          "tokens": [
+            {
+              "word": "Salomão",
+              "strong": "G4672"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 48,
+          "text": "mas o Altíssimo não habita em templos feitos por mãos de homens, como diz o profeta:",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            }
+          ]
+        },
+        {
+          "n": 49,
+          "text": "O céu é meu trono, e a terra o escabelo dos meus pés. Que casa me edificareis, diz o Senhor, ou qual o lugar do meu repouso?",
+          "tokens": [
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "trono",
+              "strong": "G2362"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            }
+          ]
+        },
+        {
+          "n": 50,
+          "text": "Não fez, porventura, a minha mão todas estas coisas?",
+          "tokens": []
+        },
+        {
+          "n": 51,
+          "text": "Homens de dura cerviz, e incircuncisos de coração e ouvido, vós sempre resistis ao Espírito Santo; como o fizeram os vossos pais, assim também vós.",
+          "tokens": [
+            {
+              "word": "Homens",
+              "strong": "G444"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 52,
+          "text": "A qual dos profetas não perseguiram vossos pais? Até mataram os que dantes anunciaram a vinda do Justo, do qual vós agora vos tornastes traidores e homicidas,",
+          "tokens": [
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "perseguiram",
+              "strong": "G1377"
+            },
+            {
+              "word": "vinda",
+              "strong": "G3952"
+            }
+          ]
+        },
+        {
+          "n": 53,
+          "text": "vós, que recebestes a lei por ordenação dos anjos, e não a guardastes.",
+          "tokens": [
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "anjos",
+              "strong": "G32"
+            }
+          ]
+        },
+        {
+          "n": 54,
+          "text": "Ouvindo eles isto, enfureciam-se em seus corações, e rangiam os dentes contra Estêvão.",
+          "tokens": [
+            {
+              "word": "dentes",
+              "strong": "G3599"
+            },
+            {
+              "word": "Estêvão",
+              "strong": "G4736"
+            }
+          ]
+        },
+        {
+          "n": 55,
+          "text": "Mas ele, cheio do Espírito Santo, fitando os olhos no céu, viu a glória de Deus, e Jesus em pé à direita de Deus,",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "viu",
+              "strong": "G3708"
+            },
+            {
+              "word": "glória",
+              "strong": "G1391"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "direita",
+              "strong": "G1188"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 56,
+          "text": "e disse: Eis que vejo os céus abertos, e o Filho do homem em pé à direita de Deus.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "direita",
+              "strong": "G1188"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 57,
+          "text": "Então eles gritaram com grande voz, taparam os ouvidos, e arremeteram unânimes contra ele",
+          "tokens": [
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "ouvidos",
+              "strong": "G3775"
+            }
+          ]
+        },
+        {
+          "n": 58,
+          "text": "e, lançando-o fora da cidade o apedrejavam. E as testemunhas depuseram as suas vestes aos pés de um mancebo chamado Saulo.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "testemunhas",
+              "strong": "G3144"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            }
+          ]
+        },
+        {
+          "n": 59,
+          "text": "Apedrejavam, pois, a Estêvão que orando, dizia: Senhor Jesus, recebe o meu espírito.",
+          "tokens": [
+            {
+              "word": "Estêvão",
+              "strong": "G4736"
+            },
+            {
+              "word": "orando",
+              "strong": "G4336"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "espírito",
+              "strong": "G4151"
+            }
+          ]
+        },
+        {
+          "n": 60,
+          "text": "E pondo-se de joelhos, clamou com grande voz: Senhor, não lhes imputes este pecado. Tendo dito isto, adormeceu. E Saulo consentia na sua morte.",
+          "tokens": [
+            {
+              "word": "clamou",
+              "strong": "G2896"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "pecado",
+              "strong": "G266"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "morte",
+              "strong": "G2288"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Naquele dia levantou-se grande perseguição contra a igreja que estava em Jerusalém; e todos exceto os apóstolos, foram dispersos pelas regiões da Judéia e da Samária.",
+          "tokens": [
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            },
+            {
+              "word": "Samária",
+              "strong": "G4540"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E uns homens piedosos sepultaram a Estêvão, e fizeram grande pranto sobre ele.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Estêvão",
+              "strong": "G4736"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Saulo porém, assolava a igreja, entrando pelas casas e, arrastando homens e mulheres, os entregava à prisão.",
+          "tokens": [
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "No entanto os que foram dispersos iam por toda parte, anunciando a palavra.",
+          "tokens": [
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E descendo Filipe à cidade de Samária, pregava-lhes a Cristo.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "Samária",
+              "strong": "G4540"
+            },
+            {
+              "word": "pregava",
+              "strong": "G2784"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "As multidões escutavam, unânimes, as coisas que Filipe dizia, ouvindo-o e vendo os sinais que operava;",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "sinais",
+              "strong": "G4592"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "pois saíam de muitos possessos os espíritos imundos, clamando em alta voz; e muitos paralíticos e coxos foram curados;",
+          "tokens": [
+            {
+              "word": "imundos",
+              "strong": "G169"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "pelo que houve grande alegria naquela cidade.",
+          "tokens": [
+            {
+              "word": "alegria",
+              "strong": "G5479"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Ora, estava ali certo homem chamado Simão, que vinha exercendo naquela cidade a arte mágica, fazendo pasmar o povo da Samária, e dizendo ser ele uma grande personagem;",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "vinha",
+              "strong": "G290"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Samária",
+              "strong": "G4540"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "ao qual todos atendiam, desde o menor até o maior, dizendo: Este é o Poder de Deus que se chama Grande.",
+          "tokens": [
+            {
+              "word": "Poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Eles o atendiam porque já desde muito tempo os vinha fazendo pasmar com suas artes mágicas.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "vinha",
+              "strong": "G290"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Mas, quando creram em Filipe, que lhes pregava acerca do reino de Deus e do nome de Jesus, batizavam-se homens e mulheres.",
+          "tokens": [
+            {
+              "word": "creram",
+              "strong": "G4100"
+            },
+            {
+              "word": "pregava",
+              "strong": "G2784"
+            },
+            {
+              "word": "reino",
+              "strong": "G932"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E creu até o próprio Simão e, sendo batizado, ficou de contínuo com Filipe; e admirava-se, vendo os sinais e os grandes milagres que se faziam.",
+          "tokens": [
+            {
+              "word": "creu",
+              "strong": "G4100"
+            },
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "sinais",
+              "strong": "G4592"
+            },
+            {
+              "word": "milagres",
+              "strong": "G1411"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Os apóstolos, pois, que estavam em Jerusalém, tendo ouvido que os da Samária haviam recebido a palavra de Deus, enviaram-lhes Pedro e João;",
+          "tokens": [
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Samária",
+              "strong": "G4540"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "os quais, tendo descido, oraram por eles, para que recebessem o Espírito Santo.",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Porque sobre nenhum deles havia ele descido ainda; mas somente tinham sido batizados em nome do Senhor Jesus.",
+          "tokens": [
+            {
+              "word": "batizados",
+              "strong": "G907"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Então lhes impuseram as mãos, e eles receberam o Espírito Santo.",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "receberam",
+              "strong": "G3880"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Quando Simão viu que pela imposição das mãos dos apóstolos se dava o Espírito Santo, ofereceu-lhes dinheiro,",
+          "tokens": [
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "viu",
+              "strong": "G3708"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "dinheiro",
+              "strong": "G2772"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "dizendo: Dai-me também a mim esse poder, para que aquele sobre quem eu impuser as mãos, receba o Espírito Santo.",
+          "tokens": [
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Mas disse-lhe Pedro: Vá tua prata contigo à perdição, pois cuidaste adquirir com dinheiro o dom de Deus.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "prata",
+              "strong": "G694"
+            },
+            {
+              "word": "dinheiro",
+              "strong": "G2772"
+            },
+            {
+              "word": "dom",
+              "strong": "G5486"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Tu não tens parte nem sorte neste ministério, porque o teu coração não é reto diante de Deus.",
+          "tokens": [
+            {
+              "word": "coração",
+              "strong": "G2588"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Arrepende-te, pois, dessa tua maldade, e roga ao Senhor para que porventura te seja perdoado o pensamento do teu coração;",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "perdoado",
+              "strong": "G863"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "pois vejo que estás em fel de amargura, e em laços de iniquidade.",
+          "tokens": [
+            {
+              "word": "iniquidade",
+              "strong": "G458"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Respondendo, porém, Simão, disse: Rogai vós por mim ao Senhor, para que nada do que haveis dito venha sobre mim.",
+          "tokens": [
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Eles, pois, havendo testificado e falado a palavra do Senhor, voltando para Jerusalém, evangelizavam muitas aldeias dos samaritanos.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "samaritanos",
+              "strong": "G4541"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Mas um anjo do Senhor falou a Filipe, dizendo: Levanta-te, e vai em direção do sul pelo caminho que desce de Jerusalém a Gaza, o qual está deserto.",
+          "tokens": [
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "vai",
+              "strong": "G4198"
+            },
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "deserto",
+              "strong": "G2048"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E levantou-se e foi; e eis que um etíope, eunuco, mordomo- mor de Candace, rainha dos etíopes, o qual era superintendente de todos os seus tesouros e tinha ido a Jerusalém para adorar,",
+          "tokens": [
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "tesouros",
+              "strong": "G2344"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "adorar",
+              "strong": "G4352"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "regressava e, sentado no seu carro, lia o profeta Isaías.",
+          "tokens": [
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            },
+            {
+              "word": "Isaías",
+              "strong": "G2268"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Disse o Espírito a Filipe: Chega-te e ajunta-te a esse carro.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E correndo Filipe, ouviu que lia o profeta Isaías, e disse: Entendes, porventura, o que estás lendo?",
+          "tokens": [
+            {
+              "word": "ouviu",
+              "strong": "G191"
+            },
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            },
+            {
+              "word": "Isaías",
+              "strong": "G2268"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Ele respondeu: Pois como poderei entender, se alguém não me ensinar? e rogou a Filipe que subisse e com ele se sentasse.",
+          "tokens": [
+            {
+              "word": "ensinar",
+              "strong": "G1321"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Ora, a passagem da Escritura que estava lendo era esta: Foi levado como a ovelha ao matadouro, e, como está mudo o cordeiro diante do que o tosquia, assim ele não abre a sua boca.",
+          "tokens": [
+            {
+              "word": "Escritura",
+              "strong": "G1124"
+            },
+            {
+              "word": "cordeiro",
+              "strong": "G721"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Na sua humilhação foi tirado o seu julgamento; quem contará a sua geração? porque a sua vida é tirada da terra.",
+          "tokens": [
+            {
+              "word": "julgamento",
+              "strong": "G2920"
+            },
+            {
+              "word": "geração",
+              "strong": "G1074"
+            },
+            {
+              "word": "vida",
+              "strong": "G2222"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Respondendo o eunuco a Filipe, disse: Rogo-te, de quem diz isto o profeta? de si mesmo, ou de algum outro?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Então Filipe tomou a palavra e, começando por esta escritura, anunciou-lhe a Jesus.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "escritura",
+              "strong": "G1124"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "E indo eles caminhando, chegaram a um lugar onde havia água, e disse o eunuco: Eis aqui água; que impede que eu seja batizado?",
+          "tokens": [
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "água",
+              "strong": "G5204"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "água",
+              "strong": "G5204"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "[E disse Felipe: é lícito, se crês de todo o coração. E, respondendo ele, disse: Creio que Jesus Cristo é o Filho de Deus.]",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Felipe",
+              "strong": "G5376"
+            },
+            {
+              "word": "crês",
+              "strong": "G4100"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "Filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "mandou parar o carro, e desceram ambos à água, tanto Filipe como o eunuco, e Filipe o batizou.",
+          "tokens": [
+            {
+              "word": "água",
+              "strong": "G5204"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "Quando saíram da água, o Espírito do Senhor arrebatou a Filipe, e não o viu mais o eunuco, que jubiloso seguia o seu caminho.",
+          "tokens": [
+            {
+              "word": "água",
+              "strong": "G5204"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "viu",
+              "strong": "G3708"
+            },
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Mas Filipe achou-se em Azoto e, indo passando, evangelizava todas as cidades, até que chegou a Cesaréia.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "G4172"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            },
+            {
+              "word": "Filipe",
+              "strong": "G5376"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Saulo, porém, respirando ainda ameaças e mortes contra os discípulos do Senhor, dirigiu-se ao sumo sacerdote,",
+          "tokens": [
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "e pediu-lhe cartas para Damasco, para as sinagogas, a fim de que, caso encontrasse alguns do Caminho, quer homens quer mulheres, os conduzisse presos a Jerusalém.",
+          "tokens": [
+            {
+              "word": "sinagogas",
+              "strong": "G4864"
+            },
+            {
+              "word": "fim",
+              "strong": "G5056"
+            },
+            {
+              "word": "Caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Mas, seguindo ele viagem e aproximando-se de Damasco, subitamente o cercou um resplendor de luz do céu;",
+          "tokens": [
+            {
+              "word": "luz",
+              "strong": "G5457"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "e, caindo por terra, ouviu uma voz que lhe dizia: Saulo, Saulo, por que me persegues?",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "ouviu",
+              "strong": "G191"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Ele perguntou: Quem és tu, Senhor? Respondeu o Senhor: Eu sou Jesus, a quem tu persegues;",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "mas levanta-te e entra na cidade, e lá te será dito o que te cumpre fazer.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Os homens que viajavam com ele quedaram-se emudecidos, ouvindo, na verdade, a voz, mas não vendo ninguém.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "verdade",
+              "strong": "G225"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Saulo levantou-se da terra e, abrindo os olhos, não via coisa alguma; e, guiando-o pela mão, conduziram-no a Damasco.",
+          "tokens": [
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E esteve três dias sem ver, e não comeu nem bebeu.",
+          "tokens": [
+            {
+              "word": "sem",
+              "strong": "G4590"
+            },
+            {
+              "word": "ver",
+              "strong": "G3708"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Ora, havia em Damasco certo discípulo chamado Ananias; e disse-lhe o Senhor em visão: Ananias! Respondeu ele: Eis-me aqui, Senhor.",
+          "tokens": [
+            {
+              "word": "discípulo",
+              "strong": "G3101"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Ananias",
+              "strong": "G367"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Ordenou-lhe o Senhor: Levanta-te, vai à rua chamada Direita e procura em casa de Judas um homem de Tarso chamado Saulo; pois eis que ele está orando;",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "vai",
+              "strong": "G4198"
+            },
+            {
+              "word": "Direita",
+              "strong": "G1188"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "Judas",
+              "strong": "G2455"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "orando",
+              "strong": "G4336"
+            },
+            {
+              "word": "Tarso",
+              "strong": "G5019"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "e viu um homem chamado Ananias entrar e impor-lhe as mãos, para que recuperasse a vista.",
+          "tokens": [
+            {
+              "word": "viu",
+              "strong": "G3708"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "Ananias",
+              "strong": "G367"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Respondeu Ananias: Senhor, a muitos ouvi acerca desse homem, quantos males tem feito aos teus santos em Jerusalém;",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "santos",
+              "strong": "G40"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Ananias",
+              "strong": "G367"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "e aqui tem poder dos principais sacerdotes para prender a todos os que invocam o teu nome.",
+          "tokens": [
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "principais sacerdotes",
+              "strong": "G749"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Disse-lhe, porém, o Senhor: Vai, porque este é para mim um vaso escolhido, para levar o meu nome perante os gentios, e os reis, e os filhos de Israel;",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Vai",
+              "strong": "G4198"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "reis",
+              "strong": "G935"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "pois eu lhe mostrarei quanto lhe cumpre padecer pelo meu nome.",
+          "tokens": [
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Partiu Ananias e entrou na casa e, impondo-lhe as mãos, disse: Irmão Saulo, o Senhor Jesus, que te apareceu no caminho por onde vinhas, enviou-me para que tornes a ver e sejas cheio do Espírito Santo.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Irmão",
+              "strong": "G80"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "enviou",
+              "strong": "G649"
+            },
+            {
+              "word": "ver",
+              "strong": "G3708"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "Ananias",
+              "strong": "G367"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Logo lhe caíram dos olhos como que umas escamas, e recuperou a vista: então, levantando-se, foi batizado.",
+          "tokens": [
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E, tendo tomado alimento, ficou fortalecido. Depois demorou- se alguns dias com os disc!pulos que estavam em Damasco;",
+          "tokens": [
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "e logo nas sinagogas pregava a Jesus, que este era o filho de Deus.",
+          "tokens": [
+            {
+              "word": "sinagogas",
+              "strong": "G4864"
+            },
+            {
+              "word": "pregava",
+              "strong": "G2784"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Todos os seus ouvintes pasmavam e diziam: Não é este o que em Jerusalém perseguia os que invocavam esse nome, e para isso veio aqui, para os levar presos aos principais sacerdotes?",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "veio",
+              "strong": "G2064"
+            },
+            {
+              "word": "principais sacerdotes",
+              "strong": "G749"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Saulo, porém, se fortalecia cada vez mais e confundia os judeus que habitavam em Damasco, provando que Jesus era o Cristo.",
+          "tokens": [
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Decorridos muitos dias, os judeus deliberaram entre si matá- lo.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "matá",
+              "strong": "G3157"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Mas as suas ciladas vieram ao conhecimento de Saulo. E como eles guardavam as portas de dia e de noite para tirar-lhe a vida,",
+          "tokens": [
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "vida",
+              "strong": "G2222"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "os discípulos, tomando-o de noite, desceram-no pelo muro, dentro de um cesto.",
+          "tokens": [
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "noite",
+              "strong": "G3571"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Tendo Saulo chegado a Jerusalém, procurava juntar-se aos discípulos; mas todos o temiam, não crendo que fosse discípulo.",
+          "tokens": [
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "temiam",
+              "strong": "G5399"
+            },
+            {
+              "word": "discípulo",
+              "strong": "G3101"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Então Barnabé, tomando-o consigo, o levou aos apóstolos, e lhes contou como no caminho ele vira o Senhor e que este lhe falara, e como em Damasco pregara ousadamente em nome de Jesus.",
+          "tokens": [
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Assim andava com eles em Jerusalém, entrando e saindo,",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "e pregando ousadamente em nome do Senhor. Falava e disputava também com os helenistas; mas procuravam matá-lo.",
+          "tokens": [
+            {
+              "word": "pregando",
+              "strong": "G2784"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "matá",
+              "strong": "G3157"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Os irmãos, porém, quando o souberam, acompanharam-no até Cesaréia e o enviaram a Tarso.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            },
+            {
+              "word": "Tarso",
+              "strong": "G5019"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Assim, pois, a igreja em toda a Judéia, Galiléia e Samária, tinha paz, sendo edificada, e andando no temor do Senhor; e, pelo auxílio do Espírito Santo, se multiplicava.",
+          "tokens": [
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            },
+            {
+              "word": "Galiléia",
+              "strong": "G1056"
+            },
+            {
+              "word": "Samária",
+              "strong": "G4540"
+            },
+            {
+              "word": "paz",
+              "strong": "G1515"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E aconteceu que, passando Pedro por toda parte, veio também aos santos que habitavam em Lida.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "veio",
+              "strong": "G2064"
+            },
+            {
+              "word": "santos",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Achou ali certo homem, chamado Enéias, que havia oito anos jazia numa cama, porque era paralítico.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Disse-lhe Pedro: Enéias, Jesus Cristo te cura; levanta e faze a tua cama. E logo se levantou.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "E viram-no todos os que habitavam em Lida e Sarona, os quais se converteram ao Senhor.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Havia em Jope uma discípula por nome Tabita, que traduzido quer dizer Dorcas, a qual estava cheia de boas obras e esmolas que fazia.",
+          "tokens": [
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "obras",
+              "strong": "G2041"
+            },
+            {
+              "word": "Jope",
+              "strong": "G2445"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Ora, aconteceu naqueles dias que ela, adoecendo, morreu; e, tendo-a lavado, a colocaram no cenáculo.",
+          "tokens": [
+            {
+              "word": "morreu",
+              "strong": "G599"
+            },
+            {
+              "word": "lavado",
+              "strong": "G3538"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Como Lida era perto de Jope, ouvindo os discípulos que Pedro estava ali, enviaram-lhe dois homens, rogando-lhe: Não te demores em vir ter conosco.",
+          "tokens": [
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "vir",
+              "strong": "G2064"
+            },
+            {
+              "word": "Jope",
+              "strong": "G2445"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "Pedro levantou-se e foi com eles; quando chegou, levaram-no ao cenáulo; e todas as viúvas o cercaram, chorando e mostrando-lhe as túnicas e vestidos que Dorcas fizera enquanto estava com elas.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "viúvas",
+              "strong": "G5503"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Mas Pedro, tendo feito sair a todos, pôs-se de joelhos e orou; e voltando-se para o corpo, disse: Tabita, levanta-te. Ela abriu os olhos e, vendo a Pedro, sentou-se.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "corpo",
+              "strong": "G4983"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "Ele, dando-lhe a mão, levantou-a e, chamando os santos e as viúvas, apresentou-lha viva.",
+          "tokens": [
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "santos",
+              "strong": "G40"
+            },
+            {
+              "word": "viúvas",
+              "strong": "G5503"
+            },
+            {
+              "word": "viva",
+              "strong": "G2198"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "Tornou-se isto notório por toda a Jope, e muitos creram no Senhor.",
+          "tokens": [
+            {
+              "word": "creram",
+              "strong": "G4100"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jope",
+              "strong": "G2445"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "Pedro ficou muitos dias em Jope, em casa de um curtidor chamado Simão.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "Jope",
+              "strong": "G2445"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Um homem em Cesaréia, por nome Cornélio, centurião da coorte chamada italiana,",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "centurião",
+              "strong": "G2760"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            },
+            {
+              "word": "Cornélio",
+              "strong": "G2883"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "piedoso e temente a Deus com toda a sua casa, e que fazia muitas esmolas ao povo e de contínuo orava a Deus,",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "cerca da hora nona do dia, viu claramente em visão um anjo de Deus, que se dirigia para ele e lhe dizia: Cornélio!",
+          "tokens": [
+            {
+              "word": "hora",
+              "strong": "G5610"
+            },
+            {
+              "word": "viu",
+              "strong": "G3708"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Cornélio",
+              "strong": "G2883"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Este, fitando nele os olhos e atemorizado, perguntou: Que é, Senhor? O anjo respondeu-lhe: As tuas orações e as tuas esmolas têm subido para memória diante de Deus;",
+          "tokens": [
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "agora, pois, envia homens a Jope e manda chamar a Simão, que tem por sobrenome Pedro;",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "Jope",
+              "strong": "G2445"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "este se acha hospedado com um certo Simão, curtidor, cuja casa fica à beira-mar. [Ele te dirá o que deves fazer.]",
+          "tokens": [
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Logo que se retirou o anjo que lhe falava, Cornélio chamou dois dos seus domésticos e um piedoso soldado dos que estavam a seu serviço;",
+          "tokens": [
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "Cornélio",
+              "strong": "G2883"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "e, havendo contado tudo, os enviou a Jope.",
+          "tokens": [
+            {
+              "word": "enviou",
+              "strong": "G649"
+            },
+            {
+              "word": "Jope",
+              "strong": "G2445"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "No dia seguinte, indo eles seu caminho e estando já perto da cidade, subiu Pedro ao eirado para orar, cerca de hora sexta.",
+          "tokens": [
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "orar",
+              "strong": "G4336"
+            },
+            {
+              "word": "hora",
+              "strong": "G5610"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E tendo fome, quis comer; mas enquanto lhe preparavam a comida, sobreveio-lhe um êxtase,",
+          "tokens": [
+            {
+              "word": "fome",
+              "strong": "G3983"
+            },
+            {
+              "word": "comer",
+              "strong": "G2068"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "e via o céu aberto e um objeto descendo, como se fosse um grande lençol, sendo baixado pelas quatro pontas sobre a terra,",
+          "tokens": [
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "no qual havia de todos os quadrúpedes e répteis da terra e aves do céu.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "aves",
+              "strong": "G4071"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E uma voz lhe disse: Levanta-te, Pedro, mata e come.",
+          "tokens": [
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "mata",
+              "strong": "G3157"
+            },
+            {
+              "word": "come",
+              "strong": "G2068"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Mas Pedro respondeu: De modo nenhum, Senhor, porque nunca comi coisa alguma comum e imunda.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Pela segunda vez lhe falou a voz: Não chames tu comum ao que Deus purificou.",
+          "tokens": [
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Sucedeu isto por três vezes; e logo foi o objeto recolhido ao céu.",
+          "tokens": [
+            {
+              "word": "céu",
+              "strong": "G3772"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Enquanto Pedro refletia, perplexo, sobre o que seria a visão que tivera, eis que os homens enviados por Cornélio, tendo perguntado pela casa de Simão, pararam à porta.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "porta",
+              "strong": "G2374"
+            },
+            {
+              "word": "Cornélio",
+              "strong": "G2883"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E, chamando, indagavam se ali estava hospedado Simão, que tinha por sobrenome Pedro.",
+          "tokens": [
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Estando Pedro ainda a meditar sobre a visão, o Espírito lhe disse: Eis que dois homens te procuram.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Levanta-te, pois, desce e vai com eles, nada duvidando; porque eu tos enviei.",
+          "tokens": [
+            {
+              "word": "vai",
+              "strong": "G4198"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E descendo Pedro ao encontro desses homens, disse: Sou eu a quem procurais; qual é a causa por que viestes?",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Eles responderam: O centurião Cornélio, homem justo e temente a Deus e que tem bom testemunho de toda a nação judaica, foi avisado por um santo anjo para te chamar à sua casa e ouvir as tuas palavras.",
+          "tokens": [
+            {
+              "word": "centurião",
+              "strong": "G2760"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "bom",
+              "strong": "G2570"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "nação",
+              "strong": "G1484"
+            },
+            {
+              "word": "santo",
+              "strong": "G40"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "ouvir",
+              "strong": "G191"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "Cornélio",
+              "strong": "G2883"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Pedro, pois, convidando-os a entrar, os hospedou. No dia seguinte levantou-se e partiu com eles, e alguns irmãos, dentre os de Jope, o acompanharam.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Jope",
+              "strong": "G2445"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "No outro dia entrou em Cesaréia. E Cornélio os esperava, tendo reunido os seus parentes e amigos mais íntimos.",
+          "tokens": [
+            {
+              "word": "amigos",
+              "strong": "G5384"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            },
+            {
+              "word": "Cornélio",
+              "strong": "G2883"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Quando Pedro ia entrar, veio-lhe Cornélio ao encontro e, prostrando-se a seus pés, o adorou.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "veio",
+              "strong": "G2064"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            },
+            {
+              "word": "Cornélio",
+              "strong": "G2883"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Mas Pedro o ergueu, dizendo: Levanta-te, que eu também sou homem.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E conversando com ele, entrou e achou muitos reunidos,",
+          "tokens": []
+        },
+        {
+          "n": 28,
+          "text": "e disse-lhes: Vós bem sabeis que não é lícito a um judeu ajuntar-se ou chegar-se a estrangeiros; mas Deus mostrou-me que a nenhum homem devo chamar comum ou imundo;",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "judeu",
+              "strong": "G2453"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "imundo",
+              "strong": "G169"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "pelo que, sendo chamado, vim sem objeção. Pergunto pois: Por que razão mandastes chamar-me?",
+          "tokens": [
+            {
+              "word": "sem",
+              "strong": "G4590"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Então disse Cornélio: Faz agora quatro dias que eu estava orando em minha casa à hora nona, e eis que diante de mim se apresentou um homem com vestiduras resplandescentes,",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "orando",
+              "strong": "G4336"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "hora",
+              "strong": "G5610"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Cornélio",
+              "strong": "G2883"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "e disse: Cornélio, a tua oração foi ouvida, e as tuas esmolas estão em memória diante de Deus.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "oração",
+              "strong": "G4335"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Cornélio",
+              "strong": "G2883"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Envia, pois, a Jope e manda chamar a Simão, que tem por sobrenome Pedro; ele está hospedado em casa de Simão, curtidor, à beira-mar.",
+          "tokens": [
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "Jope",
+              "strong": "G2445"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Portanto mandei logo chamar-te, e bem fizeste em vir. Agora pois estamos todos aqui presentes diante de Deus, para ouvir tudo quanto te foi ordenado pelo Senhor.",
+          "tokens": [
+            {
+              "word": "vir",
+              "strong": "G2064"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ouvir",
+              "strong": "G191"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Então Pedro, tomando a palavra, disse: Na verdade reconheço que Deus não faz acepção de pessoas;",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "verdade",
+              "strong": "G225"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "mas que lhe é aceitável aquele que, em qualquer nação, o teme e pratica o que é justo.",
+          "tokens": [
+            {
+              "word": "nação",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "A palavra que ele enviou aos filhos de Israel, anunciando a paz por Jesus Cristo (este é o Senhor de todos) -",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "enviou",
+              "strong": "G649"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            },
+            {
+              "word": "paz",
+              "strong": "G1515"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "esta palavra, vós bem sabeis, foi proclamada por toda a Judéia, começando pela Galiléia, depois do batismo que João pregou,",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            },
+            {
+              "word": "Galiléia",
+              "strong": "G1056"
+            },
+            {
+              "word": "batismo",
+              "strong": "G908"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "concernente a Jesus de Nazaré, como Deus o ungiu com o Espírito Santo e com poder; o qual andou por toda parte, fazendo o bem e curando a todos os oprimidos do Diabo, porque Deus era com ele.",
+          "tokens": [
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Nazaré",
+              "strong": "G3478"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "oprimidos",
+              "strong": "G5412"
+            },
+            {
+              "word": "Diabo",
+              "strong": "G1228"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "Nós somos testemunhas de tudo quanto fez, tanto na terra dos judeus como em Jerusalém; ao qual mataram, pendurando-o num madeiro.",
+          "tokens": [
+            {
+              "word": "testemunhas",
+              "strong": "G3144"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "A este ressuscitou Deus ao terceiro dia e lhe concedeu que se manifestasse,",
+          "tokens": [
+            {
+              "word": "ressuscitou",
+              "strong": "G1453"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "terceiro",
+              "strong": "G5154"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "não a todo povo, mas às testemunhas predeterminadas por Deus, a nós, que comemos e bebemos juntamente com ele depois que ressurgiu dentre os mortos;",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "testemunhas",
+              "strong": "G3144"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ressurgiu",
+              "strong": "G1453"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "este nos mandou pregar ao povo, e testificar que ele é o que por Deus foi constituído juiz dos vivos e dos mortos.",
+          "tokens": [
+            {
+              "word": "pregar",
+              "strong": "G2784"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "testificar",
+              "strong": "G3140"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "A ele todos os profetas dão testemunho de que todo o que nele crê receberá a remissão dos pecados pelo seu nome.",
+          "tokens": [
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "crê",
+              "strong": "G4100"
+            },
+            {
+              "word": "remissão",
+              "strong": "G859"
+            },
+            {
+              "word": "pecados",
+              "strong": "G266"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 44,
+          "text": "Enquanto Pedro ainda dizia estas coisas, desceu o Espírito Santo sobre todos os que ouviam a palavra.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "desceu",
+              "strong": "G2597"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            }
+          ]
+        },
+        {
+          "n": 45,
+          "text": "Os crentes que eram de circuncisão, todos quantos tinham vindo com Pedro, maravilharam-se de que também sobre os gentios se derramasse o dom do Espírito Santo;",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "dom",
+              "strong": "G5486"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 46,
+          "text": "porque os ouviam falar línguas e magnificar a Deus.",
+          "tokens": [
+            {
+              "word": "línguas",
+              "strong": "G1100"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 47,
+          "text": "Respondeu então Pedro: Pode alguém porventura recusar a água para que não sejam batizados estes que também, como nós, receberam o Espírito Santo?",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "água",
+              "strong": "G5204"
+            },
+            {
+              "word": "batizados",
+              "strong": "G907"
+            },
+            {
+              "word": "receberam",
+              "strong": "G3880"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 48,
+          "text": "Mandou, pois, que fossem batizados em nome de Jesus Cristo. Então lhe rogaram que ficasse com eles por alguns dias.",
+          "tokens": [
+            {
+              "word": "batizados",
+              "strong": "G907"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Ora, ouviram os apóstolos e os irmãos que estavam na Judéia que também os gentios haviam recebido a palavra de Deus.",
+          "tokens": [
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E quando Pedro subiu a Jerusalém, disputavam com ele os que eram da circuncisão,",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "dizendo: Entraste em casa de homens incircuncisos e comeste com eles.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Pedro, porém, começou a fazer-lhes uma exposição por ordem, dizendo:",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Estava eu orando na cidade de Jope, e em êxtase tive uma visão; descia um objeto, como se fosse um grande lençol, sendo baixado do céu pelas quatro pontas, e chegou perto de mim.",
+          "tokens": [
+            {
+              "word": "orando",
+              "strong": "G4336"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "Jope",
+              "strong": "G2445"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E, fitando nele os olhos, o contemplava, e vi quadrúpedes da terra, feras, répteis e aves do céu.",
+          "tokens": [
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "feras",
+              "strong": "G2342"
+            },
+            {
+              "word": "aves",
+              "strong": "G4071"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Ouvi também uma voz que me dizia: Levanta-te, Pedro, mata e come.",
+          "tokens": [
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "mata",
+              "strong": "G3157"
+            },
+            {
+              "word": "come",
+              "strong": "G2068"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Mas eu respondi: De modo nenhum, Senhor, pois nunca em minha boca entrou coisa alguma comum e imunda.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Mas a voz respondeu-me do céu segunda vez: Não chames tu comum ao que Deus purificou.",
+          "tokens": [
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Sucedeu isto por três vezes; e tudo tornou a recolher-se ao céu.",
+          "tokens": [
+            {
+              "word": "céu",
+              "strong": "G3772"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E eis que, nesse momento, pararam em frente à casa onde estávamos três homens que me foram enviados de Cesaréia.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Disse-me o Espírito que eu fosse com eles, sem hesitar; e também estes seis irmãos foram comigo e entramos na casa daquele homem.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "sem",
+              "strong": "G4590"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E ele nos contou como vira em pé em sua casa o anjo, que lhe dissera: Envia a Jope e manda chamar a Simão, que tem por sobrenome Pedro,",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "Jope",
+              "strong": "G2445"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "o qual te dirá palavras pelas quais serás salvo, tu e toda a tua casa.",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "salvo",
+              "strong": "G4982"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Logo que eu comecei a falar, desceu sobre eles o Espírito Santo, como também sobre nós no princípio.",
+          "tokens": [
+            {
+              "word": "desceu",
+              "strong": "G2597"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "princípio",
+              "strong": "G746"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Lembrei-me então da palavra do Senhor, como disse: João, na verdade, batizou com água; mas vós sereis batizados no Espírito Santo.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "verdade",
+              "strong": "G225"
+            },
+            {
+              "word": "água",
+              "strong": "G5204"
+            },
+            {
+              "word": "batizados",
+              "strong": "G907"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Portanto, se Deus lhes deu o mesmo dom que dera também a nós, ao crermos no Senhor Jesus Cristo, quem era eu, para que pudesse resistir a Deus?",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "deu",
+              "strong": "G1325"
+            },
+            {
+              "word": "dom",
+              "strong": "G5486"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Ouvindo eles estas coisas, apaziguaram-se e glorificaram a Deus, dizendo: Assim, pois, Deus concedeu também aos gentios o arrependimento para a vida.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "arrependimento",
+              "strong": "G3341"
+            },
+            {
+              "word": "vida",
+              "strong": "G2222"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Aqueles, pois, que foram dispersos pela tribulação suscitada por causa de Estêvão, passaram até a Fenícia, Chipre e Antioquia, não anunciando a ninguém a palavra, senão somente aos judeus.",
+          "tokens": [
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "tribulação",
+              "strong": "G2347"
+            },
+            {
+              "word": "Estêvão",
+              "strong": "G4736"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            },
+            {
+              "word": "Chipre",
+              "strong": "G2954"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Havia, porém, entre eles alguns cíprios e cirenenses, os quais, entrando em Antioquia, falaram também aos gregos, anunciando o Senhor Jesus.",
+          "tokens": [
+            {
+              "word": "gregos",
+              "strong": "G1672"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E a mão do Senhor era com eles, e grande número creu e se converteu ao Senhor.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "creu",
+              "strong": "G4100"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Chegou a notícia destas coisas aos ouvidos da igreja em Jerusalém; e enviaram Barnabé a Antioquia;",
+          "tokens": [
+            {
+              "word": "ouvidos",
+              "strong": "G3775"
+            },
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "o qual, quando chegou e viu a graça de Deus, se alegrou, e exortava a todos a perseverarem no Senhor com firmeza de coração;",
+          "tokens": [
+            {
+              "word": "viu",
+              "strong": "G3708"
+            },
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "porque era homem de bem, e cheio do Espírito Santo e de fé. E muita gente se uniu ao Senhor.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Partiu, pois, Barnabé para Tarso, em busca de Saulo;",
+          "tokens": [
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "busca",
+              "strong": "G2212"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "Tarso",
+              "strong": "G5019"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "e tendo-o achado, o levou para Antioquia. E durante um ano inteiro reuniram-se naquela igreja e instruíram muita gente; e em Antioquia os discípulos pela primeira vez foram chamados cristãos.",
+          "tokens": [
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Naqueles dias desceram profetas de Jerusalém para Antioquia;",
+          "tokens": [
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "e levantando-se um deles, de nome Ágabo, dava a entender pelo Espírito, que haveria uma grande fome por todo o mundo, a qual ocorreu no tempo de Cláudio.",
+          "tokens": [
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "fome",
+              "strong": "G3983"
+            },
+            {
+              "word": "mundo",
+              "strong": "G2889"
+            },
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "E os discípulos resolveram mandar, cada um conforme suas posses, socorro aos irmãos que habitavam na Judéia;",
+          "tokens": [
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "o que eles com efeito fizeram, enviando-o aos anciãos por mão de Barnabé e Saulo.",
+          "tokens": [
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Por aquele mesmo tempo o rei Herodes estendeu as mãos sobre alguns da igreja, para os maltratar;",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "Herodes",
+              "strong": "G2264"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "e matou à espada Tiago, irmão de João.",
+          "tokens": [
+            {
+              "word": "Tiago",
+              "strong": "G2385"
+            },
+            {
+              "word": "irmão",
+              "strong": "G80"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Vendo que isso agradava aos judeus, continuou, mandando prender também a Pedro. (Eram então os dias dos pães ázimos.)",
+          "tokens": [
+            {
+              "word": "Vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "pães",
+              "strong": "G740"
+            },
+            {
+              "word": "ázimos",
+              "strong": "G106"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E, havendo-o prendido, lançou-o na prisão, entregando-o a quatro grupos de quatro soldados cada um para o guardarem, tencionando apresentá-lo ao povo depois da páscoa.",
+          "tokens": [
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            },
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "páscoa",
+              "strong": "G3957"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Pedro, pois, estava guardado na prisão; mas a igreja orava com insistência a Deus por ele.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "guardado",
+              "strong": "G5083"
+            },
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            },
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Ora quando Herodes estava para apresentá-lo, nessa mesma noite estava Pedro dormindo entre dois soldados, acorrentado com duas cadeias e as sentinelas diante da porta guardavam a prisão.",
+          "tokens": [
+            {
+              "word": "Herodes",
+              "strong": "G2264"
+            },
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            },
+            {
+              "word": "porta",
+              "strong": "G2374"
+            },
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E eis que sobreveio um anjo do Senhor, e uma luz resplandeceu na prisão; e ele, tocando no lado de Pedro, o despertou, dizendo: Levanta-te depressa. E caíram-lhe das mãos as cadeias.",
+          "tokens": [
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "luz",
+              "strong": "G5457"
+            },
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Disse-lhe ainda o anjo: Cinge-te e calça as tuas sandálias. E ele o fez. Disse-lhe mais; Cobre-te com a tua capa e segue-me.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Pedro, saindo, o seguia, mesmo sem compreender que era real o que se fazia por intermédio de um anjo, julgando que era uma visão.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "sem",
+              "strong": "G4590"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Depois de terem passado a primeira e a segunda sentinela, chegaram à porta de ferro, que dá para a cidade, a qual se lhes abriu por si mesma; e tendo saído, passaram uma rua, e logo o anjo se apartou dele.",
+          "tokens": [
+            {
+              "word": "porta",
+              "strong": "G2374"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Pedro então, tornando a si, disse: Agora sei verdadeiramente que o Senhor enviou o seu anjo, e me livrou da mão de Herodes e de toda a expectativa do povo dos judeus.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "enviou",
+              "strong": "G649"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "Herodes",
+              "strong": "G2264"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Depois de assim refletir foi à casa de Maria, mãe de João, que tem por sobrenome Marcos, onde muitas pessoas estavam reunidas e oravam.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "Maria",
+              "strong": "G3137"
+            },
+            {
+              "word": "mãe",
+              "strong": "G3384"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Quando ele bateu ao portão do pátio, uma criada chamada Rode saiu a escutar;",
+          "tokens": []
+        },
+        {
+          "n": 14,
+          "text": "e, reconhecendo a voz de Pedro, de gozo não abriu o portão, mas, correndo para dentro, anunciou que Pedro estava lá fora.",
+          "tokens": [
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "gozo",
+              "strong": "G5479"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Eles lhe disseram: Estás louca. Ela, porém, assegurava que assim era. Eles então diziam: É o seu anjo.",
+          "tokens": [
+            {
+              "word": "anjo",
+              "strong": "G32"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Mas Pedro continuava a bater, e, quando abriram, viram-no e pasmaram.",
+          "tokens": [
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Mas ele, acenando-lhes com a mão para que se calassem, contou-lhes como o Senhor o tirara da prisão, e disse: Anunciai isto a Tiago e aos irmãos. E, saindo, partiu para outro lugar.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Tiago",
+              "strong": "G2385"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Logo que amanheceu, houve grande alvoroço entre os soldados sobre o que teria sido feito de Pedro.",
+          "tokens": [
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E Herodes, tendo-o procurado e não o achando, inquiriu as sentinelas e mandou que fossem justiçadas; e descendo da Judéia para Cesaréia, demorou-se ali.",
+          "tokens": [
+            {
+              "word": "Herodes",
+              "strong": "G2264"
+            },
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Ora, Herodes estava muito irritado contra os de Tiro e de Sidom; mas estes, vindo de comum acordo ter com ele e obtendo a amizade de Blasto, camareiro do rei, pediam paz, porquanto o seu país se abastecia do país do rei.",
+          "tokens": [
+            {
+              "word": "Herodes",
+              "strong": "G2264"
+            },
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "paz",
+              "strong": "G1515"
+            },
+            {
+              "word": "rei",
+              "strong": "G935"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "num dia designado, Herodes, vestido de trajes reais, sentou- se no trono e dirigia-lhes a palavra.",
+          "tokens": [
+            {
+              "word": "Herodes",
+              "strong": "G2264"
+            },
+            {
+              "word": "trono",
+              "strong": "G2362"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E o povo exclamava: É a voz de um deus, e não de um homem.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "No mesmo instante o anjo do Senhor o feriu, porque não deu glória a Deus; e, comido de vermes, expirou.",
+          "tokens": [
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "deu",
+              "strong": "G1325"
+            },
+            {
+              "word": "glória",
+              "strong": "G1391"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E a palavra de Deus crescia e se multiplicava.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Barnabé e Saulo, havendo terminando aquele serviço, voltaram de Jerusalém, levando consigo a João, que tem por sobrenome Marcos.",
+          "tokens": [
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Ora, na igreja em Antioquia havia profetas e mestres, a saber: Barnabé, Simeão, chamado Níger, Lúcio de Cirene, Manaém, colaço de Herodes o tetrarca, e Saulo.",
+          "tokens": [
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Simeão",
+              "strong": "G4826"
+            },
+            {
+              "word": "Herodes",
+              "strong": "G2264"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Enquanto eles ministravam perante o Senhor e jejuavam, disse o Espírito Santo: Separai-me a Barnabé e a Saulo para a obra a que os tenho chamado.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Então, depois que jejuaram, oraram e lhes impuseram as mãos, os despediram.",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Estes, pois, enviados pelo Espírito Santo, desceram a Selêucia e dali navegaram para Chipre.",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "Chipre",
+              "strong": "G2954"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Chegados a Salamina, anunciavam a palavra de Deus nas sinagogas dos judeus, e tinham a João como auxiliar.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "sinagogas",
+              "strong": "G4864"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Havendo atravessado a ilha toda até Pafos, acharam um certo mago, falso profeta, judeu, chamado Bar-Jesus,",
+          "tokens": [
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            },
+            {
+              "word": "judeu",
+              "strong": "G2453"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "que estava com o procônsul Sérgio Paulo, homem sensato. Este chamou a Barnabé e Saulo e mostrou desejo de ouvir a palavra de Deus.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "ouvir",
+              "strong": "G191"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Mas resistia-lhes Elimas, o encantador (porque assim se interpreta o seu nome), procurando desviar a fé do procônsul.",
+          "tokens": [
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Todavia Saulo, também chamado Paulo, cheio do Espírito Santo, fitando os olhos nele,",
+          "tokens": [
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "disse: ç filho do Diabo, cheio de todo o engano e de toda a malícia, inimigo de toda a justiça, não cessarás de perverter os caminhos retos do Senhor?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "Diabo",
+              "strong": "G1228"
+            },
+            {
+              "word": "justiça",
+              "strong": "G1343"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Agora eis a mão do Senhor sobre ti, e ficarás cego, sem ver o sol por algum tempo. Imediatamente caiu sobre ele uma névoa e trevas e, andando à roda, procurava quem o guiasse pela mão.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "cego",
+              "strong": "G5185"
+            },
+            {
+              "word": "sem",
+              "strong": "G4590"
+            },
+            {
+              "word": "ver",
+              "strong": "G3708"
+            },
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "trevas",
+              "strong": "G4653"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então o procônsul, vendo o que havia acontecido, creu, maravilhando-se da doutrina do Senhor.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "creu",
+              "strong": "G4100"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Tendo Paulo e seus companheiros navegado de Pafos, chegaram a Perge, na Panfília. João, porém, apartando-se deles, voltou para Jerusalém.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Panfília",
+              "strong": "G3828"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Mas eles, passando de Perge, chegaram a Antioquia da Psídia; e entrando na sinagoga, no dia de sábado, sentaram-se.",
+          "tokens": [
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "sábado",
+              "strong": "G4521"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Depois da leitura da lei e dos profetas, os chefes da sinagoga mandaram dizer-lhes: Irmãos, se tendes alguma palavra de exortação ao povo, falai.",
+          "tokens": [
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "Irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Então Paulo se levantou e, pedindo silêncio com a mão, disse: Varões israelitas, e os que temeis a Deus, ouvi:",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "O Deus deste povo de Israel escolheu a nossos pais, e exaltou o povo, sendo eles estrangeiros na terra do Egito, de onde os tirou com braço poderoso,",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "e suportou-lhes os maus costumes no deserto por espaço de quase quarenta anos;",
+          "tokens": [
+            {
+              "word": "deserto",
+              "strong": "G2048"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "e, havendo destruído as sete nações na terra de Canaã, deu- lhes o território delas por herança durante cerca de quatrocentos e cinquenta anos.",
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "G4589"
+            },
+            {
+              "word": "nações",
+              "strong": "G1484"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "deu",
+              "strong": "G1325"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Depois disto, deu-lhes juízes até o profeta Samuel.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "G1325"
+            },
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Então pediram um rei, e Deus lhes deu por quarenta anos a Saul, filho de Cis, varão da tribo de Benjamim.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "deu",
+              "strong": "G1325"
+            },
+            {
+              "word": "filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "G958"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E tendo deposto a este, levantou-lhes como rei a Davi, ao qual também, dando testemunho, disse: Achei a Davi, filho de Jessé, homem segundo o meu coração, que fará toda a minha vontade.",
+          "tokens": [
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            },
+            {
+              "word": "filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "Jessé",
+              "strong": "G2421"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Da descendência deste, conforme a promessa, trouxe Deus a Israel um Salvador, Jesus;",
+          "tokens": [
+            {
+              "word": "promessa",
+              "strong": "G1860"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            },
+            {
+              "word": "Salvador",
+              "strong": "G4990"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "havendo João, antes da aparecimento dele, pregado a todo o povo de Israel o batismo de arrependimento.",
+          "tokens": [
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "pregado",
+              "strong": "G2784"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            },
+            {
+              "word": "batismo",
+              "strong": "G908"
+            },
+            {
+              "word": "arrependimento",
+              "strong": "G3341"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Mas João, quando completava a carreira, dizia: Quem pensais vós que su sou? Eu não sou o Cristo, mas eis que após mim vem aquele a quem não sou digno de desatar as alparcas dos pés.",
+          "tokens": [
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "vem",
+              "strong": "G2064"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Irmãos, filhos da estirpe de Abraão, e os que dentre vós temem a Deus, a nós é enviada a palavra desta salvação.",
+          "tokens": [
+            {
+              "word": "Irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "Abraão",
+              "strong": "G11"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "salvação",
+              "strong": "G4982"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Pois, os que habitam em Jerusalém e as suas autoridades, porquanto não conheceram a este Jesus, condenando-o, cumpriram as mesmas palavras dos profetas que se ouvem ler todos os sábados.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "E, se bem que não achassem nele nenhuma causa de morte, pediram a Pilatos que ele fosse morto.",
+          "tokens": [
+            {
+              "word": "morte",
+              "strong": "G2288"
+            },
+            {
+              "word": "Pilatos",
+              "strong": "G4091"
+            },
+            {
+              "word": "morto",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Quando haviam cumprido todas as coisas que dele estavam escritas, tirando-o do madeiro, o puseram na sepultura;",
+          "tokens": [
+            {
+              "word": "cumprido",
+              "strong": "G4137"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "mas Deus o ressuscitou dentre os mortos;",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ressuscitou",
+              "strong": "G1453"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "e ele foi visto durante muitos dias por aqueles que com ele subiram da Galiléia a Jerusalém, os quais agora são suas testemunhas para com o povo.",
+          "tokens": [
+            {
+              "word": "visto",
+              "strong": "G3708"
+            },
+            {
+              "word": "Galiléia",
+              "strong": "G1056"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "testemunhas",
+              "strong": "G3144"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E nós vos anunciamos as boas novas da promessa, feita aos pais,",
+          "tokens": [
+            {
+              "word": "promessa",
+              "strong": "G1860"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "a qual Deus nos tem cumprido, a nós, filhos deles, levantando a Jesus, como também está escrito no salmo segundo: Tu és meu Filho, hoje te gerei.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "cumprido",
+              "strong": "G4137"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "escrito",
+              "strong": "G1125"
+            },
+            {
+              "word": "Filho",
+              "strong": "G5207"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "E no tocante a que o ressuscitou dentre os mortos para nunca mais tornar à corrupção, falou Deus assim: Dar-vos-ei as santas e fiéis bênçãos de Davi;",
+          "tokens": [
+            {
+              "word": "ressuscitou",
+              "strong": "G1453"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "santas",
+              "strong": "G40"
+            },
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "pelo que ainda em outro salmo diz: Não permitirás que o teu Santo veja a corrupção.",
+          "tokens": [
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Porque Davi, na verdade, havendo servido a sua própria geração pela vontade de Deus, dormiu e foi depositado junto a seus pais e experimentou corrupção.",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            },
+            {
+              "word": "verdade",
+              "strong": "G225"
+            },
+            {
+              "word": "geração",
+              "strong": "G1074"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Mas aquele a quem Deus ressuscitou nenhuma corrupção experimentou.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ressuscitou",
+              "strong": "G1453"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Seja-vos pois notório, varões, que por este se vos anuncia a remissão dos pecados.",
+          "tokens": [
+            {
+              "word": "remissão",
+              "strong": "G859"
+            },
+            {
+              "word": "pecados",
+              "strong": "G266"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "E de todas as coisas de que não pudestes ser justificados pela lei de Moisés, por ele é justificado todo o que crê.",
+          "tokens": [
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "crê",
+              "strong": "G4100"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Cuidai pois que não venha sobre vós o que está dito nos profetas:",
+          "tokens": [
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "Vede, ó desprezadores, admirai-vos e desaparecei; porque realizo uma obra em vossos dias, obra em que de modo algum crereis, se alguém vo-la contar.",
+          "tokens": []
+        },
+        {
+          "n": 42,
+          "text": "Quando iam saindo, rogavam que estas palavras lhes fossem repetidas no sábado seguinte.",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "sábado",
+              "strong": "G4521"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "E, despedida a sinagoga, muitos judeus e prosélitos devotos seguiram a Paulo e Barnabé, os quais, falando-lhes, os exortavam a perseverarem na graça de Deus.",
+          "tokens": [
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 44,
+          "text": "No sábado seguinte reuniu-se quase toda a cidade para ouvir a palavra de Deus.",
+          "tokens": [
+            {
+              "word": "sábado",
+              "strong": "G4521"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "ouvir",
+              "strong": "G191"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 45,
+          "text": "Mas os judeus, vendo as multidões, encheram-se de inveja e, blasfemando, contradiziam o que Paulo falava.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 46,
+          "text": "Então Paulo e Barnabé, falando ousadamente, disseram: Era mister que a vós se pregasse em primeiro lugar a palavra de Deus; mas, visto que a rejeitais, e não vos julgais dignos da vida eterna, eis que nos viramos para os gentios;",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "primeiro",
+              "strong": "G4413"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "visto",
+              "strong": "G3708"
+            },
+            {
+              "word": "julgais",
+              "strong": "G2919"
+            },
+            {
+              "word": "vida",
+              "strong": "G2222"
+            },
+            {
+              "word": "eterna",
+              "strong": "G166"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 47,
+          "text": "porque assim nos ordenou o Senhor: Eu te pus para luz dos gentios, a fim de que sejas para salvação até os confins da terra.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "luz",
+              "strong": "G5457"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "fim",
+              "strong": "G5056"
+            },
+            {
+              "word": "salvação",
+              "strong": "G4982"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 48,
+          "text": "Os gentios, ouvindo isto, alegravam-se e glorificavam a palavra do Senhor; e creram todos quantos haviam sido destinados para a vida eterna.",
+          "tokens": [
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "creram",
+              "strong": "G4100"
+            },
+            {
+              "word": "vida",
+              "strong": "G2222"
+            },
+            {
+              "word": "eterna",
+              "strong": "G166"
+            }
+          ]
+        },
+        {
+          "n": 49,
+          "text": "E divulgava-se a palavra do Senhor por toda aquela região.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 50,
+          "text": "Mas os judeus incitaram as mulheres devotas de alta posição e os principais da cidade, suscitaram uma perseguição contra Paulo e Barnabé, e os lançaram fora dos seus termos.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            }
+          ]
+        },
+        {
+          "n": 51,
+          "text": "Mas estes, sacudindo contra eles o pó dos seus pés, partiram para Icônio.",
+          "tokens": [
+            {
+              "word": "pés",
+              "strong": "G4228"
+            },
+            {
+              "word": "Icônio",
+              "strong": "G2430"
+            }
+          ]
+        },
+        {
+          "n": 52,
+          "text": "Os discípulos, porém, estavam cheios de alegria e do Espírito Santo.",
+          "tokens": [
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "alegria",
+              "strong": "G5479"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Em Icônio entraram juntos na sinagoga dos judeus e falaram de tal modo que creu uma grande multidão tanto de judeus como de gregos.",
+          "tokens": [
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "creu",
+              "strong": "G4100"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "gregos",
+              "strong": "G1672"
+            },
+            {
+              "word": "Icônio",
+              "strong": "G2430"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Mas os judeus incrédulos excitaram e irritaram os ânimos dos gentios contra os irmãos.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Eles, entretanto, se demoraram ali por muito tempo, falando ousadamente acerca do Senhor, o qual dava testemunho à palavra da sua graça, concedendo que por suas mãos se fizessem sinais e prodígios.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "sinais",
+              "strong": "G4592"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E se dividiu o povo da cidade; uns eram pelos judeus, e outros pelos apóstolos.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E, havendo um motim tanto dos gentios como dos judeus, juntamente com as suas autoridades, para os ultrajarem e apedrejarem,",
+          "tokens": [
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "eles, sabendo-o, fugiram para Listra e Derbe, cidades da Licaônia, e a região circunvizinha;",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "G4172"
+            },
+            {
+              "word": "Derbe",
+              "strong": "G1191"
+            },
+            {
+              "word": "Listra",
+              "strong": "G3082"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "e ali pregavam o evangelho.",
+          "tokens": [
+            {
+              "word": "evangelho",
+              "strong": "G2098"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Em Listra estava sentado um homem aleijado dos pés, coxo de nascença e que nunca tinha andado.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            },
+            {
+              "word": "Listra",
+              "strong": "G3082"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Este ouvia falar Paulo, que, fitando nele os olhos e vendo que tinha fé para ser curado,",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "curado",
+              "strong": "G2323"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "disse em alta voz: Levanta-te direito sobre os teus pés. E ele saltou, e andava.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "As multidões, vendo o que Paulo fizera, levantaram a voz, dizendo em língua licaônica: Fizeram-se os deuses semelhantes aos homens e desceram até nós.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "língua",
+              "strong": "G1100"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "A Barnabé chamavam Júpiter e a Paulo, Mercúrio, porque era ele o que dirigia a palavra.",
+          "tokens": [
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "O sacerdote de Júpiter, cujo templo estava em frente da cidade, trouxe para as portas touros e grinaldas e, juntamente com as multidões, queria oferecer-lhes sacrifícios.",
+          "tokens": [
+            {
+              "word": "sacerdote",
+              "strong": "G749"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Quando, porém, os apóstolos Barnabé e Paulo ouviram isto, rasgaram as suas vestes e saltaram para o meio da multidão, clamando",
+          "tokens": [
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "e dizendo: Senhores, por que fazeis estas coisas? Nós também somos homens, de natureza semelhante à vossa, e vos anunciamos o evangelho para que destas práticas vãs vos convertais ao Deus vivo, que fez o céu, a terra, o mar, e tudo quanto há neles;",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "evangelho",
+              "strong": "G2098"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "vivo",
+              "strong": "G2198"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "o qual nos tempos passados permitiu que todas as nações andassem nos seus próprios caminhos.",
+          "tokens": [
+            {
+              "word": "nações",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Contudo não deixou de dar testemunho de si mesmo, fazendo o bem, dando-vos chuvas do céu e estações frutíferas, enchendo-vos de mantimento, e de alegria os vossos corações.",
+          "tokens": [
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "alegria",
+              "strong": "G5479"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E dizendo isto, com dificuldade impediram as multidões de lhes oferecerem sacrifícios.",
+          "tokens": []
+        },
+        {
+          "n": 19,
+          "text": "Sobrevieram, porém, judeus de Antioquia e de Icônio e, havendo persuadido as multidões, apedrejaram a Paulo, e arrastaram-no para fora da cidade, cuidando que estava morto.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "morto",
+              "strong": "G3498"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            },
+            {
+              "word": "Icônio",
+              "strong": "G2430"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Mas quando os discípulos o rodearam, ele se levantou e entrou na cidade. No dia seguinte partiu com Barnabé para Derbe.",
+          "tokens": [
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Derbe",
+              "strong": "G1191"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E, tendo anunciado o evangelho naquela cidade e feito muitos discípulos, voltaram para Listra, Icônio e Antioquia,",
+          "tokens": [
+            {
+              "word": "evangelho",
+              "strong": "G2098"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            },
+            {
+              "word": "Icônio",
+              "strong": "G2430"
+            },
+            {
+              "word": "Listra",
+              "strong": "G3082"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "confirmando as almas dos discípulos, exortando-os a perseverarem na fé, dizendo que por muitas tribulações nos é necessário entrar no reino de Deus.",
+          "tokens": [
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "necessário",
+              "strong": "G1163"
+            },
+            {
+              "word": "reino",
+              "strong": "G932"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E, havendo-lhes feito eleger anciãos em cada igreja e orado com jejuns, os encomendaram ao Senhor em quem haviam crido.",
+          "tokens": [
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Atravessando então a Pisídia, chegaram à Panfília.",
+          "tokens": [
+            {
+              "word": "Panfília",
+              "strong": "G3828"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E, tendo anunciado a palavra em Perge, desceram a Atália.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E dali navegaram para Antioquia, donde tinham sido encomendados à graça de Deus para a obra que acabavam de cumprir.",
+          "tokens": [
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "cumprir",
+              "strong": "G4137"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Quando chegaram e reuniram a igreja, relataram tudo quanto Deus fizera por meio deles, e como abrira aos gentios a porta da fé.",
+          "tokens": [
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "porta",
+              "strong": "G2374"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "E ficaram ali não pouco tempo, com os discípulos.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Então alguns que tinham descido da Judéia ensinavam aos irmãos: Se não vos circuncidardes, segundo o rito de Moisés, não podeis ser salvos.",
+          "tokens": [
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            },
+            {
+              "word": "ensinavam",
+              "strong": "G1321"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Tendo Paulo e Barnabé contenda e não pequena discussão com eles, os irmãos resolveram que Paulo e Barnabé e mais alguns dentre eles subissem a Jerusalém, aos apóstolos e aos anciãos, por causa desta questão.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "questão",
+              "strong": "G2214"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Eles, pois, sendo acompanhados pela igreja por um trecho do caminho, passavam pela Fenícia e por Samária, contando a conversão dos gentios; e davam grande alegria a todos os irmãos.",
+          "tokens": [
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "Samária",
+              "strong": "G4540"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "alegria",
+              "strong": "G5479"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E, quando chegaram a Jerusalém, foram recebidos pela igreja e pelos apóstolos e anciãos, e relataram tudo quanto Deus fizera por meio deles.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Mas alguns da seita dos fariseus, que tinham crido, levantaram-se dizendo que era necessário circuncidá-los e mandar-lhes observar a lei de Moisés.",
+          "tokens": [
+            {
+              "word": "fariseus",
+              "strong": "G5330"
+            },
+            {
+              "word": "necessário",
+              "strong": "G1163"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Congregaram-se pois os apóstolos e os anciãos para considerar este assunto.",
+          "tokens": [
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E, havendo grande discussão, levantou-se Pedro e disse-lhes: Irmãos, bem sabeis que já há muito tempo Deus me elegeu dentre vós, para que os gentios ouvissem da minha boca a palavra do evangelho e cressem.",
+          "tokens": [
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "Pedro",
+              "strong": "G4074"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "evangelho",
+              "strong": "G2098"
+            },
+            {
+              "word": "cressem",
+              "strong": "G4100"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E Deus, que conhece os corações, testemunhou a favor deles, dando-lhes o Espírito Santo, assim como a nós;",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "e não fez distinção alguma entre eles e nós, purificando os seus corações pela fé.",
+          "tokens": []
+        },
+        {
+          "n": 10,
+          "text": "Agora, pois, por que tentais a Deus, pondo sobre a cerviz dos discípulos um jugo que nem nossos pais nem nós pudemos suportar?",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "jugo",
+              "strong": "G2218"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Mas cremos que somos salvos pela graça do Senhor Jesus, do mesmo modo que eles também.",
+          "tokens": [
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então toda a multidão se calou e escutava a Barnabé e a Paulo, que contavam quantos sinais e prodígios Deus havia feito por meio deles entre os gentios.",
+          "tokens": [
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "sinais",
+              "strong": "G4592"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Depois que se calaram, Tiago, tomando a palavra, disse: Irmãos, ouvi-me:",
+          "tokens": [
+            {
+              "word": "Tiago",
+              "strong": "G2385"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Irmãos",
+              "strong": "G80"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Simão relatou como primeiramente Deus visitou os gentios para tomar dentre eles um povo para o seu Nome.",
+          "tokens": [
+            {
+              "word": "Simão",
+              "strong": "G4613"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E com isto concordam as palavras dos profetas; como está escrito:",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "escrito",
+              "strong": "G1125"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Depois disto voltarei, e reedificarei o tabernáculo de Davi, que está caído; reedificarei as suas ruínas, e tornarei a levantá-lo;",
+          "tokens": [
+            {
+              "word": "Davi",
+              "strong": "G1138"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "para que o resto dos homens busque ao Senhor, sim, todos os gentios, sobre os quais é invocado o meu nome,",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "diz o Senhor que faz estas coisas, que são conhecidas desde a antiguidade.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Por isso, julgo que não se deve perturbar aqueles, dentre os gentios, que se convertem a Deus,",
+          "tokens": [
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "mas escrever-lhes que se abstenham das contaminações dos ídolos, da prostituição, do que é sufocado e do sangue.",
+          "tokens": [
+            {
+              "word": "sangue",
+              "strong": "G129"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Porque Moisés, desde tempos antigos, tem em cada cidade homens que o preguem, e cada sábado é lido nas sinagogas.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "sábado",
+              "strong": "G4521"
+            },
+            {
+              "word": "sinagogas",
+              "strong": "G4864"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Então pareceu bem aos apóstolos e aos anciãos com toda a igreja escolher homens dentre eles e enviá-los a Antioquia com Paulo e Barnabé, a saber: Judas, chamado Barsabás, e Silas, homens influentes entre os irmãos.",
+          "tokens": [
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Judas",
+              "strong": "G2455"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E por intermédio deles escreveram o seguinte: Os apóstolos e os anciãos, irmãos, aos irmãos dentre os gentios em Antioquia, na Síria e na Cicília, saúde.",
+          "tokens": [
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            },
+            {
+              "word": "Síria",
+              "strong": "G4947"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Portanto ouvimos que alguns dentre nós, aos quais nada mandamos, vos têm perturbado com palavras, confundindo as vossas almas,",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "pareceu-nos bem, tendo chegado a um acordo, escolher alguns homens e enviá-los com os nossos amados Barnabé e Paulo,",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "homens que têm exposto as suas vidas pelo nome de nosso Senhor Jesus Cristo.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Enviamos portanto Judas e Silas, os quais também por palavra vos anunciarão as mesmas coisas.",
+          "tokens": [
+            {
+              "word": "Judas",
+              "strong": "G2455"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Porque pareceu bem ao Espírito Santo e a nós não vos impor maior encargo além destas coisas necessárias:",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Que vos abstenhais das coisas sacrificadas aos ídolos, e do sangue, e da carne sufocada, e da prostituição; e destas coisas fareis bem de vos guardar. Bem vos vá.",
+          "tokens": [
+            {
+              "word": "sangue",
+              "strong": "G129"
+            },
+            {
+              "word": "carne",
+              "strong": "G4561"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Então eles, tendo-se despedido, desceram a Antioquia e, havendo reunido a assembléia, entregaram a carta.",
+          "tokens": [
+            {
+              "word": "assembléia",
+              "strong": "G1577"
+            },
+            {
+              "word": "entregaram",
+              "strong": "G3860"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "E, quando a leram, alegraram-se pela consolação.",
+          "tokens": []
+        },
+        {
+          "n": 32,
+          "text": "Depois Judas e Silas, que também eram profetas, exortaram os irmãos com muitas palavras e os fortaleceram.",
+          "tokens": [
+            {
+              "word": "Judas",
+              "strong": "G2455"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "E, tendo-se demorado ali por algum tempo, foram pelos irmãos despedidos em paz, de volta aos que os haviam mandado.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "paz",
+              "strong": "G1515"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "[Mas pareceu bem a Silas ficar ali.]",
+          "tokens": [
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Mas Paulo e Barnabé demoraram-se em Antioquia, ensinando e pregando com muitos outros a palavra do Senhor.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "ensinando",
+              "strong": "G1321"
+            },
+            {
+              "word": "pregando",
+              "strong": "G2784"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Decorridos alguns dias, disse Paulo a Barnabé: Tornemos a visitar os irmãos por todas as cidades em que temos anunciado a palavra do Senhor, para ver como vão.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "cidades",
+              "strong": "G4172"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "ver",
+              "strong": "G3708"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Ora, Barnabé queria que levassem também a João, chamado Marcos.",
+          "tokens": [
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Mas a Paulo não parecia razoável que tomassem consigo aquele que desde a Panfília se tinha apartado deles e não os tinha acompanhado no trabalho.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Panfília",
+              "strong": "G3828"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "E houve entre eles tal desavença que se separaram um do outro, e Barnabé, levando consigo a Marcos, navegou para Chipre.",
+          "tokens": [
+            {
+              "word": "Barnabé",
+              "strong": "G921"
+            },
+            {
+              "word": "Chipre",
+              "strong": "G2954"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Mas Paulo, tendo escolhido a Silas, partiu encomendado pelos irmãos à graça do Senhor.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "E passou pela Síria e Cilícia, fortalecendo as igrejas.",
+          "tokens": [
+            {
+              "word": "igrejas",
+              "strong": "G1577"
+            },
+            {
+              "word": "Cilícia",
+              "strong": "G2791"
+            },
+            {
+              "word": "Síria",
+              "strong": "G4947"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Chegou também a Derbe e Listra. E eis que estava ali certo discípulo por nome Timóteo, filho de uma judia crente, mas de pai grego;",
+          "tokens": [
+            {
+              "word": "discípulo",
+              "strong": "G3101"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Timóteo",
+              "strong": "G5095"
+            },
+            {
+              "word": "filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "pai",
+              "strong": "G3962"
+            },
+            {
+              "word": "grego",
+              "strong": "G1676"
+            },
+            {
+              "word": "Derbe",
+              "strong": "G1191"
+            },
+            {
+              "word": "Listra",
+              "strong": "G3082"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "do qual davam bom testemunho os irmãos em Listra e Icônio.",
+          "tokens": [
+            {
+              "word": "bom",
+              "strong": "G2570"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Icônio",
+              "strong": "G2430"
+            },
+            {
+              "word": "Listra",
+              "strong": "G3082"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Paulo quis que este fosse com ele e, tomando-o, o circuncidou por causa dos judeus que estavam naqueles lugares; porque todos sabiam que seu pai era grego.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "pai",
+              "strong": "G3962"
+            },
+            {
+              "word": "grego",
+              "strong": "G1676"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Quando iam passando pelas cidades, entregavam aos irmãos, para serem observadas, as decisões que haviam sido tomadas pelos apóstolos e anciãos em Jerusalém.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "G4172"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "apóstolos",
+              "strong": "G652"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Assim as igrejas eram confirmadas na fé, e dia a dia cresciam em número.",
+          "tokens": [
+            {
+              "word": "igrejas",
+              "strong": "G1577"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Atravessaram a região frígio-gálata, tendo sido impedidos pelo Espírito Santo de anunciar a palavra na Ásia;",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "e tendo chegado diante da Mísia, tentavam ir para Bitínia, mas o Espírito de Jesus não lho permitiu.",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Então, passando pela Mísia, desceram a Trôade.",
+          "tokens": [
+            {
+              "word": "Trôade",
+              "strong": "G5174"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "De noite apareceu a Paulo esta visão: estava ali em pé um homem da Macedônia, que lhe rogava: Passa à Macedônia e ajuda-nos.",
+          "tokens": [
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Macedônia",
+              "strong": "G3109"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E quando ele teve esta visão, procuravamos logo partir para a Macedônia, concluindo que Deus nos havia chamado para lhes anunciarmos o evangelho.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "evangelho",
+              "strong": "G2098"
+            },
+            {
+              "word": "Macedônia",
+              "strong": "G3109"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Navegando, pois, de Trôade, fomos em direitura a Samotrácia, e no dia seguinte a Neápolis;",
+          "tokens": [
+            {
+              "word": "Trôade",
+              "strong": "G5174"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "e dali para Filipos, que é a primeira cidade desse distrito da Macedônia, e colônia romana; e estivemos alguns dias nessa cidade.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "Macedônia",
+              "strong": "G3109"
+            },
+            {
+              "word": "Filipos",
+              "strong": "G5375"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "No sábado saímos portas afora para a beira do rio, onde julgávamos haver um lugar de oração e, sentados, falávamos às mulheres ali reunidas.",
+          "tokens": [
+            {
+              "word": "sábado",
+              "strong": "G4521"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "oração",
+              "strong": "G4335"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E certa mulher chamada Lídia, vendedora de púrpura, da cidade de Tiatira, e que temia a Deus, nos escutava e o Senhor lhe abriu o coração para atender às coisas que Paulo dizia.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "G1135"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Tiatira",
+              "strong": "G2363"
+            },
+            {
+              "word": "Lídia",
+              "strong": "G3070"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Depois que foi batizada, ela e a sua casa, rogou-nos, dizendo: Se haveis julgado que eu sou fiel ao Senhor, entrai em minha casa, e ficai ali. E nos constrangeu a isso.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Ora, aconteceu que quando íamos ao lugar de oração, nos veio ao encontro uma jovem que tinha um espírito adivinhador, e que, adivinhando, dava grande lucro a seus senhores.",
+          "tokens": [
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "oração",
+              "strong": "G4335"
+            },
+            {
+              "word": "veio",
+              "strong": "G2064"
+            },
+            {
+              "word": "espírito",
+              "strong": "G4151"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Ela, seguindo a Paulo e a nós, clamava, dizendo: São servos do Deus Altíssimo estes homens que vos anunciam um caminho de salvação.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "servos",
+              "strong": "G1401"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "salvação",
+              "strong": "G4982"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E fazia isto por muitos dias. Mas Paulo, perturbado, voltou- se e disse ao espírito: Eu te ordeno em nome de Jesus Cristo que saias dela. E na mesma hora saiu.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "hora",
+              "strong": "G5610"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Ora, vendo seus senhores que a esperança do seu lucro havia desaparecido, prenderam a Paulo e Silas, e os arrastaram para uma praça à presença dos magistrados.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "esperança",
+              "strong": "G1680"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E, apresentando-os aos magistrados, disseram: Estes homens, sendo judeus, estão perturbando muito a nossa cidade.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "e pregam costumes que não nos é lícito receber nem praticar, sendo nós romanos.",
+          "tokens": [
+            {
+              "word": "receber",
+              "strong": "G2983"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "A multidão levantou-se à uma contra eles, e os magistrados, rasgando-lhes os vestidos, mandaram açoitá-los com varas.",
+          "tokens": [
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "varas",
+              "strong": "G2814"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E, havendo-lhes dado muitos açoites, os lançaram na prisão, mandando ao carcereiro que os guardasse com segurança.",
+          "tokens": [
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Ele, tendo recebido tal ordem, os lançou na prisão interior e lhes segurou os pés no tronco.",
+          "tokens": [
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Pela meia-noite Paulo e Silas oravam e cantavam hinos a Deus, enquanto os presos os escutavam.",
+          "tokens": [
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "De repente houve um tão grande terremoto que foram abalados os alicerces do cárcere, e logo se abriram todas as portas e foram soltos os grilhões de todos.",
+          "tokens": [
+            {
+              "word": "terremoto",
+              "strong": "G4578"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Ora, o carcereiro, tendo acordado e vendo abertas as portas da prisão, tirou a espada e ia suicidar-se, supondo que os presos tivessem fugido.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Mas Paulo bradou em alta voz, dizendo: Não te faças nenhum mal, porque todos aqui estamos.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "mal",
+              "strong": "G5337"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Tendo ele pedido luz, saltou dentro e, todo trêmulo, se prostrou ante Paulo e Silas",
+          "tokens": [
+            {
+              "word": "luz",
+              "strong": "G5457"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "e, tirando-os para fora, disse: Senhores, que me é necessário fazer para me salvar?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "necessário",
+              "strong": "G1163"
+            },
+            {
+              "word": "salvar",
+              "strong": "G4982"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Responderam eles: Crê no Senhor Jesus e serás salvo, tu e tua casa.",
+          "tokens": [
+            {
+              "word": "Crê",
+              "strong": "G4100"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "salvo",
+              "strong": "G4982"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Então lhe pregaram a palavra de Deus, e a todos os que estavam em sua casa.",
+          "tokens": [
+            {
+              "word": "pregaram",
+              "strong": "G2784"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Tomando-os ele consigo naquela mesma hora da noite, lavou- lhes as feridas; e logo foi batizado, ele e todos os seus.",
+          "tokens": [
+            {
+              "word": "hora",
+              "strong": "G5610"
+            },
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "lavou",
+              "strong": "G3538"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Então os fez subir para sua casa, pôs-lhes a mesa e alegrou- se muito com toda a sua casa, por ter crido em Deus.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Quando amanheceu, os magistrados mandaram quadrilheiros a dizer: Soltai aqueles homens.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "E o carcereiro transmitiu a Paulo estas palavras, dizendo: Os magistrados mandaram que fosseis soltos; agora, pois, saí e ide em paz.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "ide",
+              "strong": "G4198"
+            },
+            {
+              "word": "paz",
+              "strong": "G1515"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Mas Paulo respondeu-lhes: Açoitaram-nos publicamente sem sermos condenados, sendo cidadãos romanos, e nos lançaram na prisão, e agora encobertamente nos lançam fora? De modo nenhum será assim; mas venham eles mesmos e nos tirem.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "sem",
+              "strong": "G4590"
+            },
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "E os quadrilheiros foram dizer aos magistrados estas palavras, e estes temeram quando ouviram que eles eram romanos;",
+          "tokens": [
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "vieram, pediram-lhes desculpas e, tirando-os para fora, rogavam que se retirassem da cidade.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Então eles saíram da prisão, entraram em casa de Lídia, e, vendo os irmãos, os confortaram, e partiram.",
+          "tokens": [
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Lídia",
+              "strong": "G3070"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Tendo passado por Anfípolis e Apolônia, chegaram a Tessalônica, onde havia uma sinagoga dos judeus.",
+          "tokens": [
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Tessalônica",
+              "strong": "G2332"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Ora, Paulo, segundo o seu costume, foi ter com eles; e por três sábados discutiu com eles as Escrituras,",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Escrituras",
+              "strong": "G1124"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "expondo e demonstrando que era necessário que o Cristo padecesse e ressuscitasse dentre os mortos; este Jesus que eu vos anuncio, dizia ele, é o Cristo.",
+          "tokens": [
+            {
+              "word": "necessário",
+              "strong": "G1163"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E alguns deles ficaram persuadidos e aderiram a Paulo e Silas, bem como grande multidão de gregos devotos e não poucas mulheres de posição.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "gregos",
+              "strong": "G1672"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Mas os judeus, movidos de inveja, tomando consigo alguns homens maus dentre os vadios e ajuntando o povo, alvoroçavam a cidade e, assaltando a casa de Jáson, os procuravam para entregá-los ao povo.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Porém, não os achando, arrastaram Jáson e alguns irmãos à presença dos magistrados da cidade, clamando: Estes que têm transtornado o mundo chegaram também aqui,",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "mundo",
+              "strong": "G2889"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "os quais Jáson acolheu; e todos eles procedem contra os decretos de César, dizendo haver outro rei, que é Jesus.",
+          "tokens": [
+            {
+              "word": "César",
+              "strong": "G2541"
+            },
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Assim alvoroçaram a multidão e os magistrados da cidade, que ouviram estas coisas.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Tendo, porém, recebido fiança de Jáson e dos demais, soltaram-nos.",
+          "tokens": []
+        },
+        {
+          "n": 10,
+          "text": "E logo, de noite, os irmãos enviaram Paulo e Silas para Beréia; tendo eles ali chegado, foram à sinagoga dos judeus.",
+          "tokens": [
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Ora, estes eram mais nobres do que os de Tessalônica, porque receberam a palavra com toda avidez, examinando diariamente as Escrituras para ver se estas coisas eram assim.",
+          "tokens": [
+            {
+              "word": "receberam",
+              "strong": "G3880"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Escrituras",
+              "strong": "G1124"
+            },
+            {
+              "word": "ver",
+              "strong": "G3708"
+            },
+            {
+              "word": "Tessalônica",
+              "strong": "G2332"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "De sorte que muitos deles creram, bem como bom número de mulheres gregas de alta posição e não poucos homens.",
+          "tokens": [
+            {
+              "word": "creram",
+              "strong": "G4100"
+            },
+            {
+              "word": "bom",
+              "strong": "G2570"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Mas, logo que os judeus de Tessalônica souberam que também em Beréia era anunciada por Paulo a palavra de Deus, foram lá agitar e sublevar as multidões.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "Tessalônica",
+              "strong": "G2332"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Imediatamente os irmãos fizeram sair a Paulo para que fosse até o mar; mas Silas e Timóteo ficaram ali.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Timóteo",
+              "strong": "G5095"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E os que acompanhavam a Paulo levaram-no até Atenas e, tendo recebido ordem para Silas e Timóteo a fim de que estes fossem ter com ele o mais depressa possível, partiram.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Timóteo",
+              "strong": "G5095"
+            },
+            {
+              "word": "fim",
+              "strong": "G5056"
+            },
+            {
+              "word": "Atenas",
+              "strong": "G116"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Enquanto Paulo os esperava em Atenas, revoltava-se nele o seu espírito, vendo a cidade cheia de ídolos.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "Atenas",
+              "strong": "G116"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Argumentava, portanto, na sinagoga com os judeus e os gregos devotos, e na praça todos os dias com os que se encontravam ali.",
+          "tokens": [
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "gregos",
+              "strong": "G1672"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Ora, alguns filósofos epicureus e estóicos disputavam com ele. Uns diziam: Que quer dizer este paroleiro? E outros: Parece ser pregador de deuses estranhos; pois anunciava a boa nova de Jesus e a ressurreição.",
+          "tokens": [
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "ressurreição",
+              "strong": "G386"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E, tomando-o, o levaram ao Areópago, dizendo: Poderemos nós saber que nova doutrina é essa de que falas?",
+          "tokens": []
+        },
+        {
+          "n": 20,
+          "text": "Pois tu nos trazes aos ouvidos coisas estranhas; portanto queremos saber o que vem a ser isto.",
+          "tokens": [
+            {
+              "word": "ouvidos",
+              "strong": "G3775"
+            },
+            {
+              "word": "vem",
+              "strong": "G2064"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Ora, todos os atenienses, como também os estrangeiros que ali residiam, de nenhuma outra coisa se ocupavam senão de contar ou de ouvir a última novidade.",
+          "tokens": [
+            {
+              "word": "ouvir",
+              "strong": "G191"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Então Paulo, estando de pé no meio do Areópago, disse: Varões atenienses, em tudo vejo que sois excepcionalmente religiosos;",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Porque, passando eu e observando os objetos do vosso culto, encontrei também um altar em que estava escrito: AO DEUS DESCONHECIDO. Esse, pois, que vós honrais sem o conhecer, é o que vos anuncio.",
+          "tokens": [
+            {
+              "word": "altar",
+              "strong": "G2379"
+            },
+            {
+              "word": "escrito",
+              "strong": "G1125"
+            },
+            {
+              "word": "DEUS",
+              "strong": "G2316"
+            },
+            {
+              "word": "sem",
+              "strong": "G4590"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "O Deus que fez o mundo e tudo o que nele há, sendo ele Senhor do céu e da terra, não habita em templos feitos por mãos de homens;",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "mundo",
+              "strong": "G2889"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "nem tampouco é servido por mãos humanas, como se necessitasse de alguma coisa; pois ele mesmo é quem dá a todos a vida, a respiração e todas as coisas;",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "vida",
+              "strong": "G2222"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "e de um só fez todas as raças dos homens, para habitarem sobre toda a face da terra, determinando-lhes os tempos já dantes ordenados e os limites da sua habitação;",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "para que buscassem a Deus, se porventura, tateando, o pudessem achar, o qual, todavia, não está longe de cada um de nós;",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "porque nele vivemos, e nos movemos, e existimos; como também alguns dos vossos poetas disseram: Pois dele também somos geração.",
+          "tokens": [
+            {
+              "word": "geração",
+              "strong": "G1074"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Sendo nós, pois, geração de Deus, não devemos pensar que a divindade seja semelhante ao ouro, ou à prata, ou à pedra esculpida pela arte e imaginação do homem.",
+          "tokens": [
+            {
+              "word": "geração",
+              "strong": "G1074"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "prata",
+              "strong": "G694"
+            },
+            {
+              "word": "pedra",
+              "strong": "G3037"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Mas Deus, não levando em conta os tempos da ignorância, manda agora que todos os homens em todo lugar se arrependam;",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "porquanto determinou um dia em que com justiça há de julgar o mundo, por meio do varão que para isso ordenou; e disso tem dado certeza a todos, ressuscitando-o dentre os mortos.",
+          "tokens": [
+            {
+              "word": "justiça",
+              "strong": "G1343"
+            },
+            {
+              "word": "julgar",
+              "strong": "G2920"
+            },
+            {
+              "word": "mundo",
+              "strong": "G2889"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Mas quando ouviram falar em ressurreição de mortos, uns escarneciam, e outros diziam: Acerca disso te ouviremos ainda outra vez.",
+          "tokens": [
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            },
+            {
+              "word": "ressurreição",
+              "strong": "G386"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Assim Paulo saiu do meio deles.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Todavia, alguns homens aderiram a ele, e creram, entre os quais Dionísio, o areopagita, e uma mulher por nome Dâmaris, e com eles outros.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "creram",
+              "strong": "G4100"
+            },
+            {
+              "word": "mulher",
+              "strong": "G1135"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Depois disto Paulo partiu para Atenas e chegou a Corinto.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Atenas",
+              "strong": "G116"
+            },
+            {
+              "word": "Corinto",
+              "strong": "G2882"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E encontrando um judeu por nome Áqüila, natural do Ponto, que pouco antes viera da Itália, e Priscila, sua mulher (porque Cláudio tinha decretado que todos os judeus saíssem de Roma), foi ter com eles,",
+          "tokens": [
+            {
+              "word": "judeu",
+              "strong": "G2453"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "mulher",
+              "strong": "G1135"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Roma",
+              "strong": "G4516"
+            },
+            {
+              "word": "Priscila",
+              "strong": "G4252"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "e, por ser do mesmo ofício, com eles morava, e juntos trabalhavam; pois eram, por ofício, fabricantes de tendas.",
+          "tokens": []
+        },
+        {
+          "n": 4,
+          "text": "Ele discutia todos os sábados na sinagoga, e persuadia a judeus e gregos.",
+          "tokens": [
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "gregos",
+              "strong": "G1672"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Quando Silas e Timóteo desceram da Macedônia, Paulo dedicou- se inteiramente à palavra, testificando aos judeus que Jesus era o Cristo.",
+          "tokens": [
+            {
+              "word": "Timóteo",
+              "strong": "G5095"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "Macedônia",
+              "strong": "G3109"
+            },
+            {
+              "word": "Silas",
+              "strong": "G4609"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Como estes, porém, se opusessem e proferissem injúrias, sacudiu ele as vestes e disse-lhes: O vosso sangue seja sobre a vossa cabeça; eu estou limpo, e desde agora vou para os gentios.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "sangue",
+              "strong": "G129"
+            },
+            {
+              "word": "limpo",
+              "strong": "G2513"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E saindo dali, entrou em casa de um homem temente a Deus, chamado Tito Justo, cuja casa ficava junto da sinagoga.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Tito",
+              "strong": "G5103"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Crispo, chefe da sinagoga, creu no Senhor com toda a sua casa; e muitos dos coríntios, ouvindo, criam e eram batizados.",
+          "tokens": [
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "creu",
+              "strong": "G4100"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "batizados",
+              "strong": "G907"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E de noite disse o Senhor em visão a Paulo: Não temas, mas fala e não te cales;",
+          "tokens": [
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "porque eu estou contigo e ninguém te acometerá para te fazer mal, pois tenho muito povo nesta cidade.",
+          "tokens": [
+            {
+              "word": "mal",
+              "strong": "G5337"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E ficou ali um ano e seis meses, ensinando entre eles a palavra de Deus.",
+          "tokens": [
+            {
+              "word": "ensinando",
+              "strong": "G1321"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Sendo Gálio procônsul da Acaia, levantaram-se os judeus de comum acordo contra Paulo, e o levaram ao tribunal,",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Acaia",
+              "strong": "G882"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "dizendo: Este persuade os homens a render culto a Deus de um modo contrário à lei.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E, quando Paulo estava para abrir a boca, disse Gálio aos judeus: Se de fato houvesse, ó judeus, algum agravo ou crime perverso, com razão eu vos sofreria;",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "mas, se são questões de palavras, de nomes, e da vossa lei, disso cuidai vós mesmos; porque eu não quero ser juiz destas coisas.",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E expulsou-os do tribunal.",
+          "tokens": []
+        },
+        {
+          "n": 17,
+          "text": "Então todos agarraram Sóstenes, chefe da sinagoga, e o espancavam diante do tribunal; e Gálio não se importava com nenhuma dessas coisas.",
+          "tokens": [
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Paulo, tendo ficado ali ainda muitos dias, despediu-se dos irmãos e navegou para a Síria, e com ele Priscila e Áqüila, havendo rapado a cabeça em Cencréia, porque tinha voto.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Priscila",
+              "strong": "G4252"
+            },
+            {
+              "word": "Síria",
+              "strong": "G4947"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E eles chegaram a Éfeso, onde Paulo os deixou; e tendo entrado na sinagoga, discutia com os judeus.",
+          "tokens": [
+            {
+              "word": "Éfeso",
+              "strong": "G2181"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Estes rogavam que ficasse por mais algum tempo, mas ele não anuiu,",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "antes se despediu deles, dizendo: Se Deus quiser, de novo voltarei a vós; e navegou de Éfeso.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "novo",
+              "strong": "G2537"
+            },
+            {
+              "word": "Éfeso",
+              "strong": "G2181"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Tendo chegado a Cesaréia, subiu a Jerusalém e saudou a igreja, e desceu a Antioquia.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "desceu",
+              "strong": "G2597"
+            },
+            {
+              "word": "Antioquia",
+              "strong": "G490"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E, tendo demorado ali algum tempo, partiu, passando sucessivamente pela região da Galácia e da Frígia, fortalecendo a todos os discípulos.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "Galácia",
+              "strong": "G1053"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Ora, chegou a Éfeso certo judeu chamado Apolo, natural de Alexandria, homem eloqüente e poderoso nas Escrituras.",
+          "tokens": [
+            {
+              "word": "Éfeso",
+              "strong": "G2181"
+            },
+            {
+              "word": "judeu",
+              "strong": "G2453"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Escrituras",
+              "strong": "G1124"
+            },
+            {
+              "word": "Apolo",
+              "strong": "G625"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Era ele instruído no caminho do Senhor e, sendo fervoroso de espírito, falava e ensinava com precisão as coisas concernentes a Jesus, conhecendo entretanto somente o batismo de João.",
+          "tokens": [
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "ensinava",
+              "strong": "G1321"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "batismo",
+              "strong": "G908"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Ele começou a falar ousadamente na sinagoga: mas quando Priscila e Áqüila o ouviram, levaram-no consigo e lhe expuseram com mais precisão o caminho de Deus.",
+          "tokens": [
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            },
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Priscila",
+              "strong": "G4252"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Querendo ele passar à Acáia, os irmãos o animaram e escreveram aos discípulos que o recebessem; e tendo ele chegado, auxiliou muito aos que pela graça haviam crido.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "graça",
+              "strong": "G5485"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Pois com grande poder refutava publicamente os judeus, demonstrando pelas escrituras que Jesus era o Cristo.",
+          "tokens": [
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "escrituras",
+              "strong": "G1124"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E sucedeu que, enquanto Apolo estava em Corinto, Paulo tendo atravessado as regiões mais altas, chegou a Éfeso e, achando ali alguns discípulos,",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Éfeso",
+              "strong": "G2181"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "Corinto",
+              "strong": "G2882"
+            },
+            {
+              "word": "Apolo",
+              "strong": "G625"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "perguntou-lhes: Recebestes vós o Espírito Santo quando crestes? Responderam-lhe eles: Não, nem sequer ouvimos que haja Espírito Santo.",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "crestes",
+              "strong": "G4100"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Tornou-lhes ele: Em que fostes batizados então? E eles disseram: No batismo de João.",
+          "tokens": [
+            {
+              "word": "batizados",
+              "strong": "G907"
+            },
+            {
+              "word": "batismo",
+              "strong": "G908"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Mas Paulo respondeu: João administrou o batismo do arrependimento, dizendo ao povo que cresse naquele que após ele havia de vir, isto é, em Jesus.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "João",
+              "strong": "G2491"
+            },
+            {
+              "word": "batismo",
+              "strong": "G908"
+            },
+            {
+              "word": "arrependimento",
+              "strong": "G3341"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "vir",
+              "strong": "G2064"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Quando ouviram isso, foram batizados em nome do Senhor Jesus.",
+          "tokens": [
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            },
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "batizados",
+              "strong": "G907"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Havendo-lhes Paulo imposto as mãos, veio sobre eles o Espírito Santo, e falavam em línguas e profetizavam.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "veio",
+              "strong": "G2064"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "línguas",
+              "strong": "G1100"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E eram ao todo uns doze homens.",
+          "tokens": [
+            {
+              "word": "doze",
+              "strong": "G1427"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Paulo, entrando na sinagoga, falou ousadamente por espaço de três meses, discutindo e persuadindo acerca do reino de Deus.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "sinagoga",
+              "strong": "G4864"
+            },
+            {
+              "word": "reino",
+              "strong": "G932"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Mas, como alguns deles se endurecessem e não obedecessem, falando mal do Caminho diante da multidão, apartou-se deles e separou os discípulos, discutindo diariamente na escola de Tirano.",
+          "tokens": [
+            {
+              "word": "mal",
+              "strong": "G5337"
+            },
+            {
+              "word": "Caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Durou isto por dois anos; de maneira que todos os que habitavam na Ásia, tanto judeus como gregos, ouviram a palavra do Senhor.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "gregos",
+              "strong": "G1672"
+            },
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E Deus pelas mãos de Paulo fazia milagres extraordinários,",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "milagres",
+              "strong": "G1411"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "de sorte que lenços e aventais eram levados do seu corpo aos enfermos, e as doenças os deixavam e saíam deles os espíritos malignos.",
+          "tokens": [
+            {
+              "word": "corpo",
+              "strong": "G4983"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Ora, também alguns dos exorcistas judeus, ambulantes, tentavam invocar o nome de Jesus sobre os que tinham espíritos malignos, dizendo: Esconjuro-vos por Jesus a quem Paulo prega.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E os que faziam isto eram sete filhos de Ceva, judeu, um dos principais sacerdotes.",
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "G4589"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "judeu",
+              "strong": "G2453"
+            },
+            {
+              "word": "principais sacerdotes",
+              "strong": "G749"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "respondendo, porém, o espírito maligno, disse: A Jesus conheço, e sei quem é Paulo; mas vós, quem sois?",
+          "tokens": [
+            {
+              "word": "espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Então o homem, no qual estava o espírito maligno, saltando sobre eles, apoderou-se de dois e prevaleceu contra eles, de modo que, nus e feridos, fugiram daquela casa.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E isto tornou-se conhecido de todos os que moravam em Éfeso, tanto judeus como gregos; e veio temor sobre todos eles, e o nome do Senhor Jesus era engrandecido.",
+          "tokens": [
+            {
+              "word": "Éfeso",
+              "strong": "G2181"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "gregos",
+              "strong": "G1672"
+            },
+            {
+              "word": "veio",
+              "strong": "G2064"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E muitos dos que haviam crido vinham, confessando e revelando os seus feitos.",
+          "tokens": []
+        },
+        {
+          "n": 19,
+          "text": "Muitos também dos que tinham praticado artes mágicas ajuntaram os seus livros e os queimaram na presença de todos; e, calculando o valor deles, acharam que montava a cinqüenta mil moedas de prata.",
+          "tokens": [
+            {
+              "word": "moedas",
+              "strong": "G694"
+            },
+            {
+              "word": "prata",
+              "strong": "G694"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Assim a palavra do Senhor crescia poderosamente e prevalecia.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Cumpridas estas coisas, Paulo propôs, em seu espírito, ir a Jerusalém, passando pela Macedônia e pela Acaia, porque dizia: Depois de haver estado ali, é-me necessário ver também Roma.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "necessário",
+              "strong": "G1163"
+            },
+            {
+              "word": "ver",
+              "strong": "G3708"
+            },
+            {
+              "word": "Roma",
+              "strong": "G4516"
+            },
+            {
+              "word": "Acaia",
+              "strong": "G882"
+            },
+            {
+              "word": "Macedônia",
+              "strong": "G3109"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E, enviando à Macedônia dois dos que o auxiliavam, Timóteo e Erasto, ficou ele por algum tempo na Ásia.",
+          "tokens": [
+            {
+              "word": "Timóteo",
+              "strong": "G5095"
+            },
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "Macedônia",
+              "strong": "G3109"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Por esse tempo houve um não pequeno alvoroço acerca do Caminho.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "Caminho",
+              "strong": "G3598"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Porque certo ourives, por nome Demétrio, que fazia da prata miniaturas do templo de Diana, proporcionava não pequeno negócio aos artífices,",
+          "tokens": [
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "prata",
+              "strong": "G694"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "Diana",
+              "strong": "G735"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "os quais ele ajuntou, bem como os oficiais de obras semelhantes, e disse: Senhores, vós bem sabeis que desta indústria nos vem a prosperidade,",
+          "tokens": [
+            {
+              "word": "obras",
+              "strong": "G2041"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "vem",
+              "strong": "G2064"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "e estais vendo e ouvindo que não é só em Éfeso, mas em quase toda a Ásia, este Paulo tem persuadido e desviado muita gente, dizendo não serem deuses os que são feitos por mãos humanas.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "Éfeso",
+              "strong": "G2181"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E não somente há perigo de que esta nossa profissão caia em descrédito, mas também que o templo da grande deusa Diana seja estimado em nada, vindo mesmo a ser destituída da sua majestade aquela a quem toda a Ásia e o mundo adoram.",
+          "tokens": [
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "mundo",
+              "strong": "G2889"
+            },
+            {
+              "word": "adoram",
+              "strong": "G4352"
+            },
+            {
+              "word": "Diana",
+              "strong": "G735"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Ao ouvirem isso, encheram-se de ira, e clamavam, dizendo: Grande é a Diana dos efésios!",
+          "tokens": [
+            {
+              "word": "ira",
+              "strong": "G3709"
+            },
+            {
+              "word": "Diana",
+              "strong": "G735"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "A cidade encheu-se de confusão, e todos à uma correram ao teatro, arrebatando a Gaio e a Aristarco, macedônios, companheiros de Paulo na viagem.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Aristarco",
+              "strong": "G708"
+            },
+            {
+              "word": "Gaio",
+              "strong": "G1050"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Querendo Paulo apresentar-se ao povo, os discípulos não lho permitiram.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Também alguns dos asiarcas, sendo amigos dele, mandaram rogar-lhe que não se arriscasse a ir ao teatro.",
+          "tokens": [
+            {
+              "word": "amigos",
+              "strong": "G5384"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Uns, pois, gritavam de um modo, outros de outro; porque a assembléia estava em confusão, e a maior parte deles nem sabia por que causa se tinham ajuntado.",
+          "tokens": [
+            {
+              "word": "assembléia",
+              "strong": "G1577"
+            },
+            {
+              "word": "sabia",
+              "strong": "G1097"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Então tiraram dentre a turba a Alexandre, a quem os judeus impeliram para a frente; e Alexandre, acenando com a mão, queria apresentar uma defesa ao povo.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Alexandre",
+              "strong": "G223"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Mas quando perceberam que ele era judeu, todos a uma voz gritaram por quase duas horas: Grande é a Diana dos efésios!",
+          "tokens": [
+            {
+              "word": "judeu",
+              "strong": "G2453"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "Diana",
+              "strong": "G735"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Havendo o escrivão conseguido apaziguar a turba, disse: Varões efésios, que homem há que não saiba que a cidade dos efésios é a guardadora do templo da grande deusa Diana, e da imagem que caiu de Júpiter?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "Diana",
+              "strong": "G735"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Ora, visto que estas coisas não podem ser contestadas, convém que vos aquieteis e nada façais precipitadamente.",
+          "tokens": [
+            {
+              "word": "visto",
+              "strong": "G3708"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Porque estes homens que aqui trouxestes, nem são sacrílegos nem blasfemadores da nossa deusa.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Todavia, se Demétrio e os artífices que estão com ele têm alguma queixa contra alguém, os tribunais estão abertos e há procônsules: que se acusem uns aos outros.",
+          "tokens": []
+        },
+        {
+          "n": 39,
+          "text": "E se demandais alguma outra coisa, averiguar-se-á em legítima assembléia.",
+          "tokens": [
+            {
+              "word": "assembléia",
+              "strong": "G1577"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Pois até corremos perigo de sermos acusados de sedição pelos acontecimentos de hoje, não havendo motivo algum com que possamos justificar este ajuntamento.",
+          "tokens": []
+        },
+        {
+          "n": 41,
+          "text": "E, tendo dito isto, despediu a assembléia.",
+          "tokens": [
+            {
+              "word": "assembléia",
+              "strong": "G1577"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Depois que cessou o alvoroço, Paulo mandou chamar os discípulos e, tendo-os exortado, despediu-se e partiu para a Macedônia.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "Macedônia",
+              "strong": "G3109"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E, havendo andado por aquelas regiões, exortando os discípulos com muitas palavras, veio à Grécia.",
+          "tokens": [
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "veio",
+              "strong": "G2064"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Depois de passar ali três meses, visto terem os judeus armado uma cilada contra ele quando ia embarcar para a Síria, determinou voltar pela Macedônia.",
+          "tokens": [
+            {
+              "word": "visto",
+              "strong": "G3708"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Macedônia",
+              "strong": "G3109"
+            },
+            {
+              "word": "Síria",
+              "strong": "G4947"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Acompanhou-o Sópater de Beréia, filho de Pirro; bem como dos de Tessalônica, Aristarco e Segundo; Gaio de Derbe e Timóteo; e dos da Ásia, Tíquico e Trófimo.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "Timóteo",
+              "strong": "G5095"
+            },
+            {
+              "word": "Aristarco",
+              "strong": "G708"
+            },
+            {
+              "word": "Gaio",
+              "strong": "G1050"
+            },
+            {
+              "word": "Derbe",
+              "strong": "G1191"
+            },
+            {
+              "word": "Tessalônica",
+              "strong": "G2332"
+            },
+            {
+              "word": "Tíquico",
+              "strong": "G5190"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Estes porém, foram adiante e nos esperavam em Trôade.",
+          "tokens": [
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "Trôade",
+              "strong": "G5174"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E nós, depois dos dias dos pães ázimos, navegamos de Filipos, e em cinco dias fomos ter com eles em Trôade, onde nos detivemos sete dias.",
+          "tokens": [
+            {
+              "word": "pães",
+              "strong": "G740"
+            },
+            {
+              "word": "ázimos",
+              "strong": "G106"
+            },
+            {
+              "word": "sete",
+              "strong": "G4589"
+            },
+            {
+              "word": "Trôade",
+              "strong": "G5174"
+            },
+            {
+              "word": "Filipos",
+              "strong": "G5375"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "No primeiro dia da semana, tendo-nos reunido a fim de partir o pão, Paulo, que havia de sair no dia seguinte, falava com eles, e prolongou o seu discurso até a meia-noite.",
+          "tokens": [
+            {
+              "word": "primeiro",
+              "strong": "G4413"
+            },
+            {
+              "word": "fim",
+              "strong": "G5056"
+            },
+            {
+              "word": "pão",
+              "strong": "G740"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "noite",
+              "strong": "G3571"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Ora, havia muitas luzes no cenáculo onde estávamos reunidos.",
+          "tokens": []
+        },
+        {
+          "n": 9,
+          "text": "E certo jovem, por nome åutico, que estava sentado na janela, tomado de um sono profundo enquanto Paulo prolongava ainda mais o seu sermão, vencido pelo sono caiu do terceiro andar abaixo, e foi levantado morto.",
+          "tokens": [
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "terceiro",
+              "strong": "G5154"
+            },
+            {
+              "word": "levantado",
+              "strong": "G5312"
+            },
+            {
+              "word": "morto",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Tendo Paulo descido, debruçou-se sobre ele e, abraçando-o, disse: Não vos perturbeis, pois a sua alma está nele.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Então subiu, e tendo partido o pão e comido, ainda lhes falou largamente até o romper do dia; e assim partiu.",
+          "tokens": [
+            {
+              "word": "pão",
+              "strong": "G740"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E levaram vivo o jovem e ficaram muito consolados.",
+          "tokens": [
+            {
+              "word": "vivo",
+              "strong": "G2198"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Nós, porém, tomando a dianteira e embarcando, navegamos para Assôs, onde devíamos receber a Paulo, porque ele, havendo de ir por terra, assim o ordenara.",
+          "tokens": [
+            {
+              "word": "receber",
+              "strong": "G2983"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E, logo que nos alcançou em Assôs, recebemo-lo a bordo e fomos a Mitilene;",
+          "tokens": []
+        },
+        {
+          "n": 15,
+          "text": "e navegando dali, chegamos no dia imediato defronte de Quios, no outro aportamos a Samos e [e tendo-nos demorado em Trogílio, chegamos,] no dia seguinte a Mileto.",
+          "tokens": []
+        },
+        {
+          "n": 16,
+          "text": "Porque Paulo havia determinado passar ao largo de Éfeso, para não se demorar na Ásia; pois se apressava para estar em Jerusalém no dia de Pentecostes, se lhe fosse possível.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Éfeso",
+              "strong": "G2181"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "De Mileto mandou a Éfeso chamar os anciãos da igreja.",
+          "tokens": [
+            {
+              "word": "Éfeso",
+              "strong": "G2181"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E, tendo eles chegado, disse-lhes: Vós bem sabeis de que modo me tenho portado entre vós sempre, desde o primeiro dia em que entrei na Ásia,",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "primeiro",
+              "strong": "G4413"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "servindo ao Senhor com toda a humildade, e com lágrimas e provações que pelas ciladas dos judeus me sobrevieram;",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "como não me esquivei de vos anunciar coisa alguma que útil seja, ensinando-vos publicamente e de casa em casa,",
+          "tokens": [
+            {
+              "word": "ensinando",
+              "strong": "G1321"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "testificando, tanto a judeus como a gregos, o arrependimento para com Deus e a fé em nosso Senhor Jesus.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "gregos",
+              "strong": "G1672"
+            },
+            {
+              "word": "arrependimento",
+              "strong": "G3341"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Agora, eis que eu, constrangido no meu espírito, vou a Jerusalém, não sabendo o que ali acontecerá,",
+          "tokens": [
+            {
+              "word": "espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "senão o que o Espírito Santo me testifica, de cidade em cidade, dizendo que me esperam prisões e tribulações.",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "testifica",
+              "strong": "G3140"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "mas em nada tenho a minha vida como preciosa para mim, contando que complete a minha carreira e o ministério que recebi do Senhor Jesus, para dar testemunho do evangelho da graça de Deus.",
+          "tokens": [
+            {
+              "word": "vida",
+              "strong": "G2222"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "evangelho",
+              "strong": "G2098"
+            },
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E eis agora, sei que nenhum de vós, por entre os quais passei pregando o reino de Deus, jamais tornará a ver o meu rosto.",
+          "tokens": [
+            {
+              "word": "pregando",
+              "strong": "G2784"
+            },
+            {
+              "word": "reino",
+              "strong": "G932"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ver",
+              "strong": "G3708"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Portanto, no dia de hoje, vos protesto que estou limpo do sangue de todos.",
+          "tokens": [
+            {
+              "word": "limpo",
+              "strong": "G2513"
+            },
+            {
+              "word": "sangue",
+              "strong": "G129"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Porque não me esquivei de vos anunciar todo o conselho de Deus.",
+          "tokens": [
+            {
+              "word": "conselho",
+              "strong": "G4824"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Cuidai pois de vós mesmos e de todo o rebanho sobre o qual o Espírito Santo vos constituiu bispos, para apascentardes a igreja de Deus, que ele adquiriu com seu próprio sangue.",
+          "tokens": [
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "igreja",
+              "strong": "G1577"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "sangue",
+              "strong": "G129"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Eu sei que depois da minha partida entrarão no meio de vós lobos cruéis que não pouparão rebanho,",
+          "tokens": []
+        },
+        {
+          "n": 30,
+          "text": "e que dentre vós mesmos se levantarão homens, falando coisas perversas para atrair os discípulos após si.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Portanto vigiai, lembrando-vos de que por três anos não cessei noite e dia de admoestar com lágrimas a cada um de vós.",
+          "tokens": [
+            {
+              "word": "vigiai",
+              "strong": "G1127"
+            },
+            {
+              "word": "noite",
+              "strong": "G3571"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Agora pois, vos encomendo a Deus e à palavra da sua graça, àquele que é poderoso para vos edificar e dar herança entre todos os que são santificados.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "graça",
+              "strong": "G5485"
+            },
+            {
+              "word": "santificados",
+              "strong": "G37"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "De ninguém cobicei prata, nem ouro, nem vestes.",
+          "tokens": [
+            {
+              "word": "prata",
+              "strong": "G694"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Vós mesmos sabeis que estas mãos proveram as minhas necessidades e as dos que estavam comigo.",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Em tudo vos dei o exemplo de que assim trabalhando, é necessário socorrer os enfermos, recordando as palavras do Senhor Jesus, porquanto ele mesmo disse: Coisa mais bem-aventurada é dar do que receber.",
+          "tokens": [
+            {
+              "word": "necessário",
+              "strong": "G1163"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "receber",
+              "strong": "G2983"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Havendo dito isto, pôs-se de joelhos, e orou com todos eles.",
+          "tokens": []
+        },
+        {
+          "n": 37,
+          "text": "E levantou-se um grande pranto entre todos, e lançando-se ao pescoço de Paulo, beijavam-no.",
+          "tokens": [
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "entristecendo-se principalmente pela palavra que dissera, que não veriam mais o seu rosto. E eles o acompanharam até o navio.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E assim aconteceu que, separando-nos deles, navegamos e, correndo em direitura, chegamos a Cós, e no dia seguinte a Rodes, e dali a Pátara.",
+          "tokens": []
+        },
+        {
+          "n": 2,
+          "text": "Achando um navio que seguia para a Fenícia, embarcamos e partimos.",
+          "tokens": []
+        },
+        {
+          "n": 3,
+          "text": "E quando avistamos Chipre, deixando-a á esquerda, navegamos para a Síria e chegamos a Tiro, pois o navio havia de ser descarregado ali.",
+          "tokens": [
+            {
+              "word": "Chipre",
+              "strong": "G2954"
+            },
+            {
+              "word": "Síria",
+              "strong": "G4947"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Havendo achado os discípulos, demoramo-nos ali sete dias; e eles pelo Espírito diziam a Paulo que não subisse a Jerusalém.",
+          "tokens": [
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "sete",
+              "strong": "G4589"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Depois de passarmos ali aqueles dias, saímos e seguimos a nossa viagem, acompanhando-nos todos, com suas mulheres e filhos, até fora da cidade; e, postos de joelhos na praia, oramos,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "e despedindo-nos uns dos outros, embarcamos, e eles voltaram para casa.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Concluída a nossa viagem de Tiro, chegamos a Ptolemaida; e, havendo saudado os irmãos, passamos um dia com eles.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Partindo no dia seguinte, fomos a Cesaréia; e entrando em casa de Felipe, o evangelista, que era um dos sete, ficamos com ele.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            },
+            {
+              "word": "Felipe",
+              "strong": "G5376"
+            },
+            {
+              "word": "sete",
+              "strong": "G4589"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Tinha este quatro filhas virgens que profetizavam.",
+          "tokens": [
+            {
+              "word": "virgens",
+              "strong": "G3933"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Demorando-nos ali por muitos dias, desceu da Judéia um profeta, de nome Ágabo;",
+          "tokens": [
+            {
+              "word": "desceu",
+              "strong": "G2597"
+            },
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            },
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "e vindo ter conosco, tomou a cinta de Paulo e, ligando os seus próprios pés e mãos, disse: Isto diz o Espírito Santo: Assim os judeus ligarão em Jerusalém o homem a quem pertence esta cinta, e o entregarão nas mãos dos gentios.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "entregarão",
+              "strong": "G3860"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Quando ouvimos isto, rogamos-lhe, tanto nós como os daquele lugar, que não subisse a Jerusalém.",
+          "tokens": [
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Então Paulo resppondeu: Que fazeis chorando e magoando-me o coração? Porque eu estou pronto não só a ser ligado, mas ainda a morrer em Jerusalém pelo nome do Senhor Jesus.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            },
+            {
+              "word": "morrer",
+              "strong": "G599"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E, como não se deixasse persuadir, dissemos: Faça-se a vontade do Senhor; e calamo-nos.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Depois destes dias, havendo feito os preparativos, fomos subindo a Jerusalém.",
+          "tokens": [
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E foram também conosco alguns discípulos de Cesaréia, levando consigo um certo Mnáson, cíprio, discípulo antigo, com quem nos havíamos de hospedar.",
+          "tokens": [
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "discípulos",
+              "strong": "G3101"
+            },
+            {
+              "word": "discípulo",
+              "strong": "G3101"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E chegando nós a Jerusalém, os irmãos nos receberam alegremente.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "receberam",
+              "strong": "G3880"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "No dia seguinte Paulo foi em nossa companhia ter com Tiago, e compareceram todos os anciãos.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Tiago",
+              "strong": "G2385"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E, havendo-os saudado, contou-lhes uma por uma as coisas que por seu ministério Deus fizera entre os gentios.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Ouvindo eles isto, glorificaram a Deus, e disseram-lhe: Bem vês, irmãos, quantos milhares há entre os judeus que têm crido, e todos são zelosos da lei; gregos, ouviram a palavra do",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "gregos",
+              "strong": "G1672"
+            },
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "e têm sido informados a teu respeito que ensinas todos os judeus que estão entre os gentios a se apartarem de Moisés, dizendo que não circuncidem seus filhos, nem andem segundo os costumes da lei.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "filhos",
+              "strong": "G5043"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Que se há de fazer, pois? Certamente saberão que és chegado.",
+          "tokens": []
+        },
+        {
+          "n": 23,
+          "text": "Faze, pois, o que te vamos dizer: Temos quatro homens que fizeram voto;",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "toma estes contigo, e santifica-te com eles, e faze por eles as despesas para que rapem a cabeça; e saberão todos que é falso aquilo de que têm sido informados a teu respeito, mas que também tu mesmo andas corretamente, guardando a lei.",
+          "tokens": [
+            {
+              "word": "santifica",
+              "strong": "G37"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Todavia, quanto aos gentios que têm crido já escrevemos, dando o parecer que se abstenham do que é sacrificado a os ídolos, do sangue, do sufocado e da prostituição.",
+          "tokens": [
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "sangue",
+              "strong": "G129"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Então Paulo, no dia seguinte, tomando consigo aqueles homens, purificou-se com eles e entrou no templo, notificando o cumprimento dos dias da purificação, quando seria feita a favor de cada um deles a respectiva oferta.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "purificação",
+              "strong": "G2512"
+            },
+            {
+              "word": "oferta",
+              "strong": "G1435"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Mas quando os sete dias estavam quase a terminar, os judeus da Ásia, tendo-o visto no templo, alvoroçaram todo o povo e agarraram-no,",
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "G4589"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "visto",
+              "strong": "G3708"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "clamando: Varões israelitas, acudi; este é o homem que por toda parte ensina a todos contra o povo, contra a lei, e contra este lugar; e ainda, além disso, introduziu gregos no templo, e tem profanado este santo lugar.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "gregos",
+              "strong": "G1672"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "santo",
+              "strong": "G40"
+            },
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Porque tinham visto com ele na cidade a Trófimo de Éfeso, e pensavam que Paulo o introduzira no templo.",
+          "tokens": [
+            {
+              "word": "visto",
+              "strong": "G3708"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "Éfeso",
+              "strong": "G2181"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Alvoroçou-se toda a cidade, e houve ajuntamento do povo; e agarrando a Paulo, arrastaram-no para fora do templo, e logo as portas se fecharam.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "E, procurando eles matá-lo, chegou ao comandante da coorte o aviso de que Jerusalém estava toda em confusão;",
+          "tokens": [
+            {
+              "word": "matá",
+              "strong": "G3157"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "o qual, tomando logo consigo soldados e centuriões, correu para eles; e quando viram o comandante e os soldados, cessaram de espancar a Paulo.",
+          "tokens": [
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            },
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Então aproximando-se o comandante, prendeu-o e mandou que fosse acorrentado com duas cadeias, e perguntou quem era e o que tinha feito.",
+          "tokens": [
+            {
+              "word": "feito",
+              "strong": "G1096"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "E na multidão uns gritavam de um modo, outros de outro; mas, não podendo por causa do alvoroço saber a verdade, mandou conduzí-lo à fortaleza.",
+          "tokens": [
+            {
+              "word": "verdade",
+              "strong": "G225"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "E sucedeu que, chegando às escadas, foi ele carregado pelos soldados por causa da violência da turba.",
+          "tokens": [
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Pois a multidão o seguia, gritando: Mata-o!",
+          "tokens": [
+            {
+              "word": "Mata",
+              "strong": "G3157"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Quando estava para ser introduzido na fortaleza, disse Paulo ao comandante: É-me permitido dizer-te alguma coisa? Respondeu ele: Sabes o grego?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Sabes",
+              "strong": "G1097"
+            },
+            {
+              "word": "grego",
+              "strong": "G1676"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Não és porventura o egípcio que há poucos dias fez uma sedição e levou ao deserto os quatro mil sicários?",
+          "tokens": [
+            {
+              "word": "deserto",
+              "strong": "G2048"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "Mas Paulo lhe disse: Eu sou judeu, natural de Tarso, cidade não insignificante da Cilícia; rogo-te que me permitas falar ao povo.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "judeu",
+              "strong": "G2453"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Cilícia",
+              "strong": "G2791"
+            },
+            {
+              "word": "Tarso",
+              "strong": "G5019"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "E, havendo-lho permitido o comandante, Paulo, em pé na escada, fez sinal ao povo com a mão; e, feito grande silêncio, falou em língua hebraica, dizendo:",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "sinal",
+              "strong": "G4592"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "língua",
+              "strong": "G1100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Irmãos e pais, ouvi a minha defesa, que agora faço perante vós.",
+          "tokens": [
+            {
+              "word": "Irmãos",
+              "strong": "G80"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Ora, quando ouviram que lhes falava em língua hebraica, guardaram ainda maior silêncio. E ele prosseguiu.",
+          "tokens": [
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            },
+            {
+              "word": "língua",
+              "strong": "G1100"
+            },
+            {
+              "word": "guardaram",
+              "strong": "G5083"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Eu sou judeu, nascido em Tarso da Cilícia, mas criado nesta cidade, instruído aos pés de Gamaliel, conforme a precisão da lei de nossos pais, sendo zeloso para com Deus, assim como o sois todos vós no dia de hoje.",
+          "tokens": [
+            {
+              "word": "judeu",
+              "strong": "G2453"
+            },
+            {
+              "word": "nascido",
+              "strong": "G1080"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "pés",
+              "strong": "G4228"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Cilícia",
+              "strong": "G2791"
+            },
+            {
+              "word": "Tarso",
+              "strong": "G5019"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E persegui este Caminho até a morte, algemando e metendo em prisões tanto a homens como a mulheres,",
+          "tokens": [
+            {
+              "word": "Caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "morte",
+              "strong": "G2288"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "do que também o sumo sacerdote me é testemunha, e assim todo o conselho dos anciãos; e, tendo recebido destes cartas para os irmãos, seguia para Damasco, com o fim de trazer algemados a Jerusalém aqueles que ali estivessem, para que fossem castigados.",
+          "tokens": [
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            },
+            {
+              "word": "conselho",
+              "strong": "G4824"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "fim",
+              "strong": "G5056"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Aconteceu, porém, que, quando caminhava e ia chegando perto de Damasco, pelo meio-dia, de repente, do céu brilhou-me ao redor uma grande luz.",
+          "tokens": [
+            {
+              "word": "céu",
+              "strong": "G3772"
+            },
+            {
+              "word": "luz",
+              "strong": "G5457"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Caí por terra e ouvi uma voz que me dizia: Saulo, Saulo, por que me persegues?",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Eu respondi: Quem és tu, Senhor? Disse-me: Eu sou Jesus, o nazareno, a quem tu persegues.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "nazareno",
+              "strong": "G3478"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E os que estavam comigo viram, em verdade, a luz, mas não entenderam a voz daquele que falava comigo.",
+          "tokens": [
+            {
+              "word": "verdade",
+              "strong": "G225"
+            },
+            {
+              "word": "luz",
+              "strong": "G5457"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Então disse eu: Senhor que farei? E o Senhor me disse: Levanta-te, e vai a Damasco, onde se te dirá tudo o que te é ordenado fazer.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "vai",
+              "strong": "G4198"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Como eu nada visse por causa do esplendor daquela luz, guiado pela mão dos que estavam comigo cheguei a Damasco.",
+          "tokens": [
+            {
+              "word": "luz",
+              "strong": "G5457"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "um certo Ananias, varão piedoso conforme a lei, que tinha bom testemunho de todos os judeus que ali moravam,",
+          "tokens": [
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "bom",
+              "strong": "G2570"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Ananias",
+              "strong": "G367"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "vindo ter comigo, de pé ao meu lado, disse-me: Saulo, irmão, recobra a vista. Naquela mesma hora, recobrando a vista, eu o vi.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "irmão",
+              "strong": "G80"
+            },
+            {
+              "word": "hora",
+              "strong": "G5610"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Disse ele: O Deus de nossos pais de antemão te designou para conhecer a sua vontade, ver o Justo, e ouvir a voz da sua boca.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ver",
+              "strong": "G3708"
+            },
+            {
+              "word": "ouvir",
+              "strong": "G191"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Porque hás de ser sua testemunha para com todos os homens do que tens visto e ouvido.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "visto",
+              "strong": "G3708"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Agora por que te demoras? Levanta-te, batiza-te e lava os teus pecados, invocando o seu nome.",
+          "tokens": [
+            {
+              "word": "pecados",
+              "strong": "G266"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Aconteceu que, tendo eu voltado para Jerusalém, enquanto orava no templo, achei-me em êxtase,",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "e vi aquele que me dizia: Apressa-te e sai logo de Jerusalém; porque não receberão o teu testemunho acerca de mim.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Disse eu: Senhor, eles bem sabem que eu encarcerava e açoitava pelas sinagogas os que criam em ti,",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "sinagogas",
+              "strong": "G4864"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "e quando se derramava o sangue de Estêvão, tua testemunha, eu também estava presente, consentindo na sua morte e guardando as capas dos que o matavam.",
+          "tokens": [
+            {
+              "word": "sangue",
+              "strong": "G129"
+            },
+            {
+              "word": "Estêvão",
+              "strong": "G4736"
+            },
+            {
+              "word": "morte",
+              "strong": "G2288"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Disse-me ele: Vai, porque eu te enviarei para longe aos gentios.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Vai",
+              "strong": "G4198"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Ora, escutavam-no até esta palavra, mas então levantaram a voz, dizendo: Tira do mundo tal homem, porque não convém que viva.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "mundo",
+              "strong": "G2889"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "viva",
+              "strong": "G2198"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Gritando eles e arrojando de si as capas e lançando pó para o ar,",
+          "tokens": []
+        },
+        {
+          "n": 24,
+          "text": "o comandante mandou que levassem Paulo para dentro da fortaleza, ordenando que fosse interrogado debaixo de açoites, para saber por que causa assim clamavam contra ele.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Quando o haviam atado com as correias, disse Paulo ao centurião que ali estava: É-vos lícito açoitar um cidadão romano, sem ser ele condenado?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "centurião",
+              "strong": "G2760"
+            },
+            {
+              "word": "sem",
+              "strong": "G4590"
+            },
+            {
+              "word": "condenado",
+              "strong": "G2919"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Ouvindo isto, foi o centurião ter com o comandante e o avisou, dizendo: Vê o que estás para fazer, pois este homem é romano.",
+          "tokens": [
+            {
+              "word": "centurião",
+              "strong": "G2760"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Vindo o comandante, perguntou-lhe: Dize-me: és tu romano? Respondeu ele: Sou.",
+          "tokens": []
+        },
+        {
+          "n": 28,
+          "text": "Tornou o comandante: Eu por grande soma de dinheiro adquiri este direito de cidadão. Paulo disse: Mas eu o sou de nascimento.",
+          "tokens": [
+            {
+              "word": "dinheiro",
+              "strong": "G2772"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Imediatamente, pois se apartaram dele aqueles que o iam interrogar; e até o comandante, tendo sabido que Paulo era romano, atemorizou-se porque o havia ligado.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "No dia seguinte, querendo saber ao certo a causa por que ele era acusado pelos judeus, soltou-o das prisões, e mandou que se reunissem os principais sacerdotes e todo o sinédrio; e, trazendo Paulo, apresentou-o diante deles.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "principais sacerdotes",
+              "strong": "G749"
+            },
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Fitando Paulo os olhos no sinédrio, disse: Varões irmãos, até o dia de hoje tenho andado diante de Deus com toda a boa consciência.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Mas o sumo sacerdote, Ananias, mandou aos que estavam junto dele que o ferissem na boca.",
+          "tokens": [
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            },
+            {
+              "word": "Ananias",
+              "strong": "G367"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Então Paulo lhe disse: Deus te ferirá a ti, parede branqueada; tu estás aí sentado para julgar-me segundo a lei, e contra a lei mandas que eu seja ferido?",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "julgar",
+              "strong": "G2920"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Os que estavam ali disseram: Injurias o sumo sacerdote de Deus?",
+          "tokens": [
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Disse Paulo: Não sabia, irmãos, que era o sumo sacerdote; porque está escrito: Não dirás mal do príncipe do teu povo.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "sabia",
+              "strong": "G1097"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            },
+            {
+              "word": "escrito",
+              "strong": "G1125"
+            },
+            {
+              "word": "mal",
+              "strong": "G5337"
+            },
+            {
+              "word": "príncipe",
+              "strong": "G758"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Sabendo Paulo que uma parte era de saduceus e outra de fariseus, clamou no sinédrio: Varões irmãos, eu sou fariseu, filho de fariseus; é por causa da esperança da ressurreição dos mortos que estou sendo julgado.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "fariseus",
+              "strong": "G5330"
+            },
+            {
+              "word": "clamou",
+              "strong": "G2896"
+            },
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "fariseus",
+              "strong": "G5330"
+            },
+            {
+              "word": "esperança",
+              "strong": "G1680"
+            },
+            {
+              "word": "ressurreição",
+              "strong": "G386"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Ora, dizendo ele isto, surgiu dissensão entre os fariseus e saduceus; e a multidão se dividiu.",
+          "tokens": [
+            {
+              "word": "fariseus",
+              "strong": "G5330"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Porque os saduceus dizem que não há ressurreição, nem anjo, nem espírito; mas os fariseus reconhecem uma e outra coisa.",
+          "tokens": [
+            {
+              "word": "ressurreição",
+              "strong": "G386"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "fariseus",
+              "strong": "G5330"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Daí procedeu grande clamor; e levantando-se alguns da parte dos fariseus, altercavam, dizendo: Não achamos nenhum mal neste homem; e, quem sabe se lhe falou algum espírito ou anjo?",
+          "tokens": [
+            {
+              "word": "fariseus",
+              "strong": "G5330"
+            },
+            {
+              "word": "mal",
+              "strong": "G5337"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E avolumando-se a dissenção, o comandante, temendo que Paulo fosse por eles despedaçado, mandou que os soldados descessem e o tirassem do meio deles e o levassem para a fortaleza.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Na noite seguinte, apresentou-se-lhe o Senhor e disse: Tem bom ânimo: porque, como deste testemunho de mim em Jerusalém, assim importa que o dês também em Roma.",
+          "tokens": [
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "bom",
+              "strong": "G2570"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Roma",
+              "strong": "G4516"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Quando já era dia, coligaram-se os judeus e juraram sob pena de maldição que não comeriam nem beberiam enquanto não matassem a Paulo.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Eram mais de quarenta os que fizeram esta conjuração;",
+          "tokens": []
+        },
+        {
+          "n": 14,
+          "text": "e estes foram ter com os principais sacerdotes e anciãos, e disseram: Conjuramo-nos sob pena de maldição a não provarmos coisa alguma até que matemos a Paulo.",
+          "tokens": [
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "principais sacerdotes",
+              "strong": "G749"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Agora, pois, vós, com o sinédrio, rogai ao comandante que o mande descer perante vós como se houvésseis de examinar com mais precisão a sua causa; e nós estamos prontos para matá-lo antes que ele chegue.",
+          "tokens": [
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            },
+            {
+              "word": "matá",
+              "strong": "G3157"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Mas o filho da irmã de Paulo tendo sabido da cilada, foi, entrou na fortaleza e avisou a Paulo.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "G5207"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Chamando Paulo um dos centuriões, disse: Leva este moço ao comandante, porque tem alguma coisa que lhe comunicar.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "moço",
+              "strong": "G3495"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Tomando-o ele, pois, levou-o ao comandante e disse: O preso Paulo, chamando-me, pediu-me que trouxesse à tua presença este moço, que tem alguma coisa a dizer-te.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "moço",
+              "strong": "G3495"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "O comandante tomou-o pela mão e, retirando-se à parte, perguntou-lhe em particular: Que é que tens a contar-me?",
+          "tokens": []
+        },
+        {
+          "n": 20,
+          "text": "Disse ele: Os judeus combinaram rogar-te que amanhã mandes Paulo descer ao sinédrio, como que tendo de inquirir com mais precisão algo a seu respeito;",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "tu, pois, não te deixes persuadir por eles; porque mais de quarenta homens dentre eles armaram ciladas, os quais juraram sob pena de maldição não comerem nem beberem até que o tenham morto; e agora estão aprestados, esperando a tua promessa.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "morto",
+              "strong": "G3498"
+            },
+            {
+              "word": "promessa",
+              "strong": "G1860"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Então o comandante despediu o moço, ordenando-lhe que a ninguém dissesse que lhe havia contado aquilo.",
+          "tokens": [
+            {
+              "word": "moço",
+              "strong": "G3495"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Chamando dois centuriões, disse: Aprontai para a terceira hora da noite duzentos soldados de infantaria, setenta de cavalaria e duzentos lanceiros para irem até Cesaréia;",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "hora",
+              "strong": "G5610"
+            },
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            },
+            {
+              "word": "setenta",
+              "strong": "G1440"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "e mandou que aparelhassem cavalgaduras para que Paulo montasse, a fim de o levarem salvo ao governador Félix.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "fim",
+              "strong": "G5056"
+            },
+            {
+              "word": "salvo",
+              "strong": "G4982"
+            },
+            {
+              "word": "governador",
+              "strong": "G2232"
+            },
+            {
+              "word": "Félix",
+              "strong": "G5344"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E escreveu-lhe uma carta nestes termos:",
+          "tokens": []
+        },
+        {
+          "n": 26,
+          "text": "Cláudio Lísias, ao excelentíssimo governador Félix, saúde.",
+          "tokens": [
+            {
+              "word": "governador",
+              "strong": "G2232"
+            },
+            {
+              "word": "Félix",
+              "strong": "G5344"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Este homem foi preso pelos judeus, e estava a ponto de ser morto por eles quando eu sobrevim com a tropa e o livrei ao saber que era romano.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "morto",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Querendo saber a causa por que o acusavam, levei-o ao sinédrio deles;",
+          "tokens": [
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "e achei que era acusado de questões da lei deles, mas que nenhum crime havia nele digno de morte ou prisão.",
+          "tokens": [
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "morte",
+              "strong": "G2288"
+            },
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E quando fui informado que haveria uma cilada contra o homem, logo to enviei, intimando também aos acusadores que perante ti se manifestem contra ele. [Passa bem.]",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Os soldados, pois, conforme lhes fora mandado, tomando a Paulo, o levaram de noite a Antipátride.",
+          "tokens": [
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "noite",
+              "strong": "G3571"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Mas no dia seguinte, deixando aos de cavalaria irem com ele, voltaram à fortaleza;",
+          "tokens": []
+        },
+        {
+          "n": 33,
+          "text": "os quais, logo que chegaram a Cesaréia e entregaram a carta ao governador, apresentaram-lhe também Paulo.",
+          "tokens": [
+            {
+              "word": "entregaram",
+              "strong": "G3860"
+            },
+            {
+              "word": "governador",
+              "strong": "G2232"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Tendo lido a carta, o governador perguntou de que província ele era; e, sabendo que era da Cilícia,",
+          "tokens": [
+            {
+              "word": "governador",
+              "strong": "G2232"
+            },
+            {
+              "word": "Cilícia",
+              "strong": "G2791"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "disse: Ouvir-te-ei quando chegarem também os teus acusadores; e mandou que fosse guardado no pretório de Herodes.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Ouvir",
+              "strong": "G191"
+            },
+            {
+              "word": "guardado",
+              "strong": "G5083"
+            },
+            {
+              "word": "pretório",
+              "strong": "G4232"
+            },
+            {
+              "word": "Herodes",
+              "strong": "G2264"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Cinco dias depois o sumo sacerdote Ananias desceu com alguns anciãos e um certo Tertulo, orador, os quais fizeram, perante o governador, queixa contra Paulo.",
+          "tokens": [
+            {
+              "word": "sumo sacerdote",
+              "strong": "G749"
+            },
+            {
+              "word": "desceu",
+              "strong": "G2597"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "governador",
+              "strong": "G2232"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Ananias",
+              "strong": "G367"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Sendo este chamado, Tertulo começou a acusá-lo, dizendo: Visto que por ti gozamos de muita paz e por tua providência são continuamente feitas reformas nesta nação,",
+          "tokens": [
+            {
+              "word": "Visto",
+              "strong": "G3708"
+            },
+            {
+              "word": "paz",
+              "strong": "G1515"
+            },
+            {
+              "word": "feitas",
+              "strong": "G1096"
+            },
+            {
+              "word": "nação",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "em tudo e em todo lugar reconhecemo-lo com toda a gratidão, ó excelentíssimo Félix.",
+          "tokens": [
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "Félix",
+              "strong": "G5344"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Mas, para que não te detenha muito rogo-te que, conforme a tua eqüidade, nos ouças por um momento.",
+          "tokens": []
+        },
+        {
+          "n": 5,
+          "text": "Temos achado que este homem é uma peste, e promotor de sedições entre todos os judeus, por todo o mundo, e chefe da seita dos nazarenos;",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "mundo",
+              "strong": "G2889"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "o qual tentou profanar o templo; e nós o prendemos, [e conforme a nossa lei o quisemos julgar.",
+          "tokens": [
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "julgar",
+              "strong": "G2920"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Mas sobrevindo o comandante Lísias no-lo tirou dentre as mãos com grande violência, mandando aos acusadores que viessem a ti.]",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "e tu mesmo, examinando-o, poderás certificar-te de tudo aquilo de que nós o acusamos.",
+          "tokens": []
+        },
+        {
+          "n": 9,
+          "text": "Os judeus também concordam na acusação, afirmando que estas coisas eram assim.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Paulo, tendo-lhe o governador feito sinal que falasse, respondeu: Porquanto sei que há muitos anos és juiz sobre esta nação, com bom ânimo faço a minha defesa,",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "governador",
+              "strong": "G2232"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "sinal",
+              "strong": "G4592"
+            },
+            {
+              "word": "nação",
+              "strong": "G1484"
+            },
+            {
+              "word": "bom",
+              "strong": "G2570"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "pois bem podes verificar que não há mais de doze dias subi a Jerusalém para adorar,",
+          "tokens": [
+            {
+              "word": "doze",
+              "strong": "G1427"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "adorar",
+              "strong": "G4352"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "e que não me acharam no templo discutindo com alguém nem amotinando o povo, quer nas sinagogas quer na cidade.",
+          "tokens": [
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "sinagogas",
+              "strong": "G4864"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Nem te podem provar as coisas de que agora me acusam.",
+          "tokens": []
+        },
+        {
+          "n": 14,
+          "text": "Mas confesso-te isto: que, seguindo o caminho a que eles chamam seita, assim sirvo ao Deus de nossos pais, crendo tudo quanto está escrito na lei e nos profetas,",
+          "tokens": [
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "escrito",
+              "strong": "G1125"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "tendo esperança em Deus, como estes mesmos também esperam, de que há de haver ressurreição tanto dos justos como dos injustos.",
+          "tokens": [
+            {
+              "word": "esperança",
+              "strong": "G1680"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ressurreição",
+              "strong": "G386"
+            },
+            {
+              "word": "justos",
+              "strong": "G1342"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Por isso procuro sempre ter uma consciência sem ofensas diante de Deus e dos homens.",
+          "tokens": [
+            {
+              "word": "sem",
+              "strong": "G4590"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "homens",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Vários anos depois vim trazer à minha nação esmolas e fazer oferendas;",
+          "tokens": [
+            {
+              "word": "nação",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "e ocupado nestas coisas me acharam já santificado no templo não em ajuntamento, nem com tumulto, alguns judeus da Ásia,",
+          "tokens": [
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "os quais deviam comparecer diante de ti e acusar-me se tivessem alguma coisa contra mim;",
+          "tokens": []
+        },
+        {
+          "n": 20,
+          "text": "ou estes mesmos digam que iniquidade acharam, quando compareci perante o sinédrio,",
+          "tokens": [
+            {
+              "word": "iniquidade",
+              "strong": "G458"
+            },
+            {
+              "word": "sinédrio",
+              "strong": "G4892"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "a não ser acerca desta única palavra que, estando no meio deles, bradei: Por causa da ressurreição dos mortos é que hoje estou sendo julgado por vós.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "ressurreição",
+              "strong": "G386"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Félix, porém, que era bem informado a respeito do Caminho, adiou a questão, dizendo: Quando o comandante Lísias tiver descido, então tomarei inteiro conhecimento da vossa causa.",
+          "tokens": [
+            {
+              "word": "Caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "questão",
+              "strong": "G2214"
+            },
+            {
+              "word": "Félix",
+              "strong": "G5344"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E ordenou ao centurião que Paulo ficasse detido, mas fosse tratado com brandura e que a nenhum dos seus proibisse servi-lo.",
+          "tokens": [
+            {
+              "word": "centurião",
+              "strong": "G2760"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Alguns dias depois, vindo Félix com sua mulher Drusila, que era judia, mandou chamar a Paulo, e ouviu-o acerca da fé em Cristo Jesus.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "G1135"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "ouviu",
+              "strong": "G191"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Félix",
+              "strong": "G5344"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E discorrendo ele sobre a justiça, o domínio próprio e o juízo vindouro, Félix ficou atemorizado e respondeu: Por ora vai-te, e quando tiver ocasião favorável, eu te chamarei.",
+          "tokens": [
+            {
+              "word": "justiça",
+              "strong": "G1343"
+            },
+            {
+              "word": "juízo",
+              "strong": "G2920"
+            },
+            {
+              "word": "vai",
+              "strong": "G4198"
+            },
+            {
+              "word": "Félix",
+              "strong": "G5344"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Esperava ao mesmo tempo que Paulo lhe desse dinheiro, pelo que o mandava chamar mais freqüentemente e conversava com ele.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "dinheiro",
+              "strong": "G2772"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Mas passados dois anos, teve Félix por sucessor a Pórcio Festo; e querendo Félix agradar aos judeus, deixou a Paulo preso.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Félix",
+              "strong": "G5344"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Tendo, pois, entrado Festo na província, depois de três dias subiu de Cesaréia a Jerusalém.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E os principais sacerdotes e os mais eminentes judeus fizeram-lhe queixa contra Paulo e, em detrimento deste,",
+          "tokens": [
+            {
+              "word": "principais sacerdotes",
+              "strong": "G749"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "lhe rogavam o favor de o mandar a Jerusalém, armando ciladas para o matarem no caminho.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Mas Festo respondeu que Paulo estava detido em Cesaréia, e que ele mesmo brevemente partiria para lá.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Portanto - disse ele - as autoridades dentre vós desçam comigo e, se há nesse homem algum crime, acusem-no.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Tendo-se demorado entre eles não mais de oito ou dez dias, desceu a Cesaréia; e no dia seguinte, sentando-se no tribunal, mandou trazer Paulo.",
+          "tokens": [
+            {
+              "word": "desceu",
+              "strong": "G2597"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Tendo ele comparecido, rodearam-no os judeus que haviam descido de Jerusalém, trazendo contra ele muitas e graves acusações, que não podiam provar.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Paulo, porém, respondeu em sua defesa: Nem contra a lei dos judeus, nem contra o templo, nem contra César, tenho pecado em coisa alguma.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "César",
+              "strong": "G2541"
+            },
+            {
+              "word": "pecado",
+              "strong": "G266"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Todavia Festo, querendo agradar aos judeus, respondendo a Paulo, disse: Queres subir a Jerusalém e ali ser julgado perante mim acerca destas coisas?",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Mas Paulo disse: Estou perante o tribunal de César, onde devo ser julgado; nenhum mal fiz aos judeus, como muito bem sabes.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "César",
+              "strong": "G2541"
+            },
+            {
+              "word": "mal",
+              "strong": "G5337"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "sabes",
+              "strong": "G1097"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Se, pois, sou malfeitor e tenho cometido alguma coisa digna de morte, não recuso morrer; mas se nada há daquilo de que estes me acusam, ninguém me pode entregar a eles; apelo para César.",
+          "tokens": [
+            {
+              "word": "morte",
+              "strong": "G2288"
+            },
+            {
+              "word": "morrer",
+              "strong": "G599"
+            },
+            {
+              "word": "entregar",
+              "strong": "G3860"
+            },
+            {
+              "word": "César",
+              "strong": "G2541"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então Festo, tendo falado com o conselho, respondeu: Apelaste para César; para César irás.",
+          "tokens": [
+            {
+              "word": "conselho",
+              "strong": "G4824"
+            },
+            {
+              "word": "César",
+              "strong": "G2541"
+            },
+            {
+              "word": "César",
+              "strong": "G2541"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Passados alguns dias, o rei Agripa e Berenice vieram a Cesaréia em visita de saudação a Festo.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "Agripa",
+              "strong": "G67"
+            },
+            {
+              "word": "Cesaréia",
+              "strong": "G2542"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E, como se demorassem ali muitos dias, Festo expôs ao rei o caso de Paulo, dizendo: Há aqui certo homem que foi deixado preso por Félix,",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Félix",
+              "strong": "G5344"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "a respeito do qual, quando estive em Jerusalém, os principais sacerdotes e os anciãos dos judeus me fizeram queixas, pedindo sentença contra ele;",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "principais sacerdotes",
+              "strong": "G749"
+            },
+            {
+              "word": "anciãos",
+              "strong": "G4245"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "aos quais respondi que não é costume dos romanos condenar homem algum sem que o acusado tenha presentes os seus acusadores e possa defender-se da acusação.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "sem",
+              "strong": "G4590"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Quando então eles se haviam reunido aqui, sem me demorar, no dia seguinte sentei-me no tribunal e mandei trazer o homem;",
+          "tokens": [
+            {
+              "word": "sem",
+              "strong": "G4590"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "contra o qual os acusadores, levantando-se, não apresentaram acusação alguma das coisas perversas que eu suspeitava;",
+          "tokens": []
+        },
+        {
+          "n": 19,
+          "text": "tinham, porém, contra ele algumas questões acerca da sua religião e de um tal Jesus defunto, que Paulo afirmava estar vivo.",
+          "tokens": [
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "vivo",
+              "strong": "G2198"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E, estando eu perplexo quanto ao modo de investigar estas coisas, perguntei se não queria ir a Jerusalém e ali ser julgado no tocante às mesmas.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Mas apelando Paulo para que fosse reservado ao julgamento do imperador, mandei que fosse detido até que o enviasse a César.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "julgamento",
+              "strong": "G2920"
+            },
+            {
+              "word": "César",
+              "strong": "G2541"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Então Agripa disse a Festo: Eu bem quisera ouvir esse homem. Respondeu-lhe ele: Amanhã o ouvirás.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "ouvir",
+              "strong": "G191"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "Agripa",
+              "strong": "G67"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "No dia seguinte vindo Agripa e Berenice, com muito aparato, entraram no auditório com os chefes militares e homens principais da cidade; então, por ordem de Festo, Paulo foi trazido.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "G444"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Agripa",
+              "strong": "G67"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Disse Festo: Rei Agripa e vós todos que estais presentes conosco, vedes este homem por causa de quem toda a multidão dos judeus, tanto em Jerusalém como aqui, recorreu a mim, clamando que não convinha que ele vivesse mais.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Rei",
+              "strong": "G935"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "Agripa",
+              "strong": "G67"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Eu, porém, achei que ele não havia praticado coisa alguma digna de morte; mas havendo ele apelado para o imperador, resolvi remeter-lho.",
+          "tokens": [
+            {
+              "word": "morte",
+              "strong": "G2288"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Do qual não tenho coisa certa que escreva a meu senhor, e por isso perante vós o trouxe, principalmente perante ti, ó rei Agripa, para que, depois de feito o interrogatório, tenha eu alguma coisa que escrever.",
+          "tokens": [
+            {
+              "word": "senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "Agripa",
+              "strong": "G67"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Porque não me parece razoável enviar um preso, e não notificar as acusações que há contra ele.",
+          "tokens": []
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Depois Agripa disse a Paulo: É-te permitido fazer a tua defesa. Então Paulo, estendendo a mão, começou a sua defesa:",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Agripa",
+              "strong": "G67"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Sinto-me feliz, ó rei Agripa, em poder defender-me hoje perante ti de todas as coisas de que sou acusado pelos judeus;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "Agripa",
+              "strong": "G67"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "mormente porque és versado em todos os costumes e questões que há entre os judeus; pelo que te rogo que me ouças com paciência.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "paciência",
+              "strong": "G5281"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "A minha vida, pois, desde a mocidade, o que tem sido sempre entre o meu povo e em Jerusalém, sabem-na todos os judeus,",
+          "tokens": [
+            {
+              "word": "vida",
+              "strong": "G2222"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "pois me conhecem desde o princípio e, se quiserem, podem dar testemunho de que, conforme a mais severa seita da nossa religião, vivi fariseu.",
+          "tokens": [
+            {
+              "word": "princípio",
+              "strong": "G746"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E agora estou aqui para ser julgado por causa da esperança da promessa feita por Deus a nossos pais,",
+          "tokens": [
+            {
+              "word": "esperança",
+              "strong": "G1680"
+            },
+            {
+              "word": "promessa",
+              "strong": "G1860"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "a qual as nossas doze tribos, servindo a Deus fervorosamente noite e dia, esperam alcançar; é por causa desta esperança, ó rei, que eu sou acusado pelos judeus.",
+          "tokens": [
+            {
+              "word": "doze",
+              "strong": "G1427"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "esperança",
+              "strong": "G1680"
+            },
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Por que é que se julga entre vós incrível que Deus ressuscite os mortos?",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ressuscite",
+              "strong": "G450"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Eu, na verdade, cuidara que devia praticar muitas coisas contra o nome de Jesus, o nazareno;",
+          "tokens": [
+            {
+              "word": "verdade",
+              "strong": "G225"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "nazareno",
+              "strong": "G3478"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "o que, com efeito, fiz em Jerusalém. Pois havendo recebido autoridade dos principais dos sacerdotes, não somente encerrei muitos dos santos em prisões, como também dei o meu voto contra eles quando os matavam.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "autoridade",
+              "strong": "G1849"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "G749"
+            },
+            {
+              "word": "santos",
+              "strong": "G40"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E, castigando-os muitas vezes por todas as sinagogas, obrigava-os a blasfemar; e enfurecido cada vez mais contra eles, perseguia-os até nas cidades estrangeiras.",
+          "tokens": [
+            {
+              "word": "sinagogas",
+              "strong": "G4864"
+            },
+            {
+              "word": "cidades",
+              "strong": "G4172"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Indo com este encargo a Damasco, munido de poder e comissão dos principais sacerdotes,",
+          "tokens": [
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "principais sacerdotes",
+              "strong": "G749"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "ao meio-dia, ó rei vi no caminho uma luz do céu, que excedia o esplendor do sol, resplandecendo em torno de mim e dos que iam comigo.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "caminho",
+              "strong": "G3598"
+            },
+            {
+              "word": "luz",
+              "strong": "G5457"
+            },
+            {
+              "word": "céu",
+              "strong": "G3772"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E, caindo nós todos por terra, ouvi uma voz que me dizia em língua hebráica: Saulo, Saulo, por que me persegues? Dura coisa te é recalcitrar contra os aguilhões.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "língua",
+              "strong": "G1100"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            },
+            {
+              "word": "Saulo",
+              "strong": "G4569"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Disse eu: Quem és, Senhor? Respondeu o Senhor: Eu sou Jesus, a quem tu persegues;",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "mas levanta-te e põe-te em pé; pois para isto te apareci, para te fazer ministro e testemunha tanto das coisas em que me tens visto como daquelas em que te hei de aparecer;",
+          "tokens": [
+            {
+              "word": "visto",
+              "strong": "G3708"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "livrando-te deste povo e dos gentios, aos quais te envio,",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "para lhes abrir os olhos a fim de que se convertam das trevas à luz, e do poder de Satanás a Deus, para que recebam remissão de pecados e herança entre aqueles que são santificados pela fé em mim.",
+          "tokens": [
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "fim",
+              "strong": "G5056"
+            },
+            {
+              "word": "trevas",
+              "strong": "G4653"
+            },
+            {
+              "word": "luz",
+              "strong": "G5457"
+            },
+            {
+              "word": "poder",
+              "strong": "G1411"
+            },
+            {
+              "word": "Satanás",
+              "strong": "G4567"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "remissão",
+              "strong": "G859"
+            },
+            {
+              "word": "pecados",
+              "strong": "G266"
+            },
+            {
+              "word": "santificados",
+              "strong": "G37"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Pelo que, ó rei Agripa, não fui desobediente à visão celestial,",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "Agripa",
+              "strong": "G67"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "antes anunciei primeiramente aos que estão em Damasco, e depois em Jerusalém, e por toda a terra da Judéia e também aos gentios, que se arrependessem e se convertessem a Deus, praticando obras dignas de arrependimento.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            },
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "obras",
+              "strong": "G2041"
+            },
+            {
+              "word": "arrependimento",
+              "strong": "G3341"
+            },
+            {
+              "word": "Damasco",
+              "strong": "G1154"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Por causa disto os judeus me prenderam no templo e procuravam matar-me.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "templo",
+              "strong": "G2411"
+            },
+            {
+              "word": "matar",
+              "strong": "G5407"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Tendo, pois, alcançado socorro da parte de Deus, ainda até o dia de hoje permaneço, dando testemunho tanto a pequenos como a grandes, não dizendo nada senão o que os profetas e Moisés disseram que devia acontecer;",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "permaneço",
+              "strong": "G3306"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "isto é, como o Cristo devia padecer, e como seria ele o primeiro que, pela ressurreiçao dos mortos, devia anunciar a luz a este povo e também aos gentios.",
+          "tokens": [
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "primeiro",
+              "strong": "G4413"
+            },
+            {
+              "word": "ressurreiçao",
+              "strong": "G386"
+            },
+            {
+              "word": "mortos",
+              "strong": "G3498"
+            },
+            {
+              "word": "luz",
+              "strong": "G5457"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Fazendo ele deste modo a sua defesa, disse Festo em alta voz: Estás louco, Paulo; as muitas letras te fazem delirar.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "voz",
+              "strong": "G5456"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Mas Paulo disse: Não deliro, ó excelentíssimo Festo, antes digo palavras de verdade e de perfeito juízo.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            },
+            {
+              "word": "verdade",
+              "strong": "G225"
+            },
+            {
+              "word": "juízo",
+              "strong": "G2920"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Porque o rei, diante de quem falo com liberdade, sabe destas coisas, pois não creio que nada disto lhe é oculto; porque isto não se fez em qualquer canto.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "G935"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Crês tu nos profetas, ó rei Agripa? Sei que crês.",
+          "tokens": [
+            {
+              "word": "Crês",
+              "strong": "G4100"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            },
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "crês",
+              "strong": "G4100"
+            },
+            {
+              "word": "Agripa",
+              "strong": "G67"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Disse Agripa a Paulo: Por pouco me persuades a fazer-me cristão.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Agripa",
+              "strong": "G67"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Respondeu Paulo: Prouvera a Deus que, ou por pouco ou por muito, não somente tu, mas também todos quantos hoje me ouvem, se tornassem tais qual eu sou, menos estas cadeias.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E levantou-se o rei, e o governador, e Berenice, e os que com eles estavam sentados,",
+          "tokens": [
+            {
+              "word": "levantou",
+              "strong": "G5312"
+            },
+            {
+              "word": "rei",
+              "strong": "G935"
+            },
+            {
+              "word": "governador",
+              "strong": "G2232"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "e retirando-se falavam uns com os outros, dizendo: Este homem não fez nada digno de morte ou prisão.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "morte",
+              "strong": "G2288"
+            },
+            {
+              "word": "prisão",
+              "strong": "G5438"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Então Agripa disse a Festo: Este homem bem podia ser solto, se não tivesse apelado para César.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "César",
+              "strong": "G2541"
+            },
+            {
+              "word": "Agripa",
+              "strong": "G67"
+            },
+            {
+              "word": "Festo",
+              "strong": "G5347"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E, como se determinou que navegássemos para a Itália, entregaram Paulo e alguns outros presos a um centurião por nome Júlio, da coorte augusta.",
+          "tokens": [
+            {
+              "word": "entregaram",
+              "strong": "G3860"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "centurião",
+              "strong": "G2760"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E, embarcando em um navio de Adramítio, que estava prestes a navegar em demanda dos portos pela costa da Ásia, fizemo-nos ao mar, estando conosco Aristarco, macedônio de Tessalônica.",
+          "tokens": [
+            {
+              "word": "Aristarco",
+              "strong": "G708"
+            },
+            {
+              "word": "Tessalônica",
+              "strong": "G2332"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "No dia seguinte chegamos a Sidom, e Júlio, tratando Paulo com bondade, permitiu-lhe ir ver os amigos e receber deles os cuidados necessários.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "ver",
+              "strong": "G3708"
+            },
+            {
+              "word": "amigos",
+              "strong": "G5384"
+            },
+            {
+              "word": "receber",
+              "strong": "G2983"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Partindo dali, fomos navegando a sotavento de Chipre, porque os ventos eram contrários.",
+          "tokens": [
+            {
+              "word": "ventos",
+              "strong": "G417"
+            },
+            {
+              "word": "Chipre",
+              "strong": "G2954"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Tendo atravessado o mar ao longo da Cilícia e Panfília, chegamos a Mirra, na Lícia.",
+          "tokens": [
+            {
+              "word": "Cilícia",
+              "strong": "G2791"
+            },
+            {
+              "word": "Panfília",
+              "strong": "G3828"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Ali o centurião achou um navio de Alexandria que navegava para a Itália, e nos fez embarcar nele.",
+          "tokens": [
+            {
+              "word": "centurião",
+              "strong": "G2760"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Navegando vagarosamente por muitos dias, e havendo chegado com dificuldade defronte de Cnido, não nos permitindo o vento ir mais adiante, navegamos a sotavento de Creta, à altura de Salmone;",
+          "tokens": [
+            {
+              "word": "vento",
+              "strong": "G4151"
+            },
+            {
+              "word": "Creta",
+              "strong": "G2914"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "e, costeando-a com dificuldade, chegamos a um lugar chamado Bons Portos, perto do qual estava a cidade de Laséia.",
+          "tokens": [
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "cidade",
+              "strong": "G4172"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Havendo decorrido muito tempo e tendo-se tornado perigosa a navegação, porque já havia passado o jejum, Paulo os advertia,",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "dizendo-lhes: Senhores, vejo que a viagem vai ser com avaria e muita perda não só para a carga e o navio, mas também para as nossas vidas.",
+          "tokens": [
+            {
+              "word": "vai",
+              "strong": "G4198"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Mas o centurião dava mais crédito ao piloto e ao dono do navio do que às coisas que Paulo dizia.",
+          "tokens": [
+            {
+              "word": "centurião",
+              "strong": "G2760"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E não sendo o porto muito próprio para invernar, os mais deles foram de parecer que daí se fizessem ao mar para ver se de algum modo podiam chegar a Fênice, um porto de Creta que olha para o nordeste e para o sueste, para ali invernar.",
+          "tokens": [
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "ver",
+              "strong": "G3708"
+            },
+            {
+              "word": "olha",
+              "strong": "G991"
+            },
+            {
+              "word": "Creta",
+              "strong": "G2914"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Soprando brandamente o vento sul, e supondo eles terem alcançado o que desejavam, levantaram ferro e iam costeando Creta bem de perto.",
+          "tokens": [
+            {
+              "word": "vento",
+              "strong": "G4151"
+            },
+            {
+              "word": "Creta",
+              "strong": "G2914"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Mas não muito depois desencadeou-se do lado da ilha um tufão de vento chamado euro-aquilão;",
+          "tokens": [
+            {
+              "word": "vento",
+              "strong": "G4151"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "e, sendo arrebatado o navio e não podendo navegar contra o vento, cedemos à sua força e nos deixávamos levar.",
+          "tokens": [
+            {
+              "word": "vento",
+              "strong": "G4151"
+            },
+            {
+              "word": "força",
+              "strong": "G970"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Correndo a sota-vento de uma pequena ilha chamada Clauda, somente a custo pudemos segurar o batel,",
+          "tokens": [
+            {
+              "word": "vento",
+              "strong": "G4151"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "o qual recolheram, usando então os meios disponíveis para cingir o navio; e, temendo que fossem lançados na Sirte, arriaram os aparelhos e se deixavam levar.",
+          "tokens": []
+        },
+        {
+          "n": 18,
+          "text": "Como fôssemos violentamente açoitados pela tempestade, no dia seguinte começaram a alijar a carga ao mar.",
+          "tokens": []
+        },
+        {
+          "n": 19,
+          "text": "E ao terceiro dia, com as próprias mãos lançaram os aparelhos do navio.",
+          "tokens": [
+            {
+              "word": "terceiro",
+              "strong": "G5154"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Não aparecendo por muitos dia nem sol nem estrelas, e sendo nós ainda batidos por grande tempestade, fugiu-nos afinal toda a esperança de sermos salvos.",
+          "tokens": [
+            {
+              "word": "esperança",
+              "strong": "G1680"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Havendo eles estado muito tempo sem comer, Paulo, pondo-se em pé no meio deles, disse: Senhores, devíeis ter-me ouvido e não ter partido de Creta, para evitar esta avaria e perda.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "sem",
+              "strong": "G4590"
+            },
+            {
+              "word": "comer",
+              "strong": "G2068"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Creta",
+              "strong": "G2914"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E agora vos exorto a que tenhais bom ânimo, pois não se perderá vida alguma entre vós, mas somente o navio.",
+          "tokens": [
+            {
+              "word": "bom",
+              "strong": "G2570"
+            },
+            {
+              "word": "vida",
+              "strong": "G2222"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Porque esta noite me apareceu um anjo do Deus de quem eu sou e a quem sirvo,",
+          "tokens": [
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "anjo",
+              "strong": "G32"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "dizendo: Não temas, Paulo, importa que compareças perante César, e eis que Deus te deu todos os que navegam contigo.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "César",
+              "strong": "G2541"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "deu",
+              "strong": "G1325"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Portanto, senhores, tende bom ânimo; pois creio em Deus que há de suceder assim como me foi dito.",
+          "tokens": [
+            {
+              "word": "bom",
+              "strong": "G2570"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Contudo é necessário irmos dar em alguma ilha.",
+          "tokens": [
+            {
+              "word": "necessário",
+              "strong": "G1163"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Quando chegou a décima quarta noite, sendo nós ainda impelidos pela tempestade no mar de Ádria, pela meia-noite, suspeitaram os marinheiros a proximidade de terra;",
+          "tokens": [
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "e lançando a sonda, acharam vinte braças; passando um pouco mais adiante, e tornando a lançar a sonda, acharam quinze braças.",
+          "tokens": []
+        },
+        {
+          "n": 29,
+          "text": "Ora, temendo irmos dar em rochedos, lançaram da popa quatro âncoras, e esperaram ansiosos que amanhecesse.",
+          "tokens": [
+            {
+              "word": "ansiosos",
+              "strong": "G3309"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Procurando, entrementes, os marinheiros fugir do navio, e tendo arriado o batel ao mar sob pretexto de irem lançar âncoras pela proa,",
+          "tokens": []
+        },
+        {
+          "n": 31,
+          "text": "disse Paulo ao centurião e aos soldados: Se estes não ficarem no navio, não podereis salvar-vos.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "centurião",
+              "strong": "G2760"
+            },
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            },
+            {
+              "word": "salvar",
+              "strong": "G4982"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Então os soldados cortaram os cabos do batel e o deixaram cair.",
+          "tokens": [
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Enquanto amanhecia, Paulo rogava a todos que comessem alguma coisa, dizendo: É já hoje o décimo quarto dia que esperais e permaneceis em jejum, não havendo provado coisa alguma.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Rogo-vos, portanto, que comais alguma coisa, porque disso depende a vossa segurança; porque nem um cabelo cairá da cabeça de qualquer de vós.",
+          "tokens": []
+        },
+        {
+          "n": 35,
+          "text": "E, havendo dito isto, tomou o pão, deu graças a Deus na presença de todos e, partindo-o começou a comer.",
+          "tokens": [
+            {
+              "word": "pão",
+              "strong": "G740"
+            },
+            {
+              "word": "deu",
+              "strong": "G1325"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "comer",
+              "strong": "G2068"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Então todos cobraram ânimo e se puseram também a comer.",
+          "tokens": [
+            {
+              "word": "comer",
+              "strong": "G2068"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Éramos ao todo no navio duzentas e setenta e seis almas.",
+          "tokens": [
+            {
+              "word": "setenta",
+              "strong": "G1440"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Depois de saciados com a comida, começaram a aliviar o navio, alijando o trigo no mar.",
+          "tokens": [
+            {
+              "word": "trigo",
+              "strong": "G4621"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "Quando amanheceu, não reconheciam a terra; divisavam, porém, uma enseada com uma praia, e consultavam se poderiam nela encalhar o navio.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Soltando as âncoras, deixaram-nas no mar, largando ao mesmo tempo as amarras do leme; e, içando ao vento a vela da proa, dirigiram-se para a praia.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "vento",
+              "strong": "G4151"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "Dando, porém, num lugar onde duas correntes se encontravam, encalharam o navio; e a proa, encravando-se, ficou imóvel, mas a popa se desfazia com a força das ondas.",
+          "tokens": [
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "força",
+              "strong": "G970"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "Então o parecer dos soldados era que matassem os presos para que nenhum deles fugisse, escapando a nado.",
+          "tokens": [
+            {
+              "word": "soldados",
+              "strong": "G4757"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "Mas o centurião, querendo salvar a Paulo, estorvou-lhes este intento; e mandou que os que pudessem nadar fossem os primeiros a lançar-se ao mar e alcançar a terra;",
+          "tokens": [
+            {
+              "word": "centurião",
+              "strong": "G2760"
+            },
+            {
+              "word": "salvar",
+              "strong": "G4982"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "primeiros",
+              "strong": "G4413"
+            },
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        },
+        {
+          "n": 44,
+          "text": "e que os demais se salvassem, uns em tábuas e outros em quaisquer destroços do navio. Assim chegaram todos à terra salvos.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "G1093"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Estando já salvos, soubemos então que a ilha se chamava Malta.",
+          "tokens": []
+        },
+        {
+          "n": 2,
+          "text": "Os indígenas usaram conosco de não pouca humanidade; pois acenderam uma fogueira e nos recolheram a todos por causa da chuva que caía, e por causa do frio.",
+          "tokens": [
+            {
+              "word": "humanidade",
+              "strong": "G444"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Ora havendo Paulo ajuntado e posto sobre o fogo um feixe de gravetos, uma víbora, fugindo do calor, apegou-se-lhe à mão.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "fogo",
+              "strong": "G4442"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Quando os indígenas viram o réptil pendente da mão dele, diziam uns aos outros: Certamente este homem é homicida, pois, embora salvo do mar, a Justiça não o deixa viver.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "salvo",
+              "strong": "G4982"
+            },
+            {
+              "word": "Justiça",
+              "strong": "G1343"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Mas ele, sacudindo o réptil no fogo, não sofreu mal nenhum.",
+          "tokens": [
+            {
+              "word": "fogo",
+              "strong": "G4442"
+            },
+            {
+              "word": "mal",
+              "strong": "G5337"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Eles, porém, esperavam que Paulo viesse a inchar ou a cair morto de repente; mas tendo esperado muito tempo e vendo que nada de anormal lhe sucedia, mudaram de parecer e diziam que era um deus.",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "morto",
+              "strong": "G3498"
+            },
+            {
+              "word": "tempo",
+              "strong": "G2540"
+            },
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Ora, nos arredores daquele lugar havia umas terras que pertenciam ao homem principal da ilha, por nome Públio, o qual nos recebeu e hospedou bondosamente por três dias.",
+          "tokens": [
+            {
+              "word": "lugar",
+              "strong": "G5117"
+            },
+            {
+              "word": "homem",
+              "strong": "G444"
+            },
+            {
+              "word": "nome",
+              "strong": "G3686"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Aconteceu estar de cama, enfermo de febre e disenteria, o pai de Públio; Paulo foi visitá-lo, e havendo orado, impôs-lhe as mãos, e o curou.",
+          "tokens": [
+            {
+              "word": "pai",
+              "strong": "G3962"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            },
+            {
+              "word": "curou",
+              "strong": "G2323"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Feito isto, vinham também os demais enfermos da ilha, e eram curados;",
+          "tokens": [
+            {
+              "word": "Feito",
+              "strong": "G1096"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "e estes nos distinguiram com muitas honras; e, ao embarcarmos, puseram a bordo as coisas que nos eram necessárias.",
+          "tokens": []
+        },
+        {
+          "n": 11,
+          "text": "Passados três meses, partimos em um navio de Alexandria que invernara na ilha, o qual tinha por insígnia Castor e Pólux.",
+          "tokens": []
+        },
+        {
+          "n": 12,
+          "text": "E chegando a Siracusa, ficamos ali três dias;",
+          "tokens": []
+        },
+        {
+          "n": 13,
+          "text": "donde, costeando, viemos a Régio; e, soprando no dia seguinte o vento sul, chegamos em dois dias a Putéoli,",
+          "tokens": [
+            {
+              "word": "vento",
+              "strong": "G4151"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "onde, achando alguns irmãos, fomos convidados a ficar com eles sete dias; e depois nos dirigimos a Roma.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "sete",
+              "strong": "G4589"
+            },
+            {
+              "word": "Roma",
+              "strong": "G4516"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Ora, os irmãos da lá, havendo recebido notícias nossas, vieram ao nosso encontro até a praça de Ápio e às Três Vendas, e Paulo, quando os viu, deu graças a Deus e cobrou ânimo.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "viu",
+              "strong": "G3708"
+            },
+            {
+              "word": "deu",
+              "strong": "G1325"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Quando chegamos a Roma, [o centurião entregou os presos ao general do exército, mas,] a Paulo se lhe permitiu morar à parte, com o soldado que o guardava.",
+          "tokens": [
+            {
+              "word": "Roma",
+              "strong": "G4516"
+            },
+            {
+              "word": "centurião",
+              "strong": "G2760"
+            },
+            {
+              "word": "entregou",
+              "strong": "G1325"
+            },
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "guardava",
+              "strong": "G5083"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Passados três dias, ele convocou os principais dentre os judeus; e reunidos eles, disse-lhes: Varões irmãos, não havendo eu feito nada contra o povo, ou contra os ritos paternos, vim contudo preso desde Jerusalém, entregue nas mãos dos romanos;",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "disse",
+              "strong": "G2036"
+            },
+            {
+              "word": "irmãos",
+              "strong": "G80"
+            },
+            {
+              "word": "feito",
+              "strong": "G1096"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "G2414"
+            },
+            {
+              "word": "entregue",
+              "strong": "G3860"
+            },
+            {
+              "word": "mãos",
+              "strong": "G5495"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "os quais, havendo-me interrogado, queriam soltar-me, por não haver em mim crime algum que merecesse a morte.",
+          "tokens": [
+            {
+              "word": "morte",
+              "strong": "G2288"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Mas opondo-se a isso os judeus, vi-me obrigado a apelar para César, não tendo, contudo, nada de que acusar a minha nação.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            },
+            {
+              "word": "César",
+              "strong": "G2541"
+            },
+            {
+              "word": "nação",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Por esta causa, pois, vos convidei, para vos ver e falar; porque pela esperança de Israel estou preso com esta cadeia.",
+          "tokens": [
+            {
+              "word": "ver",
+              "strong": "G3708"
+            },
+            {
+              "word": "esperança",
+              "strong": "G1680"
+            },
+            {
+              "word": "Israel",
+              "strong": "G2474"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Mas eles lhe disseram: Nem recebemos da Judéia cartas a teu respeito, nem veio aqui irmão algum que contasse ou dissesse mal de ti.",
+          "tokens": [
+            {
+              "word": "recebemos",
+              "strong": "G2983"
+            },
+            {
+              "word": "Judéia",
+              "strong": "G2449"
+            },
+            {
+              "word": "veio",
+              "strong": "G2064"
+            },
+            {
+              "word": "irmão",
+              "strong": "G80"
+            },
+            {
+              "word": "mal",
+              "strong": "G5337"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "No entanto bem quiséramos ouvir de ti o que pensas; porque, quanto a esta seita, notório nos é que em toda parte é impugnada.",
+          "tokens": [
+            {
+              "word": "ouvir",
+              "strong": "G191"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Havendo-lhe eles marcado um dia, muitos foram ter com ele à sua morada, aos quais desde a manhã até a noite explicava com bom testemunho o reino de Deus e procurava persuadí-los acerca de Jesus, tanto pela lei de Moisés como pelos profetas.",
+          "tokens": [
+            {
+              "word": "foram",
+              "strong": "G4198"
+            },
+            {
+              "word": "morada",
+              "strong": "G3438"
+            },
+            {
+              "word": "noite",
+              "strong": "G3571"
+            },
+            {
+              "word": "bom",
+              "strong": "G2570"
+            },
+            {
+              "word": "testemunho",
+              "strong": "G3141"
+            },
+            {
+              "word": "reino",
+              "strong": "G932"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "lei",
+              "strong": "G3551"
+            },
+            {
+              "word": "Moisés",
+              "strong": "G3475"
+            },
+            {
+              "word": "profetas",
+              "strong": "G4396"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Uns criam nas suas palavras, mas outros as rejeitavam.",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "G4487"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E estando discordes entre si, retiraram-se, havendo Paulo dito esta palavra: Bem falou o Espírito Santo aos vossos pais pelo profeta Isaías,",
+          "tokens": [
+            {
+              "word": "Paulo",
+              "strong": "G3972"
+            },
+            {
+              "word": "palavra",
+              "strong": "G3056"
+            },
+            {
+              "word": "Espírito",
+              "strong": "G4151"
+            },
+            {
+              "word": "Santo",
+              "strong": "G40"
+            },
+            {
+              "word": "profeta",
+              "strong": "G4396"
+            },
+            {
+              "word": "Isaías",
+              "strong": "G2268"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "dizendo: Vai a este povo e dize: Ouvindo, ouvireis, e de maneira nenhuma entendereis; e vendo, vereis, e de maneira nenhuma percebereis.",
+          "tokens": [
+            {
+              "word": "Vai",
+              "strong": "G4198"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "vendo",
+              "strong": "G1492"
+            },
+            {
+              "word": "vereis",
+              "strong": "G1492"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Porque o coração deste povo se endureceu, e com os ouvidos ouviram tardamente, e fecharam os olhos; para que não vejam com os olhos, nem ouçam com os ouvidos, nem entendam com o coração nem se convertam e eu os cure.",
+          "tokens": [
+            {
+              "word": "coração",
+              "strong": "G2588"
+            },
+            {
+              "word": "povo",
+              "strong": "G2992"
+            },
+            {
+              "word": "ouvidos",
+              "strong": "G3775"
+            },
+            {
+              "word": "ouviram",
+              "strong": "G191"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "olhos",
+              "strong": "G3788"
+            },
+            {
+              "word": "ouvidos",
+              "strong": "G3775"
+            },
+            {
+              "word": "coração",
+              "strong": "G2588"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Seja-vos pois notório que esta salvação de Deus é enviada aos gentios, e eles ouvirão.",
+          "tokens": [
+            {
+              "word": "salvação",
+              "strong": "G4982"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "gentios",
+              "strong": "G1484"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "[E, havendo ele dito isto, partiram os judeus, tendo entre si grande contenda.]",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "G2453"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E morou dois anos inteiros na casa que alugara, e recebia a todos os que o visitavam,",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "G3624"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "pregando o reino de Deus e ensinando as coisas concernentes ao Senhor Jesus Cristo, com toda a liberdade, sem impedimento algum.",
+          "tokens": [
+            {
+              "word": "pregando",
+              "strong": "G2784"
+            },
+            {
+              "word": "reino",
+              "strong": "G932"
+            },
+            {
+              "word": "Deus",
+              "strong": "G2316"
+            },
+            {
+              "word": "ensinando",
+              "strong": "G1321"
+            },
+            {
+              "word": "Senhor",
+              "strong": "G2962"
+            },
+            {
+              "word": "Jesus",
+              "strong": "G2424"
+            },
+            {
+              "word": "Cristo",
+              "strong": "G5547"
+            },
+            {
+              "word": "sem",
+              "strong": "G4590"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+});
