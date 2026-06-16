@@ -150,7 +150,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     }
 
     function isMobileReader() {
-      return window.matchMedia("(max-width: 560px)").matches;
+      return window.matchMedia("(max-width: 900px)").matches;
     }
 
     function getSidePanelNodes() {
@@ -160,11 +160,6 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
     function renderMobileStudyCard() {
       if (!els.mobileStudyCard) return;
-      if (!state.selected) {
-        els.mobileStudyCard.hidden = true;
-        els.mobileStudyCard.innerHTML = "";
-        return;
-      }
       els.mobileStudyCard.hidden = false;
       renderStudyCard(els.mobileStudyCard);
     }
@@ -194,7 +189,8 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
     function mountMobileStudyScreen(mode = "study") {
       if (!isMobileReader() || !els.mobileStudyScreen || !els.mobileStudyContent || !els.studyCard || !els.mobileStudyCard) return false;
-      if (mode === "study" && state.selected) {
+      if (state.selected) {
+        mode = "study";
         renderStudyCard();
       }
       if (!mobilePanel.nodes.length) {
@@ -216,12 +212,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         els.mobileStudyContent.appendChild(node);
       });
 
-      if (mode === "study") {
-        renderMobileStudyCard();
-      } else {
-        els.mobileStudyCard.hidden = true;
-        els.mobileStudyCard.innerHTML = "";
-      }
+      renderMobileStudyCard();
 
       els.mobileStudyContent.scrollTop = 0;
       window.requestAnimationFrame(() => {
@@ -254,6 +245,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     }
 
     function openMobileStudyPanel(mode = "study") {
+      if (state.selected) mode = "study";
       if (mountMobileStudyScreen(mode)) return;
       document.body.classList.add("mobile-study-open");
       document.body.classList.toggle("mobile-study-has-card", mode === "study");
