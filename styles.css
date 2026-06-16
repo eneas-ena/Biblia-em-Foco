@@ -1329,9 +1329,10 @@
       body.mobile-study-has-card .study-card {
         display: block;
         order: -1;
-        height: auto;
+        max-height: min(58vh, 520px);
         min-height: 0;
-        overflow: visible;
+        overflow: auto;
+        -webkit-overflow-scrolling: touch;
       }
 
       .study-card .card-header {
