@@ -140,15 +140,24 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       return getBook().chapters.find(chapter => chapter.number === state.chapter);
     }
 
-    function openMobileStudyPanel() {
+    function openMobileStudyPanel(mode = "study") {
       document.body.classList.add("mobile-study-open");
-      requestAnimationFrame(() => {
-        if (els.side) els.side.scrollTop = 0;
-      });
+      document.body.classList.toggle("mobile-study-has-card", mode === "study");
+      const resetScroll = () => {
+        if (!els.side) return;
+        els.side.scrollTop = 0;
+        if (mode === "study") {
+          els.studyCard?.scrollIntoView({ block: "start" });
+          els.side.scrollTop = 0;
+        }
+      };
+      requestAnimationFrame(resetScroll);
+      setTimeout(resetScroll, 80);
     }
 
     function closeMobileStudyPanel() {
       document.body.classList.remove("mobile-study-open");
+      document.body.classList.remove("mobile-study-has-card");
     }
 
     function bindMobileStudyGestures() {
@@ -369,7 +378,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       state.selected = null;
       state.selectedVerseNote = null;
       renderMarkingAssistant(word, verse);
-      openMobileStudyPanel();
+      openMobileStudyPanel("study");
     }
 
     function renderMarkingAssistant(word, verse) {
@@ -805,7 +814,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       };
       renderChapter();
       loadNote();
-      openMobileStudyPanel();
+      openMobileStudyPanel("note");
       addHistoryItem({
         type: "verse",
         key: `verse:${state.bookId}:${state.chapter}:${verseNumber}`,
@@ -841,7 +850,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
       renderStudyCard();
       loadNote();
-      openMobileStudyPanel();
+      openMobileStudyPanel("study");
       addHistoryItem({
         type: "word",
         key: `word:${state.bookId}:${state.chapter}:${verseNumber}:${selectedToken.strong}:${selectedToken.word}`,
