@@ -1,4 +1,5 @@
-const CACHE_NAME = "biblia-em-foco-painel-movel-polido-v1";
+const CACHE_NAME = "biblia-em-foco-pwa-offline-v1";
+const OFFLINE_URL = "./index.html";
 const ASSETS = [
   "./",
   "./index.html",
@@ -82,7 +83,9 @@ const ASSETS = [
 self.addEventListener("install", event => {
   event.waitUntil(
     caches.open(CACHE_NAME)
-      .then(cache => cache.addAll(ASSETS))
+      .then(cache => Promise.all(ASSETS.map(asset => (
+        cache.add(new Request(asset, { cache: "reload" })).catch(() => null)
+      ))))
       .then(() => self.skipWaiting())
   );
 });
@@ -97,40 +100,43 @@ self.addEventListener("activate", event => {
   );
 });
 
+self.addEventListener("message", event => {
+  if (event.data && event.data.type === "SKIP_WAITING") {
+    self.skipWaiting();
+  }
+});
+
 self.addEventListener("fetch", event => {
   if (event.request.method !== "GET") return;
   const requestUrl = new URL(event.request.url);
-  const refreshableAsset = (
-    event.request.mode === "navigate" ||
-    event.request.destination === "document" ||
-    event.request.destination === "script" ||
-    event.request.destination === "style" ||
-    requestUrl.pathname.endsWith("/") ||
-    requestUrl.pathname.endsWith(".html") ||
-    requestUrl.pathname.endsWith(".js") ||
-    requestUrl.pathname.endsWith(".css")
-  );
+  if (requestUrl.origin !== self.location.origin) return;
 
-  if (refreshableAsset) {
+  if (event.request.mode === "navigate" || event.request.destination === "document") {
     event.respondWith(
       fetch(event.request)
         .then(response => {
           const copy = response.clone();
-          caches.open(CACHE_NAME).then(cache => cache.put(event.request, copy));
+          caches.open(CACHE_NAME).then(cache => {
+            cache.put(event.request, copy.clone());
+            cache.put(OFFLINE_URL, copy);
+          });
           return response;
         })
-        .catch(() => caches.match(event.request))
+        .catch(() => caches.match(event.request, { ignoreSearch: true })
+          .then(cached => cached || caches.match(OFFLINE_URL)))
     );
     return;
   }
 
   event.respondWith(
-    caches.match(event.request).then(cached => (
-      cached || fetch(event.request).then(response => {
+    caches.match(event.request, { ignoreSearch: true }).then(cached => {
+      const networkFetch = fetch(event.request).then(response => {
+        if (!response || response.status !== 200) return response;
         const copy = response.clone();
         caches.open(CACHE_NAME).then(cache => cache.put(event.request, copy));
         return response;
-      })
-    ))
+      });
+      return cached || networkFetch;
+    })
   );
 });

@@ -2230,6 +2230,33 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       window.setTimeout(() => els.toast.classList.remove("active"), 1700);
     }
 
+    function initPwaOfflineStatus() {
+      if (!("serviceWorker" in navigator) || !window.location.protocol.startsWith("http")) return;
+
+      const notifyOfflineState = () => {
+        if (!navigator.onLine) {
+          showToast("Modo offline ativo.");
+        }
+      };
+
+      navigator.serviceWorker.register("./sw.js").then(registration => {
+        registration.update().catch(() => {});
+        registration.addEventListener("updatefound", () => {
+          const worker = registration.installing;
+          if (!worker) return;
+          worker.addEventListener("statechange", () => {
+            if (worker.state === "installed" && navigator.serviceWorker.controller) {
+              showToast("App atualizado para uso offline.");
+            }
+          });
+        });
+      }).catch(() => {});
+
+      window.addEventListener("online", () => showToast("Conexão restaurada."));
+      window.addEventListener("offline", () => showToast("Modo offline ativo."));
+      window.setTimeout(notifyOfflineState, 600);
+    }
+
     function escapeHtml(value) {
       return String(value).replace(/[&<>"']/g, char => ({
         "&": "&amp;",
@@ -2331,9 +2358,4 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       els.homeScreen.classList.add("hidden");
     }
     loadNote();
-
-    if ("serviceWorker" in navigator && window.location.protocol.startsWith("http")) {
-      navigator.serviceWorker.register("./sw.js").then(registration => {
-        registration.update().catch(() => {});
-      }).catch(() => {});
-    }
+    initPwaOfflineStatus();
