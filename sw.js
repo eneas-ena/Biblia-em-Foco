@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-em-foco-profetas-menores-lapidados-v1";
+const CACHE_NAME = "biblia-em-foco-sem-texto-fonte-v1";
 const ASSETS = [
   "./",
   "./index.html",
