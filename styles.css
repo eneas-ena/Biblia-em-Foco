@@ -245,6 +245,11 @@
       gap: 6px;
     }
 
+    .search-box select {
+      width: 118px;
+      flex: 0 0 118px;
+    }
+
     .reader-tools {
       display: flex;
       align-items: center;
@@ -1057,7 +1062,7 @@
       max-width: 1180px;
       margin: 14px auto 0;
       padding: 16px;
-      max-height: 260px;
+      max-height: 420px;
       overflow: auto;
     }
 
@@ -1065,22 +1070,96 @@
       display: block;
     }
 
+    .search-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: start;
+      margin-bottom: 12px;
+    }
+
     .search-results h3 {
-      margin: 0 0 10px;
+      margin: 0;
       font-size: 16px;
     }
 
+    .search-head p {
+      margin: 3px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .search-section {
+      display: grid;
+      gap: 8px;
+      margin-top: 12px;
+    }
+
+    .search-section h4 {
+      margin: 0;
+      color: var(--muted);
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+    }
+
+    .search-section h4 span {
+      color: var(--brand);
+      letter-spacing: 0;
+    }
+
+    .search-section-list {
+      display: grid;
+      gap: 8px;
+    }
+
     .result-item {
-      border-top: 1px solid var(--line);
-      padding: 10px 0;
+      width: 100%;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: var(--surface);
+      padding: 10px;
       font-size: 14px;
       line-height: 1.5;
+      text-align: left;
       cursor: pointer;
     }
 
-    .result-item:first-of-type {
-      border-top: 0;
-      padding-top: 0;
+    .result-item strong,
+    .result-item small,
+    .result-item span:not(.result-badge) {
+      display: block;
+    }
+
+    .result-item strong {
+      color: var(--brand);
+      font-size: 14px;
+      line-height: 1.25;
+    }
+
+    .result-item small {
+      color: var(--muted);
+      margin: 2px 0 4px;
+    }
+
+    .result-badge {
+      display: inline-flex;
+      width: fit-content;
+      margin-bottom: 6px;
+      border: 1px solid color-mix(in srgb, var(--brand) 38%, transparent);
+      border-radius: 999px;
+      padding: 1px 7px;
+      color: var(--brand);
+      background: var(--brand-soft);
+      font-size: 11px;
+      line-height: 1.5;
+      font-weight: 700;
+    }
+
+    .search-empty {
+      margin: 0;
+      color: var(--muted);
+      font-size: 13px;
     }
 
     .toast {
@@ -1271,6 +1350,17 @@
       }
 
       .search-box, .search-box input, .controls select {
+        width: 100%;
+      }
+
+      .search-box {
+        grid-template-columns: 1fr 1fr;
+        display: grid;
+      }
+
+      .search-box select,
+      .search-box input {
+        grid-column: 1 / -1;
         width: 100%;
       }
 
