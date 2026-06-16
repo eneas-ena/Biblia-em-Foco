@@ -1,0 +1,7072 @@
+globalThis.appData.books.push({
+  "id": "ezra",
+  "name": "Esdras",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "n": 1,
+          "text": "No primeiro ano de Ciro, rei da Pérsia (para que se cumprisse a palavra do SENHOR, pela boca de Jeremias), despertou o SENHOR o espírito de Ciro, rei da Pérsia, o qual fez passar pregão por todo o seu reino, como também por escrito, dizendo:",
+          "tokens": [
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "espírito",
+              "strong": "H7307"
+            },
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Assim diz Ciro, rei da Pérsia: O Senhor Deus dos céus me deu todos os reinos da terra, e me encarregou de lhe edificar uma casa em Jerusalém, que está em Judá.",
+          "tokens": [
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "céus",
+              "strong": "H8064"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "reinos",
+              "strong": "H4467"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Quem há entre vós, de todo o seu povo, seja seu Deus com ele, e suba a Jerusalém, que está em Judá, e edifique a casa do Senhor Deus de Israel (ele é o Deus) que está em Jerusalém.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E todo aquele que ficar atrás em algum lugar em que andar peregrinando, os homens do seu lugar o ajudarão com prata, com ouro, com bens, e com gados, além das dádivas voluntárias para a casa de Deus, que está em Jerusalém.",
+          "tokens": [
+            {
+              "word": "andar",
+              "strong": "H1980"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "bens",
+              "strong": "H6239"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Então se levantaram os chefes dos pais de Judá e Benjamim, e os sacerdotes e os levitas, com todos aqueles cujo espírito Deus despertou, para subirem a edificar a casa do Senhor, que está em Jerusalém.",
+          "tokens": [
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "espírito",
+              "strong": "H7307"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E todos os que habitavam nos arredores lhes firmaram as mãos com vasos de prata, com ouro, com bens e com gado, e com coisas preciosas; além de tudo o que voluntariamente se deu.",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "bens",
+              "strong": "H6239"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Também o rei Ciro tirou os utensílios da casa do Senhor, que Nabucodonosor tinha trazido de Jerusalém, e que tinha posto na casa de seus deuses.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Nabucodonosor",
+              "strong": "H5019"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Estes tirou Ciro, rei da Pérsia, pela mão de Mitredate, o tesoureiro, que os entregou contados a Sesbazar, príncipe de Judá.",
+          "tokens": [
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "contados",
+              "strong": "H6485"
+            },
+            {
+              "word": "príncipe",
+              "strong": "H5387"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E este é o número deles: trinta travessas de ouro, mil travessas de prata, vinte e nove facas,",
+          "tokens": [
+            {
+              "word": "prata",
+              "strong": "H3701"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Trinta bacias de ouro, mais outras quatrocentas e dez bacias de prata, e mil outros utensílios.",
+          "tokens": [
+            {
+              "word": "bacias",
+              "strong": "H3595"
+            },
+            {
+              "word": "bacias",
+              "strong": "H3595"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Todos os utensílios de ouro e de prata foram cinco mil e quatrocentos; todos estes levou Sesbazar, quando os do cativeiro subiram de babilônia para Jerusalém.",
+          "tokens": [
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Estes são os filhos da província, que subiram do cativeiro, dentre os exilados, que Nabucodonosor, rei de babilônia, tinha transportado a babilônia, e tornaram a Jerusalém e a Judá, cada um para a sua cidade;",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Nabucodonosor",
+              "strong": "H5019"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Os quais vieram com Zorobabel, Jesua, Neemias, Seraías, Reelaías, Mardoqueu, Bilsã, Mizpar, Bigvai, Reum e Baaná. O número dos homens do povo de Israel:",
+          "tokens": [
+            {
+              "word": "Zorobabel",
+              "strong": "H2216"
+            },
+            {
+              "word": "Jesua",
+              "strong": "H3442"
+            },
+            {
+              "word": "Neemias",
+              "strong": "H5166"
+            },
+            {
+              "word": "Mardoqueu",
+              "strong": "H4782"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Os filhos de Parós, dois mil cento e setenta e dois.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Os filhos de Sefatias, trezentos e setenta e dois.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Os filhos de Ará, setecentos e setenta e cinco.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Os filhos de Paate-Moabe, dos filhos de Jesuá-Joabe, dois mil oitocentos e doze.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Moabe",
+              "strong": "H4124"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Jesuá",
+              "strong": "H3442"
+            },
+            {
+              "word": "Joabe",
+              "strong": "H3097"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Os filhos de Elão, mil duzentos e cinqüenta e quatro.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Os filhos de Zatu, novecentos e quarenta e cinco.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Os filhos de Zacai, setecentos e sessenta.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Os filhos de Bani, seiscentos e quarenta e dois.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Os filhos de Bebai, seiscentos e vinte e três.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Os filhos de Azgade, mil duzentos e vinte e dois.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Os filhos de Adonicão, seiscentos e sessenta e seis.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Os filhos de Bigvai, dois mil e cinqüenta e seis.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Os filhos de Adim, quatrocentos e cinqüenta e quatro.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Os filhos de Ater, de Ezequias, noventa e oito.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Ezequias",
+              "strong": "H2396"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Os filhos de Bezai, trezentos e vinte e três.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Os filhos de Jora, cento e doze.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Os filhos de Hasum, duzentos e vinte e três.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Os filhos de Gibar, noventa e cinco.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Os filhos de Belém, cento e vinte e três.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Belém",
+              "strong": "H1035"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Os homens de Netofá, cinqüenta e seis.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Os homens de Anatote, cento e vinte e oito.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Os filhos de Azmavete, quarenta e dois.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Os filhos de Quiriate-Arim, Quefira e Beerote, setecentos e quarenta e três.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Os filhos de Ramá, e de Geba, seiscentos e vinte e um.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Ramá",
+              "strong": "H7414"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Os homens de Micmás, cento e vinte e dois.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Os homens de Betel e de Ai, duzentos e vinte e três.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Os filhos de Nebo, cinqüenta e dois.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Nebo",
+              "strong": "H5015"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Os filhos de Magbis, cento e cinqüenta e seis.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Os filhos do outro Elão, mil duzentos e cinqüenta e quatro.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Os filhos de Harim, trezentos e vinte.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Os filhos de Lode, de Hadide e de Ono, setecentos e vinte e cinco.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Os filhos de Jericó, trezentos e quarenta e cinco.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Os filhos de Senaá, três mil seiscentos e trinta.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Os sacerdotes: os filhos de Jedaías, da casa de Jesuá, novecentos e setenta e três.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Jesuá",
+              "strong": "H3442"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Os filhos de Imer, mil e cinqüenta e dois.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Os filhos de Pasur, mil duzentos e quarenta e sete.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "Os filhos de Harim, mil e dezessete.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Os levitas: os filhos de Jesuá e Cadmiel, dos filhos de Hodavias, setenta e quatro.",
+          "tokens": [
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Jesuá",
+              "strong": "H3442"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "Os cantores: os filhos de Asafe, cento e vinte e oito.",
+          "tokens": [
+            {
+              "word": "cantores",
+              "strong": "H7891"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Asafe",
+              "strong": "H623"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "Os filhos dos porteiros: os filhos de Salum, os filhos de Ater, os filhos de Talmom, os filhos de Acube, os filhos de Hatita, os filhos de Sobai; ao todo, cento e trinta e nove.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "porteiros",
+              "strong": "H7778"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "Os netinins: os filhos de Zia, os filhos de Hasufa, os filhos de Tabaote,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 44,
+          "text": "Os filhos de Querós, os filhos de Siá, os filhos de Padom,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 45,
+          "text": "Os filhos de Lebaná, os filhos de Hagaba, os filhos de Acube,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 46,
+          "text": "Os filhos de Hagabe, os filhos de Sanlai, os filhos de Hanã,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 47,
+          "text": "Os filhos de Gidel, os filhos de Gaar, os filhos de Reaías,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 48,
+          "text": "Os filhos de Rezim, os filhos de Necoda, os filhos de Gazão,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 49,
+          "text": "Os filhos de Uzá, os filhos de Paseá, os filhos de Besai,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 50,
+          "text": "Os filhos de Asna, os filhos de Meunim, os filhos de Nefussim,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 51,
+          "text": "Os filhos de Bacbuque, os filhos de Hacufa, os filhos de Harur,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 52,
+          "text": "Os filhos de Bazlute, os filhos de Meída, os filhos de Harsa,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 53,
+          "text": "Os filhos de Barcos, os filhos de Sísera, os filhos de Tama.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Sísera",
+              "strong": "H5516"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 54,
+          "text": "Os filhos de Neziá, os filhos de Hatifa.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 55,
+          "text": "Os filhos dos servos de Salomão; os filhos de Sotai, os filhos de Soferete, os filhos de Peruda,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Salomão",
+              "strong": "H8010"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 56,
+          "text": "Os filhos de Jaalá, os filhos de Darcom, os filhos de Gidel,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 57,
+          "text": "Os filhos de Sefatias, os filhos de Hatil, os filhos de PoquereteHazebaim, os filhos de Ami.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 58,
+          "text": "Todos os netinins, e os filhos dos servos de Salomão, trezentos e noventa e dois.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Salomão",
+              "strong": "H8010"
+            }
+          ]
+        },
+        {
+          "n": 59,
+          "text": "Também estes subiram de Tel-Melá e Tel-Harsa, Querube, Adã e Imer; porém não puderam provar que as suas famílias e a sua linhagem eram de Israel:",
+          "tokens": [
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 60,
+          "text": "Os filhos de Delaías, os filhos de Tobias, os filhos de Necoda, seiscentos e cinqüenta e dois.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Tobias",
+              "strong": "H2900"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 61,
+          "text": "E dos filhos dos sacerdotes: os filhos de Habaías, os filhos de Coz, os filhos de Barzilai, que tomou mulher das filhas de Barzilai, o gileadita, e que foi chamado do seu nome.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 62,
+          "text": "Estes procuraram o seu registro entre os que estavam arrolados nas genealogias, mas não se acharam nelas; assim, por imundos, foram excluídos do sacerdócio.",
+          "tokens": [
+            {
+              "word": "genealogias",
+              "strong": "H3187"
+            },
+            {
+              "word": "imundos",
+              "strong": "H2931"
+            }
+          ]
+        },
+        {
+          "n": 63,
+          "text": "E o governador lhes disse que não comessem das coisas consagradas, até que houvesse sacerdote com Urim e com Tumim.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            }
+          ]
+        },
+        {
+          "n": 64,
+          "text": "Toda esta congregação junta foi de quarenta e dois mil trezentos e sessenta,",
+          "tokens": [
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            }
+          ]
+        },
+        {
+          "n": 65,
+          "text": "Afora os seus servos e as suas servas, que foram sete mil trezentos e trinta e sete; também tinha duzentos cantores e cantoras.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "cantores",
+              "strong": "H7891"
+            }
+          ]
+        },
+        {
+          "n": 66,
+          "text": "Os seus cavalos, setecentos e trinta e seis; os seus mulos, duzentos e quarenta e cinco;",
+          "tokens": []
+        },
+        {
+          "n": 67,
+          "text": "Os seus camelos, quatrocentos e trinta e cinco; os jumentos, seis mil setecentos e vinte.",
+          "tokens": []
+        },
+        {
+          "n": 68,
+          "text": "E alguns dos chefes dos pais, vindo à casa do Senhor, que habita em Jerusalém, deram ofertas voluntárias para a casa de Deus, para a estabelecerem no seu lugar.",
+          "tokens": [
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "ofertas",
+              "strong": "H4503"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 69,
+          "text": "Conforme as suas posses, deram para o tesouro da obra, em ouro, sessenta e uma mil dracmas, e em prata cinco mil libras, e cem vestes sacerdotais.",
+          "tokens": [
+            {
+              "word": "tesouro",
+              "strong": "H1597"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            }
+          ]
+        },
+        {
+          "n": 70,
+          "text": "E habitaram os sacerdotes e os levitas, e alguns do povo, tanto os cantores, como os porteiros, e os netinins, nas suas cidades; como também todo o Israel nas suas cidades.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cantores",
+              "strong": "H7891"
+            },
+            {
+              "word": "porteiros",
+              "strong": "H7778"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Chegando, pois, o sétimo mês, e estando os filhos de Israel já nas cidades, ajuntou-se o povo, como um só homem, em Jerusalém.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E levantou-se Jesuá, filho de Jozadaque, e seus irmãos, os sacerdotes, e Zorobabel, filho de Sealtiel, e seus irmãos, e edificaram o altar do Deus de Israel, para oferecerem sobre ele holocaustos, como está escrito na lei de Moisés, o homem de Deus.",
+          "tokens": [
+            {
+              "word": "Jesuá",
+              "strong": "H3442"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "Zorobabel",
+              "strong": "H2216"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E firmaram o altar sobre as suas bases, porque o terror estava sobre eles, por causa dos povos das terras; e ofereceram sobre ele holocaustos ao Senhor, holocaustos pela manhã e à tarde.",
+          "tokens": [
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "povos",
+              "strong": "H5971"
+            },
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E celebraram a festa dos tabernáculos, como está escrito; ofereceram holocaustos cada dia, por ordem, conforme ao rito, cada coisa em seu dia.",
+          "tokens": [
+            {
+              "word": "festa",
+              "strong": "H4150"
+            },
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E depois disto o holocausto contínuo, e os das luas novas e de todas as solenidades consagradas ao Senhor; como também de qualquer que oferecia oferta voluntária ao Senhor;",
+          "tokens": [
+            {
+              "word": "holocausto",
+              "strong": "H5930"
+            },
+            {
+              "word": "solenidades",
+              "strong": "H4150"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "oferta",
+              "strong": "H4503"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Desde o primeiro dia do sétimo mês começaram a oferecer holocaustos ao SENHOR; porém ainda não estavam postos os fundamentos do templo do SENHOR.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Deram, pois, o dinheiro aos pedreiros e carpinteiros, como também comida e bebida, e azeite aos sidônios, e aos tírios, para trazerem do Líbano madeira de cedro ao mar, para Jope, segundo a concessão que lhes tinha feito Ciro, rei da Pérsia.",
+          "tokens": [
+            {
+              "word": "dinheiro",
+              "strong": "H3701"
+            },
+            {
+              "word": "azeite",
+              "strong": "H8081"
+            },
+            {
+              "word": "Líbano",
+              "strong": "H3844"
+            },
+            {
+              "word": "madeira",
+              "strong": "H6086"
+            },
+            {
+              "word": "cedro",
+              "strong": "H730"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E no segundo ano da sua vinda à casa de Deus em Jerusalém, no segundo mês, Zorobabel, filho de Sealtiel, e Jesuá, filho de Jozadaque, e os outros seus irmãos, os sacerdotes e os levitas, e todos os que vieram do cativeiro a Jerusalém, começaram a obra da casa do Senhor, e constituíram os levitas da idade de vinte anos para cima, para que a dirigissem.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Zorobabel",
+              "strong": "H2216"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Jesuá",
+              "strong": "H3442"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então se levantou Jesuá, seus filhos, e seus irmãos, Cadmiel e seus filhos, os filhos de Judá, como um só homem, para dirigirem os que faziam a obra na casa de Deus, bem como os filhos de Henadade, seus filhos e seus irmãos, os levitas.",
+          "tokens": [
+            {
+              "word": "Jesuá",
+              "strong": "H3442"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Quando, pois, os edificadores lançaram os alicerces do templo do Senhor, então apresentaram-se os sacerdotes, já vestidos e com trombetas, e os levitas, filhos de Asafe, com címbalos, para louvarem ao Senhor conforme à instituição de Davi, rei de Israel.",
+          "tokens": [
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "trombetas",
+              "strong": "H7782"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Asafe",
+              "strong": "H623"
+            },
+            {
+              "word": "címbalos",
+              "strong": "H6767"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E cantavam juntos por grupo, louvando e rendendo graças ao Senhor, dizendo: porque é bom; porque a sua benignidade dura para sempre sobre Israel. E todo o povo jubilou com altas vozes, quando louvaram ao Senhor, pela fundação da casa do Senhor.",
+          "tokens": [
+            {
+              "word": "graças",
+              "strong": "H3034"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "bom",
+              "strong": "H2896"
+            },
+            {
+              "word": "benignidade",
+              "strong": "H2617"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Porém muitos dos sacerdotes, e levitas e chefes dos pais, já idosos, que viram a primeira casa, choraram em altas vozes quando à sua vista foram lançados os fundamentos desta casa; mas muitos levantaram as vozes com júbilo e com alegria.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "júbilo",
+              "strong": "H8057"
+            },
+            {
+              "word": "alegria",
+              "strong": "H8057"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "De maneira que não discernia o povo as vozes do júbilo de alegria das vozes do choro do povo; porque o povo jubilava com tão altas vozes, que o som se ouvia de muito longe.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "júbilo",
+              "strong": "H8057"
+            },
+            {
+              "word": "alegria",
+              "strong": "H8057"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Ouvindo, pois, os adversários de Judá e Benjamim que os que voltaram do cativeiro edificavam o templo ao SENHOR Deus de Israel,",
+          "tokens": [
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Chegaram-se a Zorobabel e aos chefes dos pais, e disseram-lhes: Deixai-nos edificar convosco, porque, como vós, buscaremos a vosso Deus; como também já lhe sacrificamos desde os dias de Esar-Hadom, rei da Assíria, que nos fez subir aqui.",
+          "tokens": [
+            {
+              "word": "Zorobabel",
+              "strong": "H2216"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Assíria",
+              "strong": "H804"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Porém Zorobabel, e Jesuá, e os outros chefes dos pais de Israel lhes disseram: Não convém que nós e vós edifiquemos casa a nosso Deus; mas nós sozinhos a edificaremos ao Senhor Deus de Israel, como nos ordenou o rei Ciro, rei da Pérsia.",
+          "tokens": [
+            {
+              "word": "Zorobabel",
+              "strong": "H2216"
+            },
+            {
+              "word": "Jesuá",
+              "strong": "H3442"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Todavia o povo da terra debilitava as mãos do povo de Judá, e inquietava-os no edificar.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E alugaram contra eles conselheiros, para frustrarem o seu plano, todos os dias de Ciro, rei da Pérsia, até ao reinado de Dario, rei da Pérsia.",
+          "tokens": [
+            {
+              "word": "conselheiros",
+              "strong": "H3289"
+            },
+            {
+              "word": "plano",
+              "strong": "H6098"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            },
+            {
+              "word": "Dario",
+              "strong": "H1867"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "No reinado de Assuero, no princípio do seu reinado, escreveram uma acusação contra os habitantes de Judá e de Jerusalém.",
+          "tokens": [
+            {
+              "word": "Assuero",
+              "strong": "H325"
+            },
+            {
+              "word": "princípio",
+              "strong": "H7225"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E nos dias de Artaxerxes escreveram Bislão, Mitredate, Tabeel, e os outros seus companheiros, a Artaxerxes, rei da Pérsia; e a carta estava escrita em caracteres siríacos, e na língua siríaca.",
+          "tokens": [
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            },
+            {
+              "word": "companheiros",
+              "strong": "H7453"
+            },
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            },
+            {
+              "word": "língua",
+              "strong": "H3956"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Escreveram, pois, Reum, o chanceler, e Sinsai, o escrivão, uma carta contra Jerusalém, ao rei Artaxerxes, do teor seguinte:",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então escreveu Reum, o chanceler, e Sinsai, o escrivão, e os outros seus companheiros, os dinaítas, afarsaquitas, tarpelitas, afarsitas, arquevitas, babilônios, susanquitas, deavitas, elamitas,",
+          "tokens": [
+            {
+              "word": "companheiros",
+              "strong": "H7453"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E os outros povos, que o grande e afamado Asnapar transportou, e que fez habitar na cidade de Samaria, e nas demais províncias dalém do rio, em tal tempo.",
+          "tokens": [
+            {
+              "word": "povos",
+              "strong": "H5971"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Samaria",
+              "strong": "H8111"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Este, pois, é o teor da carta que mandaram ao rei Artaxerxes: Teus servos, os homens dalém do rio, em tal tempo.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Saiba o rei que os judeus, que subiram de ti, vieram a nós em Jerusalém, e reedificam aquela rebelde e malvada cidade, e vão restaurando os seus muros, e reparando os seus fundamentos.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "judeus",
+              "strong": "H3064"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "muros",
+              "strong": "H2346"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Agora saiba o rei que, se aquela cidade se reedificar, e os muros se restaurarem, eles não pagarão os direitos, os tributos e os pedágios; e assim se danificará a fazenda dos reis.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "muros",
+              "strong": "H2346"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Agora, pois, porquanto somos assalariados do palácio, e não nos convém ver a desonra do rei, por isso mandamos avisar ao rei,",
+          "tokens": [
+            {
+              "word": "ver",
+              "strong": "H7200"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Para que se busque no livro das crônicas de teus pais. E acharás no livro das crônicas, e saberás que aquela foi uma cidade rebelde, e danosa aos reis e províncias, e que nela houve rebelião em tempos antigos; por isso foi aquela cidade destruída.",
+          "tokens": [
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "tempos",
+              "strong": "H6256"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Nós, pois, fazemos notório ao rei que, se aquela cidade se reedificar, e os seus muros se restaurarem, sucederá que não terás porção alguma deste lado do rio.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "muros",
+              "strong": "H2346"
+            },
+            {
+              "word": "porção",
+              "strong": "H2506"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E o rei enviou esta resposta a Reum, o chanceler, e a Sinsai, o escrivão, e aos demais seus companheiros, que habitavam em Samaria; como também aos demais que estavam dalém do rio: Paz! em tal tempo.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "companheiros",
+              "strong": "H7453"
+            },
+            {
+              "word": "Samaria",
+              "strong": "H8111"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "Paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "A carta que nos enviastes foi explicitamente lida diante de mim.",
+          "tokens": []
+        },
+        {
+          "n": 19,
+          "text": "E, ordenando-o eu, buscaram e acharam, que de tempos antigos aquela cidade se levantou contra os reis, e nela se têm feito rebelião e sedição.",
+          "tokens": [
+            {
+              "word": "tempos",
+              "strong": "H6256"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Também houve reis poderosos sobre Jerusalém que dalém do rio dominaram em todo o lugar, e se lhes pagaram direitos, tributos e pedágios.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "poderosos",
+              "strong": "H5797"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Agora, pois, dai ordem para impedirdes aqueles homens, a fim de que não se edifique aquela cidade, até que eu dê uma ordem.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E guardai-vos de serdes remissos nisto; por que cresceria o dano para prejuízo dos reis?",
+          "tokens": [
+            {
+              "word": "guardai",
+              "strong": "H8104"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Então, depois que a cópia da carta do rei Artaxerxes foi lida perante Reum, e Sinsai, o escrivão, e seus companheiros, apressadamente foram eles a Jerusalém, aos judeus, e os impediram à força e com violência.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            },
+            {
+              "word": "companheiros",
+              "strong": "H7453"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "judeus",
+              "strong": "H3064"
+            },
+            {
+              "word": "força",
+              "strong": "H2428"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Então cessou a obra da casa de Deus, que estava em Jerusalém; e cessou até ao ano segundo do reinado de Dario, rei da Pérsia.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Dario",
+              "strong": "H1867"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E os profetas Ageu e Zacarias, filho de Ido, profetizaram aos judeus que estavam em Judá, e em Jerusalém; em nome do Deus de Israel lhes profetizaram.",
+          "tokens": [
+            {
+              "word": "profetas",
+              "strong": "H5030"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "judeus",
+              "strong": "H3064"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Então se levantaram Zorobabel, filho de Sealtiel, e Jesuá, filho de Jozadaque, e começaram a edificar a casa de Deus, que está em Jerusalém; e com eles os profetas de Deus, que os ajudavam.",
+          "tokens": [
+            {
+              "word": "Zorobabel",
+              "strong": "H2216"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Jesuá",
+              "strong": "H3442"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "profetas",
+              "strong": "H5030"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Naquele tempo vieram a eles Tatenai, governador dalém do rio, e Setar-Bozenai, e os seus companheiros, e disseram-lhes assim: Quem vos deu ordem para reedificardes esta casa, e restaurardes este muro?",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "companheiros",
+              "strong": "H7453"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "muro",
+              "strong": "H2346"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Disseram-lhes, mais: E quais são os nomes dos homens que construíram este edifício?",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Porém os olhos de Deus estavam sobre os anciãos dos judeus, e não os impediram, até que o negócio chegasse a Dario, e viesse resposta por carta sobre isso.",
+          "tokens": [
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "judeus",
+              "strong": "H3064"
+            },
+            {
+              "word": "Dario",
+              "strong": "H1867"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Cópia da carta que Tatenai, o governador dalém do rio, com Setar-Bozenai e os seus companheiros, os afarsaquitas, que estavam dalém do rio, enviaram ao rei Dario.",
+          "tokens": [
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "companheiros",
+              "strong": "H7453"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Dario",
+              "strong": "H1867"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Enviaram-lhe uma carta, na qual estava escrito: Toda a paz ao rei Dario.",
+          "tokens": [
+            {
+              "word": "paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Dario",
+              "strong": "H1867"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Seja notório ao rei, que nós fomos à província de Judá, à casa do grande Deus, a qual se edifica com grandes pedras, e a madeira já está sendo posta nas paredes; e esta obra vai sendo feita com diligência, e se adianta em suas mãos.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "madeira",
+              "strong": "H6086"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então perguntamos aos anciãos, e assim lhes dissemos: Quem vos deu ordem para reedificardes esta casa, e restaurardes este muro?",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "muro",
+              "strong": "H2346"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Além disso, lhes perguntamos também pelos seus nomes, para tos declararmos; para que te pudéssemos escrever os nomes dos homens que entre eles são os chefes.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E esta foi a resposta que nos deram: Nós somos servos do Deus dos céus e da terra, e reedificamos a casa que há muitos anos foi edificada; porque um grande rei de Israel a edificou e a terminou.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "céus",
+              "strong": "H8064"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Mas depois que nossos pais provocaram à ira o Deus dos céus, ele os entregou nas mãos de Nabucodonosor, rei de babilônia, o caldeu, o qual destruiu esta casa, e transportou o povo para babilônia.",
+          "tokens": [
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "ira",
+              "strong": "H639"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "céus",
+              "strong": "H8064"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "Nabucodonosor",
+              "strong": "H5019"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "caldeu",
+              "strong": "H3778"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Porém, no primeiro ano de Ciro, rei de babilônia, o rei Ciro deu ordem para que esta casa de Deus se reedificasse.",
+          "tokens": [
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E até os utensílios de ouro e prata, da casa de Deus, que Nabucodonosor tomou do templo que estava em Jerusalém e os levou para o templo de babilônia, o rei Ciro os tirou do templo de babilônia, e foram dados a um homem cujo nome era Sesbazar, a quem nomeou governador.",
+          "tokens": [
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Nabucodonosor",
+              "strong": "H5019"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E disse-lhe: Toma estes utensílios, vai e leva-os ao templo que está em Jerusalém, e faze reedificar a casa de Deus, no seu lugar.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Então veio este Sesbazar, e pôs os fundamentos da casa de Deus, que está em Jerusalém, e desde então para cá se está reedificando, e ainda não está acabada.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Agora, pois, se parece bem ao rei, busque-se na casa dos tesouros do rei, que está em babilônia, se é verdade que se deu uma ordem pelo rei Ciro para reedificar esta casa de Deus em Jerusalém; e sobre isto nos faça saber a vontade do rei.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "tesouros",
+              "strong": "H1597"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "verdade",
+              "strong": "H571"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Então o rei Dario deu ordem, e buscaram nos arquivos, onde se guardavam os tesouros em babilônia.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Dario",
+              "strong": "H1867"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "tesouros",
+              "strong": "H1597"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E em Acmeta, no palácio, que está na província de Média, se achou um rolo, e nele estava escrito um memorial que dizia assim:",
+          "tokens": [
+            {
+              "word": "Média",
+              "strong": "H4074"
+            },
+            {
+              "word": "memorial",
+              "strong": "H2146"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "No primeiro ano do rei Ciro, este baixou o seguinte decreto: A casa de Deus, em Jerusalém, se reedificará para lugar em que se ofereçam sacrifícios, e seus fundamentos serão firmes; a sua altura de sessenta côvados, e a sua largura de sessenta côvados;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "decreto",
+              "strong": "H1881"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "sacrifícios",
+              "strong": "H2077"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Com três carreiras de grandes pedras, e uma carreira de madeira nova; e a despesa se fará da casa do rei.",
+          "tokens": [
+            {
+              "word": "madeira",
+              "strong": "H6086"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Além disso, os utensílios de ouro e de prata da casa de Deus, que Nabucodonosor transportou do templo que estava em Jerusalém, e levou para babilônia, serão restituídos, para que voltem ao seu lugar, ao templo que está em Jerusalém, e serão postos na casa de Deus.",
+          "tokens": [
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Nabucodonosor",
+              "strong": "H5019"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Agora, pois, Tatenai, governador dalém do rio, Setar-Bozenai, e os seus companheiros, os afarsaquitas, que habitais dalém do rio, apartai-vos dali.",
+          "tokens": [
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "companheiros",
+              "strong": "H7453"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Deixai que se faça a obra desta casa de Deus; que o governador dos judeus e os seus anciãos reedifiquem esta casa de Deus no seu lugar.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "judeus",
+              "strong": "H3064"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Também por mim se decreta o que haveis de fazer com os anciãos dos judeus, para a reedificação desta casa de Deus, a saber: que da fazenda do rei, dos tributos dalém do rio se pague prontamente a despesa a estes homens, para que não interrompam a obra.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "H3064"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E o que for necessário, como bezerros, carneiros, e cordeiros, para holocaustos ao Deus dos céus, trigo, sal, vinho e azeite, segundo o rito dos sacerdotes que estão em Jerusalém, dê-se-lhes, de dia em dia, para que não haja falta.",
+          "tokens": [
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "céus",
+              "strong": "H8064"
+            },
+            {
+              "word": "sal",
+              "strong": "H4417"
+            },
+            {
+              "word": "vinho",
+              "strong": "H3196"
+            },
+            {
+              "word": "azeite",
+              "strong": "H8081"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Para que ofereçam sacrifícios de cheiro suave ao Deus dos céus, e orem pela vida do rei e de seus filhos.",
+          "tokens": [
+            {
+              "word": "sacrifícios",
+              "strong": "H2077"
+            },
+            {
+              "word": "cheiro",
+              "strong": "H7381"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "céus",
+              "strong": "H8064"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Também por mim se decreta que todo o homem que mudar este decreto, se arrancará um madeiro da sua casa, e, levantado, o pendurarão nele, e da sua casa se fará por isso um monturo.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "decreto",
+              "strong": "H1881"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "O Deus, pois, que fez habitar ali o seu nome derrube a todos os reis e povos que estenderem a sua mão para mudar o decreto e para destruir esta casa de Deus, que está em Jerusalém. Eu, Dario, baixei o decreto; com diligência se faça.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "povos",
+              "strong": "H5971"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "decreto",
+              "strong": "H1881"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Dario",
+              "strong": "H1867"
+            },
+            {
+              "word": "decreto",
+              "strong": "H1881"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Então Tatenai, o governador dalém do rio, Setar-Bozenai e os seus companheiros, assim fizeram diligentemente, conforme ao que decretara o rei Dario.",
+          "tokens": [
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "companheiros",
+              "strong": "H7453"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Dario",
+              "strong": "H1867"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E os anciãos dos judeus iam edificando e prosperando pela profecia do profeta Ageu, e de Zacarias, filho de Ido. E edificaram e terminaram a obra conforme ao mandado do Deus de Israel, e conforme ao decreto de Ciro e Dario, e de Artaxerxes, rei da Pérsia.",
+          "tokens": [
+            {
+              "word": "judeus",
+              "strong": "H3064"
+            },
+            {
+              "word": "profeta",
+              "strong": "H5030"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "decreto",
+              "strong": "H1881"
+            },
+            {
+              "word": "Ciro",
+              "strong": "H3566"
+            },
+            {
+              "word": "Dario",
+              "strong": "H1867"
+            },
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E acabou-se esta casa no terceiro dia do mês de Adar, no sexto ano do reinado do rei Dario.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Dario",
+              "strong": "H1867"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E os filhos de Israel, os sacerdotes, os levitas, e o restante dos filhos do cativeiro, fizeram a dedicação desta casa de Deus com alegria.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "alegria",
+              "strong": "H8057"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E ofereceram para a dedicação desta casa de Deus cem novilhos, duzentos carneiros, quatrocentos cordeiros, e doze cabritos por expiação do pecado de todo o Israel; segundo o número das tribos de Israel.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "expiação",
+              "strong": "H3722"
+            },
+            {
+              "word": "pecado",
+              "strong": "H2403"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E puseram os sacerdotes nas suas turmas e os levitas nas suas divisões, para o ministério de Deus, em Jerusalém, conforme ao que está escrito no livro de Moisés.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E os filhos do cativeiro celebraram a páscoa no dia catorze do primeiro mês.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "páscoa",
+              "strong": "H6453"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Porque os sacerdotes e levitas se purificaram como se fossem um só homem, todos estavam limpos; e mataram o cordeiro da páscoa para todos os filhos do cativeiro, e para seus irmãos, os sacerdotes, e para si mesmos.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "limpos",
+              "strong": "H2889"
+            },
+            {
+              "word": "páscoa",
+              "strong": "H6453"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Assim comeram a páscoa os filhos de Israel que tinham voltado do cativeiro, com todos os que com eles se apartaram da imundícia dos gentios da terra, para buscarem o Senhor Deus de Israel;",
+          "tokens": [
+            {
+              "word": "páscoa",
+              "strong": "H6453"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "gentios",
+              "strong": "H1471"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E celebraram a festa dos pães ázimos por sete dias com alegria; porque o Senhor os tinha alegrado, e tinha mudado o coração do rei da Assíria a favor deles, para lhes fortalecer as mãos na obra da casa de Deus, o Deus de Israel.",
+          "tokens": [
+            {
+              "word": "festa",
+              "strong": "H4150"
+            },
+            {
+              "word": "pães ázimos",
+              "strong": "H4682"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "alegria",
+              "strong": "H8057"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Assíria",
+              "strong": "H804"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E passadas estas coisas no reinado de Artaxerxes, rei da Pérsia, Esdras, filho de Seraías, filho de Azarias, filho de Hilquias,",
+          "tokens": [
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            },
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Hilquias",
+              "strong": "H2518"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Filho de Salum, filho de Zadoque, filho de Aitube,",
+          "tokens": [
+            {
+              "word": "Filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Zadoque",
+              "strong": "H6659"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Filho de Amarias, filho de Azarias, filho de Meraiote,",
+          "tokens": [
+            {
+              "word": "Filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Filho de Zeraquias, filho de Uzi, filho de Buqui,",
+          "tokens": [
+            {
+              "word": "Filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Filho de Abisua, filho de Finéias, filho de Eleazar, filho de Arão, o sumo sacerdote;",
+          "tokens": [
+            {
+              "word": "Filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Finéias",
+              "strong": "H6372"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Eleazar",
+              "strong": "H499"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Arão",
+              "strong": "H175"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Este Esdras subiu de babilônia; e era escriba hábil na lei de Moisés, que o SENHOR Deus de Israel tinha dado; e, segundo a mão do SENHOR seu Deus, que estava sobre ele, o rei lhe deu tudo quanto lhe pedira.",
+          "tokens": [
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Também subiram a Jerusalém alguns dos filhos de Israel, dos sacerdotes, dos levitas, dos cantores, dos porteiros e dos servidores do templo, no sétimo ano do rei Artaxerxes.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "cantores",
+              "strong": "H7891"
+            },
+            {
+              "word": "porteiros",
+              "strong": "H7778"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E no quinto mês chegou a Jerusalém, no sétimo ano deste rei.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Pois no primeiro dia do primeiro mês foi o princípio da partida de babilônia; e no primeiro dia do quinto mês chegou a Jerusalém, segundo a boa mão do seu Deus sobre ele.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "princípio",
+              "strong": "H7225"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "boa",
+              "strong": "H2896"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Porque Esdras tinha preparado o seu coração para buscar a lei do Senhor e para cumpri-la e para ensinar em Israel os seus estatutos e os seus juízos.",
+          "tokens": [
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "juízos",
+              "strong": "H4941"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Esta é, pois, a cópia da carta que o rei Artaxerxes deu ao sacerdote Esdras, o escriba das palavras dos mandamentos do Senhor, e dos seus estatutos sobre Israel:",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "mandamentos",
+              "strong": "H4687"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Artaxerxes, rei dos reis, ao sacerdote Esdras, escriba da lei do Deus do céu, paz perfeita, em tal tempo.",
+          "tokens": [
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "céu",
+              "strong": "H8064"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Por mim se decreta que no meu reino todo aquele do povo de Israel, e dos seus sacerdotes e levitas, que quiser ir contigo a Jerusalém, vá.",
+          "tokens": [
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Porquanto és enviado da parte do rei e dos seus sete conselheiros para fazeres inquirição a respeito de Judá e de Jerusalém, conforme à lei do teu Deus, que está na tua mão;",
+          "tokens": [
+            {
+              "word": "parte",
+              "strong": "H2506"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "conselheiros",
+              "strong": "H3289"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E para levares a prata e o ouro que o rei e os seus conselheiros voluntariamente deram ao Deus de Israel, cuja habitação está em Jerusalém;",
+          "tokens": [
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "conselheiros",
+              "strong": "H3289"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "habitação",
+              "strong": "H4908"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E toda a prata e o ouro que achares em toda a província de babilônia, com as ofertas voluntárias do povo e dos sacerdotes, que voluntariamente oferecerem, para a casa de seu Deus, que está em Jerusalém.",
+          "tokens": [
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "ofertas",
+              "strong": "H4503"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Portanto diligentemente comprarás com este dinheiro novilhos, carneiros, cordeiros, com as suas ofertas de alimentos, e as suas libações, e as oferecerás sobre o altar da casa de vosso Deus, que está em Jerusalém.",
+          "tokens": [
+            {
+              "word": "dinheiro",
+              "strong": "H3701"
+            },
+            {
+              "word": "ofertas",
+              "strong": "H4503"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Também o que a ti e a teus irmãos bem parecer fazerdes do restante da prata e do ouro, o fareis conforme a vontade do vosso Deus.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E os utensílios que te foram dados para o serviço da casa de teu Deus, restitui-os perante o Deus de Jerusalém.",
+          "tokens": [
+            {
+              "word": "serviço",
+              "strong": "H5647"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E tudo mais que for necessário para a casa de teu Deus, que te convenha dar, dá-lo-ás da casa dos tesouros do rei.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "dar",
+              "strong": "H5414"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "tesouros",
+              "strong": "H1597"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E por mim mesmo, o rei Artaxerxes, se decreta a todos os tesoureiros que estão dalém do rio que tudo quanto vos pedir o sacerdote Esdras, escriba da lei do Deus dos céus, prontamente se faça.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "céus",
+              "strong": "H8064"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Até cem talentos de prata, e até cem coros de trigo, e até cem batos de vinho, e até cem batos de azeite; e sal à vontade.",
+          "tokens": [
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "vinho",
+              "strong": "H3196"
+            },
+            {
+              "word": "azeite",
+              "strong": "H8081"
+            },
+            {
+              "word": "sal",
+              "strong": "H4417"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Tudo quanto se ordenar, segundo o mandado do Deus do céu, prontamente se faça para a casa do Deus dos céus; pois, para que haveria grande ira sobre o reino do rei e de seus filhos?",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "céu",
+              "strong": "H8064"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "céus",
+              "strong": "H8064"
+            },
+            {
+              "word": "ira",
+              "strong": "H639"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Também vos fazemos saber acerca de todos os sacerdotes e levitas, cantores, porteiros, servidores do templo e ministros desta casa de Deus, que não será lícito impor-lhes, nem tributo, nem contribuição, nem renda.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "cantores",
+              "strong": "H7891"
+            },
+            {
+              "word": "porteiros",
+              "strong": "H7778"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E tu, Esdras, conforme a sabedoria do teu Deus, que possues, nomeia magistrados e juízes, que julguem a todo o povo que está dalém do rio, a todos os que sabem as leis do teu Deus; e ao que não as sabe, lhe ensinarás.",
+          "tokens": [
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "sabedoria",
+              "strong": "H2451"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E todo aquele que não observar a lei do teu Deus e a lei do rei, seja julgado prontamente; quer seja morte, quer desterro, quer multa sobre os seus bens, quer prisão.",
+          "tokens": [
+            {
+              "word": "observar",
+              "strong": "H8104"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            },
+            {
+              "word": "bens",
+              "strong": "H6239"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Bendito seja o Senhor Deus de nossos pais, que tal inspirou ao coração do rei, para ornar a casa do Senhor, que está em Jerusalém.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "E que estendeu para mim a sua benignidade perante o rei e os seus conselheiros e todos os príncipes poderosos do rei. Assim me animei, segundo a mão do Senhor meu Deus sobre mim, e ajuntei dentre Israel alguns chefes para subirem comigo.",
+          "tokens": [
+            {
+              "word": "benignidade",
+              "strong": "H2617"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "conselheiros",
+              "strong": "H3289"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "poderosos",
+              "strong": "H5797"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Estes, pois, são os chefes das casas paternas e esta a genealogia dos que subiram comigo de babilônia no reinado do rei Artaxerxes:",
+          "tokens": [
+            {
+              "word": "casas",
+              "strong": "H1004"
+            },
+            {
+              "word": "genealogia",
+              "strong": "H3187"
+            },
+            {
+              "word": "babilônia",
+              "strong": "H894"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Artaxerxes",
+              "strong": "H783"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Dos filhos de Finéias, Gérson; dos filhos de Itamar, Daniel; dos filhos de Davi, Hatus;",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Finéias",
+              "strong": "H6372"
+            },
+            {
+              "word": "Gérson",
+              "strong": "H1648"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Itamar",
+              "strong": "H385"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Dos filhos de Secanias, e dos filhos de Parós, Zacarias, e com ele, segundo a genealogia, se contaram até cento e cinqüenta homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "genealogia",
+              "strong": "H3187"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Dos filhos de Paate-Moabe, Elioenai, filho de Zacarias, e com ele duzentos homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Moabe",
+              "strong": "H4124"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Dos filhos de Secanias, o filho de Jeaziel, e com ele trezentos homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E dos filhos de Adim, Ebede, filho de Jônatas, e com ele cinqüenta homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Jônatas",
+              "strong": "H3083"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E dos filhos de Elão, Jesaías, filho de Atalias, e com ele setenta homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E dos filhos de Sefatias, Zebadias, filho de Micael, e com ele oitenta homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Dos filhos de Joabe, Obadias, filho de Jeiel, e com ele duzentos e dezoito homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Joabe",
+              "strong": "H3097"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E dos filhos de Selomite, o filho de Josifias, e com ele cento e sessenta homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E dos filhos de Bebai, Zacarias, o filho de Bebai, e com ele vinte e oito homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E dos filhos de Azgade, Joanã, o filho de Hacatã, e com ele cento e dez homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E dos últimos filhos de Adonicão, cujos nomes eram estes: Elifelete, Jeiel e Semaías, e com eles sessenta homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Semaías",
+              "strong": "H8098"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E dos filhos de Bigvai, Utai e Zabude, e com eles setenta homens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E ajuntei-os perto do rio que vai a Aava, e ficamos ali acampados três dias. Então atentei para o povo e para os sacerdotes, e não achei ali nenhum dos filhos de Levi.",
+          "tokens": [
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Levi",
+              "strong": "H3878"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Enviei, pois, Eliezer, Ariel, Semaías, Elnatã, Jaribe, Elnatã, Natã, Zacarias e Mesulão, os chefes; como também a Joiaribe, e a Elnatã, que eram entendidos.",
+          "tokens": [
+            {
+              "word": "Eliezer",
+              "strong": "H461"
+            },
+            {
+              "word": "Natã",
+              "strong": "H5416"
+            },
+            {
+              "word": "Semaías",
+              "strong": "H8098"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E enviei-os com mandado a Ido, chefe em Casifia; e falei a eles o que deveriam dizer a Ido e aos seus irmãos, servidores do templo, em Casifia, que nos trouxessem ministros para a casa do nosso Deus.",
+          "tokens": [
+            {
+              "word": "chefe",
+              "strong": "H7218"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E trouxeram-nos, segundo a boa mão de Deus sobre nós, um homem entendido, dos filhos de Mali, filho de Levi, filho de Israel, a saber: Serebias, com os seus filhos e irmãos, dezoito;",
+          "tokens": [
+            {
+              "word": "boa",
+              "strong": "H2896"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Levi",
+              "strong": "H3878"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E a Hasabias, e com ele Jesaías, dos filhos de Merari, com seus irmãos e os filhos deles, vinte;",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E dos servidores do templo que Davi e os príncipes deram para o ministério dos levitas, duzentos e vinte servidores do templo; que foram todos mencionados por seus nomes.",
+          "tokens": [
+            {
+              "word": "templo",
+              "strong": "H1964"
+            },
+            {
+              "word": "Davi",
+              "strong": "H1732"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "templo",
+              "strong": "H1964"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Então apregoei ali um jejum junto ao rio Aava, para nos humilharmos diante da face de nosso Deus, para lhe pedirmos caminho seguro para nós, para nossos filhos e para todos os nossos bens.",
+          "tokens": [
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "bens",
+              "strong": "H6239"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Porque tive vergonha de pedir ao rei exército e cavaleiros para nos defenderem do inimigo pelo caminho; porquanto tínhamos falado ao rei, dizendo: A mão do nosso Deus é sobre todos os que o buscam, para o bem deles; mas o seu poder e a sua ira contra todos os que o deixam.",
+          "tokens": [
+            {
+              "word": "vergonha",
+              "strong": "H954"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "exército",
+              "strong": "H6635"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "poder",
+              "strong": "H5797"
+            },
+            {
+              "word": "ira",
+              "strong": "H639"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Nós, pois, jejuamos, e pedimos isto ao nosso Deus, e moveu-se pelas nossas orações.",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Então separei doze dos chefes dos sacerdotes: Serebias, Hasabias, e com eles dez dos seus irmãos.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E pesei-lhes a prata, o ouro e os vasos; que eram a oferta para a casa de nosso Deus, que ofereceram o rei, os seus conselheiros, os seus príncipes e todo o Israel que ali se achou.",
+          "tokens": [
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "oferta",
+              "strong": "H4503"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "conselheiros",
+              "strong": "H3289"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E pesei em suas mãos seiscentos e cinqüenta talentos de prata, e em vasos de prata cem talentos, e cem talentos de ouro,",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E vinte bacias de ouro, de mil dracmas, e dois vasos de bom metal lustroso, tão precioso como ouro.",
+          "tokens": [
+            {
+              "word": "bacias",
+              "strong": "H3595"
+            },
+            {
+              "word": "bom",
+              "strong": "H2896"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "E disse-lhes: Vós sois santos ao Senhor, e são santos estes utensílios, como também esta prata e este ouro, oferta voluntária, oferecida ao Senhor Deus de vossos pais.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "santos",
+              "strong": "H6944"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "santos",
+              "strong": "H6944"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "oferta",
+              "strong": "H4503"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Vigiai, pois, e guardai-os até que os peseis na presença dos chefes dos sacerdotes e dos levitas, e dos chefes dos pais de Israel, em Jerusalém, nas câmaras da casa do Senhor.",
+          "tokens": [
+            {
+              "word": "guardai",
+              "strong": "H8104"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Então os sacerdotes e os levitas receberam o peso da prata, do ouro e dos utensílios, para os trazerem a Jerusalém, à casa de nosso Deus.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "E partimos do rio Aava, no dia doze do primeiro mês, para irmos a Jerusalém; e a mão do nosso Deus estava sobre nós, e livrou-nos da mão dos inimigos, e dos que nos armavam ciladas pelo caminho.",
+          "tokens": [
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "livrou",
+              "strong": "H5337"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E chegamos a Jerusalém, e repousamos ali três dias.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "E no quarto dia se pesou a prata, o ouro e os utensílios, na casa do nosso Deus, por mão de Meremote, filho do sacerdote Urias; e com ele Eleazar, filho de Finéias, e com eles Jozabade, filho de Jesuá, e Noadias, filho de Binui, levitas.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "Urias",
+              "strong": "H223"
+            },
+            {
+              "word": "Eleazar",
+              "strong": "H499"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Finéias",
+              "strong": "H6372"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Jesuá",
+              "strong": "H3442"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Tudo foi contado e pesado; e todo o peso foi registrado na mesma ocasião.",
+          "tokens": [
+            {
+              "word": "registrado",
+              "strong": "H3187"
+            },
+            {
+              "word": "ocasião",
+              "strong": "H6256"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "E os exilados, que vieram do cativeiro, ofereceram holocaustos ao Deus de Israel: doze novilhos por todo o Israel, noventa e seis carneiros, setenta e sete cordeiros, e doze bodes em sacrifício pelo pecado; tudo em holocausto ao Senhor.",
+          "tokens": [
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "bodes",
+              "strong": "H8163"
+            },
+            {
+              "word": "sacrifício",
+              "strong": "H2077"
+            },
+            {
+              "word": "pecado",
+              "strong": "H2403"
+            },
+            {
+              "word": "holocausto",
+              "strong": "H5930"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Então deram as ordens do rei aos seus sátrapas, e aos governadores dalém do rio; e estes ajudaram o povo e a casa de Deus.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Acabadas, pois, estas coisas, chegaram-se a mim os príncipes, dizendo: O povo de Israel, os sacerdotes e os levitas, não se têm separado dos povos destas terras, seguindo as abominações dos cananeus, dos heteus, dos perizeus, dos jebuseus, dos amonitas, dos moabitas, dos egípcios, e dos amorreus.",
+          "tokens": [
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "povos",
+              "strong": "H5971"
+            },
+            {
+              "word": "amonitas",
+              "strong": "H5983"
+            },
+            {
+              "word": "moabitas",
+              "strong": "H4124"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Porque tomaram das suas filhas para si e para seus filhos, e assim se misturou a linhagem santa com os povos dessas terras; e até os príncipes e magistrados foram os primeiros nesta transgressão.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "santa",
+              "strong": "H6944"
+            },
+            {
+              "word": "povos",
+              "strong": "H5971"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E, ouvindo eu tal coisa, rasguei as minhas vestes e o meu manto, e arranquei os cabelos da minha cabeça e da minha barba, e sentei-me atônito.",
+          "tokens": [
+            {
+              "word": "cabelos",
+              "strong": "H8181"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Então se ajuntaram a mim todos os que tremiam das palavras do Deus de Israel por causa da transgressão dos do cativeiro; porém eu permaneci sentado atônito até ao sacrifício da tarde.",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "sacrifício",
+              "strong": "H2077"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E perto do sacrifício da tarde me levantei da minha aflição, havendo já rasgado as minhas vestes e o meu manto, e me pus de joelhos, e estendi as minhas mãos para o Senhor meu Deus;",
+          "tokens": [
+            {
+              "word": "sacrifício",
+              "strong": "H2077"
+            },
+            {
+              "word": "aflição",
+              "strong": "H6040"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E disse: Meu Deus! Estou confuso e envergonhado, para levantar a ti a minha face, meu Deus; porque as nossas iniqüidades se multiplicaram sobre a nossa cabeça, e a nossa culpa tem crescido até aos céus.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "multiplicaram",
+              "strong": "H7235"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "culpa",
+              "strong": "H817"
+            },
+            {
+              "word": "céus",
+              "strong": "H8064"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Desde os dias de nossos pais até ao dia de hoje estamos em grande culpa, e por causa das nossas iniqüidades somos entregues, nós e nossos reis e os nossos sacerdotes, na mão dos reis das terras, à espada, ao cativeiro, e ao roubo, e à confusão do rosto, como hoje se vê.",
+          "tokens": [
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "culpa",
+              "strong": "H817"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E agora, por um pequeno momento, se manifestou a graça da parte do Senhor, nosso Deus, para nos deixar alguns que escapem, e para dar-nos uma estaca no seu santo lugar; para nos iluminar os olhos, ó Deus nosso, e para nos dar um pouco de vida na nossa servidão.",
+          "tokens": [
+            {
+              "word": "parte",
+              "strong": "H2506"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "dar",
+              "strong": "H5414"
+            },
+            {
+              "word": "santo",
+              "strong": "H6944"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "dar",
+              "strong": "H5414"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Porque somos servos; porém na nossa servidão não nos desamparou o nosso Deus; antes estendeu sobre nós a sua benignidade perante os reis da Pérsia, para que nos desse vida, para levantarmos a casa do nosso Deus, e para restaurarmos as suas assolações; e para que nos desse uma parede de proteção em Judá e em Jerusalém.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "benignidade",
+              "strong": "H2617"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "Pérsia",
+              "strong": "H6539"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Agora, pois, ó nosso Deus, que diremos depois disto? Pois deixamos os teus mandamentos,",
+          "tokens": [
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "mandamentos",
+              "strong": "H4687"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Os quais mandaste pelo ministério de teus servos, os profetas, dizendo: A terra em que entrais para a possuir, terra imunda é pelas imundícias dos povos das terras, pelas suas abominações com que, na sua corrupção a encheram, de uma extremidade à outra.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "profetas",
+              "strong": "H5030"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "imunda",
+              "strong": "H2931"
+            },
+            {
+              "word": "povos",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Agora, pois, vossas filhas não dareis a seus filhos, e suas filhas não tomareis para vossos filhos, e nunca procurareis a sua paz e o seu bem; para que sejais fortes, e comais o bem da terra, e a deixeis por herança a vossos filhos para sempre.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "fortes",
+              "strong": "H5797"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E depois de tudo o que nos tem sucedido por causa das nossas más obras, e da nossa grande culpa, porquanto tu, ó nosso Deus, impediste que fôssemos destruídos, por causa da nossa iniqüidade, e ainda nos deste um remanescente como este;",
+          "tokens": [
+            {
+              "word": "culpa",
+              "strong": "H817"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "remanescente",
+              "strong": "H7611"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Tornaremos, pois, agora a violar os teus mandamentos e a aparentar-nos com os povos destas abominações? Não te indignarias tu assim contra nós até de todo nos consumir, até que não ficasse remanescente nem quem escapasse?",
+          "tokens": [
+            {
+              "word": "mandamentos",
+              "strong": "H4687"
+            },
+            {
+              "word": "povos",
+              "strong": "H5971"
+            },
+            {
+              "word": "remanescente",
+              "strong": "H7611"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Ah! Senhor Deus de Israel, justo és, pois ficamos qual um remanescente que escapou, como hoje se vê; eis que estamos diante de ti, na nossa culpa, porque ninguém há que possa estar na tua presença, por causa disto.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "justo",
+              "strong": "H6666"
+            },
+            {
+              "word": "remanescente",
+              "strong": "H7611"
+            },
+            {
+              "word": "culpa",
+              "strong": "H817"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E enquanto Esdras orava, e fazia confissão, chorando e prostrando-se diante da casa de Deus, ajuntou-se a ele, de Israel, uma grande congregação de homens, mulheres e crianças; pois o povo chorava com grande choro.",
+          "tokens": [
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "crianças",
+              "strong": "H3206"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Então Secanias, filho de Jeiel, um dos filhos de Elão, tomou a palavra e disse a Esdras: Nós temos transgredido contra o nosso Deus, e casamos com mulheres estrangeiras dentre os povos da terra, mas, no tocante a isto, ainda há esperança para Israel.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "povos",
+              "strong": "H5971"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "esperança",
+              "strong": "H8615"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Agora, pois, façamos aliança com o nosso Deus de que despediremos todas as mulheres, e os que delas são nascidos, conforme ao conselho do meu senhor, e dos que tremem ao mandado do nosso Deus; e faça-se conforme a lei.",
+          "tokens": [
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Levanta-te, pois, porque te pertence este negócio, e nós seremos contigo; esforça-te, e age.",
+          "tokens": []
+        },
+        {
+          "n": 5,
+          "text": "Então Esdras se levantou, e ajuramentou os chefes dos sacerdotes e dos levitas, e a todo o Israel, de que fariam conforme a esta palavra; e eles juraram.",
+          "tokens": [
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E Esdras se levantou de diante da casa de Deus, e entrou na câmara de Joanã, filho de Eliasibe; e, chegando lá, não comeu pão, e nem bebeu água; porque lamentava pela transgressão dos do cativeiro.",
+          "tokens": [
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "pão",
+              "strong": "H3899"
+            },
+            {
+              "word": "água",
+              "strong": "H4325"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E fizeram passar pregão por Judá e Jerusalém, a todos os que vieram do cativeiro, para que se ajuntassem em Jerusalém.",
+          "tokens": [
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E que todo aquele que em três dias não viesse, segundo o conselho dos príncipes e dos anciãos, toda a sua fazenda se poria em interdito, e ele seria separado da congregação dos do cativeiro.",
+          "tokens": [
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então todos os homens de Judá e Benjamim em três dias se ajuntaram em Jerusalém; era o nono mês, aos vinte dias do mês; e todo o povo se assentou na praça da casa de Deus, tremendo por este negócio e por causa das grandes chuvas.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Então se levantou Esdras, o sacerdote, e disse-lhes: Vós tendes transgredido, e casastes com mulheres estrangeiras, aumentando a culpa de Israel.",
+          "tokens": [
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "culpa",
+              "strong": "H817"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Agora, pois, fazei confissão ao Senhor Deus de vossos pais, e fazei a sua vontade; e apartai-vos dos povos das terras, e das mulheres estrangeiras.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "povos",
+              "strong": "H5971"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E respondeu toda a congregação, e disse em altas vozes: Assim seja, conforme às tuas palavras nos convém fazer.",
+          "tokens": [
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Porém o povo é muito, e também é tempo de grandes chuvas, e não se pode estar aqui fora; nem é obra de um dia nem de dois, porque somos muitos os que transgredimos neste negócio.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Ora, ponham-se os nossos líderes, por toda a congregação sobre este negócio; e todos os que em nossas cidades casaram com mulheres estrangeiras venham em tempos apontados, e com eles os anciãos de cada cidade, e os seus juízes, até que desviemos de nós o ardor da ira do nosso Deus, por esta causa.",
+          "tokens": [
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "tempos",
+              "strong": "H6256"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "ira",
+              "strong": "H639"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Porém, somente Jônatas, filho de Asael, e Jaseías, filho de Ticva, se opuseram a isto; e Mesulão, e Sabetai, levita, os ajudaram.",
+          "tokens": [
+            {
+              "word": "Jônatas",
+              "strong": "H3083"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "levita",
+              "strong": "H3881"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E assim o fizeram os que voltaram do cativeiro; e o sacerdote Esdras e os homens, chefes dos pais, segundo a casa de seus pais, e todos pelos seus nomes, foram apontados; e assentaram-se no primeiro dia do décimo mês, para inquirirem neste negócio.",
+          "tokens": [
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "Esdras",
+              "strong": "H5830"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E no primeiro dia do primeiro mês acabaram de tratar com todos os homens que casaram com mulheres estrangeiras.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E acharam-se dos filhos dos sacerdotes que casaram com mulheres estrangeiras: Dos filhos de Jesuá, filho de Jozadaque, e seus irmãos, Maaséias, e Eliezer, e Jaribe, e Gedalias.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Jesuá",
+              "strong": "H3442"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "Eliezer",
+              "strong": "H461"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E deram as suas mãos prometendo que despediriam suas mulheres; e, achando-se culpados, ofereceram um carneiro do rebanho pelo seu delito.",
+          "tokens": [
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "rebanho",
+              "strong": "H6629"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E dos filhos de Imer: Hanani e Zebadias.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E dos filhos de Harim: Maaséias, Elias, Semaías, Jeiel e Uzias.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Elias",
+              "strong": "H452"
+            },
+            {
+              "word": "Uzias",
+              "strong": "H5818"
+            },
+            {
+              "word": "Semaías",
+              "strong": "H8098"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E dos filhos de Pasur: Elioenai, Maaséias, Ismael, Netanel, Jozabade e Eleasa.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Ismael",
+              "strong": "H3458"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E dos levitas: Jozabade, Simei, Quelaías (este é Quelita), Petaías, Judá e Eliezer.",
+          "tokens": [
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Eliezer",
+              "strong": "H461"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E dos cantores: Eliasibe; e dos porteiros: Salum, Telém e Uri.",
+          "tokens": [
+            {
+              "word": "cantores",
+              "strong": "H7891"
+            },
+            {
+              "word": "porteiros",
+              "strong": "H7778"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E de Israel, dos filhos de Parós: Ramias, Jezias, Malquias, Miamim, Eleazar, Malquias e Benaia.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Eleazar",
+              "strong": "H499"
+            },
+            {
+              "word": "Benaia",
+              "strong": "H1141"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E dos filhos de Elão: Matanias, Zacarias, Jeiel, Abdi, Jeremote e Elias.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Elias",
+              "strong": "H452"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E dos filhos de Zatu: Elioenai, Eliasibe, Matanias, Jeremote, Zabade e Aziza.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "E dos filhos de Bebai: Joanã, Hananias, Zabai e Atlai.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "E dos filhos de Bani: Mesulão, Maluque, Adaías, Jasube, Seal, Jeremote.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E dos filhos de Paate-Moabe: Adna, Quelal, Benaia, Maséias, Matanias, Bezalel, Binui e Manassés.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Moabe",
+              "strong": "H4124"
+            },
+            {
+              "word": "Benaia",
+              "strong": "H1141"
+            },
+            {
+              "word": "Bezalel",
+              "strong": "H1212"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "E dos filhos de Harim: Eliezer, Josias, Malquias, Semaías, Simeão,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Eliezer",
+              "strong": "H461"
+            },
+            {
+              "word": "Josias",
+              "strong": "H2977"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
+            {
+              "word": "Semaías",
+              "strong": "H8098"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Benjamim, Maluque, Semarias.",
+          "tokens": [
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Dos filhos de Hasum: Matenai, Matatá, Zabade, Elifelete, Jeremai, Manassés e Simei.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "Dos filhos de Bani: Maadai, Anrão, e Uel,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Benaia, Bedias, Queluí,",
+          "tokens": [
+            {
+              "word": "Benaia",
+              "strong": "H1141"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Vanias, Meremote, Eliasibe,",
+          "tokens": []
+        },
+        {
+          "n": 37,
+          "text": "Matanias, Matnai e Jaasai,",
+          "tokens": []
+        },
+        {
+          "n": 38,
+          "text": "E Bani, Binui, Simei,",
+          "tokens": []
+        },
+        {
+          "n": 39,
+          "text": "E Selemias, Natã e Adaías,",
+          "tokens": [
+            {
+              "word": "Natã",
+              "strong": "H5416"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Macnadbai, Sasai, Sarai,",
+          "tokens": [
+            {
+              "word": "Sarai",
+              "strong": "H8297"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "Azareel, Selemias, Semarias,",
+          "tokens": []
+        },
+        {
+          "n": 42,
+          "text": "Salum, Amarias e José.",
+          "tokens": [
+            {
+              "word": "José",
+              "strong": "H3130"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "Dos filhos de Nebo: Jeiel, Matitias, Zabade, Zebina, Jadai, Joel e Benaia.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Nebo",
+              "strong": "H5015"
+            },
+            {
+              "word": "Benaia",
+              "strong": "H1141"
+            }
+          ]
+        },
+        {
+          "n": 44,
+          "text": "Todos estes tomaram mulheres estrangeiras; e alguns deles tinham mulheres de quem tiveram filhos.",
+          "tokens": [
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+});

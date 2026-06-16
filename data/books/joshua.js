@@ -1,0 +1,17864 @@
+globalThis.appData.books.push({
+  "id": "joshua",
+  "name": "Josué",
+  "chapters": [
+    {
+      "number": 1,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E sucedeu depois da morte de Moisés, servo do SENHOR, que o SENHOR falou a Josué, filho de Num, servo de Moisés, dizendo:",
+          "tokens": [
+            {
+              "word": "morte",
+              "strong": "H4191"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Moisés, meu servo, é morto; levanta-te, pois, agora, passa este Jordão, tu e todo este povo, à terra que eu dou aos filhos de Israel.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "morto",
+              "strong": "H4191"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Todo o lugar que pisar a planta do vosso pé, vo-lo tenho dado, como eu disse a Moisés.",
+          "tokens": [
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Desde o deserto e do Líbano, até ao grande rio, o rio Eufrates, toda a terra dos heteus, e até o grande mar para o poente do sol, será o vosso termo.",
+          "tokens": [
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            },
+            {
+              "word": "Líbano",
+              "strong": "H3844"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "sol",
+              "strong": "H8121"
+            },
+            {
+              "word": "Eufrates",
+              "strong": "H6578"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Ninguém te poderá resistir, todos os dias da tua vida; como fui com Moisés, assim serei contigo; não te deixarei nem te desampararei.",
+          "tokens": [
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Esforça-te, e tem bom ânimo; porque tu farás a este povo herdar a terra que jurei a seus pais lhes daria.",
+          "tokens": [
+            {
+              "word": "bom",
+              "strong": "H2896"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Tão-somente esforça-te e tem mui bom ânimo, para teres o cuidado de fazer conforme a toda a lei que meu servo Moisés te ordenou; dela não te desvies, nem para a direita nem para a esquerda, para que prudentemente te conduzas por onde quer que andares.",
+          "tokens": [
+            {
+              "word": "bom",
+              "strong": "H2896"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Não se aparte da tua boca o livro desta lei; antes medita nele dia e noite, para que tenhas cuidado de fazer conforme a tudo quanto nele está escrito; porque então farás prosperar o teu caminho, e serás bem sucedido.",
+          "tokens": [
+            {
+              "word": "boca",
+              "strong": "H6310"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Não to mandei eu? Esforça-te, e tem bom ânimo; não temas, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que andares.",
+          "tokens": [
+            {
+              "word": "bom",
+              "strong": "H2896"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Então Josué deu ordem aos príncipes do povo, dizendo:",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Passai pelo meio do arraial e ordenai ao povo, dizendo: Provede-vos de comida, porque dentro de três dias passareis este Jordão, para que entreis a possuir a terra que vos dá o Senhor vosso Deus, para a possuirdes.",
+          "tokens": [
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E falou Josué aos rubenitas, e aos gaditas, e à meia tribo de Manassés, dizendo:",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Lembrai-vos da palavra que vos mandou Moisés, o servo do Senhor, dizendo: O Senhor vosso Deus vos dá descanso, e vos dá esta terra.",
+          "tokens": [
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Vossas mulheres, vossos meninos e vosso gado fiquem na terra que Moisés vos deu deste lado do Jordão; porém vós passareis armados na frente de vossos irmãos, todos os valentes e valorosos, e ajudá-los-eis.",
+          "tokens": [
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "meninos",
+              "strong": "H3206"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "ajudá",
+              "strong": "H5828"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Até que o Senhor dê descanso a vossos irmãos, como a vós, e eles também possuam a terra que o Senhor vosso Deus lhes dá; então tornareis à terra da vossa herança, e possuireis a que vos deu Moisés, o servo do Senhor, deste lado do Jordão, para o nascente do sol.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "sol",
+              "strong": "H8121"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Então responderam a Josué, dizendo: Tudo quanto nos ordenaste faremos, e onde quer que nos enviares iremos.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Como em tudo ouvimos a Moisés, assim te ouviremos a ti, tão-somente que o Senhor teu Deus seja contigo, como foi com Moisés.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Todo o homem, que for rebelde às tuas ordens, e não ouvir as tuas palavras em tudo quanto lhe mandares, morrerá. Tão-somente esforça-te, e tem bom ânimo.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "ouvir",
+              "strong": "H8085"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "bom",
+              "strong": "H2896"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E Josué, filho de Num, enviou secretamente, de Sitim, dois homens a espiar, dizendo: Ide reconhecer a terra e a Jericó. Foram, pois, e entraram na casa de uma mulher prostituta, cujo nome era Raabe, e dormiram ali.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "Raabe",
+              "strong": "H7343"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Então deu-se notícia ao rei de Jericó, dizendo: Eis que esta noite vieram aqui uns homens dos filhos de Israel, para espiar a terra.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Por isso mandou o rei de Jericó dizer a Raabe: Tira fora os homens que vieram a ti e entraram na tua casa, porque vieram espiar toda a terra.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "Raabe",
+              "strong": "H7343"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Porém aquela mulher tomou os dois homens, e os escondeu, e disse: É verdade que vieram homens a mim, porém eu não sabia de onde eram.",
+          "tokens": [
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "verdade",
+              "strong": "H571"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "sabia",
+              "strong": "H2451"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E aconteceu que, havendo-se de fechar a porta, sendo já escuro, aqueles homens saíram; não sei para onde aqueles homens se foram; ide após eles depressa, porque os alcançareis.",
+          "tokens": [
+            {
+              "word": "porta",
+              "strong": "H8179"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Porém ela os tinha feito subir ao eirado, e os tinha escondido entre as canas do linho, que pusera em ordem sobre o eirado.",
+          "tokens": []
+        },
+        {
+          "n": 7,
+          "text": "E foram-se aqueles homens após eles pelo caminho do Jordão, até aos vaus; e, havendo eles saído, fechou-se a porta.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "porta",
+              "strong": "H8179"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E, antes que eles dormissem, ela subiu a eles no eirado;",
+          "tokens": []
+        },
+        {
+          "n": 9,
+          "text": "E disse aos homens: Bem sei que o Senhor vos deu esta terra e que o pavor de vós caiu sobre nós, e que todos os moradores da terra estão desfalecidos diante de vós.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Porque temos ouvido que o Senhor secou as águas do Mar Vermelho diante de vós, quando saíeis do Egito, e o que fizestes aos dois reis dos amorreus, a Siom e a Ogue, que estavam além do Jordão, os quais destruístes.",
+          "tokens": [
+            {
+              "word": "ouvido",
+              "strong": "H8085"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "Siom",
+              "strong": "H5511"
+            },
+            {
+              "word": "Ogue",
+              "strong": "H5747"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "O que ouvindo, desfaleceu o nosso coração, e em ninguém mais há ânimo algum, por causa da vossa presença; porque o Senhor vosso Deus é Deus em cima nos céus e em baixo na terra.",
+          "tokens": [
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "céus",
+              "strong": "H8064"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Agora, pois, jurai-me, vos peço, pelo Senhor, que, como usei de misericórdia convosco, vós também usareis de misericórdia para com a casa de meu pai, e dai-me um sinal seguro,",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "misericórdia",
+              "strong": "H2617"
+            },
+            {
+              "word": "misericórdia",
+              "strong": "H2617"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "De que conservareis com a vida a meu pai e a minha mãe, como também a meus irmãos e a minhas irmãs, com tudo o que têm e de que livrareis as nossas vidas da morte.",
+          "tokens": [
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "mãe",
+              "strong": "H517"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Então aqueles homens responderam-lhe: A nossa vida responderá pela vossa até à morte, se não denunciardes este nosso negócio, e será, pois, que, dando-nos o Senhor esta terra, usaremos contigo de misericórdia e de fidelidade.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "morte",
+              "strong": "H4191"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "misericórdia",
+              "strong": "H2617"
+            },
+            {
+              "word": "fidelidade",
+              "strong": "H571"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Ela então os fez descer por uma corda pela janela, porquanto a sua casa estava sobre o muro da cidade, e ela morava sobre o muro.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "muro",
+              "strong": "H2346"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "muro",
+              "strong": "H2346"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E disse-lhes: Ide-vos ao monte, para que, porventura, não vos encontrem os perseguidores, e escondei-vos lá três dias, até que voltem os perseguidores, e depois ide pelo vosso caminho.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E, disseram-lhe aqueles homens: Desobrigados seremos deste juramento que nos fizeste jurar.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Eis que, quando nós entrarmos na terra, atarás este cordão de fio de escarlata à janela por onde nos fizeste descer; e recolherás em casa contigo a teu pai, e a tua mãe, e a teus irmãos e a toda a família de teu pai.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "mãe",
+              "strong": "H517"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "família",
+              "strong": "H4940"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Será, pois, que qualquer que sair fora da porta da tua casa o seu sangue será sobre a sua cabeça, e nós seremos inocentes; mas qualquer que estiver contigo, em casa, o seu sangue seja sobre a nossa cabeça, se alguém nele puser mão.",
+          "tokens": [
+            {
+              "word": "porta",
+              "strong": "H8179"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "inocentes",
+              "strong": "H5355"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Porém, se tu denunciares este nosso negócio, seremos desobrigados do juramento que nos fizeste jurar.",
+          "tokens": []
+        },
+        {
+          "n": 21,
+          "text": "E ela disse: Conforme as vossas palavras, assim seja. Então os despediu; e eles se foram; e ela atou o cordão de escarlata à janela.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Foram-se, pois, e chegaram ao monte, e ficaram ali três dias, até que voltaram os perseguidores, porque os perseguidores os buscaram por todo o caminho, porém não os acharam.",
+          "tokens": [
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Assim aqueles dois homens voltaram, e desceram do monte, e passaram, e chegaram a Josué, filho de Num, e contaram-lhe tudo quanto lhes acontecera;",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E disseram a Josué: Certamente o Senhor tem dado toda esta terra nas nossas mãos, pois até todos os moradores estão atemorizados diante de nós.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Levantou-se, pois, Josué de madrugada, e partiram de Sitim, ele e todos os filhos de Israel; e vieram até ao Jordão, e pousaram ali, antes que passassem.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E sucedeu, ao fim de três dias, que os oficiais passaram pelo meio do arraial;",
+          "tokens": [
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E ordenaram ao povo, dizendo: Quando virdes a arca da aliança do Senhor vosso Deus, e que os sacerdotes levitas a levam, partireis vós também do vosso lugar, e a seguireis.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Haja contudo, entre vós e ela, uma distância de dois mil côvados; e não vos chegueis a ela, para que saibais o caminho pelo qual haveis de ir; porquanto por este caminho nunca passastes antes.",
+          "tokens": [
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Disse Josué também ao povo: Santificai-vos, porque amanhã fará o Senhor maravilhas no meio de vós.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "maravilhas",
+              "strong": "H6382"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E falou Josué aos sacerdotes, dizendo: Levantai a arca da aliança, e passai adiante deste povo. Levantaram, pois, a arca da aliança, e foram andando adiante do povo.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E o Senhor disse a Josué: Hoje começarei a engrandecer-te perante os olhos de todo o Israel, para que saibam que, assim como fui com Moisés, assim serei contigo.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Tu, pois, ordenarás aos sacerdotes que levam a arca da aliança, dizendo: Quando chegardes à beira das águas do Jordão, parareis aí.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então disse Josué aos filhos de Israel: Chegai-vos para cá, e ouvi as palavras do Senhor vosso Deus.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "ouvi",
+              "strong": "H8085"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Disse mais Josué: Nisto conhecereis que o Deus vivo está no meio de vós; e que certamente lançará de diante de vós aos cananeus, e aos heteus, e aos heveus, e aos perizeus, e aos girgaseus, e aos amorreus, e aos jebuseus.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "vivo",
+              "strong": "H2416"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Eis que a arca da aliança do Senhor de toda a terra passa o Jordão diante de vós.",
+          "tokens": [
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Tomai, pois, agora doze homens das tribos de Israel, de cada tribo um homem;",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Porque há de acontecer que, assim que as plantas dos pés dos sacerdotes, que levam a arca do Senhor, o Senhor de toda a terra, repousem nas águas do Jordão, se separarão as águas do Jordão, e as águas, que vêm de cima, pararão amontoadas.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E aconteceu que, partindo o povo das suas tendas, para passar o Jordão, levavam os sacerdotes a arca da aliança adiante do povo.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "tendas",
+              "strong": "H168"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E quando os que levavam a arca, chegaram ao Jordão, e os seus pés se molharam na beira das águas (porque o Jordão transbordava sobre todas as suas ribanceiras, todos os dias da ceifa),",
+          "tokens": [
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Pararam-se as águas, que vinham de cima; levantaram-se num montão, mui longe da cidade de Adão, que está ao lado de Zaretã; e as que desciam ao mar das campinas, que é o Mar Salgado, foram de todo separadas; então passou o povo em frente de Jericó.",
+          "tokens": [
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Adão",
+              "strong": "H121"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Porém os sacerdotes, que levavam a arca da aliança do Senhor, pararam firmes, em seco, no meio do Jordão, e todo o Israel passou a seco, até que todo o povo acabou de passar o Jordão.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Sucedeu que, acabando todo o povo de passar o Jordão, falou o SENHOR a Josué, dizendo:",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Tomai do povo doze homens, de cada tribo um homem;",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E mandai-lhes, dizendo: Tirai daqui, do meio do Jordão, do lugar onde estavam firmes os pés dos sacerdotes, doze pedras; e levai-as convosco à outra margem e depositai-as no alojamento em que haveis de passar esta noite.",
+          "tokens": [
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Chamou, pois, Josué os doze homens, que escolhera dos filhos de Israel; de cada tribo um homem;",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E disse-lhes Josué: Passai adiante da arca do Senhor vosso Deus, ao meio do Jordão; e cada um levante uma pedra sobre o ombro, segundo o número das tribos dos filhos de Israel;",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Para que isto seja por sinal entre vós; e quando vossos filhos no futuro perguntarem, dizendo: Que significam estas pedras?",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Então lhes direis que as águas do Jordão se separaram diante da arca da aliança do Senhor; passando ela pelo Jordão, separaram-se as águas do Jordão; assim estas pedras serão para sempre por memorial aos filhos de Israel.",
+          "tokens": [
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "sempre",
+              "strong": "H5769"
+            },
+            {
+              "word": "memorial",
+              "strong": "H2146"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Fizeram, pois, os filhos de Israel assim como Josué tinha ordenado, e levantaram doze pedras do meio do Jordão como o Senhor dissera a Josué, segundo o número das tribos dos filhos de Israel; e levaram-nas consigo ao alojamento, e as depositaram ali.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Levantou Josué também doze pedras no meio do Jordão, no lugar onde estiveram parados os pés dos sacerdotes, que levavam a arca da aliança; e ali estão até ao dia de hoje.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Pararam, pois, os sacerdotes, que levavam a arca, no meio do Jordão, em pé, até que se cumpriu tudo quanto o Senhor mandara Josué dizer ao povo, conforme a tudo quanto Moisés tinha ordenado a Josué; e apressou-se o povo, e passou.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E sucedeu que, assim que todo o povo acabou de passar, então passou a arca do Senhor, e os sacerdotes, à vista do povo.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E passaram os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés, armados na frente dos filhos de Israel, como Moisés lhes tinha falado;",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Uns quarenta mil homens de guerra, armados, passaram diante do Senhor para batalha, às campinas de Jericó.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "batalha",
+              "strong": "H4421"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Naquele dia o Senhor engrandeceu a Josué diante dos olhos de todo o Israel; e temeram-no, como haviam temido a Moisés, todos os dias da sua vida.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Falou, pois, o Senhor a Josué, dizendo:",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Dá ordem aos sacerdotes, que levam a arca do testemunho, que subam do Jordão.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "testemunho",
+              "strong": "H5713"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E deu Josué ordem aos sacerdotes, dizendo: Subi do Jordão.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E aconteceu que, como os sacerdotes, que levavam a arca da aliança do Senhor, subiram do meio do Jordão, e as plantas dos pés dos sacerdotes se puseram em seco, as águas do Jordão se tornaram ao seu lugar, e corriam, como antes, sobre todas as suas ribanceiras.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Subiu, pois, o povo, do Jordão no dia dez do mês primeiro; e alojaram-se em Gilgal, do lado oriental de Jericó.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E as doze pedras, que tinham tomado do Jordão, levantou-as Josué em Gilgal.",
+          "tokens": [
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E falou aos filhos de Israel, dizendo: Quando no futuro vossos filhos perguntarem a seus pais, dizendo: Que significam estas pedras?",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Fareis saber a vossos filhos, dizendo: Israel passou em seco este Jordão.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Porque o Senhor vosso Deus fez secar as águas do Jordão diante de vós, até que passásseis, como o Senhor vosso Deus fez ao Mar Vermelho que fez secar perante nós, até que passássemos.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Para que todos os povos da terra conheçam a mão do Senhor, que é forte, para que temais ao Senhor vosso Deus todos os dias.",
+          "tokens": [
+            {
+              "word": "povos",
+              "strong": "H5971"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E sucedeu que, ouvindo todos os reis dos amorreus, que habitavam deste lado do Jordão, ao ocidente, e todos os reis dos cananeus, que estavam ao pé do mar, que o SENHOR tinha secado as águas do Jordão, de diante dos filhos de Israel, até que passassem, desfaleceu-se-lhes o coração, e não houve mais ânimo neles, por causa dos filhos de Israel.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Naquele tempo disse o Senhor a Josué: Faze facas de pedra, e torna a circuncidar segunda vez aos filhos de Israel.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "circuncidar",
+              "strong": "H4135"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Então Josué fez para si facas de pedra, e circuncidou aos filhos de Israel no monte dos prepúcios.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "circuncidou",
+              "strong": "H4135"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E foi esta a causa por que Josué os circuncidou: todo o povo que tinha saído do Egito, os homens, todos os homens de guerra, já haviam morrido no deserto, pelo caminho, depois que saíram do Egito.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "circuncidou",
+              "strong": "H4135"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Porque todos os do povo que saíram estavam circuncidados, mas a nenhum dos que nasceram no deserto, pelo caminho, depois de terem saído do Egito, haviam circuncidado.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "nasceram",
+              "strong": "H3205"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Porque quarenta anos andaram os filhos de Israel pelo deserto, até se acabar toda a nação, os homens de guerra, que saíram do Egito, e não obedeceram à voz do Senhor; aos quais o Senhor tinha jurado que lhes não havia de deixar ver a terra que o Senhor jurara a seus pais dar-nos; terra que mana leite e mel.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            },
+            {
+              "word": "nação",
+              "strong": "H1471"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "ver",
+              "strong": "H7200"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "dar",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Porém em seu lugar pôs a seus filhos; a estes Josué circuncidou, porquanto estavam incircuncisos, porque os não circuncidaram no caminho.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "circuncidou",
+              "strong": "H4135"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E aconteceu que, acabando de circuncidar a toda a nação, ficaram no seu lugar no arraial, até que sararam.",
+          "tokens": [
+            {
+              "word": "circuncidar",
+              "strong": "H4135"
+            },
+            {
+              "word": "nação",
+              "strong": "H1471"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Disse mais o Senhor a Josué: Hoje retirei de sobre vós o opróbrio do Egito; por isso o nome daquele lugar se chamou Gilgal, até ao dia de hoje.",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Estando, pois, os filhos de Israel acampados em Gilgal, celebraram a páscoa no dia catorze do mês, à tarde, nas campinas de Jericó.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            },
+            {
+              "word": "páscoa",
+              "strong": "H6453"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E, ao outro dia depois da páscoa, nesse mesmo dia, comeram, do fruto da terra, pães ázimos e espigas tostadas.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "páscoa",
+              "strong": "H6453"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "fruto",
+              "strong": "H6529"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "pães ázimos",
+              "strong": "H4682"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E cessou o maná no dia seguinte, depois que comeram do fruto da terra, e os filhos de Israel não tiveram mais maná; porém, no mesmo ano comeram dos frutos da terra de Canaã.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "fruto",
+              "strong": "H6529"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "frutos",
+              "strong": "H6529"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E sucedeu que, estando Josué perto de Jericó, levantou os seus olhos e olhou; e eis que se pôs em pé diante dele um homem que tinha na mão uma espada nua; e chegou-se Josué a ele, e disse-lhe: És tu dos nossos, ou dos nossos inimigos?",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E disse ele: Não, mas venho agora como príncipe do exército do SENHOR. Então Josué se prostrou com o seu rosto em terra e o adorou, e disse-lhe: Que diz meu senhor ao seu servo?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "príncipe",
+              "strong": "H5387"
+            },
+            {
+              "word": "exército",
+              "strong": "H6635"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "prostrou",
+              "strong": "H7812"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "adorou",
+              "strong": "H7812"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Então disse o príncipe do exército do Senhor a Josué: Descalça os sapatos de teus pés, porque o lugar em que estás é santo. E fez Josué assim.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "príncipe",
+              "strong": "H5387"
+            },
+            {
+              "word": "exército",
+              "strong": "H6635"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "santo",
+              "strong": "H6944"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Ora Jericó estava rigorosamente fechada por causa dos filhos de Israel; ninguém saía nem entrava.",
+          "tokens": [
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Então disse o Senhor a Josué: Olha, tenho dado na tua mão a Jericó, ao seu rei e aos seus homens valorosos.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Vós, pois, todos os homens de guerra, rodeareis a cidade, cercando-a uma vez; assim fareis por seis dias.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E sete sacerdotes levarão sete buzinas de chifres de carneiros adiante da arca, e no sétimo dia rodeareis a cidade sete vezes, e os sacerdotes tocarão as buzinas.",
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E será que, tocando-se prolongadamente a buzina de carneiro, ouvindo vós o seu sonido, todo o povo gritará com grande brado; e o muro da cidade cairá abaixo, e o povo subirá por ele, cada um em frente.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "muro",
+              "strong": "H2346"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Então Josué, filho de Num, chamou aos sacerdotes e disse-lhes: Levai a arca da aliança; e sete sacerdotes levem sete buzinas de chifres de carneiros, adiante da arca do Senhor.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E disse ao povo: Passai e rodeai a cidade; e quem estiver armado, passe adiante da arca do Senhor.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E assim foi que, como Josué dissera ao povo, os sete sacerdotes, levando as sete buzinas de carneiros diante do Senhor, passaram e tocaram as buzinas; e a arca da aliança do Senhor os seguia.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E os homens armados iam adiante dos sacerdotes, que tocavam as buzinas; e a retaguarda seguia após a arca; andando e tocando as buzinas iam os sacerdotes.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Porém ao povo Josué tinha dado ordem, dizendo: Não gritareis, nem fareis ouvir a vossa voz, nem sairá palavra alguma da vossa boca até ao dia que eu vos diga: Gritai. Então gritareis.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "ouvir",
+              "strong": "H8085"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E fez a arca do Senhor rodear a cidade, contornando-a uma vez; e entraram no arraial, e ali passaram a noite.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Depois Josué se levantou de madrugada, e os sacerdotes levaram a arca do Senhor.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E os sete sacerdotes, que levavam as sete buzinas de chifres de carneiros, adiante da arca do Senhor, iam andando, e tocavam as buzinas, e os homens armados iam adiante deles e a retaguarda seguia atrás da arca do Senhor; os sacerdotes iam andando e tocando as buzinas.",
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Assim rodearam outra vez a cidade no segundo dia e voltaram para o arraial; e assim fizeram seis dias.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E sucedeu que, ao sétimo dia, madrugaram ao subir da alva, e da mesma maneira rodearam a cidade sete vezes; naquele dia somente rodearam a cidade sete vezes.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E sucedeu que, tocando os sacerdotes pela sétima vez as buzinas, disse Josué ao povo: Gritai, porque o Senhor vos tem dado a cidade.",
+          "tokens": [
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Porém a cidade será anátema ao Senhor, ela e tudo quanto houver nela; somente a prostituta Raabe viverá; ela e todos os que com ela estiverem em casa; porquanto escondeu os mensageiros que enviamos.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "anátema",
+              "strong": "H2764"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Raabe",
+              "strong": "H7343"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Tão-somente guardai-vos do anátema, para que não toqueis nem tomeis alguma coisa dele, e assim façais maldito o arraial de Israel, e o perturbeis.",
+          "tokens": [
+            {
+              "word": "guardai",
+              "strong": "H8104"
+            },
+            {
+              "word": "anátema",
+              "strong": "H2764"
+            },
+            {
+              "word": "maldito",
+              "strong": "H779"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Porém toda a prata, e o ouro, e os vasos de metal, e de ferro são consagrados ao Senhor; irão ao tesouro do Senhor.",
+          "tokens": [
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "tesouro",
+              "strong": "H1597"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Gritou, pois, o povo, tocando os sacerdotes as buzinas; e sucedeu que, ouvindo o povo o sonido da buzina, gritou o povo com grande brado; e o muro caiu abaixo, e o povo subiu à cidade, cada um em frente de si, e tomaram a cidade.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "muro",
+              "strong": "H2346"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E tudo quanto havia na cidade destruíram totalmente ao fio da espada, desde o homem até à mulher, desde o menino até ao velho, e até ao boi e gado miúdo, e ao jumento.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            },
+            {
+              "word": "menino",
+              "strong": "H3206"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Josué, porém, disse aos dois homens que tinham espiado a terra: Entrai na casa da mulher prostituta, e tirai-a de lá com tudo quanto tiver, como lhe tendes jurado.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Então entraram os jovens espias, e tiraram a Raabe e a seu pai, e a sua mãe, e a seus irmãos, e a tudo quanto tinha; tiraram também a toda a sua parentela, e os puseram fora do arraial de Israel.",
+          "tokens": [
+            {
+              "word": "Raabe",
+              "strong": "H7343"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "mãe",
+              "strong": "H517"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Porém a cidade e tudo quanto havia nela queimaram a fogo; tão-somente a prata, e o ouro, e os vasos de metal e de ferro, deram para o tesouro da casa do Senhor.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "fogo",
+              "strong": "H784"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "tesouro",
+              "strong": "H1597"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Assim deu Josué vida à prostituta Raabe e à família de seu pai, e a tudo quanto tinha; e habitou no meio de Israel até ao dia de hoje; porquanto escondera os mensageiros que Josué tinha enviado a espiar a Jericó.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "Raabe",
+              "strong": "H7343"
+            },
+            {
+              "word": "família",
+              "strong": "H4940"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E naquele tempo Josué os esconjurou, dizendo: Maldito diante do Senhor seja o homem que se levantar e reedificar esta cidade de Jericó; sobre seu primogênito a fundará, e sobre o seu filho mais novo lhe porá as portas.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Maldito",
+              "strong": "H779"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "portas",
+              "strong": "H8179"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Assim era o Senhor com Josué; e corria a sua fama por toda a terra.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E transgrediram os filhos de Israel no anátema; porque Acã filho de Carmi, filho de Zabdi, filho de Zerá, da tribo de Judá, tomou do anátema, e a ira do SENHOR se acendeu contra os filhos de Israel.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "anátema",
+              "strong": "H2764"
+            },
+            {
+              "word": "Acã",
+              "strong": "H5912"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "anátema",
+              "strong": "H2764"
+            },
+            {
+              "word": "ira",
+              "strong": "H639"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Enviando, pois, Josué, de Jericó, alguns homens a Ai, que está junto a Bete-Áven do lado do oriente de Betel, falou-lhes dizendo: Subi, e espiai a terra. Subiram, pois, aqueles homens, e espiaram a Ai.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E voltaram a Josué, e disseram-lhe: Não suba todo o povo; subam uns dois mil, ou três mil homens, a ferir a Ai; não fatigueis ali a todo o povo, porque poucos são.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Assim, subiram lá, do povo, uns três mil homens, os quais fugiram diante dos homens de Ai.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E os homens de Ai feriram deles uns trinta e seis, e os perseguiram desde a porta até Sebarim, e os feriram na descida; e o coração do povo se derreteu e se tornou como água.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "porta",
+              "strong": "H8179"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "água",
+              "strong": "H4325"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Então Josué rasgou as suas vestes, e se prostrou em terra sobre o seu rosto perante a arca do Senhor até à tarde, ele e os anciãos de Israel; e deitaram pó sobre as suas cabeças.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "prostrou",
+              "strong": "H7812"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cabeças",
+              "strong": "H7218"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E disse Josué: Ah! Senhor Deus! Por que, com efeito, fizeste passar a este povo o Jordão, para nos entregares nas mãos dos amorreus para nos fazerem perecer? Antes nos tivéssemos contentado em ficar além do Jordão!",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Ah, Senhor! Que direi? Pois Israel virou as costas diante dos inimigos!",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Ouvindo isto, os cananeus, e todos os moradores da terra, nos cercarão e desarraigarão o nosso nome da terra; e então que farás ao teu grande nome?",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Então disse o Senhor a Josué: Levanta-te; por que estás prostrado assim sobre o teu rosto?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Israel pecou, e transgrediram a minha aliança que lhes tinha ordenado, e tomaram do anátema, e furtaram, e mentiram, e debaixo da sua bagagem o puseram.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "anátema",
+              "strong": "H2764"
+            },
+            {
+              "word": "debaixo",
+              "strong": "H8478"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Por isso os filhos de Israel não puderam subsistir perante os seus inimigos; viraram as costas diante dos seus inimigos; porquanto estão amaldiçoados; não serei mais convosco, se não desarraigardes o anátema do meio de vós.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "anátema",
+              "strong": "H2764"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Levanta-te, santifica o povo, e dize: Santificai-vos para amanhã, porque assim diz o Senhor Deus de Israel: Anátema há no meio de ti, Israel; diante dos teus inimigos não poderás suster-te, até que tireis o anátema do meio de vós.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Anátema",
+              "strong": "H2764"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "anátema",
+              "strong": "H2764"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Amanhã, pois, vos chegareis, segundo as vossas tribos; e será que a tribo que o Senhor tomar se chegará, segundo as famílias; e a família que o Senhor tomar se chegará por casas; e a casa que o Senhor tomar se chegará homem por homem.",
+          "tokens": [
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "família",
+              "strong": "H4940"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casas",
+              "strong": "H1004"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E será que aquele que for tomado com o anátema será queimado a fogo, ele e tudo quanto tiver; porquanto transgrediu a aliança do Senhor, e fez uma loucura em Israel.",
+          "tokens": [
+            {
+              "word": "anátema",
+              "strong": "H2764"
+            },
+            {
+              "word": "fogo",
+              "strong": "H784"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Então Josué se levantou de madrugada, e fez chegar a Israel, segundo as suas tribos; e a tribo de Judá foi tomada;",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E, fazendo chegar a tribo de Judá, tomou a família dos zeraítas; e fazendo chegar a família dos zeraítas homem por homem, foi tomado Zabdi;",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "família",
+              "strong": "H4940"
+            },
+            {
+              "word": "família",
+              "strong": "H4940"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E, fazendo chegar a sua casa, homem por homem, foi tomado Acã, filho de Carmi, filho de Zabdi, filho de Zerá, da tribo de Judá.",
+          "tokens": [
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "Acã",
+              "strong": "H5912"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Então disse Josué a Acã: Filho meu, dá, peço-te, glória ao Senhor Deus de Israel, e faze confissão perante ele; e declara-me agora o que fizeste, não mo ocultes.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Acã",
+              "strong": "H5912"
+            },
+            {
+              "word": "Filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "glória",
+              "strong": "H3519"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E respondeu Acã a Josué, e disse: Verdadeiramente pequei contra o Senhor Deus de Israel, e fiz assim e assim.",
+          "tokens": [
+            {
+              "word": "Acã",
+              "strong": "H5912"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Quando vi entre os despojos uma boa capa babilônica, e duzentos siclos de prata, e uma cunha de ouro, do peso de cinqüenta siclos, cobicei-os e tomei-os; e eis que estão escondidos na terra, no meio da minha tenda, e a prata por baixo dela.",
+          "tokens": [
+            {
+              "word": "boa",
+              "strong": "H2896"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "tenda",
+              "strong": "H168"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Então Josué enviou mensageiros, que foram correndo à tenda; e eis que tudo estava escondido na sua tenda, e a prata por baixo.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "tenda",
+              "strong": "H168"
+            },
+            {
+              "word": "tenda",
+              "strong": "H168"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Tomaram, pois, aquelas coisas do meio da tenda, e as trouxeram a Josué e a todos os filhos de Israel; e as puseram perante o Senhor.",
+          "tokens": [
+            {
+              "word": "tenda",
+              "strong": "H168"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Então Josué, e todo o Israel com ele, tomaram a Acã filho de Zerá, e a prata, e a capa, e a cunha de ouro, e seus filhos, e suas filhas, e seus bois, e seus jumentos, e suas ovelhas, e sua tenda, e tudo quanto ele tinha; e levaram-nos ao vale de Acor.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Acã",
+              "strong": "H5912"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "ovelhas",
+              "strong": "H6629"
+            },
+            {
+              "word": "tenda",
+              "strong": "H168"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E disse Josué: Por que nos perturbaste? O Senhor te perturbará neste dia. E todo o Israel o apedrejou; e os queimaram a fogo depois de apedrejá-los.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "fogo",
+              "strong": "H784"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E levantaram sobre ele um grande montão de pedras, até o dia de hoje; assim o Senhor se apartou do ardor da sua ira; pelo que aquele lugar se chama o vale de Acor, até ao dia de hoje.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "ira",
+              "strong": "H639"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Então disse o SENHOR a Josué: Não temas, e não te espantes; toma contigo toda a gente de guerra, e levanta-te, sobe a Ai; olha que te tenho dado na tua mão o rei de Ai e o seu povo, e a sua cidade, e a sua terra.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Farás, pois, a Ai e a seu rei, como fizeste a Jericó, e a seu rei; salvo que, para vós, tomareis os seus despojos, e o seu gado; põe emboscadas à cidade, por detrás dela.",
+          "tokens": [
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Então Josué levantou-se, e toda a gente de guerra, para subir contra Ai; e escolheu Josué trinta mil homens valorosos, e enviou-os de noite.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "escolheu",
+              "strong": "H977"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E deu-lhes ordem, dizendo: Olhai! Ponde-vos de emboscadas contra a cidade, por detrás dela; não vos alongueis muito da cidade; e estai todos vós atentos.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Porém eu e todo o povo que está comigo nos aproximaremos da cidade; e será que, quando nos saírem ao encontro, como antes, fugiremos diante deles.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Deixai-os, pois, sair atrás de nós, até que os tiremos da cidade; porque dirão: Fogem diante de nós como antes. Assim fugiremos diante deles.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Então saireis vós da emboscada, e tomareis a cidade; porque o Senhor vosso Deus vo-la dará nas vossas mãos.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E será que tomando vós a cidade, pôr-lhe-eis fogo; conforme a palavra do Senhor fareis; olhai que vo-lo tenho mandado.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "fogo",
+              "strong": "H784"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Assim Josué os enviou, e eles se foram à emboscada; e ficaram entre Betel e Ai, ao ocidente de Ai; porém Josué passou aquela noite no meio do povo.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E levantou-se Josué de madrugada, e contou o povo; e subiram ele e os anciãos de Israel adiante do povo contra Ai.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "contou",
+              "strong": "H6485"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E subiram também todos os homens de guerra, que estavam com ele; e aproximaram-se, e chegaram defronte da cidade; e alojaram-se do lado norte de Ai, e havia um vale entre eles e Ai.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Tomou também uns cinco mil homens, e pô-los de emboscada entre Betel e Ai, ao ocidente da cidade.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E puseram o povo, todo o arraial que estava ao norte da cidade, e a emboscada ao ocidente da cidade; e foi Josué aquela noite até ao meio do vale.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E sucedeu que, vendo-o o rei de Ai, ele e todo o seu povo se apressaram, e se levantaram de madrugada, e os homens da cidade saíram ao encontro de Israel ao combate, ao tempo determinado, defronte das campinas; porém ele não sabia que se achava uma emboscada contra ele atrás da cidade.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            },
+            {
+              "word": "sabia",
+              "strong": "H2451"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Josué, pois, e todo o Israel se houveram como feridos diante deles, e fugiram pelo caminho do deserto.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Por isso todo o povo, que estava na cidade, foi convocado para os seguir; e seguiram a Josué e foram afastados da cidade.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E nem um só homem ficou em Ai, nem em Betel, que não saísse após Israel; e deixaram a cidade aberta, e seguiram a Israel.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Então o Senhor disse a Josué: Estende a lança que tens na tua mão, para Ai, porque a darei na tua mão. E Josué estendeu a lança, que estava na sua mão, para a cidade.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Então a emboscada se levantou apressadamente do seu lugar, e, estendendo ele a sua mão, correram e entraram na cidade, e a tomaram; e apressando-se, puseram fogo na cidade.",
+          "tokens": [
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "fogo",
+              "strong": "H784"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E virando-se os homens de Ai para trás, olharam, e eis que a fumaça da cidade subia ao céu, e não puderam fugir nem para uma parte nem para outra, porque o povo, que fugia para o deserto, se tornou contra os que os seguiam.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "céu",
+              "strong": "H8064"
+            },
+            {
+              "word": "parte",
+              "strong": "H2506"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E vendo Josué e todo o Israel que a emboscada tomara a cidade, e que a fumaça da cidade subia, voltaram, e feriram os homens de Ai.",
+          "tokens": [
+            {
+              "word": "vendo",
+              "strong": "H7200"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Também aqueles da cidade lhes saíram ao encontro, e assim ficaram no meio dos israelitas, uns de uma, e outros de outra parte; e feriram-nos, até que nenhum deles sobreviveu nem escapou.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "parte",
+              "strong": "H2506"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Porém ao rei de Ai tomaram vivo, e o trouxeram a Josué.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "vivo",
+              "strong": "H2416"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E sucedeu que, acabando os israelitas de matar todos os moradores de Ai no campo, no deserto, onde os tinham seguido, e havendo todos caído ao fio da espada, até serem consumidos, todo o Israel se tornou a Ai e a feriu ao fio de espada.",
+          "tokens": [
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E todos os que caíram aquele dia, assim homens como mulheres, foram doze mil, todos moradores de Ai.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Porque Josué não retirou a sua mão, que estendera com a lança, até destruir totalmente a todos os moradores de Ai.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Tão-somente os israelitas tomaram para si o gado e os despojos da cidade, conforme à palavra do Senhor, que tinha ordenado a Josué.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Queimou, pois, Josué a Ai e a tornou num montão perpétuo, em ruínas, até ao dia de hoje.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "perpétuo",
+              "strong": "H5769"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "E ao rei de Ai enforcou num madeiro, até à tarde; e ao pôr do sol ordenou Josué que o seu corpo fosse tirado do madeiro; e o lançaram à porta da cidade, e levantaram sobre ele um grande montão de pedras, até o dia de hoje.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "sol",
+              "strong": "H8121"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "corpo",
+              "strong": "H1320"
+            },
+            {
+              "word": "porta",
+              "strong": "H8179"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Então Josué edificou um altar ao Senhor Deus de Israel, no monte Ebal.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Ebal",
+              "strong": "H5858"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Como Moisés, servo do Senhor, ordenara aos filhos de Israel, conforme ao que está escrito no livro da lei de Moisés, a saber: um altar de pedras inteiras, sobre o qual não se moverá instrumento de ferro; e ofereceram sobre ele holocaustos ao Senhor, e sacrificaram ofertas pacíficas.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "instrumento",
+              "strong": "H5059"
+            },
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "ofertas",
+              "strong": "H4503"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Também escreveu ali, em pedras, uma cópia da lei de Moisés, que este havia escrito diante dos filhos de Israel.",
+          "tokens": [
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "E todo o Israel, com os seus anciãos, e os seus príncipes, e os seus juízes, estavam de um e de outro lado da arca, perante os sacerdotes levitas, que levavam a arca da aliança do Senhor, assim estrangeiros como naturais; metade deles em frente do monte Gerizim, e a outra metade em frente do monte Ebal, como Moisés, servo do Senhor, ordenara, para abençoar primeiramente o povo de Israel.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Gerizim",
+              "strong": "H1630"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Ebal",
+              "strong": "H5858"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "abençoar",
+              "strong": "H1288"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "E depois leu em alta voz todas as palavras da lei, a bênção e a maldição, conforme a tudo o que está escrito no livro da lei.",
+          "tokens": [
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "bênção",
+              "strong": "H1288"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Palavra nenhuma houve, de tudo o que Moisés ordenara, que Josué não lesse perante toda a congregação de Israel, e as mulheres, e os meninos, e os estrangeiros, que andavam no meio deles.",
+          "tokens": [
+            {
+              "word": "Palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "mulheres",
+              "strong": "H802"
+            },
+            {
+              "word": "meninos",
+              "strong": "H3206"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E sucedeu que, ouvindo isto todos os reis, que estavam aquém do Jordão, nas montanhas, e nas campinas, em toda a costa do grande mar, em frente do Líbano, os heteus, e os amorreus, os cananeus, os perizeus, os heveus, e os jebuseus,",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Líbano",
+              "strong": "H3844"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Se ajuntaram eles de comum acordo, para pelejar contra Josué e contra Israel.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E os moradores de Gibeom, ouvindo o que Josué fizera com Jericó e com Ai,",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "Gibeom",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Usaram de astúcia, e foram e se fingiram embaixadores, e levando sacos velhos sobre os seus jumentos, e odres de vinho, velhos, e rotos, e remendados;",
+          "tokens": [
+            {
+              "word": "vinho",
+              "strong": "H3196"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E nos seus pés sapatos velhos e remendados, e roupas velhas sobre si; e todo o pão que traziam para o caminho era seco e bolorento.",
+          "tokens": [
+            {
+              "word": "pão",
+              "strong": "H3899"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E vieram a Josué, ao arraial, a Gilgal, e disseram a ele e aos homens de Israel: Viemos de uma terra distante; fazei, pois, agora, acordo conosco.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E os homens de Israel responderam aos heveus: Porventura habiteis no meio de nós; como pois faremos acordo convosco?",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Então disseram a Josué: Nós somos teus servos. E disse-lhes Josué: Quem sois vós, e de onde vindes?",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E lhe responderam: Teus servos vieram de uma terra mui distante, por causa do nome do Senhor teu Deus, porquanto ouvimos a sua fama, e tudo quanto fez no Egito;",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E tudo quanto fez aos dois reis dos amorreus, que estavam além do Jordão, a Siom rei de Hesbom, e a Ogue, rei de Basã, que estava em Astarote.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Siom",
+              "strong": "H5511"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hesbom",
+              "strong": "H2809"
+            },
+            {
+              "word": "Ogue",
+              "strong": "H5747"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Por isso nossos anciãos e todos os moradores da nossa terra nos falaram, dizendo: Tomai em vossas mãos provisão para o caminho, e ide-lhes ao encontro e dizei-lhes: Nós somos vossos servos; fazei, pois, agora acordo conosco.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Este nosso pão tomamos quente das nossas casas para nossa provisão, no dia em que saímos para vir a vós; e ei-lo aqui agora já seco e bolorento;",
+          "tokens": [
+            {
+              "word": "pão",
+              "strong": "H3899"
+            },
+            {
+              "word": "casas",
+              "strong": "H1004"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E estes odres, que enchemos de vinho, eram novos, e ei-los aqui já rotos; e estas nossas roupas e nossos sapatos já se têm envelhecido, por causa do mui longo caminho.",
+          "tokens": [
+            {
+              "word": "vinho",
+              "strong": "H3196"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Então os homens de Israel tomaram da provisão deles e não pediram conselho ao Senhor.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "conselho",
+              "strong": "H6098"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E Josué fez paz com eles, e fez um acordo com eles, que lhes daria a vida; e os príncipes da congregação lhes prestaram juramento.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E sucedeu que, ao fim de três dias, depois de fazerem acordo com eles, ouviram que eram seus vizinhos, e que moravam no meio deles.",
+          "tokens": [
+            {
+              "word": "dias",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Porque, partindo os filhos de Israel, chegaram às cidades deles ao terceiro dia; e suas cidades eram Gibeom e Cefira, e Beerote, e Quiriate-Jearim.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Quiriate-Jearim",
+              "strong": "H7157"
+            },
+            {
+              "word": "Gibeom",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E os filhos de Israel não os feriram; porquanto os príncipes da congregação lhes juraram pelo Senhor Deus de Israel; por isso toda a congregação murmurava contra os príncipes.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Então todos os príncipes disseram a toda a congregação: Nós juramos-lhes pelo Senhor Deus de Israel, pelo que não lhes podemos tocar.",
+          "tokens": [
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "tocar",
+              "strong": "H5059"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Isto, porém, lhes faremos: conservar-lhes-emos a vida, para que não haja grande ira sobre nós, por causa do juramento que já lhes fizemos.",
+          "tokens": [
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "ira",
+              "strong": "H639"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Disseram-lhes, pois, os príncipes: Vivam, e sejam rachadores de lenha e tiradores de água para toda a congregação, como os príncipes lhes disseram.",
+          "tokens": [
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "água",
+              "strong": "H4325"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E Josué os chamou, e falou-lhes dizendo: Por que nos enganastes dizendo: Mui longe de vós habitamos, morando vós no meio de nós?",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Agora, pois, sereis malditos; e dentre vós não deixará de haver servos, nem rachadores de lenha, nem tiradores de água, para a casa do meu Deus.",
+          "tokens": [
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "água",
+              "strong": "H4325"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Então responderam a Josué, e disseram: Porquanto com certeza foi anunciado aos teus servos que o Senhor teu Deus ordenou a Moisés, seu servo, que a vós daria toda esta terra, e destruiria todos os moradores da terra diante de vós, tememos muito por nossas vidas por causa de vós; por isso fizemos assim.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E eis que agora estamos na tua mão; faze-nos aquilo que te pareça bom e reto.",
+          "tokens": [
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "bom",
+              "strong": "H2896"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Assim pois lhes fez, e livrou-os das mãos dos filhos de Israel, e não os mataram.",
+          "tokens": [
+            {
+              "word": "livrou",
+              "strong": "H5337"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E naquele dia, Josué os fez rachadores de lenha e tiradores de água para a congregação e para o altar do Senhor, até ao dia de hoje, no lugar que ele escolhesse.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "água",
+              "strong": "H4325"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E sucedeu que, ouvindo Adoni-Zedeque, rei de Jerusalém, que Josué tomara a Ai, e a tinha destruído totalmente, e fizera a Ai, e ao seu rei, como tinha feito a Jericó e ao seu rei, e que os moradores de Gibeom fizeram paz com os israelitas, e estavam no meio deles,",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "Gibeom",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Temeram muito, porque Gibeom era uma cidade grande, como uma das cidades reais, e ainda maior do que Ai, e todos os seus homens valentes.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Gibeom",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Pelo que Adoni-Zedeque, rei de Jerusalém, enviou a Hoão, rei de Hebrom, e a Pirão, rei de Jarmute, e a Jafia, rei de Laquis e a Debir, rei de Eglom, dizendo:",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Laquis",
+              "strong": "H3923"
+            },
+            {
+              "word": "Debir",
+              "strong": "H1688"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Eglom",
+              "strong": "H5700"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Subi a mim, e ajudai-me, e firamos a Gibeom, porquanto fez paz com Josué e com os filhos de Israel.",
+          "tokens": [
+            {
+              "word": "paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Gibeom",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Então se ajuntaram, e subiram cinco reis dos amorreus, o rei de Jerusalém, o rei de Hebrom, o rei de Jarmute, o rei de Laquis, o rei de Eglom, eles e todos os seus exércitos; e sitiaram a Gibeom e pelejaram contra ela.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Laquis",
+              "strong": "H3923"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Eglom",
+              "strong": "H5700"
+            },
+            {
+              "word": "exércitos",
+              "strong": "H6635"
+            },
+            {
+              "word": "Gibeom",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Enviaram, pois, os homens de Gibeom a Josué, ao arraial de Gilgal, dizendo: Não retires as tuas mãos de teus servos; sobe apressadamente a nós, e livra-nos e ajuda-nos, porquanto todos os reis dos amorreus, que habitam na montanha, se ajuntaram contra nós.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "servos",
+              "strong": "H5650"
+            },
+            {
+              "word": "livra",
+              "strong": "H5337"
+            },
+            {
+              "word": "ajuda",
+              "strong": "H5828"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "montanha",
+              "strong": "H2022"
+            },
+            {
+              "word": "Gibeom",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Então subiu Josué, de Gilgal, ele e toda a gente de guerra com ele, e todos os homens valorosos.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E o Senhor disse a Josué: Não os temas, porque os tenho dado na tua mão; nenhum deles te poderá resistir.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E Josué lhes sobreveio de repente, porque toda a noite veio subindo desde Gilgal.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "noite",
+              "strong": "H3915"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E o Senhor os conturbou diante de Israel, e os feriu com grande matança em Gibeom; e perseguiu-os pelo caminho que sobe a Bete-Horom, e feriu-os até Azeca e a Maquedá.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "Gibeom",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E sucedeu que fugindo eles de diante de Israel, à descida de Bete-Horom, o Senhor lançou sobre eles, do céu, grandes pedras, até Azeca, e morreram; e foram muitos mais os que morreram das pedras da saraiva do que os que os filhos de Israel mataram à espada.",
+          "tokens": [
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "céu",
+              "strong": "H8064"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Então Josué falou ao Senhor, no dia em que o Senhor deu os amorreus nas mãos dos filhos de Israel, e disse na presença dos israelitas: Sol, detém-te em Gibeom, e tu, lua, no vale de Ajalom.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Sol",
+              "strong": "H8121"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "Gibeom",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E o sol se deteve, e a lua parou, até que o povo se vingou de seus inimigos. Isto não está escrito no livro de Jasher? O sol, pois, se deteve no meio do céu, e não se apressou a pôr-se, quase um dia inteiro.",
+          "tokens": [
+            {
+              "word": "sol",
+              "strong": "H8121"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "sol",
+              "strong": "H8121"
+            },
+            {
+              "word": "céu",
+              "strong": "H8064"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E não houve dia semelhante a este, nem antes nem depois dele, ouvindo o Senhor assim a voz de um homem; porque o Senhor pelejava por Israel.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E voltou Josué, e todo o Israel com ele, ao arraial, em Gilgal.",
+          "tokens": [
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Aqueles cinco reis, porém, fugiram, e se esconderam numa cova em Maquedá.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E foi anunciado a Josué, dizendo: Acharam-se os cinco reis escondidos numa cova em Maquedá.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Disse, pois, Josué: Arrastai grandes pedras à boca da cova, e ponde sobre ela homens que os guardem;",
+          "tokens": [
+            {
+              "word": "Disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Porém vós não vos detenhais; persegui os vossos inimigos, e atacai os que vão ficando atrás; não os deixeis entrar nas suas cidades, porque o Senhor vosso Deus já vo-los deu na vossa mão.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E sucedeu que, acabando Josué e os filhos de Israel de os ferir com grande matança, até consumi-los, e os que ficaram deles se retiraram às cidades fortificadas,",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Todo o povo voltou em paz a Josué, ao arraial em Maquedá; não havendo ninguém que movesse a sua língua contra os filhos de Israel.",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "língua",
+              "strong": "H3956"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Depois disse Josué: Abri a boca da cova, e trazei-me para fora aqueles cinco reis.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Fizeram, pois, assim, e trouxeram-lhe aqueles cinco reis para fora da cova: o rei de Jerusalém, o rei de Hebrom, o rei de Jarmute, o rei de Laquis e o rei de Eglom.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Laquis",
+              "strong": "H3923"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Eglom",
+              "strong": "H5700"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E sucedeu que, trazendo aqueles reis a Josué, este chamou todos os homens de Israel, e disse aos capitães dos homens de guerra, que foram com ele: Chegai, ponde os vossos pés sobre os pescoços destes reis. E chegaram, e puseram os seus pés sobre os pescoços deles.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Então Josué lhes disse: Não temais, nem vos espanteis; esforçai-vos e animai-vos; porque assim o fará o Senhor a todos os vossos inimigos, contra os quais pelejardes.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E, depois disto, Josué os feriu, e os matou, e os enforcou em cinco madeiros; e ficaram enforcados nos madeiros até à tarde.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E sucedeu que, ao pôr do sol, deu Josué ordem que os tirassem dos madeiros; e lançaram-nos na cova onde se esconderam; e puseram grandes pedras à boca da cova, que ainda ali estão até o dia de hoje.",
+          "tokens": [
+            {
+              "word": "sol",
+              "strong": "H8121"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "boca",
+              "strong": "H6310"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "E naquele mesmo dia tomou Josué a Maquedá, e feriu-a a fio de espada, bem como ao seu rei; totalmente a destruiu com todos que nela havia, sem nada deixar; e fez ao rei de Maquedá como fizera ao rei de Jericó.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Então Josué, e todo o Israel com ele, passou de Maquedá a Libna e pelejou contra ela.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Libna",
+              "strong": "H3841"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E também o Senhor a deu na mão de Israel, a ela e a seu rei, e a feriu a fio de espada, a ela e a todos que nela estavam; sem nada deixar; e fez ao seu rei como fizera ao rei de Jericó.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Então Josué, e todo o Israel com ele, passou de Libna a Laquis; e a sitiou, e pelejou contra ela;",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Laquis",
+              "strong": "H3923"
+            },
+            {
+              "word": "Libna",
+              "strong": "H3841"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E o Senhor deu a Laquis nas mãos de Israel, e tomou-a no dia seguinte e a feriu a fio de espada, a ela e a todos os que nela estavam, conforme a tudo o que fizera a Libna.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Laquis",
+              "strong": "H3923"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Libna",
+              "strong": "H3841"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Então Horão, rei de Gezer, subiu a ajudar a Laquis, porém Josué o feriu, a ele e ao seu povo, até não lhe deixar nem sequer um.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "ajudar",
+              "strong": "H5828"
+            },
+            {
+              "word": "Laquis",
+              "strong": "H3923"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "E Josué, e todo o Israel com ele, passou de Laquis a Eglom, e a sitiaram, e pelejaram contra ela.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Laquis",
+              "strong": "H3923"
+            },
+            {
+              "word": "Eglom",
+              "strong": "H5700"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "E no mesmo dia a tomaram, e a feriram a fio de espada; e a todos os que nela estavam, destruiu totalmente no mesmo dia, conforme a tudo o que fizera a Laquis.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Laquis",
+              "strong": "H3923"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "Depois Josué, e todo o Israel com ele, subiu de Eglom a Hebrom, e pelejaram contra ela.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Eglom",
+              "strong": "H5700"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "E a tomaram, e a feriram ao fio de espada, assim ao seu rei como a todas as suas cidades; e a todos os que nelas estavam, a ninguém deixou com vida, conforme a tudo o que fizera a Eglom; e a destruiu totalmente, a ela e a todos os que nela estavam.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "Eglom",
+              "strong": "H5700"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "Então Josué, e todo o Israel com ele, tornou a Debir, e pelejou contra ela.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Debir",
+              "strong": "H1688"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "E tomou-a com o seu rei, e a todas as suas cidades, e as feriu a fio de espada, e a todos os que nelas estavam destruiu totalmente; nada deixou; como fizera a Hebrom, assim fez a Debir e ao seu rei, e como fizera a Libna e ao seu rei.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "Debir",
+              "strong": "H1688"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Libna",
+              "strong": "H3841"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Assim feriu Josué toda aquela terra, as montanhas, o sul, e as campinas, e as descidas das águas, e a todos os seus reis; nada deixou; mas tudo o que tinha fôlego destruiu, como ordenara o Senhor Deus de Israel.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "E Josué os feriu desde Cades-Barnéia, até Gaza, como também toda a terra de Gósen, e até Gibeom.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Cades",
+              "strong": "H6946"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Gibeom",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "E de uma vez tomou Josué todos estes reis, e as suas terras; porquanto o Senhor Deus de Israel pelejava por Israel.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "Então Josué, e todo o Israel com ele, voltou ao arraial em Gilgal.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Sucedeu depois disto que, ouvindo-o Jabim, rei de Hazor, enviou mensageiros a Jobabe, rei de Madom, e ao rei de Sinrom, e ao rei de Acsafe;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hazor",
+              "strong": "H2674"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E aos reis, que estavam ao norte, nas montanhas, e na campina para o sul de Quinerete, e nas planícies, e nas elevações de Dor, do lado do mar;",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Ao cananeu do oriente e do ocidente; e ao amorreu, e ao heteu, e ao perizeu, e ao jebuseu nas montanhas; e ao heveu ao pé de Hermom, na terra de Mizpá.",
+          "tokens": [
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "Hermom",
+              "strong": "H2768"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Mizpá",
+              "strong": "H4709"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Saíram pois estes, e todos os seus exércitos com eles, muito povo, em multidão como a areia que está na praia do mar; e muitíssimos cavalos e carros.",
+          "tokens": [
+            {
+              "word": "exércitos",
+              "strong": "H6635"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Todos estes reis se ajuntaram, e vieram e se acamparam junto às águas de Merom, para pelejarem contra Israel.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E disse o Senhor a Josué: Não temas diante deles; porque amanhã, a esta mesma hora, eu os darei todos feridos diante dos filhos de Israel; os seus cavalos jarretarás, e os seus carros queimarás a fogo.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "fogo",
+              "strong": "H784"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E Josué, e todos os homens de guerra com ele, veio apressadamente sobre eles às águas de Merom, e atacou-os de repente.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E o Senhor os deu nas mãos de Israel; e eles os feriram, e os perseguiram até à grande Sidom, e até Misrefote-Maim, e até ao vale de Mizpá ao oriente; feriram até não lhes deixarem nenhum.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Sidom",
+              "strong": "H6721"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "Mizpá",
+              "strong": "H4709"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "E fez-lhes Josué como o Senhor lhe dissera; os seus cavalos jarretou, e os seus carros queimou a fogo.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "fogo",
+              "strong": "H784"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E naquele mesmo tempo voltou Josué, e tomou a Hazor, e feriu à espada ao seu rei; porquanto Hazor antes era a cabeça de todos estes reinos.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            },
+            {
+              "word": "voltou",
+              "strong": "H7725"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Hazor",
+              "strong": "H2674"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hazor",
+              "strong": "H2674"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "reinos",
+              "strong": "H4467"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E a todos os que nela estavam, feriram ao fio da espada, e totalmente os destruíram; nada restou do que tinha fôlego, e a Hazor queimou a fogo.",
+          "tokens": [
+            {
+              "word": "Hazor",
+              "strong": "H2674"
+            },
+            {
+              "word": "fogo",
+              "strong": "H784"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E Josué tomou todas as cidades destes reis, e todos os seus reis, e os feriu ao fio da espada, destruindo-os totalmente, como ordenara Moisés servo do Senhor.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Tão-somente não queimaram os israelitas as cidades que estavam sobre os seus outeiros; a não ser Hazor, a qual Josué queimou.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Hazor",
+              "strong": "H2674"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E todos os despojos destas cidades, e o gado, os filhos de Israel tomaram para si; tão-somente a todos os homens feriram ao fio da espada, até que os destruíram; nada do que tinha fôlego deixaram com vida.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Como ordenara o Senhor a Moisés, seu servo, assim Moisés ordenou a Josué; e assim Josué o fez; nem uma só palavra tirou de tudo o que o Senhor ordenara a Moisés.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Assim Josué tomou toda aquela terra, as montanhas, e todo o sul, e toda a terra de Gósen, e as planícies, e as campinas, e as montanhas de Israel, e as suas planícies.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Desde o monte Halaque, que sobe a Seir, até Baal-Gade, no vale do Líbano, ao pé do monte de Hermom; também tomou todos os seus reis, e os feriu e os matou.",
+          "tokens": [
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Seir",
+              "strong": "H8165"
+            },
+            {
+              "word": "Baal",
+              "strong": "H1168"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "Líbano",
+              "strong": "H3844"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Hermom",
+              "strong": "H2768"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Por muito tempo Josué fez guerra contra todos estes reis.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Não houve cidade que fizesse paz com os filhos de Israel, senão os heveus, moradores de Gibeom; por guerra as tomaram todas.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "paz",
+              "strong": "H7965"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "Gibeom",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Porquanto do Senhor vinha o endurecimento de seus corações, para saírem à guerra contra Israel, para que fossem totalmente destruídos e não achassem piedade alguma; mas para os destruir a todos como o Senhor tinha ordenado a Moisés.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "vinha",
+              "strong": "H3754"
+            },
+            {
+              "word": "corações",
+              "strong": "H3820"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "piedade",
+              "strong": "H2603"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Naquele tempo veio Josué, e extirpou os anaquins das montanhas de Hebrom, de Debir, de Anabe e de todas as montanhas de Judá e de todas as montanhas de Israel; Josué os destruiu totalmente com as suas cidades.",
+          "tokens": [
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "Debir",
+              "strong": "H1688"
+            },
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Nenhum dos anaquins foi deixado na terra dos filhos de Israel; somente ficaram alguns em Gaza, em Gate, e em Asdode.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Gate",
+              "strong": "H1661"
+            },
+            {
+              "word": "Asdode",
+              "strong": "H795"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Assim Josué tomou toda esta terra, conforme a tudo o que o Senhor tinha dito a Moisés; e Josué a deu em herança aos filhos de Israel, conforme as suas divisões, segundo as suas tribos; e a terra descansou da guerra.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Estes, pois, são os reis da terra, aos quais os filhos de Israel feriram e cujas terras possuíram além do Jordão para o nascente do sol, desde o ribeiro de Arnom, até ao monte de Hermom, e toda a planície do oriente:",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "sol",
+              "strong": "H8121"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Hermom",
+              "strong": "H2768"
+            },
+            {
+              "word": "Arnom",
+              "strong": "H769"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Siom, rei dos amorreus, que habitava em Hesbom e que dominava desde Aroer, que está à beira do ribeiro de Arnom, e desde o meio do ribeiro, e a metade de Gileade, e até ao ribeiro de Jaboque, o termo dos filhos de Amom.",
+          "tokens": [
+            {
+              "word": "Siom",
+              "strong": "H5511"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hesbom",
+              "strong": "H2809"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Amom",
+              "strong": "H5983"
+            },
+            {
+              "word": "Arnom",
+              "strong": "H769"
+            },
+            {
+              "word": "Aroer",
+              "strong": "H6177"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E desde a campina até ao mar de Quinerete para o oriente, e até ao mar da campina, o Mar Salgado para o oriente, pelo caminho de Bete-Jesimote; e desde o sul, abaixo de Asdote-Pisga.",
+          "tokens": [
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "Pisga",
+              "strong": "H6449"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Como também o termo de Ogue, rei de Basã que era do restante dos gigantes e que habitava em Astarote e em Edrei;",
+          "tokens": [
+            {
+              "word": "Ogue",
+              "strong": "H5747"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E dominava no monte Hermom, e em Salcá, e em toda a Basã, até ao termo dos gesureus e dos maacateus, e metade de Gileade, termo de Siom, rei de Hesbom.",
+          "tokens": [
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Hermom",
+              "strong": "H2768"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "Siom",
+              "strong": "H5511"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hesbom",
+              "strong": "H2809"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "A estes Moisés, servo do Senhor, e os filhos de Israel, feriram; e Moisés, servo do Senhor, deu esta terra em possessão aos rubenitas, e aos gaditas, e à meia tribo de Manassés.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E estes são os reis da terra aos quais Josué e os filhos de Israel feriram aquém do Jordão para o ocidente, desde Baal-Gade, no vale do Líbano, até ao monte Halaque, que sobe a Seir; e Josué a deu às tribos de Israel em possessão, segundo as suas divisões.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Baal",
+              "strong": "H1168"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "Líbano",
+              "strong": "H3844"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Seir",
+              "strong": "H8165"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "O que havia nas montanhas, e nas planícies, e nas campinas, e nas descidas das águas, e no deserto, e para o sul: o heteu, o amorreu, e o cananeu, o perizeu, o heveu, e o jebuseu.",
+          "tokens": [
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "O rei de Jericó, um; o rei de Ai, que está ao lado de Betel, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Ai",
+              "strong": "H5857"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "O rei de Jerusalém, outro; o rei de Hebrom, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "O rei de Jarmute, outro; o rei de Laquis, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Laquis",
+              "strong": "H3923"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "O rei de Eglom, outro; o rei de Geser, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Eglom",
+              "strong": "H5700"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "O rei de Debir, outro; o rei de Geder, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Debir",
+              "strong": "H1688"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "O rei de Hormá, outro; o rei de Harade, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "O rei de Libna, outro; o rei de Adulão, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Libna",
+              "strong": "H3841"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "O rei de Maquedá, outro; o rei de Betel, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "O rei de Tapua, outro; o rei de Hefer, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "O rei de Afeque, outro; o rei de Lassarom, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "O rei de Madom, outro; o rei de Hazor, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hazor",
+              "strong": "H2674"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "O rei de Sinrom-Meron, outro; o rei de Acsafe, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "O rei de Taanaque, outro; o rei de Megido, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "O rei de Quedes, outro; o rei de Jocneão do Carmelo, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Carmelo",
+              "strong": "H3760"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "O rei de Dor no outeiro de Dor, outro; o rei de Goim em Gilgal, outro;",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "O rei de Tirza, outro; trinta e um reis ao todo.",
+          "tokens": [
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Tirza",
+              "strong": "H8656"
+            },
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Era, porém, Josué já velho, entrado em dias; e disse-lhe o SENHOR: Já estás velho, entrado em dias; e ainda muitíssima terra ficou para possuir.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "A terra que ainda fica é esta: Todos os termos dos filisteus e toda a Gesur;",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "filisteus",
+              "strong": "H6430"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Desde Sior, que está em frente ao Egito, até ao termo de Ecrom para o norte, que se diz ser dos cananeus; cinco príncipes dos filisteus; o gazeu, e o asdodeu, o asqueloneu, o giteu, e o ecroneu, e os aveus;",
+          "tokens": [
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "Ecrom",
+              "strong": "H6138"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "filisteus",
+              "strong": "H6430"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Desde o sul, toda a terra dos cananeus, e Meara, que é dos sidônios; até Afeca, até ao termo dos amorreus;",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Como também a terra dos gebalitas, e todo o Líbano, para o nascente do sol, desde Baal-Gade, ao pé do monte Hermom, até a entrada de Hamate;",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Líbano",
+              "strong": "H3844"
+            },
+            {
+              "word": "sol",
+              "strong": "H8121"
+            },
+            {
+              "word": "Baal",
+              "strong": "H1168"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Hermom",
+              "strong": "H2768"
+            },
+            {
+              "word": "Hamate",
+              "strong": "H2574"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Todos os que habitam nas montanhas desde o Líbano até Misrefote-Maim, todos os sidônios; eu os lançarei de diante dos filhos de Israel; tão-somente reparte a terra em herança a Israel, como já te mandei.",
+          "tokens": [
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "Líbano",
+              "strong": "H3844"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Reparte, pois, agora esta terra por herança às nove tribos, e à meia tribo de Manassés,",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Com a qual os rubenitas e os gaditas já receberam a sua herança, além do Jordão para o oriente, assim como já lhes tinha dado Moisés, servo do Senhor.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Desde Aroer, que está à beira do ribeiro de Arnom, e a cidade que está no meio do vale, e toda a campina de Medeba até Dibom;",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "Arnom",
+              "strong": "H769"
+            },
+            {
+              "word": "Aroer",
+              "strong": "H6177"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E todas as cidades de Siom, rei dos amorreus, que reinou em Hesbom, até ao termo dos filhos de Amom;",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Siom",
+              "strong": "H5511"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hesbom",
+              "strong": "H2809"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Amom",
+              "strong": "H5983"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E Gileade, e o termo dos gesureus, e dos maacateus, e todo o monte Hermom, e toda a Basã até Salcá;",
+          "tokens": [
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Hermom",
+              "strong": "H2768"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Todo o reino de Ogue em Basã, que reinou em Astarote e em Edrei; este ficou do restante dos gigantes que Moisés feriu e expulsou.",
+          "tokens": [
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "Ogue",
+              "strong": "H5747"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Porém os filhos de Israel não expulsaram os gesureus, nem os maacateus; antes Gesur e Maacate ficaram habitando no meio de Israel até ao dia de hoje.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Tão-somente à tribo de Levi não deu herança; os sacrifícios queimados do Senhor Deus de Israel são a sua herança, como já lhe tinha falado.",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Levi",
+              "strong": "H3878"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "sacrifícios",
+              "strong": "H2077"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Assim Moisés deu à tribo dos filhos de Rúben, conforme as suas famílias.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E foi o seu limite desde Aroer, que está à beira do ribeiro de Arnom, e a cidade que está no meio do vale, e toda a campina até Medeba;",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "Arnom",
+              "strong": "H769"
+            },
+            {
+              "word": "Aroer",
+              "strong": "H6177"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Hesbom e todas as suas cidades, que estão na campina; Dibom, e Bamote-Baal, e Bete-Baal-Meom;",
+          "tokens": [
+            {
+              "word": "Hesbom",
+              "strong": "H2809"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Baal",
+              "strong": "H1168"
+            },
+            {
+              "word": "Baal",
+              "strong": "H1168"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E Jasa e Quedemote, e Mefaate;",
+          "tokens": []
+        },
+        {
+          "n": 19,
+          "text": "E Quiriataim e Sibma, e Zerete-Saar, no monte do vale;",
+          "tokens": [
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Bete-Peor, e Asdote-Pisga, Bete-Jesimote;",
+          "tokens": [
+            {
+              "word": "Peor",
+              "strong": "H6465"
+            },
+            {
+              "word": "Pisga",
+              "strong": "H6449"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E todas as cidades da campina, e todo o reino de Siom, rei dos amorreus, que reinou em Hesbom, a quem Moisés feriu, como também aos príncipes de Midiã, Evi, e Requém, e Zur, e Hur, e Reba, príncipes de Siom, moradores da terra.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "Siom",
+              "strong": "H5511"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Hesbom",
+              "strong": "H2809"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "Midiã",
+              "strong": "H4080"
+            },
+            {
+              "word": "Hur",
+              "strong": "H2354"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "Siom",
+              "strong": "H5511"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "Também os filhos de Israel mataram à espada a Balaão, filho de Beor, o adivinho, com os outros que por eles foram mortos.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Balaão",
+              "strong": "H1109"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "mortos",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E o termo dos filhos de Rúben ficou sendo o Jordão e os seus limites; esta foi a herança dos filhos de Rúben, segundo as suas famílias, as cidades, e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E deu Moisés à tribo de Gade, aos filhos de Gade, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E foi o seu termo Jazer, e todas as cidades de Gileade, e metade da terra dos filhos de Amom, até Aroer, que está em frente de Rabá.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Amom",
+              "strong": "H5983"
+            },
+            {
+              "word": "Aroer",
+              "strong": "H6177"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E desde Hesbom até Ramate-Mizpá e Betonim, e desde Maanaim até ao termo de Debir;",
+          "tokens": [
+            {
+              "word": "Hesbom",
+              "strong": "H2809"
+            },
+            {
+              "word": "Mizpá",
+              "strong": "H4709"
+            },
+            {
+              "word": "Debir",
+              "strong": "H1688"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E no vale Bete-Arã, e Bete-Nimra, e Sucote, Zafom, que ficara do restante do reino de Siom, em Hesbom, o Jordão e o seu termo, até a extremidade do mar de Quinerete além do Jordão para o oriente.",
+          "tokens": [
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "Siom",
+              "strong": "H5511"
+            },
+            {
+              "word": "Hesbom",
+              "strong": "H2809"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Sucote",
+              "strong": "H5523"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Esta é a herança dos filhos de Gade segundo as suas famílias, as cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Deu também Moisés herança à meia tribo de Manassés; e deu à meia tribo dos filhos de Manassés, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "Deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "De maneira que o seu termo foi desde Maanaim, todo o Basã, todo o reino de Ogue, rei de Basã, e todas as aldeias de Jair, que estão em Basã, sessenta cidades,",
+          "tokens": [
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "Ogue",
+              "strong": "H5747"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "E metade de Gileade, e Astarote, e Edrei, cidades do reino de Ogue em Basã, deu aos filhos de Maquir, filho de Manassés, a saber, à metade dos filhos de Maquir, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "reino",
+              "strong": "H4467"
+            },
+            {
+              "word": "Ogue",
+              "strong": "H5747"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Isto é o que Moisés repartiu em herança nas campinas de Moabe, além do Jordão para o oriente de Jericó.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Moabe",
+              "strong": "H4124"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Porém, à tribo de Levi, Moisés não deu herança; o Senhor Deus de Israel é a sua herança, como já lhe tinha falado.",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Levi",
+              "strong": "H3878"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Isto, pois, é o que os filhos de Israel tiveram em herança, na terra de Canaã, o que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das tribos dos filhos de Israel lhes fizeram repartir,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "Eleazar",
+              "strong": "H499"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "cabeças",
+              "strong": "H7218"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Por sorte da sua herança, como o Senhor ordenara, pelo ministério de Moisés, acerca das nove tribos e da meia tribo.",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Porquanto às duas tribos e à meia tribo já dera Moisés herança além do Jordão; mas aos levitas não tinha dado herança entre eles.",
+          "tokens": [
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Porque os filhos de José eram duas tribos, Manassés e Efraim, e aos levitas não se deu herança na terra, senão cidades em que habitassem, e os seus arrabaldes para seu gado e para seus bens.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "José",
+              "strong": "H3130"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "bens",
+              "strong": "H6239"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Como o Senhor ordenara a Moisés, assim fizeram os filhos de Israel, e repartiram a terra.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Então os filhos de Judá chegaram a Josué em Gilgal; e Calebe, filho de Jefoné o quenezeu, lhe disse: Tu sabes o que o Senhor falou a Moisés, homem de Deus, em Cades-Barnéia por causa de mim e de ti.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            },
+            {
+              "word": "Calebe",
+              "strong": "H3612"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Cades",
+              "strong": "H6946"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Quarenta anos tinha eu, quando Moisés, servo do Senhor, me enviou de Cades-Barnéia a espiar a terra; e eu lhe trouxe resposta, como sentia no meu coração;",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Cades",
+              "strong": "H6946"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Mas meus irmãos, que subiram comigo, fizeram derreter o coração do povo; eu porém perseverei em seguir ao Senhor meu Deus.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então Moisés naquele dia jurou, dizendo: Certamente a terra que pisou o teu pé será tua, e de teus filhos, em herança perpetuamente; pois perseveraste em seguir ao Senhor meu Deus.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E agora eis que o Senhor me conservou em vida, como disse; quarenta e cinco anos são passados, desde que o Senhor falou esta palavra a Moisés, andando Israel ainda no deserto; e agora eis que hoje tenho já oitenta e cinco anos;",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "vida",
+              "strong": "H2416"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E ainda hoje estou tão forte como no dia em que Moisés me enviou; qual era a minha força então, tal é agora a minha força, tanto para a guerra como para sair e entrar.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "força",
+              "strong": "H2428"
+            },
+            {
+              "word": "força",
+              "strong": "H2428"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Agora, pois, dá-me este monte de que o Senhor falou aquele dia; pois naquele dia tu ouviste que estavam ali os anaquins, e grandes e fortes cidades. Porventura o Senhor será comigo, para os expulsar, como o Senhor disse.",
+          "tokens": [
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "fortes",
+              "strong": "H5797"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E Josué o abençoou, e deu a Calebe, filho de Jefoné, a Hebrom em herança.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "abençoou",
+              "strong": "H1288"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Calebe",
+              "strong": "H3612"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Portanto Hebrom ficou sendo herança de Calebe, filho de Jefoné o quenezeu, até ao dia de hoje, porquanto perseverara em seguir ao Senhor Deus de Israel.",
+          "tokens": [
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Calebe",
+              "strong": "H3612"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E antes o nome de Hebrom era Quiriate-Arba, porque Arba foi o maior homem entre os anaquins. E a terra repousou da guerra.",
+          "tokens": [
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "Quiriate-Arba",
+              "strong": "H7153"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "verses": [
+        {
+          "n": 1,
+          "text": "A sorte que coube à tribo dos filhos de Judá, segundo as suas famílias, foi até ao termo de Edom, o deserto de Zim, para o sul, na extremidade do lado meridional.",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "Edom",
+              "strong": "H123"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            },
+            {
+              "word": "Zim",
+              "strong": "H6790"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E foi o seu termo para o sul, desde a extremidade do Mar Salgado, desde a baía que olha para o sul;",
+          "tokens": [
+            {
+              "word": "Mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E sai para o sul, até à subida de Acrabim, e passa a Zim, e sobe do sul a Cades-Barnéia, e passa por Hezrom, e sobe a Adar, e vira para Carca;",
+          "tokens": [
+            {
+              "word": "Zim",
+              "strong": "H6790"
+            },
+            {
+              "word": "Cades",
+              "strong": "H6946"
+            },
+            {
+              "word": "Hezrom",
+              "strong": "H2696"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E passa Azmom, e sai ao ribeiro do Egito, e as saídas deste termo vão até ao mar; este será o vosso termo do lado do sul.",
+          "tokens": [
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "O termo, porém, para o oriente será o Mar Salgado, até à foz do Jordão; e o termo para o norte será da baía do mar, desde a foz do Jordão.",
+          "tokens": [
+            {
+              "word": "Mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E este termo subirá até Bete-Hogla, e passará do norte a Bete-Arabá, e este termo subirá até à pedra de Boã, filho de Rúben.",
+          "tokens": [
+            {
+              "word": "Boã",
+              "strong": "H2896"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Subirá mais este termo a Debir desde o vale de Acor, indo para o norte rumo a Gilgal, a qual está em frente da subida de Adumim, que está para o sul do ribeiro; então este termo continua até às águas de En-Semes; e as suas saídas estão do lado de En-Rogel.",
+          "tokens": [
+            {
+              "word": "Debir",
+              "strong": "H1688"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "Gilgal",
+              "strong": "H1537"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E este termo sobe pelo vale do filho de Hinom, do lado sul dos jebuseus (esta é Jerusalém) e sobe este termo até ao cume do monte que está diante do vale de Hinom para o ocidente, que está no fim do vale dos refains do lado do norte.",
+          "tokens": [
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então este termo vai desde a altura do monte até à fonte das águas de Neftoa; e sai até às cidades do monte de Efrom; vai mais este termo até Baalá (esta é Quiriate-Jearim).",
+          "tokens": [
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Quiriate-Jearim",
+              "strong": "H7157"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Então volta este termo desde Baalá para o ocidente, até às montanhas de Seir, e passa ao lado do monte de Jearim do lado do norte (esta é Quesalom) e desce a Bete-Semes, e passa por Timna;",
+          "tokens": [
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "Seir",
+              "strong": "H8165"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Bete-Semes",
+              "strong": "H1053"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Sai este termo mais ao lado de Ecrom, para o norte, e este termo vai a Sicrom e passa o monte de Baalá, e sai em Jabneel; e assim este termo finda no mar.",
+          "tokens": [
+            {
+              "word": "Ecrom",
+              "strong": "H6138"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Será, porém, o termo do lado do ocidente o Mar Grande, e suas adjacências; este é o termo dos filhos de Judá ao redor, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "Mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Mas a Calebe, filho de Jefoné, deu uma parte no meio dos filhos de Judá, conforme a ordem do Senhor a Josué; a saber, a cidade de Arba, que é Hebrom; este Arba era pai de Anaque.",
+          "tokens": [
+            {
+              "word": "Calebe",
+              "strong": "H3612"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "parte",
+              "strong": "H2506"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E Calebe expulsou dali os três filhos de Anaque: Sesai, e Aimã, e Talmai, gerados de Anaque.",
+          "tokens": [
+            {
+              "word": "Calebe",
+              "strong": "H3612"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E dali subiu aos habitantes de Debir; e fora antes o nome de Debir, Quiriate-Sefer.",
+          "tokens": [
+            {
+              "word": "Debir",
+              "strong": "H1688"
+            },
+            {
+              "word": "Debir",
+              "strong": "H1688"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E disse Calebe: Quem ferir a Quiriate-Sefer, e a tomar, lhe darei a minha filha Acsa por mulher.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Calebe",
+              "strong": "H3612"
+            },
+            {
+              "word": "Acsa",
+              "strong": "H5915"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Tomou-a, pois, Otniel, filho de Quenaz, irmão de Calebe; e deu-lhe a sua filha Acsa por mulher.",
+          "tokens": [
+            {
+              "word": "Otniel",
+              "strong": "H6274"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "irmão",
+              "strong": "H251"
+            },
+            {
+              "word": "Calebe",
+              "strong": "H3612"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Acsa",
+              "strong": "H5915"
+            },
+            {
+              "word": "mulher",
+              "strong": "H802"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E sucedeu que, vindo ela a ele, o persuadiu que pedisse um campo a seu pai; e ela desceu do seu jumento; então Calebe lhe disse: Que é que tens?",
+          "tokens": [
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "Calebe",
+              "strong": "H3612"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E ela disse: Dá-me uma bênção; pois me deste terra seca, dá-me também fontes de águas. Então lhe deu as fontes superiores e as fontes inferiores.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "bênção",
+              "strong": "H1288"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Esta é a herança da tribo dos filhos de Judá, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "São, pois, as cidades da tribo dos filhos de Judá, até ao termo de Edom, no extremo sul: Cabzeel, e Eder, e Jagur.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Edom",
+              "strong": "H123"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E Quiná, e Dimona, e Adada,",
+          "tokens": []
+        },
+        {
+          "n": 23,
+          "text": "E Quedes, e Hazor, e Itnã,",
+          "tokens": [
+            {
+              "word": "Hazor",
+              "strong": "H2674"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Zife, e Telem, e Bealote,",
+          "tokens": []
+        },
+        {
+          "n": 25,
+          "text": "E Hazor-Hadata, e Queriote-Hezrom (que é Hazor),",
+          "tokens": [
+            {
+              "word": "Hazor",
+              "strong": "H2674"
+            },
+            {
+              "word": "Hezrom",
+              "strong": "H2696"
+            },
+            {
+              "word": "Hazor",
+              "strong": "H2674"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Amã e Sema, e Moladá,",
+          "tokens": [
+            {
+              "word": "Amã",
+              "strong": "H157"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E Hazar-Gada, e Hesmom, e Bete-Palete,",
+          "tokens": []
+        },
+        {
+          "n": 28,
+          "text": "E Hazar-Sual, e Berseba, e Biziotiá,",
+          "tokens": [
+            {
+              "word": "Berseba",
+              "strong": "H884"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Baalá, e Iim, e Azem,",
+          "tokens": []
+        },
+        {
+          "n": 30,
+          "text": "E Eltolade, e Quesil, e Hormá.",
+          "tokens": []
+        },
+        {
+          "n": 31,
+          "text": "E Ziclague, e Madmana, e Sansana,",
+          "tokens": [
+            {
+              "word": "Ziclague",
+              "strong": "H6860"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E Lebaote, e Silim, e Aim, e Rimom; todas as cidades e as suas aldeias, vinte e nove.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Rimom",
+              "strong": "H7417"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Nas planícies: Estaol, e Zorá, e Asná,",
+          "tokens": []
+        },
+        {
+          "n": 34,
+          "text": "E Zanoa, e En-Ganim, Tapua, e Enã.",
+          "tokens": []
+        },
+        {
+          "n": 35,
+          "text": "E Jarmute, e Adulão, Socó, e Azeca,",
+          "tokens": []
+        },
+        {
+          "n": 36,
+          "text": "E Saaraim, e Aditaim, e Gederá, e Gederotaim; catorze cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Zenã, e Hadasa, e Migdal-Gade,",
+          "tokens": [
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "E Dileã, e Mizpe, e Jocteel,",
+          "tokens": []
+        },
+        {
+          "n": 39,
+          "text": "Laquis, e Bozcate, e Eglom,",
+          "tokens": [
+            {
+              "word": "Laquis",
+              "strong": "H3923"
+            },
+            {
+              "word": "Eglom",
+              "strong": "H5700"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "E Cabom, e Laamás, e Quitlis,",
+          "tokens": []
+        },
+        {
+          "n": 41,
+          "text": "E Gederote, Bete-Dagom, e Naamá, e Maquedá, dezesseis cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "Dagom",
+              "strong": "H1712"
+            },
+            {
+              "word": "Naamá",
+              "strong": "H5283"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "Libna, e Eter, e Asã,",
+          "tokens": [
+            {
+              "word": "Asã",
+              "strong": "H609"
+            },
+            {
+              "word": "Libna",
+              "strong": "H3841"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "E Iftá, e Asná, e Nezibe,",
+          "tokens": []
+        },
+        {
+          "n": 44,
+          "text": "E Queila, e Aczibe, e Maressa; nove cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Queila",
+              "strong": "H7084"
+            }
+          ]
+        },
+        {
+          "n": 45,
+          "text": "Ecrom, com suas vilas, e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "Ecrom",
+              "strong": "H6138"
+            }
+          ]
+        },
+        {
+          "n": 46,
+          "text": "Desde Ecrom, e até ao mar, todas as que estão do lado de Asdode, e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "Ecrom",
+              "strong": "H6138"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Asdode",
+              "strong": "H795"
+            }
+          ]
+        },
+        {
+          "n": 47,
+          "text": "Asdode, com as suas vilas e as suas aldeias; Gaza, com as suas vilas e as suas aldeias, até ao rio do Egito, e o Mar Grande e o seu termo.",
+          "tokens": [
+            {
+              "word": "Asdode",
+              "strong": "H795"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "Mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 48,
+          "text": "E nas montanhas: Samir, Jatir, e Socó.",
+          "tokens": [
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            }
+          ]
+        },
+        {
+          "n": 49,
+          "text": "E Daná, e Quiriate-Saná (que é Debir),",
+          "tokens": [
+            {
+              "word": "Debir",
+              "strong": "H1688"
+            }
+          ]
+        },
+        {
+          "n": 50,
+          "text": "E Anabe, Estemó, e Anim,",
+          "tokens": []
+        },
+        {
+          "n": 51,
+          "text": "E Gósen, e Holom, e Giló; onze cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 52,
+          "text": "Arabe, e Dumá e Esã,",
+          "tokens": []
+        },
+        {
+          "n": 53,
+          "text": "E Janim, e Bete-Tapua e Afeca,",
+          "tokens": []
+        },
+        {
+          "n": 54,
+          "text": "E Hunta, e Quiriate-Arba (que é Hebrom), e Zior; nove cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "Quiriate-Arba",
+              "strong": "H7153"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 55,
+          "text": "Maom, Carmelo, e Zife, e Jutá,",
+          "tokens": [
+            {
+              "word": "Carmelo",
+              "strong": "H3760"
+            }
+          ]
+        },
+        {
+          "n": 56,
+          "text": "E Jizreel, e Jocdeão, e Zanoa,",
+          "tokens": []
+        },
+        {
+          "n": 57,
+          "text": "Caim, Gibeá, e Timna; dez cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "Caim",
+              "strong": "H7014"
+            },
+            {
+              "word": "Gibeá",
+              "strong": "H1390"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 58,
+          "text": "Halul, Bete-Zur, e Gedor,",
+          "tokens": []
+        },
+        {
+          "n": 59,
+          "text": "E Maarate, e Bete-Anote, e Eltecom; seis cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 60,
+          "text": "Quiriate-Baal (que é Quiriate-Jearim), e Rabá; duas cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "Baal",
+              "strong": "H1168"
+            },
+            {
+              "word": "Quiriate-Jearim",
+              "strong": "H7157"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 61,
+          "text": "No deserto: Bete-Arabá, Midim, e Secacá,",
+          "tokens": [
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            }
+          ]
+        },
+        {
+          "n": 62,
+          "text": "E Nibsã, e a Cidade do Sal, e En-Gedi; seis cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "Cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Sal",
+              "strong": "H4417"
+            },
+            {
+              "word": "En-Gedi",
+              "strong": "H5872"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 63,
+          "text": "Não puderam, porém, os filhos de Judá expulsar os jebuseus que habitavam em Jerusalém; assim habitaram os jebuseus com os filhos de Judá em Jerusalém, até ao dia de hoje.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Saiu depois a sorte dos filhos de José, desde o Jordão, na direção de Jericó, junto às águas de Jericó, para o oriente, estendendo-se pelo deserto que sobe de Jericó pelas montanhas de Betel.",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "José",
+              "strong": "H3130"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E de Betel vai para Luz, e passa ao termo dos arquitas, até Atarote,",
+          "tokens": [
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
+              "word": "Luz",
+              "strong": "H216"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E desce do lado do ocidente ao termo de Jafleti, até ao termo de Bete-Horom de baixo, e até Gezer, indo terminar no mar.",
+          "tokens": [
+            {
+              "word": "mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Assim alcançaram a sua herança os filhos de José, Manassés e Efraim.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "José",
+              "strong": "H3130"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E foi o termo dos filhos de Efraim, segundo as suas famílias, como se segue: o termo da sua herança para o oriente era Atarote-Adar até Bete-Horom de cima;",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E sai este termo para o ocidente junto a Micmetá, desde o norte, e torna este termo para o oriente até Taanate-Siló, e passa por ela desde o oriente a Janoa;",
+          "tokens": [
+            {
+              "word": "Siló",
+              "strong": "H7887"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E desce desde Janoa a Atarote e a Naarate e toca em Jericó, terminando no Jordão.",
+          "tokens": [
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "De Tapua vai este termo para o ocidente ao ribeiro de Caná, terminando no mar; esta é a herança da tribo dos filhos de Efraim, segundo as suas famílias,",
+          "tokens": [
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Mais as cidades que se separaram para os filhos de Efraim no meio da herança dos filhos de Manassés; todas aquelas cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E não expulsaram aos cananeus que habitavam em Gezer; e os cananeus habitam no meio dos efraimitas até ao dia de hoje; porém, sendo-lhes tributários.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Também coube sorte à tribo de Manassés, porquanto era o primogênito de José. Maquir, o primogênito de Manassés, pai de Gileade, porquanto era homem de guerra, teve a Gileade e Basã;",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "José",
+              "strong": "H3130"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Também os demais filhos de Manassés tiveram a sua parte, segundo as suas famílias, a saber: Os filhos de Abiezer, e os filhos de Heleque, e os filhos de Asriel, e os filhos de Siquém, e os filhos de Hefer, e os filhos de Semida; esses são os filhos de Manassés, filho de José, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "parte",
+              "strong": "H2506"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "José",
+              "strong": "H3130"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "Siquém",
+              "strong": "H7927"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Zelofeade, porém, filho de Hefer, filho de Gileade, filho de Maquir, filho de Manassés, não teve filhos, mas só filhas; e estes são os nomes de suas filhas: Maalá, Noa, Hogla, Milca e Tirza.",
+          "tokens": [
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Tirza",
+              "strong": "H8656"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Estas, pois, chegaram diante de Eleazar, o sacerdote, e diante de Josué, filho de Num, e diante dos príncipes, dizendo: O Senhor ordenou a Moisés que se nos desse herança no meio de nossos irmãos, pelo que, conforme a ordem do Senhor, lhes deu herança no meio dos irmãos de seu pai.",
+          "tokens": [
+            {
+              "word": "Eleazar",
+              "strong": "H499"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E couberam a Manassés dez quinhões, afora a terra de Gileade e Basã, que está além do Jordão;",
+          "tokens": [
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Porque as filhas de Manassés receberam herança entre os filhos dele; e os outros filhos de Manassés ficaram com a terra de Gileade.",
+          "tokens": [
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E o termo de Manassés foi desde Aser até Micmetá, que está defronte de Siquém; e estende-se este termo à direita até os moradores de En-Tapua.",
+          "tokens": [
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "Aser",
+              "strong": "H836"
+            },
+            {
+              "word": "Siquém",
+              "strong": "H7927"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Tinha Manassés a terra de Tapua; porém Tapua, junto ao termo de Manassés, pertencia aos filhos de Efraim.",
+          "tokens": [
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Então descia este termo ao ribeiro de Caná. A Efraim couberam as cidades ao sul do ribeiro, entre as cidades de Manassés; e o termo de Manassés estava ao norte do ribeiro, indo terminar no mar.",
+          "tokens": [
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Efraim ao sul, e Manassés ao norte, e o mar é o seu termo; pelo norte tocam em Aser, e pelo oriente em Issacar.",
+          "tokens": [
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Aser",
+              "strong": "H836"
+            },
+            {
+              "word": "Issacar",
+              "strong": "H3485"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Porque em Issacar e em Aser tinha Manassés a Bete-Seã e as suas vilas, e Ibleã e as suas vilas, e os habitantes de Dor e as suas vilas, e os habitantes de En-Dor e as suas vilas, e os habitantes de Taanaque e as suas vilas, e os habitantes de Megido e as suas vilas; três outeiros.",
+          "tokens": [
+            {
+              "word": "Issacar",
+              "strong": "H3485"
+            },
+            {
+              "word": "Aser",
+              "strong": "H836"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "En-Dor",
+              "strong": "H5874"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E os filhos de Manassés não puderam expulsar os habitantes daquelas cidades; porquanto os cananeus queriam habitar na mesma terra.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E sucedeu que, engrossando em forças os filhos de Israel, fizeram tributários aos cananeus; porém não os expulsaram de todo.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Então os filhos de José falaram a Josué, dizendo: Por que me deste por herança só uma sorte e um quinhão, sendo eu um tão grande povo, visto que o Senhor até aqui me tem abençoado?",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "José",
+              "strong": "H3130"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "quinhão",
+              "strong": "H2506"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E disse-lhes Josué: Se tão grande povo és, sobe ao bosque, e ali corta, para ti, lugar na terra dos perizeus e dos refains; pois que as montanhas de Efraim te são tão estreitas.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "bosque",
+              "strong": "H842"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Então disseram os filhos de José: As montanhas não nos bastariam; também carros de ferro há entre todos os cananeus que habitam na terra do vale, entre os de Bete-Seã e as suas vilas, e entre os que estão no vale de Jizreel.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "José",
+              "strong": "H3130"
+            },
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Então Josué falou à casa de José, a Efraim e a Manassés, dizendo: Grande povo és, e grande força tens; não terás uma sorte apenas;",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "José",
+              "strong": "H3130"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "força",
+              "strong": "H2428"
+            },
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Porém as montanhas serão tuas. Ainda que é bosque, cortá-lo-ás, e as suas extremidades serão tuas; porque expulsarás os cananeus, ainda que tenham carros de ferro, ainda que sejam fortes.",
+          "tokens": [
+            {
+              "word": "montanhas",
+              "strong": "H2022"
+            },
+            {
+              "word": "bosque",
+              "strong": "H842"
+            },
+            {
+              "word": "fortes",
+              "strong": "H5797"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E Toda a congregação dos filhos de Israel se reuniu em Siló, e ali armaram a tenda da congregação, depois que a terra lhes foi sujeita.",
+          "tokens": [
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Siló",
+              "strong": "H7887"
+            },
+            {
+              "word": "tenda",
+              "strong": "H168"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E dentre os filhos de Israel ficaram sete tribos que ainda não tinham repartido a sua herança.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E disse Josué aos filhos de Israel: Até quando sereis negligentes em chegardes para possuir a terra que o Senhor Deus de vossos pais vos deu?",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "De cada tribo escolhei vós três homens, para que eu os envie, e eles se levantem e percorram a terra, e a demarquem segundo as suas heranças, e voltem a mim.",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E dividi-la-ão em sete partes: Judá ficará no seu termo para o sul, e a casa de José ficará no seu termo para o norte.",
+          "tokens": [
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "José",
+              "strong": "H3130"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E vós demarcareis a terra em sete partes, e me trareis a mim aqui descrita, para que eu aqui lance as sortes perante o Senhor nosso Deus,",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "sortes",
+              "strong": "H1486"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Porquanto os levitas não têm parte no meio de vós, porque o sacerdócio do Senhor é a sua parte; e Gade, e Rúben, e a meia tribo de Manassés, receberam a sua herança além do Jordão para o oriente, a qual lhes deu Moisés, o servo do Senhor.",
+          "tokens": [
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "parte",
+              "strong": "H2506"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "parte",
+              "strong": "H2506"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Então aqueles homens se levantaram e se foram; e Josué deu ordem aos que iam demarcar a terra, dizendo: Ide, e percorrei a terra, e demarcai-a, e então voltai a mim, e aqui vos lançarei as sortes perante o Senhor, em Siló.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "sortes",
+              "strong": "H1486"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Siló",
+              "strong": "H7887"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Foram, pois, aqueles homens, e passaram pela terra, e a demarcaram, em sete partes segundo as cidades, descrevendo-a num livro; e voltaram a Josué, ao arraial em Siló.",
+          "tokens": [
+            {
+              "word": "homens",
+              "strong": "H120"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "sete",
+              "strong": "H8352"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "arraial",
+              "strong": "H4264"
+            },
+            {
+              "word": "Siló",
+              "strong": "H7887"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Então Josué lhes lançou as sortes em Siló, perante o Senhor; e ali repartiu Josué a terra aos filhos de Israel, conforme às suas divisões.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "sortes",
+              "strong": "H1486"
+            },
+            {
+              "word": "Siló",
+              "strong": "H7887"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E tirou a sorte da tribo dos filhos de Benjamim, segundo as suas famílias; e coube-lhe o termo da sua sorte entre os filhos de Judá e os filhos de José.",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "José",
+              "strong": "H3130"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E o seu termo foi para o lado do norte, desde o Jordão; e sobe aquele termo ao lado de Jericó para o norte, e sobe pela montanha para o ocidente, terminando no deserto de Bete-Áven.",
+          "tokens": [
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "montanha",
+              "strong": "H2022"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E dali passa este termo a Luz, ao lado de Luz (que é Betel), para o sul; e desce a Atarote-Adar, ao pé do monte que está do lado do sul de Bete-Horom de baixo;",
+          "tokens": [
+            {
+              "word": "Luz",
+              "strong": "H216"
+            },
+            {
+              "word": "Luz",
+              "strong": "H216"
+            },
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E vai este termo e volta ao lado do ocidente para o sul do monte que está defronte de Bete-Horom, para o sul, terminando em Quiriate-Baal (que é Quiriate-Jearim), cidade dos filhos de Judá; esta é a sua extensão para o ocidente.",
+          "tokens": [
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Baal",
+              "strong": "H1168"
+            },
+            {
+              "word": "Quiriate-Jearim",
+              "strong": "H7157"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E a sua extensão para o sul começa na extremidade de Quiriate-Jearim; e vai este termo ao ocidente e segue até à fonte das águas de Neftoa.",
+          "tokens": [
+            {
+              "word": "Quiriate-Jearim",
+              "strong": "H7157"
+            },
+            {
+              "word": "águas",
+              "strong": "H4325"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E desce este termo até à extremidade do monte que está defronte do vale do filho de Hinom, que está no vale dos refains para o norte, e desce pelo vale de Hinom do lado dos jebuseus para o sul; e então desce a En-Rogel;",
+          "tokens": [
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E vai desde o norte, e chega a En-Semes; e dali sai a Gelilote, que está defronte da subida de Adumim, e desce à pedra de Boã, filho de Rúben;",
+          "tokens": [
+            {
+              "word": "Boã",
+              "strong": "H2896"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E passa até ao lado, defronte de Arabá, para o norte, e desce a Arabá.",
+          "tokens": []
+        },
+        {
+          "n": 19,
+          "text": "Passa mais este termo até ao lado de Bete-Hogla, para o norte, saindo esse termo na baía do Mar Salgado, para o norte, na extremidade do Jordão, para o sul; este é o termo do sul.",
+          "tokens": [
+            {
+              "word": "Mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E o Jordão será seu termo do lado do oriente; esta é a herança dos filhos de Benjamim, nos seus termos em redor, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E as cidades da tribo dos filhos de Benjamim, segundo as suas famílias, são: Jericó, e Bete-Hogla, e Emeque-Queziz,",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E Bete-Arabá, e Zemaraim, e Betel,",
+          "tokens": [
+            {
+              "word": "Betel",
+              "strong": "H1008"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E Avim, e Pará, e Ofra,",
+          "tokens": []
+        },
+        {
+          "n": 24,
+          "text": "E Quefar-Amonai, e Ofni e Gaba: doze cidades e as suas aldeias;",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Gibeão, e Ramá e Beerote,",
+          "tokens": [
+            {
+              "word": "Gibeão",
+              "strong": "H1391"
+            },
+            {
+              "word": "Ramá",
+              "strong": "H7414"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E Mizpá, e Cefira e Moza,",
+          "tokens": [
+            {
+              "word": "Mizpá",
+              "strong": "H4709"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E Requém e Irpeel, e Tarala,",
+          "tokens": []
+        },
+        {
+          "n": 28,
+          "text": "E Zela, Elefe, e Jebus (esta é Jerusalém), Gibeá e Quiriate: catorze cidades com as suas aldeias; esta é a herança dos filhos de Benjamim, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "Jerusalém",
+              "strong": "H3389"
+            },
+            {
+              "word": "Gibeá",
+              "strong": "H1390"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E Saiu a segunda sorte a Simeão, para a tribo dos filhos de Simeão, segundo as suas famílias; e foi a sua herança no meio da herança dos filhos de Judá.",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E tiveram na sua herança: Berseba, e Seba e Moladá.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Berseba",
+              "strong": "H884"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E Hazar-Sual, e Balá, e Azem,",
+          "tokens": []
+        },
+        {
+          "n": 4,
+          "text": "E Eltolade, e Betul, e Hormá,",
+          "tokens": []
+        },
+        {
+          "n": 5,
+          "text": "E Ziclague, e Bete-Marcabote, e Hazar-Susa,",
+          "tokens": [
+            {
+              "word": "Ziclague",
+              "strong": "H6860"
+            },
+            {
+              "word": "Susa",
+              "strong": "H7800"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E Bete-Lebaote, e Saruém; treze cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E Aim, e Rimom, e Eter, e Asã; quatro cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "Asã",
+              "strong": "H609"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Rimom",
+              "strong": "H7417"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E todas as aldeias que havia em redor destas cidades, até Baalate-Ber (que é Ramá), do sul; esta é a herança da tribo dos filhos de Simeão, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Ramá",
+              "strong": "H7414"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "A herança dos filhos de Simeão foi tirada do quinhão dos de Judá, porquanto a herança dos filhos de Judá era demasiadamente grande para eles; pelo que os filhos de Simeão tiveram a sua herança no meio deles.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
+            {
+              "word": "quinhão",
+              "strong": "H2506"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E saiu a terceira sorte pelos filhos de Zebulom, segundo as suas famílias; e foi o termo da sua herança até Saride.",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Zebulom",
+              "strong": "H2074"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E sobe o seu termo pelo ocidente a Maralá, e vai até Dabesete, e chega também até ao ribeiro que está defronte de Jocneão.",
+          "tokens": []
+        },
+        {
+          "n": 12,
+          "text": "E de Saride volta para o oriente, para o nascente do sol, até ao termo de Quislote-Tabor, sai a Daberate, e vai subindo a Jafia.",
+          "tokens": [
+            {
+              "word": "sol",
+              "strong": "H8121"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E dali passa pelo oriente, para o nascente, a Gate-Hefer, em Ete-Cazim, chegando a Rimom-Metoar, que vai até Neá;",
+          "tokens": [
+            {
+              "word": "Gate",
+              "strong": "H1661"
+            },
+            {
+              "word": "Rimom",
+              "strong": "H7417"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E rodeando-a, passa o termo para o norte a Hanatom, chegando ao vale de Iftá-El,",
+          "tokens": [
+            {
+              "word": "vale",
+              "strong": "H1516"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E Catate, Naalal, e Sinrom, e Idala, e Belém; doze cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "Belém",
+              "strong": "H1035"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Esta é a herança dos filhos de Zebulom, segundo as suas famílias; estas cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Zebulom",
+              "strong": "H2074"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "A quarta sorte saiu para Issacar; aos filhos de Issacar, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "Issacar",
+              "strong": "H3485"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Issacar",
+              "strong": "H3485"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E foi o seu termo Jizreel, e Quesulote e Suném,",
+          "tokens": [
+            {
+              "word": "Suném",
+              "strong": "H7766"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "E Hafaraim, e Siom, e Anaarate,",
+          "tokens": [
+            {
+              "word": "Siom",
+              "strong": "H5511"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E Rabite e Quisiom, e Ebes,",
+          "tokens": []
+        },
+        {
+          "n": 21,
+          "text": "E Remete, e En-Ganim, e En-Hadá, e Bete-Pazez.",
+          "tokens": []
+        },
+        {
+          "n": 22,
+          "text": "E chega este termo até Tabor, e Saazima, e Bete-Semes; e vai terminar no Jordão; dezesseis cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "Bete-Semes",
+              "strong": "H1053"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Esta é a herança da tribo dos filhos de Issacar, segundo as suas famílias; estas cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Issacar",
+              "strong": "H3485"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E saiu a quinta sorte para a tribo dos filhos de Aser, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Aser",
+              "strong": "H836"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E foi o seu termo Helcate, e Hali, e Béten, e Acsafe,",
+          "tokens": []
+        },
+        {
+          "n": 26,
+          "text": "E Alameleque, e Amade, e Misal; e chega ao Carmelo para o ocidente, e a Sior-Libnate;",
+          "tokens": [
+            {
+              "word": "Carmelo",
+              "strong": "H3760"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E volta para o nascente do sol a Bete-Dagom, e chega a Zebulom e ao vale de Iftá-El, ao norte de Bete-Emeque e de Neiel, e vem sair a Cabul, pela esquerda,",
+          "tokens": [
+            {
+              "word": "sol",
+              "strong": "H8121"
+            },
+            {
+              "word": "Dagom",
+              "strong": "H1712"
+            },
+            {
+              "word": "Zebulom",
+              "strong": "H2074"
+            },
+            {
+              "word": "vale",
+              "strong": "H1516"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "E Hebrom, e Reobe, e Hamom, e Caná, até à grande Sidom.",
+          "tokens": [
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "Sidom",
+              "strong": "H6721"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "E volta este termo a Ramá, e até à forte cidade de Tiro; então torna este termo a Hosa, para terminar no mar, na região de Aczibe.",
+          "tokens": [
+            {
+              "word": "Ramá",
+              "strong": "H7414"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Tiro",
+              "strong": "H6865"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E Umá, e Afeque, e Reobe; vinte e duas cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Esta é a herança da tribo dos filhos de Aser, segundo as suas famílias; estas cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Aser",
+              "strong": "H836"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E saiu a sexta sorte para os filhos de Naftali, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Naftali",
+              "strong": "H5321"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "E foi o seu termo desde Helefe e desde Alom em Zaananim, e Adami-Neguebe, e Jabneel, até Lacum, terminando no Jordão.",
+          "tokens": [
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "E volta este termo pelo ocidente a Aznote-Tabor, e dali passa a Hucoque; e chega a Zebulom ao sul, e chega a Aser ao ocidente, e a Judá pelo Jordão, ao nascente do sol.",
+          "tokens": [
+            {
+              "word": "Zebulom",
+              "strong": "H2074"
+            },
+            {
+              "word": "Aser",
+              "strong": "H836"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "sol",
+              "strong": "H8121"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "E são as cidades fortificadas: Zidim, Zer, e Hamate, Racate e Quinerete,",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Hamate",
+              "strong": "H2574"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "E Adama, e Ramá, e Hazor,",
+          "tokens": [
+            {
+              "word": "Ramá",
+              "strong": "H7414"
+            },
+            {
+              "word": "Hazor",
+              "strong": "H2674"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "E Quedes, e Edrei, e En-Hazor,",
+          "tokens": [
+            {
+              "word": "Hazor",
+              "strong": "H2674"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "E Irom, e Migdal-El, Horém e Bete-Anate, e Bete-Semes; dezenove cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "Bete-Semes",
+              "strong": "H1053"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "Esta é a herança da tribo dos filhos de Naftali, segundo as suas famílias; estas cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Naftali",
+              "strong": "H5321"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "A sétima sorte saiu para a tribo dos filhos de Dã, segundo as suas famílias.",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Dã",
+              "strong": "H1835"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "E foi o termo da sua herança, Sora, e Estaol, e Ir-Semes,",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "E Saalabim, e Aijalom, e Itla,",
+          "tokens": []
+        },
+        {
+          "n": 43,
+          "text": "E Elom, e Timna, e Ecrom,",
+          "tokens": [
+            {
+              "word": "Ecrom",
+              "strong": "H6138"
+            }
+          ]
+        },
+        {
+          "n": 44,
+          "text": "E Elteque, e Gibetom, e Baalate,",
+          "tokens": []
+        },
+        {
+          "n": 45,
+          "text": "E Jeúde, e Bene-Beraque, e Gate-Rimom,",
+          "tokens": [
+            {
+              "word": "Gate",
+              "strong": "H1661"
+            },
+            {
+              "word": "Rimom",
+              "strong": "H7417"
+            }
+          ]
+        },
+        {
+          "n": 46,
+          "text": "E Me-Jarcom, e Racom, com o termo defronte de Jafo;",
+          "tokens": []
+        },
+        {
+          "n": 47,
+          "text": "Saiu, porém, pequeno termo aos filhos de Dã, pelo que subiram os filhos de Dã, e pelejaram contra Lesém, e a tomaram, e a feriram ao fio da espada, e a possuíram e habitaram nela; e a Lesém chamaram Dã, conforme ao nome de Dã seu pai.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Dã",
+              "strong": "H1835"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Dã",
+              "strong": "H1835"
+            },
+            {
+              "word": "Dã",
+              "strong": "H1835"
+            },
+            {
+              "word": "Dã",
+              "strong": "H1835"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 48,
+          "text": "Esta é a herança da tribo dos filhos de Dã, segundo as suas famílias; estas cidades e as suas aldeias.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Dã",
+              "strong": "H1835"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 49,
+          "text": "Acabando, pois, de repartir a terra em herança segundo os seus termos, deram os filhos de Israel a Josué, filho de Num, herança no meio deles.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            }
+          ]
+        },
+        {
+          "n": 50,
+          "text": "Segundo o mandado do Senhor lhe deram a cidade que pediu, a Timnate-Sera, na montanha de Efraim; e reedificou aquela cidade, e habitou nela.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "montanha",
+              "strong": "H2022"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 51,
+          "text": "Estas são as heranças que Eleazar, o sacerdote, e Josué, filho de Num, e os cabeças dos pais das famílias repartiram às tribos dos filhos de Israel, em herança, por sorte, em Siló, perante o Senhor, à porta da tenda da congregação. E assim acabaram de repartir a terra.",
+          "tokens": [
+            {
+              "word": "Eleazar",
+              "strong": "H499"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "cabeças",
+              "strong": "H7218"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "Siló",
+              "strong": "H7887"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "porta",
+              "strong": "H8179"
+            },
+            {
+              "word": "tenda",
+              "strong": "H168"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Falou mais o SENHOR a Josué, dizendo:",
+          "tokens": [
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Fala aos filhos de Israel, dizendo: Apartai para vós as cidades de refúgio, de que vos falei pelo ministério de Moisés,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "refúgio",
+              "strong": "H4733"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Para que fuja para ali o homicida, que matar alguma pessoa por engano, e não com intenção; para que vos sirvam de refúgio contra o vingador do sangue.",
+          "tokens": [
+            {
+              "word": "engano",
+              "strong": "H4820"
+            },
+            {
+              "word": "refúgio",
+              "strong": "H4733"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E fugindo para alguma daquelas cidades, pôr-se-á à porta dela e exporá a sua causa aos ouvidos dos anciãos da tal cidade; então o tomarão consigo na cidade; e lhe darão lugar, para que habite com eles.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "porta",
+              "strong": "H8179"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E se o vingador do sangue o seguir, não entregarão na sua mão o homicida, porquanto não feriu a seu próximo com intenção, e não o odiou antes.",
+          "tokens": [
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "próximo",
+              "strong": "H7453"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E habitará na mesma cidade, até que compareça em juízo perante a congregação, até que morra o sumo sacerdote que houver naqueles dias; então o homicida voltará, e virá à sua cidade e à sua casa, à cidade de onde fugiu.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "juízo",
+              "strong": "H4941"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Então designaram a Quedes na Galiléia, na montanha de Naftali, e a Siquém, na montanha de Efraim, e a Quiriate-Arba (esta é Hebrom), na montanha de Judá.",
+          "tokens": [
+            {
+              "word": "montanha",
+              "strong": "H2022"
+            },
+            {
+              "word": "Naftali",
+              "strong": "H5321"
+            },
+            {
+              "word": "montanha",
+              "strong": "H2022"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "Quiriate-Arba",
+              "strong": "H7153"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "montanha",
+              "strong": "H2022"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "Siquém",
+              "strong": "H7927"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E, além do Jordão, na direção de Jericó para o oriente, designaram a Bezer, no deserto, na campina da tribo de Rúben, e a Ramote, em Gileade da tribo de Gade, e a Golã, em Basã da tribo de Manassés.",
+          "tokens": [
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Estas são as cidades que foram designadas para todos os filhos de Israel, e para o estrangeiro que habitasse entre eles, para que se acolhesse a elas todo aquele que por engano matasse alguma pessoa, para que não morresse às mãos do vingador do sangue, até se apresentar diante da congregação.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "engano",
+              "strong": "H4820"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "sangue",
+              "strong": "H1818"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Então os cabeças dos pais dos levitas se achegaram a Eleazar, o sacerdote, e a Josué, filho de Num, e aos cabeças dos pais das tribos dos filhos de Israel;",
+          "tokens": [
+            {
+              "word": "cabeças",
+              "strong": "H7218"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "Eleazar",
+              "strong": "H499"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "cabeças",
+              "strong": "H7218"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E falaram-lhes em Siló, na terra de Canaã, dizendo: O Senhor ordenou, pelo ministério de Moisés, que se nos dessem cidades para habitar, e os seus arrabaldes para os nossos animais.",
+          "tokens": [
+            {
+              "word": "Siló",
+              "strong": "H7887"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Por isso os filhos de Israel deram aos levitas da sua herança, conforme a ordem do Senhor, as seguintes cidades e os seus arrabaldes.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E saiu a sorte para as famílias dos coatitas; e aos filhos de Arão, o sacerdote, que eram dos levitas, tiveram por sorte da tribo de Judá, e da tribo de Simeão, e da tribo de Benjamim, treze cidades;",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Arão",
+              "strong": "H175"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E aos outros filhos de Coate couberam por sorte, das famílias da tribo de Efraim, e da tribo de Dã, e da meia tribo de Manassés, dez cidades;",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Dã",
+              "strong": "H1835"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E aos filhos de Gérson couberam por sorte, das famílias da tribo de Issacar, e da tribo de Aser, e da tribo de Naftali, e da meia tribo de Manassés, em Basã, treze cidades;",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gérson",
+              "strong": "H1648"
+            },
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Issacar",
+              "strong": "H3485"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Aser",
+              "strong": "H836"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Naftali",
+              "strong": "H5321"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Aos filhos de Merari, segundo as suas famílias, da tribo de Rúben, e da tribo de Gade, e da tribo de Zebulom, doze cidades;",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Zebulom",
+              "strong": "H2074"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E deram os filhos de Israel aos levitas estas cidades e os seus arrabaldes por sorte, como o Senhor ordenara pelo ministério de Moisés.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Deram mais, da tribo dos filhos de Judá e da tribo dos filhos de Simeão, estas cidades, que por nome foram mencionadas,",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Simeão",
+              "strong": "H8095"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Para que fossem dos filhos de Arão, das famílias dos coatitas dos filhos de Levi; porquanto a primeira sorte foi sua.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Arão",
+              "strong": "H175"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Levi",
+              "strong": "H3878"
+            },
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Assim lhes deram a cidade de Arba, do pai de Anaque (esta é Hebrom), no monte de Judá, e os seus arrabaldes ao redor.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Judá",
+              "strong": "H3063"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Porém o campo da cidade, e as suas aldeias, deram a Calebe, filho de Jefoné, por sua possessão.",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "Calebe",
+              "strong": "H3612"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Assim aos filhos de Arão, o sacerdote, deram Hebrom, cidade do refúgio do homicida, e os seus arrabaldes, Libna e os seus arrabaldes;",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Arão",
+              "strong": "H175"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "Hebrom",
+              "strong": "H2275"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "refúgio",
+              "strong": "H4733"
+            },
+            {
+              "word": "Libna",
+              "strong": "H3841"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Jatir e os seus arrabaldes, e Estemoa e os seus arrabaldes;",
+          "tokens": []
+        },
+        {
+          "n": 15,
+          "text": "E Holom e os seus arrabaldes, e Debir e os seus arrabaldes;",
+          "tokens": [
+            {
+              "word": "Debir",
+              "strong": "H1688"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "E Aim e os seus arrabaldes, e Jutá e os seus arrabaldes, e Bete-Semes e os seus arrabaldes; nove cidades destas duas tribos.",
+          "tokens": [
+            {
+              "word": "Bete-Semes",
+              "strong": "H1053"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "E da tribo de Benjamim, Gibeão e os seus arrabaldes, Geba e os seus arrabaldes;",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Benjamim",
+              "strong": "H1144"
+            },
+            {
+              "word": "Gibeão",
+              "strong": "H1391"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Anatote e os seus arrabaldes, e Almom e os seus arrabaldes; quatro cidades.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Todas as cidades dos sacerdotes, filhos de Arão, foram treze cidades e os seus arrabaldes.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "sacerdotes",
+              "strong": "H3548"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Arão",
+              "strong": "H175"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "E as famílias dos filhos de Coate, levitas, que ficaram dos filhos de Coate, tiveram as cidades da sua sorte, da tribo de Efraim.",
+          "tokens": [
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "E deram-lhes Siquém, cidade de refúgio do homicida, e os seus arrabaldes, no monte de Efraim, e Gezer e os seus arrabaldes;",
+          "tokens": [
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "refúgio",
+              "strong": "H4733"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "Siquém",
+              "strong": "H7927"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E Quibzaim e os seus arrabaldes, e Bete-Horom e os seus arrabaldes; quatro cidades.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "E da tribo de Dã, Elteque e os seus arrabaldes, Gibetom e os seus arrabaldes;",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Dã",
+              "strong": "H1835"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "Aijalom e os seus arrabaldes, Gate-Rimom e os seus arrabaldes; quatro cidades.",
+          "tokens": [
+            {
+              "word": "Gate",
+              "strong": "H1661"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Rimom",
+              "strong": "H7417"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "E da meia tribo de Manassés, Taanaque e os seus arrabaldes, e Gate-Rimom e os seus arrabaldes; duas cidades.",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "Gate",
+              "strong": "H1661"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "Rimom",
+              "strong": "H7417"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "As cidades para as famílias dos demais filhos de Coate, foram dez e os seus arrabaldes.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E aos filhos de Gérson, das famílias dos levitas, deram da meia tribo de Manassés, Golã, cidade de refúgio do homicida, em Basã, e os seus arrabaldes, e Beesterá e os seus arrabaldes; duas cidades.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gérson",
+              "strong": "H1648"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "refúgio",
+              "strong": "H4733"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "E da tribo de Issacar, Quisiom e os seus arrabaldes, Daberate e os seus arrabaldes,",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Issacar",
+              "strong": "H3485"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Jarmute e os seus arrabaldes, En-Ganim e os seus arrabaldes; quatro cidades.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E da tribo de Aser, Misal e os seus arrabaldes, Abdom e os seus arrabaldes,",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Aser",
+              "strong": "H836"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Helcate e os seus arrabaldes, e Reobe e os seus arrabaldes;",
+          "tokens": []
+        },
+        {
+          "n": 32,
+          "text": "E da tribo de Naftali, Quedes, cidade de refúgio do homicida, na Galiléia, e os seus arrabaldes, e Hamote-Dor e os seus arrabaldes, e Cartã e os seus arrabaldes; três cidades.",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Naftali",
+              "strong": "H5321"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "refúgio",
+              "strong": "H4733"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Todas as cidades dos gersonitas, segundo as suas famílias, foram treze cidades e os seus arrabaldes.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "E às famílias dos filhos de Merari, aos demais levitas, foram dadas, da tribo de Zebulom, Jocneão e os seus arrabaldes, Cartã e os seus arrabaldes,",
+          "tokens": [
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Zebulom",
+              "strong": "H2074"
+            }
+          ]
+        },
+        {
+          "n": 35,
+          "text": "Dimna e os seus arrabaldes, Naalal e os seus arrabaldes; quatro cidades.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 36,
+          "text": "E da tribo de Rúben, Bezer e os seus arrabaldes, e Jaza e os seus arrabaldes,",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            }
+          ]
+        },
+        {
+          "n": 37,
+          "text": "Quedemote e os seus arrabaldes, e Mefaate e os seus arrabaldes; quatro cidades.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 38,
+          "text": "E da tribo de Gade, Ramote, cidade de refúgio do homicida, em Gileade, e os seus arrabaldes, e Maanaim e os seus arrabaldes,",
+          "tokens": [
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "cidade",
+              "strong": "H5892"
+            },
+            {
+              "word": "refúgio",
+              "strong": "H4733"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            }
+          ]
+        },
+        {
+          "n": 39,
+          "text": "Hesbom e os seus arrabaldes, Jazer e os seus arrabaldes; ao todo, quatro cidades.",
+          "tokens": [
+            {
+              "word": "Hesbom",
+              "strong": "H2809"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 40,
+          "text": "Todas estas cidades foram dos filhos de Merari, segundo as suas famílias, que ainda restavam das famílias dos dos levitas; e foi a sua sorte doze cidades.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "famílias",
+              "strong": "H4940"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 41,
+          "text": "Todas as cidades dos levitas, no meio da herança dos filhos de Israel, foram quarenta e oito cidades e os seus arrabaldes.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "levitas",
+              "strong": "H3881"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 42,
+          "text": "Estavam estas cidades, cada uma com os seus arrabaldes em redor delas; assim estavam todas estas cidades.",
+          "tokens": [
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            }
+          ]
+        },
+        {
+          "n": 43,
+          "text": "Desta maneira deu o Senhor a Israel toda a terra que jurara dar a seus pais; e a possuíram e habitaram nela.",
+          "tokens": [
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "dar",
+              "strong": "H5414"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            }
+          ]
+        },
+        {
+          "n": 44,
+          "text": "E o Senhor lhes deu repouso de todos os lados, conforme a tudo quanto jurara a seus pais; e nenhum de todos os seus inimigos pôde resisti-los; todos os seus inimigos o Senhor entregou-lhes nas mãos.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "repouso",
+              "strong": "H7677"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 45,
+          "text": "Palavra alguma falhou de todas as boas coisas que o Senhor falou à casa de Israel; tudo se cumpriu.",
+          "tokens": [
+            {
+              "word": "Palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Então Josué chamou os rubenitas, e os gaditas, e a meia tribo de Manassés.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "E disse-lhes: Tudo quanto Moisés, o servo do Senhor, vos ordenou, guardastes; e à minha voz obedecestes em tudo quanto vos ordenei.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "A vossos irmãos por todo este tempo, até ao dia de hoje, não desamparastes; antes tivestes cuidado de guardar o mandamento do Senhor vosso Deus.",
+          "tokens": [
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "guardar",
+              "strong": "H8104"
+            },
+            {
+              "word": "mandamento",
+              "strong": "H4687"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Agora o Senhor vosso Deus deu repouso a vossos irmãos, como lhes tinha prometido; voltai-vos, pois, agora, e ide-vos às vossas tendas, à terra da vossa possessão, que Moisés, o servo do Senhor, vos deu além do Jordão.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "repouso",
+              "strong": "H7677"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "tendas",
+              "strong": "H168"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Tão-somente tende cuidado de guardar com diligência o mandamento e a lei que Moisés, o servo do Senhor, vos mandou: que ameis ao Senhor vosso Deus, e andeis em todos os seus caminhos, e guardeis os seus mandamentos, e vos achegueis a ele, e o sirvais com todo o vosso coração, e com toda a vossa alma.",
+          "tokens": [
+            {
+              "word": "guardar",
+              "strong": "H8104"
+            },
+            {
+              "word": "mandamento",
+              "strong": "H4687"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "caminhos",
+              "strong": "H1870"
+            },
+            {
+              "word": "mandamentos",
+              "strong": "H4687"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "alma",
+              "strong": "H5315"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Assim Josué os abençoou, e despediu-os; e foram-se às suas tendas.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "abençoou",
+              "strong": "H1288"
+            },
+            {
+              "word": "tendas",
+              "strong": "H168"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Ora, Moisés dera herança em Basã à meia tribo de Manassés, porém à outra metade Josué deu herança entre seus irmãos aquém do Jordão para o ocidente; e enviando-os Josué também às suas tendas os abençoou;",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "Basã",
+              "strong": "H1316"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "tendas",
+              "strong": "H168"
+            },
+            {
+              "word": "abençoou",
+              "strong": "H1288"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "E falou-lhes, dizendo: Voltai-vos às vossas tendas com grandes riquezas, e com muitíssimo gado, com prata, e com ouro, e com metal, e com ferro, e com muitíssimas roupas; e com vossos irmãos reparti o despojo dos vossos inimigos.",
+          "tokens": [
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "tendas",
+              "strong": "H168"
+            },
+            {
+              "word": "riquezas",
+              "strong": "H6239"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "irmãos",
+              "strong": "H251"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Assim os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés voltaram, e separaram-se dos filhos de Israel, de Siló, que está na terra de Canaã, para irem à terra de Gileade, à terra da sua possessão, de que foram feitos possuidores, conforme a ordem do Senhor pelo ministério de Moisés.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Siló",
+              "strong": "H7887"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "E, chegando eles aos limites do Jordão, ainda na terra de Canaã, ali os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés edificaram um altar junto ao Jordão, um altar de grande aparência.",
+          "tokens": [
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E ouviram os filhos de Israel dizer: Eis que os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés edificaram um altar diante da terra de Canaã, nos limites do Jordão, do lado dos filhos de Israel.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "dizer",
+              "strong": "H559"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Ouvindo isso os filhos de Israel, reuniu-se toda a congregação dos filhos de Israel em Siló, para saírem em guerra contra eles.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Siló",
+              "strong": "H7887"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E enviaram os filhos de Israel, aos filhos de Rúben, e aos filhos de Gade, e à meia tribo de Manassés, na terra de Gileade, a Finéias, filho de Eleazar, o sacerdote,",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "Finéias",
+              "strong": "H6372"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Eleazar",
+              "strong": "H499"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E a dez príncipes com ele, de cada casa paterna um príncipe, de todas as tribos de Israel; e cada um era cabeça da casa de seus pais entre os milhares de Israel.",
+          "tokens": [
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "príncipe",
+              "strong": "H5387"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cabeça",
+              "strong": "H7218"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E, indo eles aos filhos de Rúben, e aos filhos de Gade, e à meia tribo de Manassés, à terra de Gileade, falaram-lhes, dizendo:",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Assim diz toda a congregação do Senhor: Que transgressão é esta, que cometestes contra o Deus de Israel, deixando hoje de seguir ao Senhor, edificando-vos um altar, para vos rebelardes contra o Senhor?",
+          "tokens": [
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Foi-nos pouco a iniqüidade de Peor, de que ainda até o dia de hoje não estamos purificados, mesmo que tenha havido castigo na congregação do Senhor,",
+          "tokens": [
+            {
+              "word": "Peor",
+              "strong": "H6465"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "castigo",
+              "strong": "H4148"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "Para que hoje deixais de seguir o Senhor? Será que rebelando-vos hoje contra o Senhor, amanhã ele se irará contra toda a congregação de Israel.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Se é, porém, que a terra da vossa herança é imunda, passai-vos para a terra da possessão do Senhor, onde habita o tabernáculo do Senhor, e tomai possessão entre nós; mas não vos rebeleis contra o Senhor, nem tampouco vos rebeleis contra nós, edificando-vos um altar, além do altar do Senhor nosso Deus.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "imunda",
+              "strong": "H2931"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "tabernáculo",
+              "strong": "H4908"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Não cometeu Acã, filho de Zerá, transgressão no tocante ao anátema? Não veio ira sobre toda a congregação de Israel, de modo que aquele homem não morreu só, na sua iniqüidade?",
+          "tokens": [
+            {
+              "word": "Acã",
+              "strong": "H5912"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "anátema",
+              "strong": "H2764"
+            },
+            {
+              "word": "ira",
+              "strong": "H639"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "morreu",
+              "strong": "H4191"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Então responderam os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés, e disseram aos cabeças dos milhares de Israel:",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "tribo",
+              "strong": "H4294"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "cabeças",
+              "strong": "H7218"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "O Senhor Deus dos deuses, o Senhor Deus dos deuses, ele o sabe, e Israel mesmo o saberá. Se foi por rebeldia, ou por transgressão contra o Senhor, hoje não nos preserve;",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Se nós edificamos um altar para nos desviarmos do Senhor, ou para sobre ele oferecer holocausto e oferta de alimentos, ou sobre ele apresentar oferta pacífica, o Senhor mesmo de nós o requeira.",
+          "tokens": [
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "holocausto",
+              "strong": "H5930"
+            },
+            {
+              "word": "oferta",
+              "strong": "H4503"
+            },
+            {
+              "word": "oferta",
+              "strong": "H4503"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E, se antes o não fizemos por receio disto, dizendo: Amanhã vossos filhos virão a falar a nossos filhos, dizendo: Que tendes vós com o Senhor Deus de Israel?",
+          "tokens": [
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "dizendo",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Pois o Senhor pôs o Jordão por termo entre nós e vós, ó filhos de Rúben, e filhos de Gade; não tendes parte no Senhor; e assim bem poderiam vossos filhos fazer desistir a nossos filhos de temer ao Senhor.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "parte",
+              "strong": "H2506"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "temer",
+              "strong": "H3372"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "Por isso dissemos: Preparemo-nos agora, e edifiquemos um altar, não para holocausto, nem para sacrifício,",
+          "tokens": [
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "holocausto",
+              "strong": "H5930"
+            },
+            {
+              "word": "sacrifício",
+              "strong": "H2077"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "Mas para que, entre nós e vós, e entre as nossas gerações depois de nós, nos seja em testemunho, para podermos fazer o serviço do Senhor diante dele com os nossos holocaustos, e com os nossos sacrifícios, e com as nossas ofertas pacíficas; para que vossos filhos não digam amanhã a nossos filhos: Não tendes parte no Senhor.",
+          "tokens": [
+            {
+              "word": "testemunho",
+              "strong": "H5713"
+            },
+            {
+              "word": "serviço",
+              "strong": "H5647"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "holocaustos",
+              "strong": "H5930"
+            },
+            {
+              "word": "sacrifícios",
+              "strong": "H2077"
+            },
+            {
+              "word": "ofertas",
+              "strong": "H4503"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "parte",
+              "strong": "H2506"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Por isso dissemos: Quando suceder que amanhã assim nos digam a nós e às nossas gerações, então diremos: Vede o modelo do altar do Senhor que fizeram nossos pais, não para holocausto nem para sacrifício, porém para ser testemunho entre nós e vós.",
+          "tokens": [
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "holocausto",
+              "strong": "H5930"
+            },
+            {
+              "word": "sacrifício",
+              "strong": "H2077"
+            },
+            {
+              "word": "testemunho",
+              "strong": "H5713"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "Nunca tal nos aconteça que nos rebelemos contra o Senhor, ou que hoje nós abandonássemos o Senhor, edificando altar para holocausto, oferta de alimentos ou sacrifício, fora do altar do Senhor nosso Deus, que está perante o seu tabernáculo.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "holocausto",
+              "strong": "H5930"
+            },
+            {
+              "word": "oferta",
+              "strong": "H4503"
+            },
+            {
+              "word": "sacrifício",
+              "strong": "H2077"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "tabernáculo",
+              "strong": "H4908"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "Ouvindo, pois, Finéias, o sacerdote, e os príncipes da congregação, e os cabeças dos milhares de Israel, que com eles estavam, as palavras que disseram os filhos de Rúben, e os filhos de Gade, e os filhos de Manassés, pareceu bem aos seus olhos.",
+          "tokens": [
+            {
+              "word": "Finéias",
+              "strong": "H6372"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "congregação",
+              "strong": "H4150"
+            },
+            {
+              "word": "cabeças",
+              "strong": "H7218"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "E disse Finéias, filho de Eleazar, o sacerdote, aos filhos de Rúben, e aos filhos de Gade, e aos filhos de Manassés: Hoje sabemos que o Senhor está no meio de nós; porquanto não cometestes transgressão contra o Senhor; agora livrastes os filhos de Israel da mão do Senhor.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Finéias",
+              "strong": "H6372"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Eleazar",
+              "strong": "H499"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Manassés",
+              "strong": "H4519"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "E Finéias filho de Eleazar, o sacerdote, com os príncipes, deixando os filhos de Rúben, e os filhos de Gade, voltaram da terra de Gileade à terra de Canaã, aos filhos de Israel, e trouxeram-lhes a resposta.",
+          "tokens": [
+            {
+              "word": "Finéias",
+              "strong": "H6372"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Eleazar",
+              "strong": "H499"
+            },
+            {
+              "word": "sacerdote",
+              "strong": "H3548"
+            },
+            {
+              "word": "príncipes",
+              "strong": "H5387"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Gileade",
+              "strong": "H1568"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "E pareceu a resposta boa aos olhos dos filhos de Israel, e os filhos de Israel louvaram a Deus; e não falaram mais em subir à guerra contra eles em exército, para destruírem a terra em que habitavam os filhos de Rúben e os filhos de Gade.",
+          "tokens": [
+            {
+              "word": "boa",
+              "strong": "H2896"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "guerra",
+              "strong": "H4421"
+            },
+            {
+              "word": "exército",
+              "strong": "H6635"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            }
+          ]
+        },
+        {
+          "n": 34,
+          "text": "E os filhos de Rúben e os filhos de Gade deram ao altar o nome de Ede; para que seja testemunho entre nós que o Senhor é Deus.",
+          "tokens": [
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Rúben",
+              "strong": "H7205"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Gade",
+              "strong": "H1410"
+            },
+            {
+              "word": "altar",
+              "strong": "H4196"
+            },
+            {
+              "word": "testemunho",
+              "strong": "H5713"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "verses": [
+        {
+          "n": 1,
+          "text": "E sucedeu que, muitos dias depois que o SENHOR dera repouso a Israel de todos os seus inimigos em redor, e sendo Josué já velho e entrado em dias,",
+          "tokens": [
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "SENHOR",
+              "strong": "H3068"
+            },
+            {
+              "word": "repouso",
+              "strong": "H7677"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Chamou Josué a todo o Israel, aos seus anciãos, e aos seus cabeças, e aos seus juízes, e aos seus oficiais, e disse-lhes: Eu já sou velho e entrado em dias,",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cabeças",
+              "strong": "H7218"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "E vós já tendes visto tudo quanto o Senhor vosso Deus fez a todas estas nações por causa de vós; porque o Senhor vosso Deus é que tem pelejado por vós.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "nações",
+              "strong": "H1471"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "Vede que vos reparti por sorte, em herança às vossas tribos, estas nações que restam, bem como as nações que tenho destruído, desde o Jordão até o grande mar para o pôr-do-sol.",
+          "tokens": [
+            {
+              "word": "sorte",
+              "strong": "H1486"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "nações",
+              "strong": "H1471"
+            },
+            {
+              "word": "nações",
+              "strong": "H1471"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "sol",
+              "strong": "H8121"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "E o Senhor vosso Deus as impelirá, e as expelirá de diante de vós; e vós possuireis a sua terra, como o Senhor vosso Deus vos tem prometido.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "Esforçai-vos, pois, muito para guardardes e para fazerdes tudo quanto está escrito no livro da lei de Moisés; para que dele não vos aparteis, nem para a direita nem para a esquerda;",
+          "tokens": [
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "Para que não entreis no meio destas nações que ainda ficam convosco; e dos nomes de seus deuses não façais menção, nem por eles façais jurar, nem os sirvais, nem a eles vos inclineis,",
+          "tokens": [
+            {
+              "word": "nações",
+              "strong": "H1471"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Mas ao Senhor vosso Deus vos apegareis, como fizestes até o dia de hoje;",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Pois o Senhor expulsou de diante de vós grandes e fortes nações; e, quanto a vós, ninguém vos tem podido resistir, até o dia de hoje.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "fortes",
+              "strong": "H5797"
+            },
+            {
+              "word": "nações",
+              "strong": "H1471"
+            },
+            {
+              "word": "dia",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Um só homem dentre vós perseguirá a mil; pois é o Senhor vosso Deus que peleja por vós, como já vos tem falado.",
+          "tokens": [
+            {
+              "word": "homem",
+              "strong": "H120"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "Portanto, guardai diligentemente as vossas almas, para amardes ao Senhor vosso Deus.",
+          "tokens": [
+            {
+              "word": "guardai",
+              "strong": "H8104"
+            },
+            {
+              "word": "almas",
+              "strong": "H5315"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "Porque, se de algum modo vos desviardes, e vos apegardes ao restante destas nações que ainda ficou entre vós, e com elas vos aparentardes, e vós a elas entrardes, e elas a vós,",
+          "tokens": [
+            {
+              "word": "apegardes",
+              "strong": "H1692"
+            },
+            {
+              "word": "nações",
+              "strong": "H1471"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "Sabei certamente que o Senhor vosso Deus não continuará a expulsar estas nações de diante de vós, mas elas vos serão por laço e rede, e açoite às vossas ilhargas, e espinhos aos vossos olhos; até que pereçais desta boa terra que vos deu o Senhor vosso Deus.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "nações",
+              "strong": "H1471"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "boa",
+              "strong": "H2896"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "E eis que vou hoje pelo caminho de toda a terra; e vós bem sabeis, com todo o vosso coração, e com toda a vossa alma, que nem uma só palavra falhou de todas as boas coisas que falou de vós o Senhor vosso Deus; todas vos sobrevieram, nenhuma delas falhou.",
+          "tokens": [
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "alma",
+              "strong": "H5315"
+            },
+            {
+              "word": "palavra",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "E será que, assim como sobre vós vieram todas estas boas coisas, que o Senhor vosso Deus vos disse, assim trará o Senhor sobre vós todas aquelas más coisas, até vos destruir de sobre a boa terra que vos deu o Senhor vosso Deus.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "boa",
+              "strong": "H2896"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Quando transgredirdes a aliança do Senhor vosso Deus, que vos tem ordenado, e fordes e servirdes a outros deuses, e a eles vos inclinardes, então a ira do Senhor sobre vós se acenderá, e logo perecereis de sobre a boa terra que vos deu.",
+          "tokens": [
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            },
+            {
+              "word": "ira",
+              "strong": "H639"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "boa",
+              "strong": "H2896"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "deu",
+              "strong": "H5414"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "verses": [
+        {
+          "n": 1,
+          "text": "Depois reuniu Josué todas as tribos de Israel em Siquém; e chamou os anciãos de Israel, e os seus cabeças, e os seus juízes, e os seus oficiais; e eles se apresentaram diante de Deus.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "tribos",
+              "strong": "H4294"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "cabeças",
+              "strong": "H7218"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Siquém",
+              "strong": "H7927"
+            }
+          ]
+        },
+        {
+          "n": 2,
+          "text": "Então Josué disse a todo o povo: Assim diz o Senhor Deus de Israel: Além do rio habitaram antigamente vossos pais, Terá, pai de Abraão e pai de Naor; e serviram a outros deuses.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "Terá",
+              "strong": "H8646"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "Abraão",
+              "strong": "H85"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 3,
+          "text": "Eu, porém, tomei a vosso pai Abraão dalém do rio e o fiz andar por toda a terra de Canaã; também multipliquei a sua descendência e dei-lhe a Isaque.",
+          "tokens": [
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "Abraão",
+              "strong": "H85"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "andar",
+              "strong": "H1980"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Canaã",
+              "strong": "H3667"
+            },
+            {
+              "word": "descendência",
+              "strong": "H2233"
+            },
+            {
+              "word": "Isaque",
+              "strong": "H3327"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "text": "E a Isaque dei Jacó e Esaú; e a Esaú dei a montanha de Seir, para a possuir; porém, Jacó e seus filhos desceram para o Egito.",
+          "tokens": [
+            {
+              "word": "Isaque",
+              "strong": "H3327"
+            },
+            {
+              "word": "Jacó",
+              "strong": "H3290"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
+              "word": "Esaú",
+              "strong": "H6215"
+            },
+            {
+              "word": "montanha",
+              "strong": "H2022"
+            },
+            {
+              "word": "Seir",
+              "strong": "H8165"
+            },
+            {
+              "word": "Jacó",
+              "strong": "H3290"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "text": "Então enviei Moisés e Arão e feri ao Egito, como o fiz no meio deles; e depois vos tirei de lá.",
+          "tokens": [
+            {
+              "word": "Moisés",
+              "strong": "H4872"
+            },
+            {
+              "word": "Arão",
+              "strong": "H175"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            }
+          ]
+        },
+        {
+          "n": 6,
+          "text": "E, tirando eu a vossos pais do Egito, viestes ao mar; e os egípcios perseguiram a vossos pais com carros e com cavaleiros, até ao Mar Vermelho.",
+          "tokens": [
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "Mar",
+              "strong": "H3220"
+            }
+          ]
+        },
+        {
+          "n": 7,
+          "text": "E clamaram ao Senhor, que pôs uma escuridão entre vós e os egípcios, e trouxe o mar sobre eles, e os cobriu, e os vossos olhos viram o que eu fiz no Egito; depois habitastes no deserto muitos dias.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "mar",
+              "strong": "H3220"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "deserto",
+              "strong": "H4057"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            }
+          ]
+        },
+        {
+          "n": 8,
+          "text": "Então eu vos trouxe à terra dos amorreus, que habitavam além do Jordão, os quais pelejaram contra vós; porém os entreguei nas vossas mãos, e possuístes a sua terra, e os destruí de diante de vós.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            }
+          ]
+        },
+        {
+          "n": 9,
+          "text": "Levantou-se também Balaque, filho de Zipor, rei dos moabitas e pelejou contra Israel; e mandou chamar a Balaão, filho de Beor, para que vos amaldiçoasse.",
+          "tokens": [
+            {
+              "word": "Balaque",
+              "strong": "H1111"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "rei",
+              "strong": "H4428"
+            },
+            {
+              "word": "moabitas",
+              "strong": "H4124"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Balaão",
+              "strong": "H1109"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            }
+          ]
+        },
+        {
+          "n": 10,
+          "text": "Porém eu não quis ouvir a Balaão; pelo que ele vos abençoou grandemente e eu vos livrei da sua mão.",
+          "tokens": [
+            {
+              "word": "ouvir",
+              "strong": "H8085"
+            },
+            {
+              "word": "Balaão",
+              "strong": "H1109"
+            },
+            {
+              "word": "abençoou",
+              "strong": "H1288"
+            },
+            {
+              "word": "mão",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 11,
+          "text": "E, passando vós o Jordão, e vindo a Jericó, os habitantes de Jericó pelejaram contra vós, os amorreus, e os perizeus, e os cananeus, e os heteus, e os girgaseus, e os heveus, e os jebuseus; porém os entreguei nas vossas mãos.",
+          "tokens": [
+            {
+              "word": "Jordão",
+              "strong": "H3383"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "Jericó",
+              "strong": "H3405"
+            },
+            {
+              "word": "mãos",
+              "strong": "H3027"
+            }
+          ]
+        },
+        {
+          "n": 12,
+          "text": "E enviei vespões adiante de vós, que os expulsaram de diante de vós, como a ambos os reis dos amorreus; não com a tua espada nem com o teu arco.",
+          "tokens": [
+            {
+              "word": "reis",
+              "strong": "H4428"
+            }
+          ]
+        },
+        {
+          "n": 13,
+          "text": "E eu vos dei a terra em que não trabalhastes, e cidades que não edificastes, e habitais nelas e comeis das vinhas e dos olivais que não plantastes.",
+          "tokens": [
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "cidades",
+              "strong": "H5892"
+            },
+            {
+              "word": "vinhas",
+              "strong": "H3754"
+            }
+          ]
+        },
+        {
+          "n": 14,
+          "text": "Agora, pois, temei ao Senhor, e servi-o com sinceridade e com verdade; e deitai fora os deuses aos quais serviram vossos pais além do rio e no Egito, e servi ao Senhor.",
+          "tokens": [
+            {
+              "word": "temei",
+              "strong": "H3372"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "sinceridade",
+              "strong": "H8537"
+            },
+            {
+              "word": "verdade",
+              "strong": "H571"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 15,
+          "text": "Porém, se vos parece mal aos vossos olhos servir ao Senhor, escolhei hoje a quem sirvais; se aos deuses a quem serviram vossos pais, que estavam além do rio, ou aos deuses dos amorreus, em cuja terra habitais; porém eu e a minha casa serviremos ao Senhor.",
+          "tokens": [
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "servir",
+              "strong": "H5647"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "rio",
+              "strong": "H5104"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 16,
+          "text": "Então respondeu o povo, e disse: Nunca nos aconteça que deixemos ao Senhor para servirmos a outros deuses;",
+          "tokens": [
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 17,
+          "text": "Porque o Senhor é o nosso Deus; ele é o que nos fez subir, a nós e a nossos pais, da terra do Egito, da casa da servidão, e o que tem feito estes grandes sinais aos nossos olhos, e nos guardou por todo o caminho que andamos, e entre todos os povos pelo meio dos quais passamos.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "pais",
+              "strong": "H1"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "casa",
+              "strong": "H1004"
+            },
+            {
+              "word": "olhos",
+              "strong": "H5869"
+            },
+            {
+              "word": "guardou",
+              "strong": "H8104"
+            },
+            {
+              "word": "caminho",
+              "strong": "H1870"
+            },
+            {
+              "word": "povos",
+              "strong": "H5971"
+            }
+          ]
+        },
+        {
+          "n": 18,
+          "text": "E o Senhor expulsou de diante de nós a todos esses povos, até ao amorreu, morador da terra; também nós serviremos ao Senhor, porquanto é nosso Deus.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "povos",
+              "strong": "H5971"
+            },
+            {
+              "word": "terra",
+              "strong": "H776"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 19,
+          "text": "Então Josué disse ao povo: Não podereis servir ao Senhor, porquanto é Deus santo, é Deus zeloso, que não perdoará a vossa transgressão nem os vossos pecados.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "servir",
+              "strong": "H5647"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "santo",
+              "strong": "H6944"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "pecados",
+              "strong": "H2403"
+            }
+          ]
+        },
+        {
+          "n": 20,
+          "text": "Se deixardes ao Senhor, e servirdes a deuses estranhos, então ele se tornará, e vos fará mal, e vos consumirá, depois de vos ter feito o bem.",
+          "tokens": [
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "deuses",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 21,
+          "text": "Então disse o povo a Josué: Não, antes ao Senhor serviremos.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 22,
+          "text": "E Josué disse ao povo: Sois testemunhas contra vós mesmos de que escolhestes ao Senhor, para o servir. E disseram: Somos testemunhas.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "servir",
+              "strong": "H5647"
+            }
+          ]
+        },
+        {
+          "n": 23,
+          "text": "Deitai, pois, agora, fora aos deuses estranhos que há no meio de vós, e inclinai o vosso coração ao Senhor Deus de Israel.",
+          "tokens": [
+            {
+              "word": "deuses",
+              "strong": "H430"
+            },
+            {
+              "word": "coração",
+              "strong": "H3820"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 24,
+          "text": "E disse o povo a Josué: Serviremos ao Senhor nosso Deus, e obedeceremos à sua voz.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 25,
+          "text": "Assim, naquele dia fez Josué aliança com o povo e lhe pôs por estatuto e direito em Siquém.",
+          "tokens": [
+            {
+              "word": "dia",
+              "strong": "H3117"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "aliança",
+              "strong": "H1285"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "direito",
+              "strong": "H4941"
+            },
+            {
+              "word": "Siquém",
+              "strong": "H7927"
+            }
+          ]
+        },
+        {
+          "n": 26,
+          "text": "E Josué escreveu estas palavras no livro da lei de Deus; e tomou uma grande pedra, e a erigiu ali debaixo do carvalho que estava junto ao santuário do Senhor.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "lei",
+              "strong": "H8451"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            },
+            {
+              "word": "debaixo",
+              "strong": "H8478"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 27,
+          "text": "E disse Josué a todo o povo: Eis que esta pedra nos será por testemunho, pois ela ouviu todas as palavras, que o Senhor nos tem falado; e também será testemunho contra vós, para que não mintais a vosso Deus.",
+          "tokens": [
+            {
+              "word": "disse",
+              "strong": "H559"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "testemunho",
+              "strong": "H5713"
+            },
+            {
+              "word": "ouviu",
+              "strong": "H8085"
+            },
+            {
+              "word": "palavras",
+              "strong": "H1697"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "testemunho",
+              "strong": "H5713"
+            },
+            {
+              "word": "Deus",
+              "strong": "H430"
+            }
+          ]
+        },
+        {
+          "n": 28,
+          "text": "Então Josué enviou o povo, cada um para a sua herança.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "povo",
+              "strong": "H5971"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            }
+          ]
+        },
+        {
+          "n": 29,
+          "text": "E depois destas coisas sucedeu que Josué, filho de Num, servo do Senhor, faleceu, com idade de cento e dez anos.",
+          "tokens": [
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "servo",
+              "strong": "H5650"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            }
+          ]
+        },
+        {
+          "n": 30,
+          "text": "E sepultaram-no no termo da sua herança, em Timnate-Sera, que está no monte de Efraim, para o norte do monte de Gaás.",
+          "tokens": [
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            },
+            {
+              "word": "monte",
+              "strong": "H2022"
+            }
+          ]
+        },
+        {
+          "n": 31,
+          "text": "Serviu, pois, Israel ao Senhor todos os dias de Josué, e todos os dias dos anciãos que ainda sobreviveram muito tempo depois de Josué, e que sabiam todas as obras que o Senhor tinha feito a Israel.",
+          "tokens": [
+            {
+              "word": "Serviu",
+              "strong": "H5647"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "dias",
+              "strong": "H3117"
+            },
+            {
+              "word": "tempo",
+              "strong": "H6256"
+            },
+            {
+              "word": "Josué",
+              "strong": "H3091"
+            },
+            {
+              "word": "Senhor",
+              "strong": "H3068"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            }
+          ]
+        },
+        {
+          "n": 32,
+          "text": "Também os ossos de José, que os filhos de Israel trouxeram do Egito, foram enterrados em Siquém, naquela parte do campo que Jacó comprara aos filhos de Hemor, pai de Siquém, por cem peças de prata, e que se tornara herança dos filhos de José.",
+          "tokens": [
+            {
+              "word": "José",
+              "strong": "H3130"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "Israel",
+              "strong": "H3478"
+            },
+            {
+              "word": "Egito",
+              "strong": "H4714"
+            },
+            {
+              "word": "parte",
+              "strong": "H2506"
+            },
+            {
+              "word": "Jacó",
+              "strong": "H3290"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "pai",
+              "strong": "H1"
+            },
+            {
+              "word": "prata",
+              "strong": "H3701"
+            },
+            {
+              "word": "herança",
+              "strong": "H5159"
+            },
+            {
+              "word": "filhos",
+              "strong": "H1121"
+            },
+            {
+              "word": "José",
+              "strong": "H3130"
+            },
+            {
+              "word": "Siquém",
+              "strong": "H7927"
+            }
+          ]
+        },
+        {
+          "n": 33,
+          "text": "Faleceu também Eleazar, filho de Arão, e o sepultaram no outeiro de Finéias, seu filho, que lhe fora dado na montanha de Efraim.",
+          "tokens": [
+            {
+              "word": "Eleazar",
+              "strong": "H499"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "Arão",
+              "strong": "H175"
+            },
+            {
+              "word": "Finéias",
+              "strong": "H6372"
+            },
+            {
+              "word": "filho",
+              "strong": "H1121"
+            },
+            {
+              "word": "dado",
+              "strong": "H5414"
+            },
+            {
+              "word": "montanha",
+              "strong": "H2022"
+            },
+            {
+              "word": "Efraim",
+              "strong": "H669"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+});
