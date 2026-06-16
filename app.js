@@ -40,6 +40,9 @@ const state = {
       mobileScreenBack: document.getElementById("mobileScreenBack"),
       mobileStudyCard: document.getElementById("mobileStudyCard"),
       mobileStudyContent: document.getElementById("mobileStudyContent"),
+      mobileStrongModal: document.getElementById("mobileStrongModal"),
+      mobileStrongClose: document.getElementById("mobileStrongClose"),
+      mobileStrongCard: document.getElementById("mobileStrongCard"),
       themeToggle: document.getElementById("themeToggle"),
       fontSizeToggle: document.getElementById("fontSizeToggle"),
       searchScope: document.getElementById("searchScope"),
@@ -166,6 +169,29 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       renderStudyCard(els.mobileStudyCard);
     }
 
+    function openMobileStrongModal() {
+      if (!isMobileReader() || !els.mobileStrongModal || !els.mobileStrongCard || !state.selected) return false;
+      renderStudyCard(els.mobileStrongCard);
+      document.body.classList.add("mobile-strong-open");
+      els.mobileStrongModal.hidden = false;
+      els.mobileStrongModal.removeAttribute("aria-hidden");
+      els.mobileStrongCard.scrollTop = 0;
+      window.requestAnimationFrame(() => {
+        els.mobileStrongClose?.focus({ preventScroll: true });
+      });
+      return true;
+    }
+
+    function closeMobileStrongModal() {
+      if (!els.mobileStrongModal) return;
+      if (els.mobileStrongModal.contains(document.activeElement)) {
+        document.activeElement.blur();
+      }
+      els.mobileStrongModal.hidden = true;
+      els.mobileStrongModal.setAttribute("aria-hidden", "true");
+      document.body.classList.remove("mobile-strong-open");
+    }
+
     function mountMobileStudyScreen(mode = "study") {
       if (!isMobileReader() || !els.mobileStudyScreen || !els.mobileStudyContent || !els.studyCard || !els.mobileStudyCard) return false;
       if (mode === "study" && state.selected) {
@@ -248,6 +274,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     }
 
     function closeMobileStudyPanel() {
+      closeMobileStrongModal();
       unmountMobileStudyScreen();
       document.body.classList.remove("mobile-study-open");
       document.body.classList.remove("mobile-study-has-card");
@@ -999,7 +1026,9 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
       renderStudyCard();
       loadNote();
-      openMobileStudyPanel("study");
+      if (!openMobileStrongModal()) {
+        openMobileStudyPanel("study");
+      }
       addHistoryItem({
         type: "word",
         key: `word:${state.bookId}:${state.chapter}:${verseNumber}:${selectedToken.strong}:${selectedToken.word}`,
@@ -1091,6 +1120,9 @@ Object.assign(appData.lexicon, loadCustomLexicon());
           renderStudyCard();
           if (document.body.classList.contains("mobile-study-screen-open")) {
             renderMobileStudyCard();
+          }
+          if (document.body.classList.contains("mobile-strong-open")) {
+            renderStudyCard(els.mobileStrongCard);
           }
         });
       });
@@ -1302,6 +1334,9 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         renderMyStudy();
         if (document.body.classList.contains("mobile-study-screen-open")) {
           renderMobileStudyCard();
+        }
+        if (document.body.classList.contains("mobile-strong-open")) {
+          renderStudyCard(els.mobileStrongCard);
         }
         showToast("Analise concluída.");
       } catch (error) {
@@ -2447,6 +2482,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     els.saveAiSettings.addEventListener("click", saveAiSettings);
     els.mobileStudyBack?.addEventListener("click", closeMobileStudyPanel);
     els.mobileScreenBack?.addEventListener("click", closeMobileStudyPanel);
+    els.mobileStrongClose?.addEventListener("click", closeMobileStrongModal);
     els.enterStudy.addEventListener("click", enterStudy);
     els.skipHome?.addEventListener("click", enterStudy);
     els.searchButton.addEventListener("click", runSearch);
