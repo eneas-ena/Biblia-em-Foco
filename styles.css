@@ -1329,7 +1329,9 @@
       body.mobile-study-has-card .study-card {
         display: block;
         order: -1;
-        min-height: 220px;
+        height: auto;
+        min-height: 0;
+        overflow: visible;
       }
 
       .study-card .card-header {
@@ -1338,6 +1340,14 @@
 
       .study-card .card-header h3 {
         font-size: 22px;
+      }
+
+      .study-card .assistant-panel {
+        padding: 16px;
+      }
+
+      .study-card .assistant-panel .ai-response:empty {
+        display: none;
       }
 
       .tab-panel {
