@@ -38,6 +38,7 @@ const state = {
       mobileStudyBack: document.getElementById("mobileStudyBack"),
       themeToggle: document.getElementById("themeToggle"),
       fontSizeToggle: document.getElementById("fontSizeToggle"),
+      searchScope: document.getElementById("searchScope"),
       searchInput: document.getElementById("searchInput"),
       searchButton: document.getElementById("searchButton"),
       clearSearch: document.getElementById("clearSearch"),
@@ -1865,7 +1866,6 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
     function runSearch() {
       const rawQuery = els.searchInput.value.trim();
-      const query = normalizeText(rawQuery);
       if (!rawQuery) {
         els.searchResults.classList.remove("active");
         els.searchResults.innerHTML = "";
@@ -1880,64 +1880,227 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         return;
       }
 
-      const results = [];
       const queryTerms = rawQuery
         .split("|")
         .map(item => item.trim())
         .filter(Boolean);
       const normalizedTerms = queryTerms.map(normalizeText);
       const matchingStrong = [...new Set(queryTerms.flatMap(findMatchingStrong))];
+      const scope = els.searchScope?.value || "all";
+      const books = getBooksForSearchScope(scope);
+      const grouped = {
+        strong: [],
+        text: [],
+        notes: scope === "all" || scope === "notes" ? findNoteResults(normalizedTerms) : [],
+        themes: scope === "all" ? findThemeResults(normalizedTerms) : [],
+        lexicon: scope === "all" || scope === "current-book" || scope === "current-chapter" ? findLexiconResults(normalizedTerms, matchingStrong) : []
+      };
 
-      appData.books.forEach(book => {
-        book.chapters.forEach(chapter => {
-          chapter.verses.forEach(verse => {
-            const normalizedVerse = normalizeText(verse.text);
-            const textMatch = normalizedTerms.some(term => normalizedVerse.includes(term));
-            const tokenMatches = getVerseTokens(book.id, chapter.number, verse)
-              .map((item, index) => ({ item, index }))
-              .filter(({ item }) => (
-                normalizedTerms.some(term => (
-                  normalizeText(item.word).includes(term) ||
-                  item.strong.toLowerCase() === term
-                )) ||
-                matchingStrong.includes(item.strong)
-              ));
+      if (scope !== "notes") {
+        books.forEach(book => {
+          book.chapters
+            .filter(chapter => scope !== "current-chapter" || chapter.number === state.chapter)
+            .forEach(chapter => {
+              chapter.verses.forEach(verse => {
+                const normalizedVerse = normalizeText(verse.text);
+                const textMatch = normalizedTerms.some(term => normalizedVerse.includes(term));
+                const tokenMatches = getVerseTokens(book.id, chapter.number, verse)
+                  .map((item, index) => ({ item, index }))
+                  .filter(({ item }) => (
+                    normalizedTerms.some(term => (
+                      normalizeText(item.word).includes(term) ||
+                      item.strong.toLowerCase() === term
+                    )) ||
+                    matchingStrong.includes(item.strong)
+                  ));
 
-            if (tokenMatches.length) {
-              tokenMatches.forEach(({ item, index }) => {
-                results.push({ book, chapter, verse, token: item, tokenIndex: index, kind: "strong" });
+                if (tokenMatches.length) {
+                  tokenMatches.forEach(({ item, index }) => {
+                    grouped.strong.push({ book, chapter, verse, token: item, tokenIndex: index, kind: "strong" });
+                  });
+                }
+                if (textMatch) {
+                  grouped.text.push({ book, chapter, verse, token: null, tokenIndex: null, kind: "text" });
+                }
               });
-            } else if (textMatch) {
-              results.push({ book, chapter, verse, token: null, tokenIndex: null, kind: "text" });
-            }
-          });
+            });
         });
-      });
+      }
 
       els.searchResults.classList.add("active");
-      els.searchResults.innerHTML = `
-        <h3>${results.length} resultado(s)</h3>
-        ${results.map(result => `
-          <div class="result-item" data-book="${result.book.id}" data-chapter="${result.chapter.number}" data-verse="${result.verse.n}" data-strong="${escapeHtml(result.token?.strong || "")}" data-word="${escapeHtml(result.token?.word || "")}">
-            <strong>${result.book.name} ${result.chapter.number}:${result.verse.n}${result.token ? ` - ${escapeHtml(result.token.word)} (${escapeHtml(result.token.strong)})` : ""}</strong> ${escapeHtml(result.verse.text)}
-          </div>
-        `).join("")}
-      `;
+      els.searchResults.innerHTML = renderSearchResults(grouped, rawQuery, scope);
+      bindSearchResults();
+      els.searchResults.scrollIntoView({ behavior: "smooth", block: "nearest" });
+    }
 
-      document.querySelectorAll(".result-item").forEach(item => {
+    function getBooksForSearchScope(scope) {
+      const oldTestamentEnd = appData.books.findIndex(book => book.id === "matthew");
+      if (scope === "current-book" || scope === "current-chapter") return [getBook()];
+      if (scope === "ot") return appData.books.slice(0, oldTestamentEnd);
+      if (scope === "nt") return appData.books.slice(oldTestamentEnd);
+      return appData.books;
+    }
+
+    function findLexiconResults(normalizedTerms, matchingStrong) {
+      return Object.entries(appData.lexicon)
+        .filter(([strong, entry]) => (
+          matchingStrong.includes(strong) ||
+          normalizedTerms.some(term => (
+            strong.toLowerCase() === term ||
+            normalizeText(entry.lemma).includes(term) ||
+            normalizeText(entry.translit).includes(term) ||
+            normalizeText(entry.gloss).includes(term) ||
+            normalizeText(entry.original).includes(term)
+          ))
+        ))
+        .slice(0, 20)
+        .map(([strong, entry]) => ({ strong, entry }));
+    }
+
+    function findNoteResults(normalizedTerms) {
+      const study = collectStudyItems();
+      return [...study.notes, ...study.aiResults]
+        .filter(item => normalizedTerms.some(term => (
+          normalizeText(item.title).includes(term) ||
+          normalizeText(item.subtitle).includes(term) ||
+          normalizeText(item.body).includes(term) ||
+          normalizeText(item.context).includes(term)
+        )))
+        .slice(0, 30);
+    }
+
+    function findThemeResults(normalizedTerms) {
+      return loadThemes()
+        .filter(theme => normalizedTerms.some(term => (
+          normalizeText(theme.name).includes(term) ||
+          normalizeText(theme.query).includes(term) ||
+          normalizeText(theme.hint).includes(term)
+        )))
+        .slice(0, 12);
+    }
+
+    function renderSearchResults(grouped, rawQuery, scope) {
+      const total = grouped.strong.length + grouped.text.length + grouped.lexicon.length + grouped.notes.length + grouped.themes.length;
+      const scopeLabel = {
+        all: "Tudo",
+        "current-book": "Livro atual",
+        "current-chapter": "Capítulo atual",
+        ot: "Antigo Testamento",
+        nt: "Novo Testamento",
+        notes: "Notas"
+      }[scope] || "Tudo";
+
+      return `
+        <div class="search-head">
+          <div>
+            <h3>${total} resultado(s)</h3>
+            <p>${escapeHtml(rawQuery)} · ${escapeHtml(scopeLabel)}</p>
+          </div>
+        </div>
+        ${searchSection("Palavras Strong", grouped.strong, renderStrongResult)}
+        ${searchSection("Texto bíblico", grouped.text, renderTextResult)}
+        ${searchSection("Cards Strong", grouped.lexicon, renderLexiconResult)}
+        ${searchSection("Notas e IA", grouped.notes, renderNoteResult)}
+        ${searchSection("Temas", grouped.themes, renderThemeResult)}
+        ${total ? "" : `<p class="search-empty">Nada encontrado neste filtro.</p>`}
+      `;
+    }
+
+    function searchSection(title, items, renderer) {
+      if (!items.length) return "";
+      return `
+        <section class="search-section">
+          <h4>${escapeHtml(title)} <span>${items.length}</span></h4>
+          <div class="search-section-list">${items.slice(0, 24).map(renderer).join("")}</div>
+        </section>
+      `;
+    }
+
+    function renderStrongResult(result) {
+      return `
+        <button class="result-item typed-result" type="button" data-result-kind="strong" data-book="${result.book.id}" data-chapter="${result.chapter.number}" data-verse="${result.verse.n}" data-strong="${escapeHtml(result.token.strong)}">
+          <span class="result-badge">Strong</span>
+          <strong>${escapeHtml(result.token.word)} (${escapeHtml(result.token.strong)})</strong>
+          <small>${escapeHtml(result.book.name)} ${result.chapter.number}:${result.verse.n}</small>
+          <span>${escapeHtml(result.verse.text)}</span>
+        </button>
+      `;
+    }
+
+    function renderTextResult(result) {
+      return `
+        <button class="result-item typed-result" type="button" data-result-kind="text" data-book="${result.book.id}" data-chapter="${result.chapter.number}" data-verse="${result.verse.n}">
+          <span class="result-badge">Texto</span>
+          <strong>${escapeHtml(result.book.name)} ${result.chapter.number}:${result.verse.n}</strong>
+          <span>${escapeHtml(result.verse.text)}</span>
+        </button>
+      `;
+    }
+
+    function renderLexiconResult(result) {
+      return `
+        <button class="result-item typed-result" type="button" data-result-kind="lexicon" data-strong="${escapeHtml(result.strong)}">
+          <span class="result-badge">Card</span>
+          <strong>${escapeHtml(result.strong)} · ${escapeHtml(result.entry.gloss || result.entry.lemma)}</strong>
+          <small>${escapeHtml(result.entry.original || "")} ${escapeHtml(result.entry.translit || "")}</small>
+          <span>${escapeHtml(result.entry.exegetic || result.entry.culture || "")}</span>
+        </button>
+      `;
+    }
+
+    function renderNoteResult(item) {
+      return `
+        <button class="result-item typed-result" type="button" data-result-kind="note" data-book="${escapeHtml(item.bookId)}" data-chapter="${item.chapter}" data-verse="${item.verse}" data-strong="${escapeHtml(item.strong || "")}" data-word="${escapeHtml(item.word || "")}">
+          <span class="result-badge">${item.type === "ai" ? "IA" : "Nota"}</span>
+          <strong>${escapeHtml(item.title)}</strong>
+          <small>${escapeHtml(item.subtitle || "")}</small>
+          <span>${escapeHtml(item.body.slice(0, 180))}${item.body.length > 180 ? "..." : ""}</span>
+        </button>
+      `;
+    }
+
+    function renderThemeResult(theme) {
+      return `
+        <button class="result-item typed-result" type="button" data-result-kind="theme" data-theme-query="${escapeHtml(theme.query)}">
+          <span class="result-badge">Tema</span>
+          <strong>${escapeHtml(theme.name)}</strong>
+          <small>${escapeHtml(theme.query)}</small>
+          <span>${escapeHtml(theme.hint || "")}</span>
+        </button>
+      `;
+    }
+
+    function bindSearchResults() {
+      document.querySelectorAll(".typed-result").forEach(item => {
         item.addEventListener("click", () => {
+          const kind = item.dataset.resultKind;
+          if (kind === "theme") {
+            els.searchInput.value = item.dataset.themeQuery;
+            runSearch();
+            return;
+          }
+
+          if (kind === "lexicon") {
+            const occurrence = findOccurrences(item.dataset.strong)[0];
+            if (occurrence) {
+              openStrongOccurrence(occurrence.bookId, occurrence.chapter, occurrence.verse, item.dataset.strong);
+            } else {
+              showToast("Card encontrado, mas sem ocorrência no texto.");
+            }
+            return;
+          }
+
           const bookId = item.dataset.book;
           const chapter = Number(item.dataset.chapter);
           const verse = Number(item.dataset.verse);
 
-          if (item.dataset.strong) {
+          if ((kind === "strong" || item.dataset.strong) && item.dataset.strong) {
             openStrongOccurrence(bookId, chapter, verse, item.dataset.strong);
           } else {
             goToVerse(bookId, chapter, verse);
           }
         });
       });
-      els.searchResults.scrollIntoView({ behavior: "smooth", block: "nearest" });
     }
 
     function renderReferenceResult(reference) {
