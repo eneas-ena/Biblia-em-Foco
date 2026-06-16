@@ -36,6 +36,9 @@ const state = {
       prevChapter: document.getElementById("prevChapter"),
       nextChapter: document.getElementById("nextChapter"),
       mobileStudyBack: document.getElementById("mobileStudyBack"),
+      mobileStudyScreen: document.getElementById("mobileStudyScreen"),
+      mobileScreenBack: document.getElementById("mobileScreenBack"),
+      mobileStudyContent: document.getElementById("mobileStudyContent"),
       themeToggle: document.getElementById("themeToggle"),
       fontSizeToggle: document.getElementById("fontSizeToggle"),
       searchScope: document.getElementById("searchScope"),
@@ -54,6 +57,7 @@ const state = {
       addTheme: document.getElementById("addTheme"),
       toast: document.getElementById("toast")
     };
+    const mobilePanel = { nodes: [] };
 
 const defaultStudyThemes = [
   { name: "Amor", query: "G25|amor", hint: "amor do Pai, do Filho e dos discípulos" },
@@ -141,23 +145,75 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       return getBook().chapters.find(chapter => chapter.number === state.chapter);
     }
 
+    function isMobileReader() {
+      return window.matchMedia("(max-width: 560px)").matches;
+    }
+
+    function getSidePanelNodes() {
+      if (!els.side) return [];
+      return Array.from(els.side.children).filter(node => node !== els.mobileStudyBack);
+    }
+
+    function mountMobileStudyScreen(mode = "study") {
+      if (!isMobileReader() || !els.mobileStudyScreen || !els.mobileStudyContent || !els.studyCard) return false;
+      if (mode === "study" && state.selected && !els.studyCard.querySelector(".card-header")) {
+        renderStudyCard();
+      }
+      if (!mobilePanel.nodes.length) {
+        mobilePanel.nodes = getSidePanelNodes();
+      }
+
+      document.body.classList.add("mobile-study-screen-open");
+      document.body.classList.toggle("mobile-study-has-card", mode === "study");
+      els.mobileStudyScreen.hidden = false;
+      els.mobileStudyScreen.setAttribute("aria-hidden", "false");
+      els.mobileStudyScreen.dataset.panelMode = mode;
+
+      mobilePanel.nodes.forEach(node => {
+        node.style.display = "";
+        node.style.order = "";
+        node.style.visibility = "";
+        node.style.maxHeight = "";
+        node.style.overflow = "";
+        els.mobileStudyContent.appendChild(node);
+      });
+
+      if (mode === "study") {
+        els.studyCard.hidden = false;
+        els.studyCard.style.display = "block";
+        els.studyCard.style.order = "-1";
+        els.mobileStudyContent.prepend(els.studyCard);
+      } else {
+        els.studyCard.style.display = "none";
+      }
+
+      els.mobileStudyContent.scrollTop = 0;
+      return true;
+    }
+
+    function unmountMobileStudyScreen() {
+      if (!els.mobileStudyScreen || !els.side || !mobilePanel.nodes.length) return;
+      mobilePanel.nodes.forEach(node => {
+        node.style.display = "";
+        node.style.order = "";
+        node.style.visibility = "";
+        node.style.maxHeight = "";
+        node.style.overflow = "";
+        els.side.appendChild(node);
+      });
+      els.mobileStudyScreen.hidden = true;
+      els.mobileStudyScreen.setAttribute("aria-hidden", "true");
+      delete els.mobileStudyScreen.dataset.panelMode;
+      document.body.classList.remove("mobile-study-screen-open");
+    }
+
     function openMobileStudyPanel(mode = "study") {
+      if (mountMobileStudyScreen(mode)) return;
       document.body.classList.add("mobile-study-open");
       document.body.classList.toggle("mobile-study-has-card", mode === "study");
       if (els.side) els.side.dataset.panelMode = mode;
       if (mode === "study" && state.selected && !els.studyCard.querySelector(".card-header")) {
         renderStudyCard();
-      }
-      if (window.matchMedia("(max-width: 560px)").matches && els.side && els.studyCard) {
-        if (mode === "study") {
-          els.studyCard.hidden = false;
-          els.studyCard.style.display = "block";
-          els.studyCard.style.order = "-1";
-          els.studyCard.style.visibility = "visible";
-          els.mobileStudyBack?.after(els.studyCard);
-        } else {
-          els.studyCard.style.display = "none";
-        }
       }
       const resetScroll = () => {
         if (!els.side) return;
@@ -172,6 +228,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     }
 
     function closeMobileStudyPanel() {
+      unmountMobileStudyScreen();
       document.body.classList.remove("mobile-study-open");
       document.body.classList.remove("mobile-study-has-card");
       if (els.side) delete els.side.dataset.panelMode;
@@ -179,49 +236,56 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         els.studyCard.style.display = "";
         els.studyCard.style.order = "";
         els.studyCard.style.visibility = "";
+        els.studyCard.style.maxHeight = "";
+        els.studyCard.style.overflow = "";
       }
     }
 
     function bindMobileStudyGestures() {
       let startX = null;
       let startY = null;
+      const gestureTargets = [els.side, els.mobileStudyScreen].filter(Boolean);
 
-      els.side?.addEventListener("touchstart", event => {
-        const touch = event.touches[0];
-        startX = touch.clientX;
-        startY = touch.clientY;
-      }, { passive: true });
+      gestureTargets.forEach(target => {
+        target.addEventListener("touchstart", event => {
+          const touch = event.touches[0];
+          startX = touch.clientX;
+          startY = touch.clientY;
+        }, { passive: true });
 
-      els.side?.addEventListener("touchmove", event => {
-        if (startX === null || startY === null || !document.body.classList.contains("mobile-study-open")) return;
-        const touch = event.touches[0];
-        const deltaX = Math.max(0, touch.clientX - startX);
-        const deltaY = touch.clientY - startY;
+        target.addEventListener("touchmove", event => {
+          const panelOpen = document.body.classList.contains("mobile-study-open") || document.body.classList.contains("mobile-study-screen-open");
+          if (startX === null || startY === null || !panelOpen) return;
+          const touch = event.touches[0];
+          const deltaX = Math.max(0, touch.clientX - startX);
+          const deltaY = touch.clientY - startY;
 
-        if (deltaX > 12 && Math.abs(deltaX) > Math.abs(deltaY) * 1.15) {
-          els.side.style.setProperty("--mobile-panel-shift", `${Math.min(deltaX, 130)}px`);
-        }
-      }, { passive: true });
+          if (deltaX > 12 && Math.abs(deltaX) > Math.abs(deltaY) * 1.15) {
+            target.style.setProperty("--mobile-panel-shift", `${Math.min(deltaX, 130)}px`);
+          }
+        }, { passive: true });
 
-      els.side?.addEventListener("touchend", event => {
-        if (startX === null || startY === null) return;
-        const touch = event.changedTouches[0];
-        const deltaX = touch.clientX - startX;
-        const deltaY = touch.clientY - startY;
-        startX = null;
-        startY = null;
-        els.side?.style.removeProperty("--mobile-panel-shift");
+        target.addEventListener("touchend", event => {
+          if (startX === null || startY === null) return;
+          const touch = event.changedTouches[0];
+          const deltaX = touch.clientX - startX;
+          const deltaY = touch.clientY - startY;
+          startX = null;
+          startY = null;
+          target.style.removeProperty("--mobile-panel-shift");
 
-        if (document.body.classList.contains("mobile-study-open") && deltaX > 62 && Math.abs(deltaX) > Math.abs(deltaY) * 1.15) {
-          closeMobileStudyPanel();
-        }
-      }, { passive: true });
+          const panelOpen = document.body.classList.contains("mobile-study-open") || document.body.classList.contains("mobile-study-screen-open");
+          if (panelOpen && deltaX > 62 && Math.abs(deltaX) > Math.abs(deltaY) * 1.15) {
+            closeMobileStudyPanel();
+          }
+        }, { passive: true });
 
-      els.side?.addEventListener("touchcancel", () => {
-        startX = null;
-        startY = null;
-        els.side?.style.removeProperty("--mobile-panel-shift");
-      }, { passive: true });
+        target.addEventListener("touchcancel", () => {
+          startX = null;
+          startY = null;
+          target.style.removeProperty("--mobile-panel-shift");
+        }, { passive: true });
+      });
 
       document.addEventListener("keydown", event => {
         if (event.key === "Escape") closeMobileStudyPanel();
@@ -2352,6 +2416,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     els.clearNote.addEventListener("click", clearCurrentNote);
     els.saveAiSettings.addEventListener("click", saveAiSettings);
     els.mobileStudyBack?.addEventListener("click", closeMobileStudyPanel);
+    els.mobileScreenBack?.addEventListener("click", closeMobileStudyPanel);
     els.enterStudy.addEventListener("click", enterStudy);
     els.skipHome?.addEventListener("click", enterStudy);
     els.searchButton.addEventListener("click", runSearch);
