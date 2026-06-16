@@ -144,6 +144,10 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     function openMobileStudyPanel(mode = "study") {
       document.body.classList.add("mobile-study-open");
       document.body.classList.toggle("mobile-study-has-card", mode === "study");
+      if (els.side) els.side.dataset.panelMode = mode;
+      if (mode === "study" && state.selected && !els.studyCard.querySelector(".card-header")) {
+        renderStudyCard();
+      }
       const resetScroll = () => {
         if (!els.side) return;
         els.side.scrollTop = 0;
@@ -159,6 +163,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     function closeMobileStudyPanel() {
       document.body.classList.remove("mobile-study-open");
       document.body.classList.remove("mobile-study-has-card");
+      if (els.side) delete els.side.dataset.panelMode;
     }
 
     function bindMobileStudyGestures() {
