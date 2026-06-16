@@ -20,6 +20,7 @@ const state = {
       verses: document.getElementById("verses"),
       chapterTitle: document.getElementById("chapterTitle"),
       studyCard: document.getElementById("studyCard"),
+      side: document.querySelector(".side"),
       noteText: document.getElementById("noteText"),
       noteHint: document.getElementById("noteHint"),
       saveNote: document.getElementById("saveNote"),
@@ -34,6 +35,7 @@ const state = {
       historyList: document.getElementById("historyList"),
       prevChapter: document.getElementById("prevChapter"),
       nextChapter: document.getElementById("nextChapter"),
+      mobileStudyBack: document.getElementById("mobileStudyBack"),
       themeToggle: document.getElementById("themeToggle"),
       fontSizeToggle: document.getElementById("fontSizeToggle"),
       searchInput: document.getElementById("searchInput"),
@@ -136,6 +138,42 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
     function getChapter() {
       return getBook().chapters.find(chapter => chapter.number === state.chapter);
+    }
+
+    function openMobileStudyPanel() {
+      document.body.classList.add("mobile-study-open");
+    }
+
+    function closeMobileStudyPanel() {
+      document.body.classList.remove("mobile-study-open");
+    }
+
+    function bindMobileStudyGestures() {
+      let startX = null;
+      let startY = null;
+
+      els.side?.addEventListener("touchstart", event => {
+        const touch = event.touches[0];
+        startX = touch.clientX;
+        startY = touch.clientY;
+      }, { passive: true });
+
+      els.side?.addEventListener("touchend", event => {
+        if (startX === null || startY === null) return;
+        const touch = event.changedTouches[0];
+        const deltaX = touch.clientX - startX;
+        const deltaY = touch.clientY - startY;
+        startX = null;
+        startY = null;
+
+        if (document.body.classList.contains("mobile-study-open") && deltaX > 70 && Math.abs(deltaX) > Math.abs(deltaY) * 1.3) {
+          closeMobileStudyPanel();
+        }
+      }, { passive: true });
+
+      document.addEventListener("keydown", event => {
+        if (event.key === "Escape") closeMobileStudyPanel();
+      });
     }
 
     function populateControls() {
@@ -320,6 +358,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       state.selected = null;
       state.selectedVerseNote = null;
       renderMarkingAssistant(word, verse);
+      openMobileStudyPanel();
     }
 
     function renderMarkingAssistant(word, verse) {
@@ -755,6 +794,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       };
       renderChapter();
       loadNote();
+      openMobileStudyPanel();
       addHistoryItem({
         type: "verse",
         key: `verse:${state.bookId}:${state.chapter}:${verseNumber}`,
@@ -790,6 +830,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
       renderStudyCard();
       loadNote();
+      openMobileStudyPanel();
       addHistoryItem({
         type: "word",
         key: `word:${state.bookId}:${state.chapter}:${verseNumber}:${selectedToken.strong}:${selectedToken.word}`,
@@ -1604,6 +1645,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     }
 
     function goToVerse(bookId, chapter, verse) {
+      closeMobileStudyPanel();
       state.bookId = bookId;
       state.chapter = chapter;
       state.selected = null;
@@ -1616,6 +1658,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     }
 
     function openStrongOccurrence(bookId, chapter, verse, strong) {
+      closeMobileStudyPanel();
       state.bookId = bookId;
       state.chapter = chapter;
       state.selected = null;
@@ -1976,6 +2019,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     }
 
     els.bookSelect.addEventListener("change", () => {
+      closeMobileStudyPanel();
       state.bookId = els.bookSelect.value;
       state.chapter = getBook().chapters[0].number;
       state.selected = null;
@@ -1986,6 +2030,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     });
 
     els.chapterSelect.addEventListener("change", () => {
+      closeMobileStudyPanel();
       state.chapter = Number(els.chapterSelect.value);
       state.selected = null;
       state.selectedVerseNote = null;
@@ -1994,6 +2039,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     });
 
     els.prevChapter.addEventListener("click", () => {
+      closeMobileStudyPanel();
       const chapters = getBook().chapters.map(chapter => chapter.number);
       const currentIndex = chapters.indexOf(state.chapter);
       if (currentIndex > 0) {
@@ -2007,6 +2053,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     });
 
     els.nextChapter.addEventListener("click", () => {
+      closeMobileStudyPanel();
       const chapters = getBook().chapters.map(chapter => chapter.number);
       const currentIndex = chapters.indexOf(state.chapter);
       if (currentIndex < chapters.length - 1) {
@@ -2022,6 +2069,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     els.saveNote.addEventListener("click", saveNote);
     els.clearNote.addEventListener("click", clearCurrentNote);
     els.saveAiSettings.addEventListener("click", saveAiSettings);
+    els.mobileStudyBack?.addEventListener("click", closeMobileStudyPanel);
     els.enterStudy.addEventListener("click", enterStudy);
     els.skipHome?.addEventListener("click", enterStudy);
     els.searchButton.addEventListener("click", runSearch);
@@ -2045,6 +2093,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
     applyReaderTheme();
     applyReaderFontSize();
+    bindMobileStudyGestures();
     populateControls();
     initAiSettings();
     renderChapter();
