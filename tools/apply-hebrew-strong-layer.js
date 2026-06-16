@@ -291,6 +291,63 @@ const hebrewLexicon = {
   H520: ["ammah", "אַמָּה", "ammah", "substantivo feminino", "côvado", "Côvado é unidade antiga de medida baseada no antebraço.", "As medidas em Ezequiel comunicam ordem, precisão e restauração do espaço santo.", ["Ezequiel 40:5", "Ezequiel 41:2", "Êxodo 25:10"]],
   H7070: ["qaneh", "קָנֶה", "qaneh", "substantivo masculino", "cana, vara de medir", "Cana pode indicar planta, haste ou instrumento de medição.", "Nas visões do templo, a cana de medir marca uma restauração ordenada por Deus.", ["Ezequiel 40:3", "Ezequiel 42:16", "Apocalipse 11:1"]],
   H8561: ["timmorah", "תִּמֹּרָה", "timmorah", "substantivo feminino", "palmeira, ornamento de palmeira", "Palmeiras aparecem como decoração de templo e imagem de beleza organizada.", "Em Ezequiel 40-41, palmeiras ornamentam o templo restaurado.", ["Ezequiel 40:16", "Ezequiel 41:18", "1 Reis 6:29"]],
+  H1840: ["Daniyel", "דָּנִיֵּאל", "Daniyel", "nome próprio", "Daniel", "Daniel é judeu exilado na Babilônia, conhecido por fidelidade, sabedoria e interpretação de sonhos e visões.", "Seu livro une narrativa de resistência fiel e visões sobre reinos, juízo e esperança.", ["Daniel 1:6", "Daniel 2:19", "Daniel 9:23"]],
+  H1095: ["Belteshatstsar", "בֵּלְטְשַׁאצַּר", "Belteshatstsar", "nome babilônico", "Beltessazar", "Beltessazar é o nome babilônico dado a Daniel na corte.", "O novo nome mostra a tentativa imperial de redefinir identidade, enquanto Daniel permanece fiel ao Deus de Israel.", ["Daniel 1:7", "Daniel 4:8", "Daniel 5:12"]],
+  H2608: ["Chananyah", "חֲנַנְיָה", "Chananyah", "nome próprio", "Hananias", "Hananias é um dos companheiros de Daniel, renomeado Sadraque.", "Sua história se destaca na fidelidade diante da fornalha ardente.", ["Daniel 1:6", "Daniel 2:17", "Daniel 3:12"]],
+  H4332: ["Mishael", "מִישָׁאֵל", "Mishael", "nome próprio", "Misael", "Misael é um dos companheiros de Daniel, renomeado Mesaque.", "Com Hananias e Azarias, permanece fiel diante da pressão idolátrica do império.", ["Daniel 1:6", "Daniel 2:17", "Daniel 3:12"]],
+  H5838: ["Azaryah", "עֲזַרְיָה", "Azaryah", "nome próprio", "Azarias", "Azarias é um dos companheiros de Daniel, renomeado Abednego.", "A narrativa da fornalha mostra sua confiança em Deus mesmo diante da morte.", ["Daniel 1:6", "Daniel 2:17", "Daniel 3:12"]],
+  H7714: ["Shadrakh", "שַׁדְרַךְ", "Shadrakh", "nome babilônico", "Sadraque", "Sadraque é o nome babilônico de Hananias.", "Na fornalha, Sadraque aparece como exemplo de fidelidade pública diante de idolatria estatal.", ["Daniel 1:7", "Daniel 3:12", "Daniel 3:28"]],
+  H4335: ["Meyshakh", "מֵישַׁךְ", "Meyshakh", "nome babilônico", "Mesaque", "Mesaque é o nome babilônico de Misael.", "Sua presença na fornalha ressalta resistência comunitária e confiança no livramento de Deus.", ["Daniel 1:7", "Daniel 3:12", "Daniel 3:28"]],
+  H5664: ["Aved Nego", "עֲבֵד נְגוֹ", "Aved Nego", "nome babilônico", "Abednego", "Abednego é o nome babilônico de Azarias.", "Junto com Sadraque e Mesaque, recusa adorar a imagem do rei e permanece fiel ao Senhor.", ["Daniel 1:7", "Daniel 3:12", "Daniel 3:28"]],
+  H1113: ["Belshatstsar", "בֵּלְשַׁאצַּר", "Belshatstsar", "nome próprio", "Belsazar", "Belsazar é rei babilônico associado ao banquete e à escrita na parede.", "Sua queda em Daniel 5 mostra a fragilidade do orgulho imperial diante do juízo de Deus.", ["Daniel 5:1", "Daniel 5:22", "Daniel 5:30"]],
+  H1403: ["Gavriel", "גַּבְרִיאֵל", "Gavriel", "nome próprio", "Gabriel", "Gabriel é mensageiro angelical que explica visões a Daniel.", "Sua presença liga revelação, interpretação e cuidado de Deus com o entendimento do profeta.", ["Daniel 8:16", "Daniel 9:21", "Lucas 1:19"]],
+  H4317: ["Mikhael", "מִיכָאֵל", "Mikhael", "nome próprio", "Miguel", "Miguel aparece em Daniel como príncipe angelical ligado à defesa do povo de Deus.", "O nome participa da linguagem apocalíptica de conflito espiritual e livramento.", ["Daniel 10:13", "Daniel 10:21", "Daniel 12:1"]],
+  H2492: ["chelem", "חֵלֶם", "chelem", "substantivo masculino", "sonho", "Sonho em Daniel pode ser meio de revelação divina a reis e profetas.", "A interpretação dos sonhos mostra que Deus governa mistérios e impérios.", ["Daniel 2:1", "Daniel 4:5", "Daniel 7:1"]],
+  H2376: ["chezev", "חֵזֶו", "chezev", "substantivo masculino", "visão", "Visão é experiência revelatória que comunica realidades espirituais e históricas.", "Em Daniel, visões apresentam reinos, conflito, juízo e esperança futura.", ["Daniel 2:19", "Daniel 7:2", "Daniel 8:1"]],
+  H4437: ["malku", "מַלְכוּ", "malku", "substantivo feminino aramaico", "reino, domínio", "Reino em Daniel aparece como poder histórico dos impérios e como governo eterno de Deus.", "O contraste entre reinos humanos e o reino do Altíssimo estrutura o livro.", ["Daniel 2:44", "Daniel 4:3", "Daniel 7:27"]],
+  H6755: ["tselem", "צְלֵם", "tselem", "substantivo masculino aramaico", "imagem, estátua", "A imagem ou estátua em Daniel representa poder imperial, idolatria e fragilidade dos reinos humanos.", "Daniel 2 e 3 usam a imagem para confrontar domínio humano e fidelidade a Deus.", ["Daniel 2:31", "Daniel 3:1", "Daniel 3:18"]],
+  H861: ["attun", "אַתּוּן", "attun", "substantivo aramaico", "fornalha", "Fornalha é o cenário de ameaça contra Sadraque, Mesaque e Abednego.", "A narrativa afirma que Deus pode livrar no fogo e também sustentar a fidelidade mesmo diante da morte.", ["Daniel 3:6", "Daniel 3:17", "Daniel 3:26"]],
+  H1358: ["gob", "גֹּב", "gob", "substantivo masculino", "cova, covil", "Cova em Daniel 6 designa o lugar dos leões onde Daniel é lançado.", "A cova dos leões se torna sinal de livramento e vindicação da fidelidade de Daniel.", ["Daniel 6:7", "Daniel 6:16", "Daniel 6:23"]],
+  H7620: ["shabua", "שָׁבוּעַ", "shabua", "substantivo masculino", "semana, período de sete", "Semana indica unidade de sete, podendo funcionar em linguagem profética de períodos determinados.", "As setenta semanas de Daniel 9 formam uma das passagens mais importantes e debatidas do livro.", ["Daniel 9:24", "Daniel 9:25", "Daniel 9:26"]],
+  H6922: ["qaddish", "קַדִּישׁ", "qaddish", "adjetivo/substantivo aramaico", "santo, santos", "Qaddish em Daniel descreve seres santos ou o povo santo pertencente ao Altíssimo.", "A expressão santos do Altíssimo destaca identidade, sofrimento e vitória final concedida por Deus.", ["Daniel 4:13", "Daniel 7:18", "Daniel 7:27"]],
+  H5943: ["Illay", "עִלַּי", "Illay", "título aramaico", "Altíssimo", "Altíssimo destaca Deus como soberano acima de reis e impérios.", "Em Daniel, o Altíssimo humilha o orgulho de reis e entrega o reino conforme sua vontade.", ["Daniel 4:17", "Daniel 4:34", "Daniel 7:27"]],
+  H7162: ["qeren", "קֶרֶן", "qeren", "substantivo feminino", "chifre", "Chifre simboliza poder, reino ou autoridade agressiva.", "Nas visões de Daniel, chifres representam forças políticas e seus conflitos.", ["Daniel 7:8", "Daniel 8:5", "Daniel 8:21"]],
+  H6842: ["tsaphir", "צָפִיר", "tsaphir", "substantivo masculino", "bode", "O bode em Daniel 8 representa o reino da Grécia.", "A imagem animal concentra poder militar, velocidade e confronto entre impérios.", ["Daniel 8:5", "Daniel 8:8", "Daniel 8:21"]],
+  H352: ["ayil", "אַיִל", "ayil", "substantivo masculino", "carneiro", "Carneiro pode indicar animal de sacrifício ou símbolo de poder.", "Em Daniel 8, o carneiro representa Média e Pérsia na visão do conflito imperial.", ["Daniel 8:3", "Daniel 8:20", "Gênesis 22:13"]],
+  H3120: ["Yavan", "יָוָן", "Yavan", "nome próprio", "Grécia, Javã", "Javã é associado ao mundo grego nas listas e profecias bíblicas.", "Em Daniel, a Grécia aparece como império posterior à Média-Pérsia.", ["Daniel 8:21", "Daniel 10:20", "Daniel 11:2"]],
+  H1954: ["Hoshea", "הוֹשֵׁעַ", "Hoshea", "nome próprio", "Oséias", "Oséias é profeta cuja própria vida familiar se torna sinal da infidelidade e do amor persistente de Deus.", "O livro trabalha imagens de aliança, casamento, prostituição espiritual, juízo e restauração.", ["Oséias 1:1", "Oséias 3:1", "Oséias 11:8"]],
+  H1586: ["Gomer", "גֹּמֶר", "Gomer", "nome próprio", "Gômer", "Gômer é esposa de Oséias e figura simbólica da infidelidade de Israel.", "Sua história encena a dor da aliança quebrada e a busca restauradora do Senhor.", ["Oséias 1:3", "Oséias 3:1"]],
+  H3157: ["Yizreel", "יִזְרְעֶאל", "Yizreel", "nome próprio", "Jezreel", "Jezreel é nome ligado a vale, cidade e julgamento sobre a casa de Jeú.", "Em Oséias, o nome do filho do profeta funciona como sinal profético de juízo e futura restauração.", ["Oséias 1:4", "Oséias 1:11", "2 Reis 9:30"]],
+  H3819: ["Lo Ruchamah", "לֹא רֻחָמָה", "Lo Ruchamah", "nome simbólico", "Lo-Ruama, não compadecida", "Lo-Ruama significa não compadecida ou sem misericórdia.", "O nome denuncia a ruptura da aliança, mas é depois revertido pela promessa de misericórdia.", ["Oséias 1:6", "Oséias 2:23"]],
+  H3818: ["Lo Ammi", "לֹא עַמִּי", "Lo Ammi", "nome simbólico", "Lo-Ami, não meu povo", "Lo-Ami significa não meu povo.", "Em Oséias, o nome dramatiza a quebra da relação pactual e prepara a promessa: vós sois filhos do Deus vivo.", ["Oséias 1:9", "Oséias 1:10", "Oséias 2:23"]],
+  H3100: ["Yoel", "יוֹאֵל", "Yoel", "nome próprio", "Joel", "Joel anuncia o dia do Senhor em meio a praga, arrependimento e promessa do Espírito.", "O livro liga crise agrícola, convocação ao arrependimento e derramamento do Espírito sobre toda carne.", ["Joel 1:1", "Joel 2:28", "Atos 2:16"]],
+  H697: ["arbeh", "אַרְבֶּה", "arbeh", "substantivo masculino", "gafanhoto", "Gafanhoto pode representar praga literal e imagem de devastação coletiva.", "Em Joel, a praga dos gafanhotos conduz a um chamado urgente ao arrependimento.", ["Joel 1:4", "Joel 2:25", "Êxodo 10:4"]],
+  H5986: ["Amos", "עָמוֹס", "Amos", "nome próprio", "Amós", "Amós é profeta vindo de Tecoa, chamado a denunciar injustiça, culto vazio e opressão social.", "Sua mensagem confronta nações vizinhas e Israel, insistindo em justiça e retidão.", ["Amós 1:1", "Amós 5:24", "Amós 7:14"]],
+  H8620: ["Teqoa", "תְּקוֹעַ", "Teqoa", "nome próprio", "Tecoa", "Tecoa é localidade de Judá associada à origem de Amós.", "O vínculo com Tecoa mostra que a palavra profética pode vir de fora dos centros oficiais de poder.", ["Amós 1:1", "2 Crônicas 20:20"]],
+  H5662: ["Ovadyah", "עֹבַדְיָה", "Ovadyah", "nome próprio", "Obadias", "Obadias anuncia juízo contra Edom por sua violência contra o irmão Jacó.", "O livro concentra justiça, soberba nacional e o triunfo final do reino do Senhor.", ["Obadias 1:1", "Obadias 1:21"]],
+  H6215: ["Esav", "עֵשָׂו", "Esav", "nome próprio", "Esaú", "Esaú é irmão de Jacó e ancestral de Edom.", "Nos profetas, Esaú/Edom representa rivalidade fraterna, soberba e violência contra Judá.", ["Gênesis 25:25", "Obadias 1:6", "Malaquias 1:3"]],
+  H3124: ["Yonah", "יוֹנָה", "Yonah", "nome próprio", "Jonas", "Jonas é profeta enviado a Nínive, mas que inicialmente foge da missão.", "O livro confronta nacionalismo estreito, misericórdia divina e resistência humana à compaixão de Deus.", ["Jonas 1:1", "Jonas 2:1", "Mateus 12:40"]],
+  H5210: ["Nineveh", "נִינְוֵה", "Nineveh", "nome próprio", "Nínive", "Nínive foi grande cidade assíria e alvo da pregação de Jonas.", "Em Jonas e Naum, Nínive aparece ora como cidade poupada pelo arrependimento, ora como poder julgado por violência.", ["Jonas 1:2", "Jonas 3:5", "Naum 1:1"]],
+  H8659: ["Tarshish", "תַּרְשִׁישׁ", "Tarshish", "nome próprio", "Társis", "Társis representa um destino distante para o qual Jonas foge.", "A fuga para Társis dramatiza a tentativa de escapar da presença e da missão dadas pelo Senhor.", ["Jonas 1:3", "Jonas 4:2", "Isaías 66:19"]],
+  H1709: ["dag", "דָּג", "dag", "substantivo masculino", "peixe", "Peixe é animal marinho e, em Jonas, instrumento inesperado de preservação.", "O grande peixe transforma juízo em misericórdia e prepara a oração de Jonas no abismo.", ["Jonas 1:17", "Jonas 2:1", "Mateus 12:40"]],
+  H4182: ["Moresheth", "מוֹרֶשֶׁת", "Moresheth", "nome próprio", "Moresete", "Moresete é localidade associada à origem do profeta Miquéias.", "A menção local situa o profeta fora de Jerusalém e aproxima sua denúncia da vida das cidades de Judá.", ["Miquéias 1:1", "Miquéias 1:14"]],
+  H1035: ["Beth Lechem", "בֵּית לֶחֶם", "Beth Lechem", "nome próprio", "Belém", "Belém é cidade de Davi e lugar associado à esperança messiânica.", "Miquéias 5:2 anuncia que de Belém sairia aquele que governaria Israel.", ["Miquéias 5:2", "Rute 1:1", "Mateus 2:6"]],
+  H5151: ["Nachum", "נַחוּם", "Nachum", "nome próprio", "Naum", "Naum anuncia a queda de Nínive e a justiça de Deus contra violência imperial.", "O livro consola Judá mostrando que o Senhor julga poderes cruéis e não ignora opressão.", ["Naum 1:1", "Naum 1:7"]],
+  H512: ["Elqosh", "אֶלְקֹשׁ", "Elqosh", "nome próprio", "Elcós", "Elcós é local associado a Naum, chamado de elcosita.", "A referência preserva a origem do profeta mesmo que a localização exata seja discutida.", ["Naum 1:1"]],
+  H2265: ["Chavaqquq", "חֲבַקּוּק", "Chavaqquq", "nome próprio", "Habacuque", "Habacuque dialoga com Deus sobre injustiça, violência e o uso dos caldeus como instrumento de juízo.", "O livro caminha da pergunta angustiada à confiança: o justo viverá pela fé.", ["Habacuque 1:1", "Habacuque 2:4", "Habacuque 3:17"]],
+  H530: ["emunah", "אֱמוּנָה", "emunah", "substantivo feminino", "fé, fidelidade", "Emunah comunica firmeza, fidelidade e confiança perseverante.", "Em Habacuque 2:4, a fé do justo se torna texto fundamental para a teologia bíblica.", ["Habacuque 2:4", "Romanos 1:17", "Hebreus 10:38"]],
+  H1368: ["gibbor", "גִּבּוֹר", "gibbor", "adjetivo/substantivo masculino", "forte, poderoso, valente", "Gibbor descreve força, valentia ou poder reconhecido.", "Nos profetas, a força humana é colocada diante do poder soberano do Senhor e do dia do juízo.", ["Joel 2:7", "Salmo 24:8", "Isaías 9:6"]],
+  H8213: ["tsana", "צָנַע", "tsana", "verbo", "andar humildemente, ser modesto", "Tsana comunica postura humilde, discreta e submissa.", "Miquéias 6:8 resume a resposta esperada do povo: justiça, misericórdia e humilde caminhada com Deus.", ["Miquéias 6:8"]],
+  H2543: ["chamor", "חֲמוֹר", "chamor", "substantivo masculino", "jumento", "Jumento é animal de carga e transporte cotidiano.", "Em Zacarias, o rei humilde vem montado em jumento, imagem retomada na entrada messiânica de Jesus.", ["Zacarias 9:9", "Mateus 21:5", "João 12:15"]],
+  H2132: ["zayith", "זַיִת", "zayith", "substantivo masculino", "oliveira, azeitona", "Oliveira aponta para fruto, azeite, permanência e bênção agrícola.", "Em Zacarias 4, as oliveiras participam da visão de provisão contínua pelo Espírito do Senhor.", ["Zacarias 4:3", "Zacarias 4:12", "Salmo 52:8"]],
+  H6846: ["Tsephanyah", "צְפַנְיָה", "Tsephanyah", "nome próprio", "Sofonias", "Sofonias anuncia o dia do Senhor como juízo purificador e esperança para o remanescente.", "O livro une advertência severa, humildade, restauração e alegria de Deus sobre seu povo.", ["Sofonias 1:1", "Sofonias 3:17"]],
+  H2292: ["Chaggay", "חַגַּי", "Chaggay", "nome próprio", "Ageu", "Ageu profetiza após o exílio, chamando o povo a reconstruir o templo.", "Sua mensagem confronta prioridades invertidas e reacende esperança por meio de Zorobabel e da presença do Senhor.", ["Ageu 1:1", "Ageu 2:4", "Ageu 2:23"]],
+  H2148: ["Zekharyah", "זְכַרְיָה", "Zekharyah", "nome próprio", "Zacarias", "Zacarias profetiza no período pós-exílico com visões, chamadas ao arrependimento e esperança messiânica.", "O livro une reconstrução, purificação, realeza humilde e expectativa do dia do Senhor.", ["Zacarias 1:1", "Zacarias 9:9", "Zacarias 14:9"]],
+  H1296: ["Berekyah", "בֶּרֶכְיָה", "Berekyah", "nome próprio", "Berequias", "Berequias é pai de Zacarias, mencionado na abertura do livro.", "A genealogia situa o profeta na comunidade pós-exílica e na continuidade da palavra do Senhor.", ["Zacarias 1:1", "Zacarias 1:7"]],
+  H5714: ["Iddo", "עִדּוֹ", "Iddo", "nome próprio", "Ido", "Ido é ancestral de Zacarias e nome ligado a linhagens pós-exílicas.", "A referência ajuda a situar Zacarias na memória sacerdotal e profética da restauração.", ["Zacarias 1:1", "Esdras 5:1", "Neemias 12:4"]],
+  H4401: ["Malakhi", "מַלְאָכִי", "Malakhi", "nome/título", "Malaquias, meu mensageiro", "Malaquias significa meu mensageiro ou é associado a esse título.", "O livro confronta culto negligente, infidelidade, injustiça e anuncia o mensageiro que prepara o caminho.", ["Malaquias 1:1", "Malaquias 3:1", "Malaquias 4:5"]],
+  H4397: ["malakh", "מַלְאָךְ", "malakh", "substantivo masculino", "mensageiro, anjo", "Mensageiro pode indicar enviado humano ou celestial.", "Em Malaquias, o mensageiro prepara o caminho do Senhor e chama o povo à fidelidade da aliança.", ["Malaquias 2:7", "Malaquias 3:1", "Êxodo 23:20"]],
+  H4643: ["maaser", "מַעֲשֵׂר", "maaser", "substantivo masculino", "dízimo", "Dízimo é a décima parte separada como expressão de culto, sustento e fidelidade.", "Malaquias usa os dízimos para denunciar infidelidade prática e chamar o povo a retornar ao Senhor.", ["Malaquias 3:8", "Malaquias 3:10", "Levítico 27:30"]],
   H3130: ["Yoseph", "יוֹסֵף", "Yoseph", "nome próprio", "José", "José é figura de providência, sofrimento e preservação da família da promessa.", "Sua história liga sonho, fidelidade, perdão e salvação em meio à fome.", ["Gênesis 37:3", "Gênesis 50:20", "Êxodo 13:19"]],
   H3063: ["Yehudah", "יְהוּדָה", "Yehudah", "nome próprio", "Judá", "Judá é filho de Jacó, tribo real e eixo da promessa davídica.", "A bênção de Gênesis 49 liga Judá à linguagem de governo e esperança messiânica.", ["Gênesis 29:35", "Gênesis 49:10", "Rute 4:12"]],
   H1144: ["Binyamin", "בִּנְיָמִין", "Binyamin", "nome próprio", "Benjamim", "Benjamim é filho de Jacó e tribo associada a histórias decisivas de Israel.", "O nome e a tribo aparecem em narrativas de família, guerra e monarquia.", ["Gênesis 35:18", "Juízes 20:12", "1 Samuel 9:1"]],
@@ -484,7 +541,7 @@ const hebrewLexicon = {
   H4495: ["Manoach", "מָנוֹחַ", "Manoach", "nome próprio", "Manoá", "Manoá é pai de Sansão e recebe instruções sobre o nascimento do filho.", "Sua família introduz o tema do nazireado e da vocação antes do nascimento.", ["Juízes 13:2", "Juízes 13:12", "Juízes 13:24"]],
   H1807: ["Delilah", "דְּלִילָה", "Delilah", "nome próprio", "Dalila", "Dalila descobre o segredo da força de Sansão e o entrega aos filisteus.", "Sua história destaca sedução, vulnerabilidade e queda de uma vocação desperdiçada.", ["Juízes 16:4", "Juízes 16:18"]],
   H6430: ["Pelishtim", "פְּלִשְׁתִּים", "Pelishtim", "nome próprio plural", "filisteus", "Filisteus são povo costeiro que se torna inimigo recorrente de Israel.", "Em Juízes, eles aparecem especialmente nos ciclos de Sangar e Sansão.", ["Juízes 3:31", "Juízes 13:1", "1 Samuel 17:4"]],
-  H4318: ["Mikhah", "מִיכָה", "Mikhah", "nome próprio", "Mica", "Mica é homem de Efraim ligado à fabricação de imagem e culto doméstico irregular.", "Sua narrativa expõe confusão espiritual no período em que cada um fazia o que parecia reto.", ["Juízes 17:1", "Juízes 17:5", "Juízes 18:31"]],
+  H4318: ["Mikhah", "מִיכָה", "Mikhah", "nome próprio", "Mica, Miquéias", "Mikhah pode aparecer como Mica ou Miquéias, com sentido ligado à pergunta: quem é como o Senhor?", "Em Juízes, Mica expõe confusão espiritual; em Miquéias, o profeta anuncia juízo, justiça e esperança messiânica.", ["Juízes 17:1", "Miquéias 1:1", "Miquéias 6:8"]],
   H3881: ["Levi", "לֵוִי", "Levi", "nome/termo tribal", "levita", "Levita designa membro da tribo ligada ao serviço religioso.", "Em Juízes, levitas aparecem em episódios que revelam desordem cultual e moral.", ["Juízes 17:7", "Juízes 19:1", "Números 3:6"]],
   H1168: ["Baal", "בַּעַל", "Baal", "nome/termo religioso", "Baal, senhor", "Baal é título e nome de divindades cananeias associadas à fertilidade.", "Em Juízes, a adoração a Baal marca infidelidade espiritual e ciclos de opressão.", ["Juízes 2:11", "Juízes 6:25", "1 Reis 18:21"]],
   H842: ["Asherah", "אֲשֵׁרָה", "Asherah", "nome/termo religioso", "poste-ídolo, Aserá", "Aserá pode indicar divindade cananeia ou poste cultual associado a ela.", "A remoção da Aserá no ciclo de Gideão expressa confronto contra idolatria local.", ["Juízes 3:7", "Juízes 6:25", "Deuteronômio 16:21"]],
@@ -1455,6 +1512,161 @@ const bookWordBank = {
     H520: ["côvado", "covado", "côvados", "covados"],
     H7070: ["cana", "canas"],
     H8561: ["palmeira", "palmeiras"]
+  },
+  daniel: {
+    H1840: ["Daniel"],
+    H1095: ["Beltessazar"],
+    H2608: ["Hananias"],
+    H4332: ["Misael"],
+    H5838: ["Azarias"],
+    H7714: ["Sadraque"],
+    H4335: ["Mesaque"],
+    H5664: ["Abednego"],
+    H5019: ["Nabucodonosor"],
+    H894: ["Babilônia", "Babilonia"],
+    H3778: ["caldeus", "caldeu"],
+    H1867: ["Dario"],
+    H3566: ["Ciro"],
+    H6539: ["Pérsia", "Persia", "persas"],
+    H4074: ["Média", "Media", "medos"],
+    H1113: ["Belsazar"],
+    H1403: ["Gabriel"],
+    H4317: ["Miguel"],
+    H2492: ["sonho", "sonhos"],
+    H2376: ["visão", "visao", "visões", "visoes"],
+    H4437: ["reino", "reinos"],
+    H6755: ["estátua", "estatua", "imagem"],
+    H861: ["fornalha"],
+    H738: ["leão", "leao", "leões", "leoes"],
+    H1358: ["cova"],
+    H7657: ["setenta"],
+    H7620: ["semana", "semanas"],
+    H4899: ["Messias", "ungido"],
+    H6922: ["santo", "santos"],
+    H5943: ["Altíssimo", "Altissimo"],
+    H7162: ["chifre", "chifres"],
+    H6842: ["bode"],
+    H352: ["carneiro", "carneiros"],
+    H3120: ["Grécia", "Grecia", "gregos"],
+    H8269: ["príncipe", "principe", "príncipes", "principes"]
+  },
+  hosea: {
+    H1954: ["Oséias", "Oseias"],
+    H1586: ["Gômer", "Gomer"],
+    H3157: ["Jezreel"],
+    H3819: ["Lo-Ruama", "Lo Ruama"],
+    H3818: ["Lo-Ami", "Lo Ami"],
+    H669: ["Efraim"],
+    H3123: ["pomba", "pombas"],
+    H2617: ["misericórdia", "misericordia"],
+    H1285: ["aliança", "alianca", "pacto"]
+  },
+  joel: {
+    H3100: ["Joel"],
+    H697: ["gafanhoto", "gafanhotos"],
+    H6726: ["Sião", "Siao"],
+    H7307: ["Espírito", "espírito", "espirito"],
+    H3092: ["Josafá", "Josafa"],
+    H3117: ["dia", "dias"],
+    H1368: ["poderoso", "poderosos"]
+  },
+  amos: {
+    H5986: ["Amós", "Amos"],
+    H8620: ["Tecoa"],
+    H1834: ["Damasco"],
+    H5804: ["Gaza"],
+    H6865: ["Tiro"],
+    H123: ["Edom"],
+    H5983: ["Amom", "amonitas"],
+    H4124: ["Moabe"],
+    H1008: ["Betel", "Bete-Áven", "Bete-Aven"],
+    H4941: ["juízo", "juizo", "justiça", "justica"],
+    H6666: ["justiça", "justica", "retidão", "retidao"],
+    H4643: ["dízimos", "dizimos"]
+  },
+  obadiah: {
+    H5662: ["Obadias"],
+    H6215: ["Esaú", "Esau"],
+    H123: ["Edom", "edomitas"],
+    H8487: ["Temã", "Tema"],
+    H6726: ["Sião", "Siao"]
+  },
+  jonah: {
+    H3124: ["Jonas"],
+    H5210: ["Nínive", "Ninive"],
+    H8659: ["Társis", "Tarsis"],
+    H1709: ["peixe"],
+    H3220: ["mar"],
+    H7307: ["vento"],
+    H2617: ["misericórdia", "misericordia"]
+  },
+  micah: {
+    H4318: ["Miquéias", "Miqueias"],
+    H4182: ["Moresete"],
+    H1035: ["Belém", "Belem"],
+    H6726: ["Sião", "Siao"],
+    H3389: ["Jerusalém", "Jerusalem"],
+    H4941: ["justiça", "justica", "juízo", "juizo"],
+    H2617: ["misericórdia", "misericordia"],
+    H8213: ["humildemente", "humilde"]
+  },
+  nahum: {
+    H5151: ["Naum"],
+    H512: ["Elcós", "Elcos", "elcosita"],
+    H5210: ["Nínive", "Ninive"],
+    H4397: ["mensageiro"],
+    H697: ["gafanhoto", "gafanhotos"]
+  },
+  habakkuk: {
+    H2265: ["Habacuque"],
+    H3778: ["caldeus", "caldeu"],
+    H530: ["fé", "fe", "fidelidade"],
+    H6662: ["justo", "justos"],
+    H8487: ["Temã", "Tema"],
+    H7307: ["Espírito", "espírito", "espirito"]
+  },
+  zephaniah: {
+    H6846: ["Sofonias"],
+    H6726: ["Sião", "Siao"],
+    H5804: ["Gaza"],
+    H5983: ["Amom", "amonitas"],
+    H4124: ["Moabe"],
+    H5210: ["Nínive", "Ninive"],
+    H3117: ["dia", "dias"],
+    H7611: ["remanescente"]
+  },
+  haggai: {
+    H2292: ["Ageu"],
+    H2216: ["Zorobabel"],
+    H3091: ["Josué", "Josue"],
+    H1964: ["templo"],
+    H1004: ["casa"],
+    H3519: ["glória", "gloria"],
+    H4397: ["mensageiro"]
+  },
+  zechariah: {
+    H2148: ["Zacarias"],
+    H1296: ["Berequias"],
+    H5714: ["Ido"],
+    H2216: ["Zorobabel"],
+    H3091: ["Josué", "Josue"],
+    H6726: ["Sião", "Siao"],
+    H7307: ["Espírito", "espírito", "espirito"],
+    H5828: ["socorro", "auxílio", "auxilio"],
+    H6780: ["Renovo", "renovo"],
+    H4428: ["rei", "Rei"],
+    H2543: ["jumento"],
+    H2132: ["azeite", "oliveira", "oliveiras"]
+  },
+  malachi: {
+    H4401: ["Malaquias"],
+    H4397: ["mensageiro", "mensageiros"],
+    H4643: ["dízimo", "dizimo", "dízimos", "dizimos"],
+    H452: ["Elias"],
+    H6215: ["Esaú", "Esau"],
+    H123: ["Edom"],
+    H1285: ["aliança", "alianca", "pacto"],
+    H3548: ["sacerdote", "sacerdotes"]
   }
 };
 
@@ -1643,6 +1855,24 @@ for (const id of otIds) {
           }
           if (token.strong === "H5797" && ["maravilhoso", "maravilha", "maravilhas"].includes(normalizedWord)) {
             return { ...token, strong: "H6382" };
+          }
+          return token;
+        });
+      }
+      if (id === "daniel") {
+        verse.tokens = verse.tokens.map(token => {
+          const normalizedWord = normalize(token.word);
+          if (token.strong === "H6944" && ["santo", "santos"].includes(normalizedWord)) {
+            return { ...token, strong: "H6922" };
+          }
+          if (token.strong === "H4467" && ["reino", "reinos"].includes(normalizedWord)) {
+            return { ...token, strong: "H4437" };
+          }
+          if (token.strong === "H5387" && ["principe", "principes"].includes(normalizedWord)) {
+            return { ...token, strong: "H8269" };
+          }
+          if (token.strong === "H8163" && ["bode"].includes(normalizedWord)) {
+            return { ...token, strong: "H6842" };
           }
           return token;
         });
