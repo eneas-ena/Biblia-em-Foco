@@ -241,7 +241,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
         const visibleWord = verse.text.slice(range.start, range.end);
         const personalClass = range.token.personal ? " personal-token" : "";
-        const semanticClass = getTokenSemanticClass(range.token.strong);
+        const semanticClass = getTokenSemanticClass(range.token.strong, visibleWord);
         pieces.push(`<span class="token${personalClass}${semanticClass}" data-verse="${verse.n}" data-strong="${escapeHtml(range.token.strong)}" data-word="${escapeHtml(range.token.word)}" tabindex="0" role="button" title="Strong ${escapeHtml(range.token.strong)}">${escapeHtml(visibleWord)}</span>`);
         cursor = range.end;
       });
@@ -253,18 +253,43 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       return pieces.join("");
     }
 
-    function getTokenSemanticClass(strong) {
+    function getTokenSemanticClass(strong, word = "") {
       const entry = getLexiconEntry(strong);
       if (!entry) return "";
       const normalizedStrong = String(strong || "").toUpperCase();
       const grammar = normalizeText(entry.grammar || "");
       const properStrong = new Set(["G4567", "H7854"]);
+      const properNameWords = new Set([
+        "abias", "abisai", "acaia", "acazias", "aicao", "aias", "aimas", "alexandre", "ana",
+        "ananias", "antioquia", "apolo", "aquila", "arnom", "aroeira", "aroer", "asael",
+        "azarias", "baasa", "basan", "basa", "boaz", "caim",
+        "canaa", "cesareia", "chipre", "cilicia", "coate", "corinto", "damasco", "derbe",
+        "elao", "eliabe", "eliasibe", "eufrates", "farao", "filipos", "gibeom", "gibea",
+        "ham", "hama", "hamate", "hamã", "hana", "hananias", "hara", "hara", "harã",
+        "hilquias", "icônio", "iconio", "jefté", "jefte", "jeiel", "jeoacaz",
+        "jeoas", "jeorão", "jeorao", "jerico", "jericó", "jessé", "jesse", "jesua",
+        "jezreel", "jizreel", "joada", "joanã", "joana", "joiada", "jope", "jorão",
+        "jorao", "josué", "josue", "judá", "juda", "laodiceia", "libna", "lidia", "listra",
+        "maaca", "maquir", "manoá", "manoa", "merari", "mesulao", "mesulão", "micaías",
+        "micaias", "mizpa", "mizpá", "naama", "naama", "naamã", "naaman", "nabote", "naor",
+        "natã", "nata", "netanias", "nobate", "obede-edom", "onri", "patmos", "pergamo",
+        "pérgamo", "priscila", "queila", "rama", "ramá", "ramote", "rimom",
+        "roma", "safã", "safa", "salum", "sama", "samá", "sardes", "simei",
+        "siquem", "siquém", "siria", "síria", "silo", "siló", "silas", "susã", "susa",
+        "sucote", "tarso", "tarsis", "társis", "tekoa", "tecoa", "tessalonica", "tessalônica",
+        "tiatira", "tiquico", "tíquico", "troade", "trôade", "uziel", "zeruia"
+      ]);
+      const normalizedWord = normalizeText(word);
+      const exactProperNameWords = new Set(["belá", "boã", "irã", "purá"]);
+      const exactWord = String(word || "").trim().toLocaleLowerCase("pt-BR");
       if (
         grammar.includes("nome proprio") ||
         grammar.includes("nome divino") ||
         grammar.includes("nome/titulo") ||
         grammar.includes("gentilico") ||
-        properStrong.has(normalizedStrong)
+        properStrong.has(normalizedStrong) ||
+        properNameWords.has(normalizedWord) ||
+        exactProperNameWords.has(exactWord)
       ) {
         return " token-name";
       }
