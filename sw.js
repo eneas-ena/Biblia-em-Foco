@@ -1,4 +1,4 @@
-const CACHE_NAME = "biblia-em-foco-mobile-drawer-v4";
+const CACHE_NAME = "biblia-em-foco-mobile-study-v5";
 const OFFLINE_URL = "./index.html";
 const CORE_ASSETS = new Set([
   "./",
@@ -105,6 +105,8 @@ self.addEventListener("activate", event => {
         .filter(key => key !== CACHE_NAME)
         .map(key => caches.delete(key))))
       .then(() => self.clients.claim())
+      .then(() => self.clients.matchAll({ type: "window" }))
+      .then(clients => Promise.allSettled(clients.map(client => client.navigate(client.url))))
   );
 });
 

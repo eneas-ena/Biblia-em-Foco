@@ -1346,6 +1346,27 @@
         overflow: hidden;
       }
 
+      /* In study mode the mobile drawer must show only the Strong/study card.
+         This prevents Notes, Favorites or Meu estudo from occupying the top. */
+      body.mobile-study-open.mobile-study-has-card .side > :not(#mobileStudyBack):not(#studyCard) {
+        display: none !important;
+      }
+
+      body.mobile-study-open.mobile-study-has-card .side #studyCard {
+        display: block !important;
+        visibility: visible !important;
+        opacity: 1 !important;
+        order: -1;
+      }
+
+      body.mobile-study-open:not(.mobile-study-has-card) .side #studyCard {
+        display: none !important;
+      }
+
+      body.mobile-study-open:not(.mobile-study-has-card) .side .notes-panel {
+        order: -1;
+      }
+
       .side .study-card .card-header { padding: 14px 16px; display: block; }
       .side .study-card .card-header h3 { font-size: 22px; }
       .side .study-card .assistant-panel { padding: 16px; }

@@ -169,10 +169,48 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     function mountMobileStudyScreen() { return false; }
     function unmountMobileStudyScreen() {}
 
-    function openMobileStudyPanel(mode = "study") {
+    function setMobilePanelContentVisibility(mode) {
+      if (!els.side) return;
+      const panels = Array.from(els.side.children);
+      const studyMode = mode === "study";
+
+      panels.forEach(panel => {
+        const keepVisible = panel === els.mobileStudyBack || (studyMode && panel === els.studyCard);
+        if (studyMode) {
+          panel.hidden = !keepVisible;
+          panel.style.display = keepVisible ? "" : "none";
+        } else {
+          panel.hidden = false;
+          panel.style.removeProperty("display");
+        }
+      });
+
+      if (studyMode && els.studyCard) {
+        els.studyCard.hidden = false;
+        els.studyCard.style.display = "block";
+        els.studyCard.style.visibility = "visible";
+        els.studyCard.style.opacity = "1";
+        if (els.mobileStudyBack && els.mobileStudyBack.nextElementSibling !== els.studyCard) {
+          els.side.insertBefore(els.studyCard, els.mobileStudyBack.nextSibling);
+        }
+      }
+    }
+
+    function resetMobilePanelContentVisibility() {
+      if (!els.side) return;
+      Array.from(els.side.children).forEach(panel => {
+        panel.hidden = false;
+        panel.style.removeProperty("display");
+        panel.style.removeProperty("visibility");
+        panel.style.removeProperty("opacity");
+      });
+    }
+
+    function openMobileStudyPanel(mode = "study", options = {}) {
       if (state.selected) mode = "study";
       // Always make sure the card has content before sliding the drawer in.
-      renderStudyCard();
+      if (options.render !== false) renderStudyCard();
+      setMobilePanelContentVisibility(mode);
       document.body.classList.add("mobile-study-open");
       document.body.classList.toggle("mobile-study-has-card", mode === "study");
       if (els.side) {
@@ -181,18 +219,20 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         const resetScroll = () => {
           els.side.scrollTop = 0;
           if (mode === "study" && els.studyCard) {
-            els.studyCard.scrollIntoView({ block: "start" });
+            els.studyCard.scrollIntoView({ block: "start", inline: "nearest" });
             els.side.scrollTop = 0;
           }
         };
         requestAnimationFrame(resetScroll);
         setTimeout(resetScroll, 80);
+        setTimeout(resetScroll, 220);
       }
     }
 
     function closeMobileStudyPanel() {
       document.body.classList.remove("mobile-study-open");
       document.body.classList.remove("mobile-study-has-card");
+      resetMobilePanelContentVisibility();
       if (els.side) {
         delete els.side.dataset.panelMode;
         els.side.style.removeProperty("--mobile-panel-shift");
@@ -462,7 +502,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       state.selected = null;
       state.selectedVerseNote = null;
       renderMarkingAssistant(word, verse);
-      openMobileStudyPanel("study");
+      openMobileStudyPanel("study", { render: false });
     }
 
     function renderMarkingAssistant(word, verse) {
@@ -740,6 +780,21 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       return appData.lexicon[String(strong || "").toUpperCase()];
     }
 
+    function normalizeLexiconEntry(entry, strong, word) {
+      const normalizedStrong = String(strong || "").toUpperCase();
+      const fallbackWord = String(word || normalizedStrong || "termo");
+      return {
+        original: entry?.original || fallbackWord,
+        translit: entry?.translit || fallbackWord,
+        lemma: entry?.lemma || fallbackWord,
+        grammar: entry?.grammar || "Verbete Strong ainda sem detalhes no app.",
+        gloss: entry?.gloss || "Toque em IA para aprofundar este termo.",
+        exegetic: entry?.exegetic || "Este termo está marcado no texto, mas ainda não possui um verbete completo no léxico local.",
+        culture: entry?.culture || "Use a aba IA ou suas notas para completar este estudo.",
+        parallels: Array.isArray(entry?.parallels) && entry.parallels.length ? entry.parallels : [normalizedStrong]
+      };
+    }
+
     function saveAiSuggestedStrong(strong, word, aiText, verse) {
       const normalizedStrong = String(strong || "").toUpperCase();
       if (!/^[HG]\d+$/.test(normalizedStrong) || getLexiconEntry(normalizedStrong)) return;
@@ -965,7 +1020,7 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         `;
         return;
       }
-      const entry = getLexiconEntry(state.selected.strong);
+      const entry = normalizeLexiconEntry(getLexiconEntry(state.selected.strong), state.selected.strong, state.selected.word);
       const occurrences = findOccurrences(state.selected.strong);
       const occurrenceSummary = buildOccurrenceSummary(occurrences);
       const prompt = buildAiPrompt(entry, occurrences);
@@ -1039,11 +1094,8 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         button.addEventListener("click", () => {
           state.tab = button.dataset.tab;
           renderStudyCard();
-          if (document.body.classList.contains("mobile-study-screen-open")) {
-            renderMobileStudyCard();
-          }
-          if (document.body.classList.contains("mobile-strong-open")) {
-            renderStudyCard(els.mobileStrongCard);
+          if (document.body.classList.contains("mobile-study-open")) {
+            setMobilePanelContentVisibility("study");
           }
         });
       });
@@ -1253,11 +1305,8 @@ Object.assign(appData.lexicon, loadCustomLexicon());
         responseBox.innerHTML = renderMarkdown(text);
         localStorage.setItem(aiResultKey(), text);
         renderMyStudy();
-        if (document.body.classList.contains("mobile-study-screen-open")) {
-          renderMobileStudyCard();
-        }
-        if (document.body.classList.contains("mobile-strong-open")) {
-          renderStudyCard(els.mobileStrongCard);
+        if (document.body.classList.contains("mobile-study-open")) {
+          setMobilePanelContentVisibility("study");
         }
         showToast("Analise concluída.");
       } catch (error) {
