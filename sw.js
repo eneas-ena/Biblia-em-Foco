@@ -1,10 +1,11 @@
-const CACHE_NAME = "biblia-em-foco-mobile-study-v12-mobile-assist";
+const CACHE_NAME = "biblia-em-foco-v3.0.0";
 const OFFLINE_URL = "./index.html";
 const CORE_ASSETS = new Set([
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
+  "./porteiro.js",
   "./sw.js"
 ]);
 const ASSETS = [
@@ -12,6 +13,7 @@ const ASSETS = [
   "./index.html",
   "./styles.css",
   "./app.js",
+  "./porteiro.js",
   "./sw.js",
   "./manifest.webmanifest",
   "./assets/icon.png",

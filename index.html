@@ -17,6 +17,7 @@
   <link rel="icon" type="image/png" sizes="192x192" href="./assets/icon-192.png">
   <link rel="icon" type="image/png" sizes="512x512" href="./assets/icon-512.png">
   <link rel="stylesheet" href="./styles.css?v=20260616-mobile-study-v12-mobile-assist">
+  <script src="./porteiro.js?v=3.0.0" data-app="Bíblia em Foco" data-versao="3.0.0" data-protege="https://promptflow-ia.eneaspr.workers.dev"></script>
 </head>
 <body>
 <section id="homeScreen" class="home-screen" aria-label="Tela inicial">
@@ -29,6 +30,7 @@
     <div class="home-actions">
       <button id="enterStudy" class="primary" type="button">Entrar no estudo</button>
     </div>
+    <p class="home-credit">Versão 3.0.0 · <a href="#" onclick="porteiroAtualizar();return false" style="color:inherit">Atualizar app</a></p>
   </div>
 </section>
 
@@ -39,7 +41,7 @@
           <div class="brand-mark" aria-hidden="true">BF</div>
           <div>
             <h1>Bíblia em Foco</h1>
-            <p>Bíblia completa, Strong hebraico/grego, notas e IA.</p>
+            <p>Bíblia completa, Strong hebraico/grego, notas e IA · v3.0.0</p>
           </div>
         </div>
 
@@ -49,6 +51,7 @@
           <div class="reader-tools" aria-label="Aparência da leitura">
             <button id="themeToggle" class="secondary reader-tool" type="button">Escuro</button>
             <button id="fontSizeToggle" class="secondary reader-tool font-size-toggle" type="button">A</button>
+            <button class="secondary reader-tool" type="button" onclick="porteiroAtualizar()" title="Atualizar app" aria-label="Atualizar app">⟳</button>
           </div>
           <div class="search-box">
             <select id="searchScope" aria-label="Área da busca">
@@ -155,24 +158,14 @@
           </div>
         </section>
 
-        <section class="settings-panel" aria-label="Configuração da IA">
+        <section class="settings-panel" aria-label="Conta e atualização">
           <details>
-            <summary>Configurar IA</summary>
+            <summary>Conta e atualização</summary>
             <div class="settings-grid">
-              <p class="hint">Use uma API compatível com chat. A chave fica salva apenas neste navegador.</p>
-              <div class="field">
-                <label for="aiEndpoint">Endpoint</label>
-                <input id="aiEndpoint" type="url" placeholder="https://api.openai.com/v1/chat/completions">
-              </div>
-              <div class="field">
-                <label for="aiModel">Modelo</label>
-                <input id="aiModel" type="text" placeholder="gpt-4.1-mini">
-              </div>
-              <div class="field">
-                <label for="aiKey">Chave</label>
-                <input id="aiKey" type="password" placeholder="cole sua chave aqui">
-              </div>
-              <button id="saveAiSettings" class="primary" type="button">Salvar IA</button>
+              <p class="hint">A IA usa o seu Worker da Anthropic e só responde com o seu login. Nenhuma chave fica guardada neste aparelho.</p>
+              <p class="hint">Bíblia em Foco · versão 3.0.0</p>
+              <button class="secondary" type="button" onclick="porteiroAtualizar()">Atualizar app (buscar versão nova)</button>
+              <button class="secondary" type="button" onclick="porteiroSair()">Sair da conta</button>
             </div>
           </details>
         </section>
@@ -261,6 +254,6 @@
   <script src="./data/books/jude.js?v=20260616-mobile-study-v10"></script>
   <script src="./data/books/revelation.js?v=20260616-mobile-study-v10"></script>
   <script src="./data/lexicon.js?v=20260616-mobile-study-v10"></script>
-  <script src="./app.js?v=20260616-mobile-study-v12-mobile-assist"></script>
+  <script src="./app.js?v=3.0.0"></script>
 </body>
 </html>

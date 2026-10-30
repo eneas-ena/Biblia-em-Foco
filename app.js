@@ -9,7 +9,7 @@ const state = {
       tab: "original",
       readerTheme: loadUiPreference("reader-theme:v1", "light"),
       readerFontSize: loadUiPreference("reader-font-size:v1", "m"),
-      ai: loadAiSettings()
+      ai: null
     };
 
     const els = {
@@ -657,24 +657,9 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       const responseBox = scope.querySelector('[data-role="strongAiResponse"]') || document.querySelector('[data-role="strongAiResponse"]');
       const runButton = scope.querySelector('[data-action="suggestStrongAi"]') || document.querySelector('[data-action="suggestStrongAi"]');
 
-      const settings = loadAiSettings();
-      const isLocal = /^https?:\/\/(127\.0\.0\.1|localhost|\[::1\])/i.test(settings.endpoint || "");
-
       if (currentSuggestions.length === 1) {
         addCustomStrongMark(verse.n, word, currentSuggestions[0].strong);
         showToast(`Sugestão ${currentSuggestions[0].strong} aplicada.`);
-        return;
-      }
-
-      if (!settings.endpoint || !settings.model) {
-        openAiSettings();
-        showToast("Confira endpoint e modelo da IA.");
-        return;
-      }
-
-      if (!settings.apiKey && !isLocal) {
-        openAiSettings();
-        showToast("Cole sua chave da IA e salve.");
         return;
       }
 
@@ -682,32 +667,9 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       responseBox.textContent = "Investigando...";
 
       try {
-        const headers = { "Content-Type": "application/json" };
-        if (settings.apiKey) headers.Authorization = `Bearer ${settings.apiKey}`;
-
-        const result = await fetch(settings.endpoint, {
-          method: "POST",
-          headers,
-          body: JSON.stringify({
-            model: settings.model,
-            temperature: 0.1,
-            messages: [
-              {
-                role: "system",
-                content: "Você ajuda a identificar possíveis números Strong em textos bíblicos. Seja cauteloso, sinalize incerteza e não invente fonte."
-              },
-              { role: "user", content: buildStrongSuggestionPrompt(word, verse) }
-            ]
-          })
-        });
-
-        if (!result.ok) {
-          const errorText = await result.text();
-          throw new Error(errorText || `Erro ${result.status}`);
-        }
-
-        const data = await result.json();
-        const text = extractAiText(data);
+        const text = await chamarIA(
+          "Você ajuda a identificar possíveis números Strong em textos bíblicos. Seja cauteloso, sinalize incerteza e não invente fonte.",
+          buildStrongSuggestionPrompt(word, verse), 0.1);
         const strongs = extractStrongCodes(text);
 
         if (strongs.length === 1) {
@@ -1239,48 +1201,35 @@ Object.assign(appData.lexicon, loadCustomLexicon());
       ].join("\n");
     }
 
-    function loadAiSettings() {
-      const fallback = {
-        endpoint: "https://api.openai.com/v1/chat/completions",
-        model: "gpt-4.1-mini",
-        apiKey: ""
-      };
+    /* IA (v3.0.0): passa pelo Worker da Anthropic do Bispo, protegido pelo login
+       (porteiro.js entrega o "crachá"). Nenhuma chave fica no navegador. */
+    const IA_URL = "https://promptflow-ia.eneaspr.workers.dev";
+    const IA_MODELO = "claude-sonnet-4-6";
+    try { localStorage.removeItem("ai-settings"); } catch (e) {}  // apaga a chave antiga da OpenAI
 
-      try {
-        const saved = { ...fallback, ...JSON.parse(localStorage.getItem("ai-settings") || "{}") };
-        return {
-          endpoint: saved.endpoint?.trim() || fallback.endpoint,
-          model: saved.model?.trim() || fallback.model,
-          apiKey: saved.apiKey?.trim() || ""
-        };
-      } catch (error) {
-        return fallback;
+    async function chamarIA(system, prompt, temperatura) {
+      const result = await fetch(IA_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          model: IA_MODELO,
+          max_tokens: 2000,
+          temperature: temperatura,
+          system,
+          messages: [{ role: "user", content: prompt }]
+        })
+      });
+      if (result.status === 401 || result.status === 403) {
+        throw new Error("Entre de novo com o seu e-mail e senha para usar a IA.");
       }
+      if (!result.ok) {
+        const errorText = await result.text();
+        throw new Error(errorText || `Erro ${result.status}`);
+      }
+      return extractAiText(await result.json());
     }
 
-    function initAiSettings() {
-      els.aiEndpoint.value = state.ai.endpoint || "";
-      els.aiModel.value = state.ai.model || "";
-      els.aiKey.value = state.ai.apiKey || "";
-    }
-
-    function saveAiSettings() {
-      const fallback = loadAiSettings();
-      state.ai = {
-        endpoint: els.aiEndpoint.value.trim() || fallback.endpoint,
-        model: els.aiModel.value.trim() || fallback.model,
-        apiKey: els.aiKey.value.trim()
-      };
-      initAiSettings();
-      localStorage.setItem("ai-settings", JSON.stringify(state.ai));
-      showToast("Configuração da IA salva.");
-    }
-
-    function openAiSettings() {
-      const settingsDetails = document.querySelector(".settings-panel details");
-      if (settingsDetails) settingsDetails.open = true;
-      els.aiKey.focus();
-    }
+    function initAiSettings() {}
 
     function aiResultKey() {
       if (!state.selected) return "ai-result:none";
@@ -1294,52 +1243,14 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     async function runAiAnalysis(prompt, target = document) {
       const responseBox = target.querySelector("#aiResponse");
       const runButton = target.querySelector("#runAi");
-      const settings = loadAiSettings();
-      const isLocal = /^https?:\/\/(127\.0\.0\.1|localhost|\[::1\])/i.test(settings.endpoint || "");
-
-      if (!settings.endpoint || !settings.model) {
-        openAiSettings();
-        showToast("Confira endpoint e modelo da IA.");
-        return;
-      }
-
-      if (!settings.apiKey && !isLocal) {
-        openAiSettings();
-        showToast("Cole sua chave da IA e salve.");
-        return;
-      }
-
       runButton.disabled = true;
       responseBox.textContent = "Analisando...";
       responseBox.classList.remove("collapsed");
 
       try {
-        const headers = { "Content-Type": "application/json" };
-        if (settings.apiKey) headers.Authorization = `Bearer ${settings.apiKey}`;
-
-        const result = await fetch(settings.endpoint, {
-          method: "POST",
-          headers,
-          body: JSON.stringify({
-            model: settings.model,
-            temperature: 0.2,
-            messages: [
-              {
-                role: "system",
-                content: "Você é um assistente de estudo bíblico. Responda com cuidado, separe texto, contexto e inferência, e evite afirmar fontes que não foram fornecidas."
-              },
-              { role: "user", content: prompt }
-            ]
-          })
-        });
-
-        if (!result.ok) {
-          const errorText = await result.text();
-          throw new Error(errorText || `Erro ${result.status}`);
-        }
-
-        const data = await result.json();
-        const text = extractAiText(data);
+        const text = await chamarIA(
+          "Você é um assistente de estudo bíblico. Responda com cuidado, separe texto, contexto e inferência, e evite afirmar fontes que não foram fornecidas.",
+          prompt, 0.2);
         responseBox.innerHTML = renderMarkdown(text);
         localStorage.setItem(aiResultKey(), text);
         renderMyStudy();
@@ -1389,6 +1300,11 @@ Object.assign(appData.lexicon, loadCustomLexicon());
     }
 
     function extractAiText(data) {
+      if (Array.isArray(data?.content)) {
+        const t = data.content.filter(b => b.type === "text").map(b => b.text).join("\n").trim();
+        if (t) return t;
+      }
+      if (data?.error) return "Erro da IA: " + (data.error.message || data.error);
       if (data?.choices?.[0]?.message?.content) return data.choices[0].message.content.trim();
       if (data?.choices?.[0]?.text) return data.choices[0].text.trim();
       if (data?.output_text) return data.output_text.trim();
@@ -2487,7 +2403,6 @@ Object.assign(appData.lexicon, loadCustomLexicon());
 
     els.saveNote.addEventListener("click", saveNote);
     els.clearNote.addEventListener("click", clearCurrentNote);
-    els.saveAiSettings.addEventListener("click", saveAiSettings);
     els.mobileStudyBack?.addEventListener("click", closeMobileStudyPanel);
     els.mobileScreenBack?.addEventListener("click", closeMobileStudyPanel);
     els.mobileStrongClose?.addEventListener("click", closeMobileStrongModal);
